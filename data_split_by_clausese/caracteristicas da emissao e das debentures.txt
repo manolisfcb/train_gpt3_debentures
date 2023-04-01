@@ -1,0 +1,305 @@
+CARACTERÍSTICAS DA EMISSÃO E DAS DEBÊNTURES
+Valor Total da Emissão 
+O valor total da Emissão será de R$ 3.000.000.000,00 (três bilhões de reais), na Data da Emissão (conforme definido abaixo) ('Valor Total da Emissão'). 
+Valor Nominal Unitário 
+O valor nominal unitário das Debêntures, na Data de Emissão, será de R$1.000,00 (mil reais) ('Valor Nominal Unitário').
+Data de Emissão 
+Para todos os fins e efeitos legais, a data de emissão das Debêntures será 10 de março de 2023 ('Data de Emissão').
+Data de Início da Rentabilidade
+Para todos os fins e efeitos legais, a data de início da rentabilidade será a Primeira Data de Integralização (conforme definido abaixo) das Debêntures ('Data de Início da Rentabilidade').
+Número da Emissão 
+A presente Emissão representa a 1ª (primeira) emissão de debêntures da Emissora. 
+Número de Séries
+A Emissão será realizada em série única. 
+Quantidade de Debêntures
+Serão emitidas 3.000.000 (três milhões) de Debêntures no âmbito da Oferta Pública. 
+Prazo e Data de Vencimento 
+Ressalvadas as hipóteses previstas nesta Escritura de Emissão, o prazo das Debêntures será de 30 (trinta) meses, contados da Data de Emissão (conforme definido abaixo), vencendo-se, portanto, em 10 de setembro de 2025 ('Data de Vencimento').
+Agente de Liquidação e Escriturador 
+O agente de liquidação da presente Emissão será a Oliveira Trust Distribuidora de Títulos e Valores Mobiliários S.A., instituição financeira autorizada a funcionar pelo Banco Central do Brasil, com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro, na Avenida das Américas, nº 3.434, Bloco 7, 2º andar, sala 201, Barra da Tijuca, CEP 22.640-001, inscrita no CNPJ/MF sob o nº 36.113.876/0001-91 ('Agente de Liquidação') e o escriturador da presente Emissão será a Oliveira Trust Distribuidora de Títulos e Valores Mobiliários S.A., já qualificada nesta Cláusula ('Escriturador'). O Escriturador será responsável por realizar a escrituração das Debêntures entre outras responsabilidades eventualmente definidas nas normas aplicáveis editadas pela CVM e pela B3.
+As definições acima incluem quaisquer outras instituições que venham a suceder o Agente de Liquidação e/ou o Escriturador na prestação dos serviços relativos às Debêntures.
+Forma, Tipo e Comprovação da Titularidade das Debêntures
+As Debêntures serão emitidas sob forma nominativa e escritural, sem emissão de cautelas ou certificados de Debêntures. Para todos os fins de direito, a titularidade das Debêntures será comprovada pelo extrato emitido pelo Escriturador. Adicionalmente, será reconhecido, como comprovante de titularidade das Debêntures o extrato expedido pela B3 em nome dos Debenturistas para as Debêntures custodiadas eletronicamente na B3.
+Conversibilidade 
+As Debêntures serão simples, não conversíveis em ações de emissão da Emissora.
+Espécie 
+As Debêntures serão da espécie com garantia real, nos termos do artigo 58, caput, da Lei das Sociedades por Ações.
+Direito de Preferência 
+Não haverá direito de preferência dos atuais acionistas da Emissora na subscrição das Debêntures.
+Repactuação Programada
+As Debêntures não serão objeto de repactuação programada.
+Amortização do saldo do Valor Nominal Unitário 
+Ressalvadas as hipóteses previstas nesta Escritura de Emissão, o Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, será amortizado, em uma única parcela, qual seja, na Data de Vencimento.
+Atualização Monetária das Debêntures 
+O Valor Nominal Unitário das Debêntures não será atualizado monetariamente.
+Remuneração 
+Sobre o Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, incidirão juros remuneratórios correspondentes à variação acumulada de 100% (cem por cento) das taxas médias diárias do DI – Depósito Interfinanceiro de um dia, 'over extra-grupo', expressas na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 S.A. – Brasil, Bolsa, Balcão ('Taxa DI'), acrescida de spread (sobretaxa) de 3,50% (três inteiros e cinquenta centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração').
+A Remuneração será calculada de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos, incidentes sobre o Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, desde a Data de Início da Rentabilidade (inclusive) até a Data de Pagamento da Remuneração (conforme abaixo definido) ou outro evento de pagamento das Debêntures previsto nesta Escritura de Emissão (exclusive). A Remuneração será calculada de acordo com a seguinte fórmula: 
+J= VNe x (Fator Juros – 1)
+Onde: 
+J = valor unitário da Remuneração devida ao final do Período de Capitalização (conforme abaixo definido), calculado com 8 (oito) casas decimais, sem arredondamento;
+
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, conforme o caso, informado/calculado com 8 (oito) casas decimais, sem arredondamento; e 
+ 
+Fator Juros = Fator de Juros composto pelo parâmetro de flutuação acrescido de spread calculado com 9 (nove) casas decimais, com arredondamento. Apurado da seguinte forma:
+
+Fator Juros = (Fator DI x Fator Spread)
+
+Onde:
+Fator DI = produtório das Taxas DI da data de início do Período de Capitalização, inclusive, até a data de cálculo, exclusive, calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma: 
+Onde:
+nDI = número total de Taxas DI, consideradas na atualização do ativo, sendo 'nDI' um número inteiro;
+TDIk = Taxa DI, expressa ao dia, calculada com 8 (oito) casas decimais com arredondamento, apurada da seguinte forma:
+
+Onde:
+DIk = Taxa DI, divulgada pela B3 S.A. – Brasil, Bolsa, Balcão, válida por 1 (um) Dia Útil (overnight), utilizada com 2 (duas) casas decimais; e
+Fator Spread = sobretaxa de juros fixo, calculada com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+Onde:
+spread = 3,5000; 
+n = número de Dias Úteis entra a data do próximo Período de Capitalização e a data do Período de Capitalização anterior, sendo 'n' um número inteiro;
+DT = número de Dias Úteis entre o último e o próximo Período de Capitalização, sendo 'DT' um número inteiro;
+DP = número de Dias Úteis entre o último Período de Capitalização e a data atual, sendo 'DP' um número inteiro.
+Efetua-se o produtório dos fatores diários , sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado. 
+Se os fatores diários estiverem acumulados, considerar-se-á o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+O fator resultante da expressão (Fator DI x Fator Spread) é considerado com 9 (nove) casas decimais, com arredondamento.
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo, salvo quando expressamente indicado de outra forma.
+O período de capitalização da Remuneração é para o primeiro Período de Capitalização, o intervalo de tempo que se inicia na Data de Início da Rentabilidade, inclusive, e termina na primeira Data de Pagamento da Remuneração, exclusive, e, para os demais períodos de capitalização, o intervalo de tempo que se inicia na Data de Pagamento da Remuneração imediatamente anterior, inclusive, e termina na Data de Pagamento da Remuneração subsequente, exclusive. Cada Período de Capitalização sucede o anterior sem solução de continuidade, até a Data de Vencimento ou outro evento de pagamento das Debêntures previsto nesta Escritura de Emissão ('Período de Capitalização').
+Indisponibilidade da Taxa DI
+Se na data de vencimento de quaisquer obrigações pecuniárias da emissora decorrentes desta Escritura de Emissão, não houver divulgação da Taxa DI pela B3 S.A. – Brasil, Bolsa, Balcão, será aplicada na apuração de TDIk a última Taxa DI disponível até o momento para cálculo da Remuneração, não sendo devidas quaisquer compensações entre a Emissora e os Debenturistas quando da divulgação posterior da Taxa DI que seria aplicável, sendo certo que, se a não divulgação da Taxa DI for superior ao prazo de 30 (trinta) dias consecutivos, ou caso a Taxa DI seja extinta, ou haja a impossibilidade legal de aplicação da Taxa DI a quaisquer obrigações pecuniárias da Emissora decorrentes desta Escritura de Emissão, aplicar-se-á o disposto nos itens (ii) e seguintes abaixo;
+Caso a Taxa DI deixe de ser divulgada por prazo superior a 30 (trinta) dias consecutivos após a data esperada para sua apuração e/ou divulgação, ou caso seja extinta, ou haja a impossibilidade legal de aplicação da Taxa DI para cálculo da Remuneração, inclusive em razão de determinação judicial, será utilizada a taxa oficial estabelecida por lei e/ou regra aplicável que vier a substituir a Taxa DI ('Taxa Substituta Oficial');
+Caso não seja estabelecida a Taxa Substituta Oficial, o Agente Fiduciário deverá, no prazo máximo de até 5 (cinco) Dias Úteis a contar do final do prazo de 30 (trinta) dias consecutivos acima mencionado ou do evento de extinção ou inaplicabilidade, conforme o caso, convocar Assembleia Geral de Debenturistas, na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura de Emissão, conforme definido na Cláusula 11 abaixo, a qual terá como objeto a deliberação pelos Debenturistas, de comum acordo com a Emissora, do novo parâmetro de Remuneração das Debêntures, parâmetro este que deverá ser similar ao utilizado para a Taxa DI e preservar o valor real e os mesmos níveis de remuneração das Debêntures, observado o disposto na regulamentação vigente aplicável ('Taxa Substitutiva'). Até a deliberação da Taxa Substitutiva, será aplicada na apuração de TDIk a última Taxa DI divulgada, não sendo devidas quaisquer compensações entre a Emissora e os Debenturistas quando da definição da Taxa Substitutiva ou caso a Taxa DI seja posteriormente divulgada;
+Caso não seja atingido o quórum de instalação e/ou de deliberação em segunda convocação, ou caso não haja acordo sobre a Taxa Substitutiva entre a Emissora e os Debenturistas representando, no mínimo, a 50% (cinquenta por cento) mais uma das Debêntures em Circulação (conforme abaixo definido), a Emissora deverá resgatar a totalidade das Debêntures, sem multa ou prêmio de qualquer natureza, com seu consequente cancelamento, no prazo máximo de 30 (trinta) dias corridos contados da data da realização da respectiva Assembleia Geral de Debenturistas (ou da data em que deveria ter sido realizada a Assembleia Geral de Debenturistas) ou em prazo superior que venha a ser definido em comum acordo em referida assembleia, pelo seu Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, conforme o caso, acrescido da Remuneração devida até a data do efetivo resgate, calculada pro rata temporis, a partir da Data de Início da Rentabilidade das Debêntures ou a Data de Pagamento da Remuneração imediatamente anterior, conforme o caso, e dos Encargos Moratórios (conforme abaixo definido), se for o caso. As Debêntures resgatadas nos termos deste item serão canceladas pela Emissora e para cálculo da Remuneração das Debêntures a serem resgatadas, será utilizado para apuração de TDIk o valor da última Taxa DI divulgada oficialmente, observadas ainda as demais disposições previstas na Cláusula 5.17 e seguintes desta Escritura para fins de cálculo da Remuneração; e
+Não obstante o disposto acima, caso a Taxa DI venha a ser divulgada ou caso venha a ser estabelecida uma Taxa Substituta Oficial antes da realização da respectiva Assembleia Geral de Debenturistas, esta não será mais realizada e a Taxa DI então divulgada ou a Taxa Substituta Oficial, a partir da respectiva data de referência, passará a ser utilizada para o cálculo da Remuneração, não sendo devidas quaisquer compensações entre a Emissora e os Debenturistas. Adicionalmente, caso a Taxa DI venha a ser divulgada ou caso venha a ser estabelecida uma Taxa Substituta Oficial após a determinação da Taxa Substitutiva, a Taxa DI então divulgada ou a Taxa Substituta Oficial, a partir da respectiva data de referência, passará a ser utilizada para o cálculo da Remuneração, não sendo devidas quaisquer compensações entre a Emissora e os Debenturistas.
+Data de Pagamento da Remuneração 
+Sem prejuízo das hipóteses previstas nesta Escritura de Emissão, a Remuneração será paga semestralmente, sendo o primeiro pagamento devido em 10 de setembro de 2023, e os demais pagamentos devidos sempre no dia 10 (dez) dos meses de março e setembro de cada ano, até a Data de Vencimento (cada uma dessas datas, uma 'Data de Pagamento da Remuneração').
+Farão jus aos pagamentos da Remuneração das Debêntures aqueles que sejam Debenturistas ao final do Dia Útil anterior a respectiva data de pagamento.
+Preço de Subscrição e Forma de Integralização
+As Debêntures serão subscritas e integralizadas à vista, em moeda corrente nacional, no ato de subscrição, durante o prazo de distribuição das Debêntures na forma prevista na Resolução CVM 160, de acordo com as normas de liquidação aplicáveis à B3, pelo seu Valor Nominal Unitário, na Primeira Data de Integralização. Caso quaisquer das Debêntures venha a ser integralizada em data diversa e posterior à Primeira Data de Integralização, a integralização deverá considerar o seu Valor Nominal Unitário acrescido da Remuneração, calculada pro rata temporis desde a Data de Início da Rentabilidade ou desde a Data de Pagamento da Remuneração imediatamente anterior, conforme o caso, até a data de sua efetiva integralização.
+As Debêntures poderão ser subscritas com ágio ou deságio, a ser definido exclusivamente pelos Coordenadores, se for o caso, no ato de subscrição de Debêntures, desde que referido ágio ou deságio seja aplicado à totalidade das Debêntures em cada Data de Integralização, observado o disposto no Contrato de Distribuição. 
+Para os fins desta Escritura de Emissão, define-se 'Data de Integralização' cada data em que ocorrerá a subscrição e a integralização das Debêntures, sendo a 'Primeira Data de Integralização', a data da primeira integralização das Debêntures.
+Local de Pagamento
+Os pagamentos referentes às Debêntures e a quaisquer outros valores eventualmente devidos pela Emissora nos termos desta Escritura de Emissão serão realizados pela Emissora, no respectivo vencimento: (i) com relação às Debêntures que estejam custodiadas eletronicamente na B3, por meio da B3; ou (ii) para as Debêntures que não estejam custodiadas eletronicamente na B3, por meio do Escriturador. 
+Prorrogação dos Prazos 
+Considerar-se-ão automaticamente prorrogados os prazos referentes ao pagamento de qualquer obrigação prevista nesta Escritura de Emissão até o 1° (primeiro) Dia Útil subsequente, se o seu vencimento coincidir com dia que não seja Dia Útil, não sendo devido qualquer acréscimo aos valores a serem pagos. 
+Exceto quando previsto expressamente de modo diverso na presente Escritura de Emissão, entende-se por 'Dia(s) Útil(eis)' (i) com relação a qualquer obrigação pecuniária realizada por meio da B3, inclusive para fins de cálculo, qualquer dia que não seja sábado, domingo ou feriado declarado nacional na República Federativa do Brasil; (ii) com relação a qualquer obrigação pecuniária que não seja realizada por meio da B3, qualquer dia no qual haja expediente nos bancos comerciais na Cidade de São Paulo, Estado de São Paulo, e que não seja sábado ou domingo ou feriado na Cidade de São Paulo, Estado de São Paulo; e (iii) com relação a qualquer obrigação não pecuniária prevista nesta Escritura de Emissão, qualquer dia que não seja sábado ou domingo ou feriado na Cidade de São Paulo, Estado de São Paulo. Quando a indicação de prazo contado por dia nesta Escritura de Emissão não vier acompanhada da indicação de 'Dia(s) Útil(eis)', entende-se que o prazo é contado em dias corridos. 
+Encargos Moratórios
+Ocorrendo impontualidade no pagamento pela Emissora de qualquer valor devido aos Debenturistas nos termos desta Escritura de Emissão, adicionalmente ao pagamento da Remuneração, calculada pro rata temporis desde a Primeira Data de Integralização ou a Data de Pagamento da Remuneração imediatamente anterior, conforme o caso (inclusive) até a data do efetivo pagamento (exclusive), incidirão, sobre todos e quaisquer valores vencidos e não pagos pela Emissora, independentemente de aviso, notificação ou interpelação judicial ou extrajudicial (i) juros de mora à taxa de 1% (um por cento) ao mês calculada pro rata die, desde a data de inadimplemento pecuniário (inclusive) até a data do efetivo pagamento (exclusive); e (ii) multa convencional, irredutível e de natureza não compensatória, de 2% (dois por cento) ('Encargos Moratórios').
+Imunidade de Debenturistas 
+Caso qualquer Debenturista goze de algum tipo de imunidade ou isenção tributária, este deverá encaminhar ao Agente de Liquidação e ao Escriturador, com cópia à Emissora, no prazo mínimo de 30 (trinta) Dias Úteis de antecedência em relação à data prevista para recebimento de quaisquer valores relativos às Debêntures, documentação comprobatória dessa imunidade ou isenção tributária, sendo certo que, caso o Debenturista não envie referida documentação, a Emissora fará as retenções dos tributos previstos na legislação tributária em vigor nos rendimentos de tal Debenturista. 
+O Debenturista que tenha apresentado documentação comprobatória de sua condição de imunidade ou isenção tributária, nos termos da Cláusula 5.23.1, e que tiver essa condição alterada por disposição normativa, ou por deixar de atender às condições e requisitos porventura prescritos no dispositivo legal aplicável, ou ainda, tiver essa condição questionada por autoridade judicial, fiscal ou regulamentar competente, deverá comunicar esse fato, de forma detalhada e por escrito, ao Agente de Liquidação e ao Escriturador, com cópia para a Emissora, bem como prestar qualquer informação adicional em relação ao tema que lhe seja solicitada pelo Agente de Liquidação, pelo Escriturador ou pela Emissora, no prazo de 5 (cinco) Dias Úteis do seu conhecimento e sempre, no mínimo, 2 (dois) Dias Úteis de qualquer pagamento a ser realizado pela Emissora.
+Decadência dos Direitos aos Acréscimos 
+ O não comparecimento do Debenturista para receber o valor correspondente a quaisquer das obrigações pecuniárias da Emissora nas datas previstas nesta Escritura de Emissão ou em comunicado publicado pela Emissora ou pelo Agente Fiduciário, conforme o caso, nos termos da legislação vigente e da Cláusula 5.25 abaixo, não lhe dará direito ao recebimento de Remuneração e/ou Encargos Moratórios no período relativo ao atraso no recebimento, sendo-lhe, todavia, assegurados os direitos adquiridos até a data do respectivo vencimento ou pagamento, no caso de impontualidade no pagamento. 
+Publicidade 
+Sem prejuízo do disposto no artigo 13 da Resolução CVM 160, todos os atos e decisões relevantes decorrentes da Emissão que, de qualquer forma, vierem a envolver, direta ou indiretamente, o interesse dos Debenturistas deverão ser publicados sob a forma de 'Aviso aos Debenturistas' na página da Emissora na rede mundial de computadores, qual seja: (<www.ri.aegea.com.br>) e nos sítios eletrônicos da CVM e da B3, observado o estabelecido no artigo 289 da Lei das Sociedades por Ações e as limitações impostas pela Resolução CVM 160 em relação à publicidade da Oferta Pública e os prazos legais, sendo a divulgação comunicada ao Agente Fiduciário em até 5 (cinco) Dias Úteis contados da data de divulgação.
+Na hipótese de, por qualquer motivo, a legislação aplicável à Emissora passar a exigir a publicação em outros meios de comunicação, todos os atos e decisões a serem tomados decorrentes desta Emissão que, de qualquer forma, vierem a envolver interesses dos Debenturistas, deverão ser obrigatoriamente comunicados na forma de Aviso aos Debenturistas no SPED, bem como na página da Emissora na rede mundial de computadores, conforme indicada na Cláusula 5.25.1 acima, sendo certo que caso a Emissora altere, à sua inteira discrição ou em razão de alteração legislativa, seu meio de divulgação após a Data de Emissão, deverá (i) enviar notificação ao Agente Fiduciário informando o novo meio de divulgação a ser utilizado; e (ii) publicar, nos meios de divulgação anteriormente utilizados, aviso aos Debenturistas, informando o novo jornal de publicação. Nas duas hipóteses previstas nesta Cláusula 2.25.2, não será necessária a celebração de aditamento a esta Escritura de Emissão e/ou aprovação prévia dos Debenturistas reunidos em sede de Assembleia Geral de Debenturistas.
+Classificação de Risco
+A Emissora deverá contratar, às suas expensas, agência de classificação de risco para atribuição de classificação de risco (rating) das Debêntures, a ser escolhida entre a Standard & Poor’s, Fitch Ratings ou a Moody’s América Latina ('Agência de Classificação de Risco'), sendo que o primeiro relatório de classificação de risco (rating) das Debêntures deverá ser emitido, pela Agência de Classificação de Risco, em até 180 (cento e oitenta) dias contados da Data de Emissão ('Primeiro Relatório de Rating').
+A partir da contratação da Agência de Classificação de Risco, caso a Emissora deseje alterar, a qualquer tempo, a Agência de Classificação de Risco, ou a Agência de Classificação de Risco cesse suas atividades no Brasil ou, por qualquer motivo, esteja ou seja impedida de emitir o rating, a Emissora poderá substituir a Agência de Classificação de Risco, sem a necessidade de aprovação dos Debenturistas, desde que a agência de classificação de risco substituta seja uma das agências indicadas na Cláusula 5.26.1 acima.
+Para a substituição da Agência de Classificação de Risco por qualquer outra agência de classificação de risco que não aquelas mencionadas na Cláusula 5.26.1 acima, haverá necessidade de aprovação prévia de, no mínimo, 50% (cinquenta por cento) dos Debenturistas em Circulação mais uma, em primeira ou segunda convocação. Em qualquer caso, a nova agência passará a integrar a definição de 'Agência de Classificação de Risco', para todos os fins e efeitos desta Escritura de Emissão. 
+A partir da contratação da Agência de Classificação de Risco para fins da emissão do Primeiro Relatório de Rating, a Emissora deverá (i) manter contratada, às suas expensas, a Agência de Classificação de Risco para a atualização anual da classificação de risco (rating) das Debêntures, a partir da data de elaboração do último relatório até a Data de Vencimento, até o resgate antecipado total das Debêntures (inclusive em decorrência de vencimento antecipado) de acordo com as hipóteses previstas nesta Escritura de Emissão, o que ocorrer primeiro, sendo que, em caso de substituição da Agência de Classificação de Risco, a Emissora deverá observar o procedimento previsto nas Cláusulas 5.26.2 ou 5.26.3 acima, conforme o caso; (ii) divulgar ou permitir que a Agência de Classificação de Risco divulgue amplamente ao mercado os relatórios com as súmulas das classificações de risco; (iii) entregar ao Agente Fiduciário os relatórios de classificação de risco preparados pela Agência de Classificação de Risco no prazo de até 3 (três) Dias Úteis contados da data de seu recebimento pela Emissora; e (iv) comunicar ao Agente Fiduciário em 3 (três) Dias Úteis sobre qualquer alteração e o início de qualquer processo de revisão da classificação de risco. 
+Garantias 
+Em garantia do fiel, pontual, correto e integral pagamento e cumprimento das obrigações principais, acessórias e/ou moratórias, presentes e/ou futuras, assumidas ou que venham a sê-lo, perante os Debenturistas no âmbito da Emissão, nos termos desta Escritura de Emissão, o que inclui (i) o pagamento das Debêntures, abrangendo o Valor Nominal Unitário ou o saldo do Valor Nominal Unitário, conforme o caso, a Remuneração, os Encargos Moratórios; (ii) o pagamento dos custos, comissões, honorários dos prestadores de serviços, encargos e despesas relacionados diretamente à Emissão, conforme previsto nesta Escritura de Emissão; e (iii) o pagamento da totalidade das obrigações acessórias relacionadas à Emissão, o que inclui encargos moratórios, multas, penalidades, despesas, custas, honorários extrajudiciais ou arbitrados em juízo, indenizações, comissões e demais encargos contratuais e legais previstos, bem como todo e qualquer custo ou despesa comprovadamente incorrido pelo Agente Fiduciário, agindo como representante e em benefício dos Debenturistas, inclusive em virtude da constituição, manutenção e formalização das Garantias e aqueles incorridos em decorrência de processos, procedimentos e/ou outras medidas judiciais ou extrajudiciais necessários à salvaguarda dos direitos e prerrogativas dos Debenturistas previstos nesta Escritura de Emissão e da execução das Garantias, decorrentes desta Escritura de Emissão e dos Contratos de Garantia ('Obrigações Garantidas'), as Debêntures contarão com as seguintes garantias reais (em conjunto, 'Garantias'): 
+Alienação Fiduciária de Ações. Os Acionistas constituirão, em favor dos Debenturistas, em caráter irrevogável e irretratável, a alienação fiduciária (a) a totalidade das ações de emissão da Emissora representativas de 100% (cem por cento) do capital social da Emissora detidas pelos Acionistas; (b) de todas as ações: (1) derivadas de desdobramento, grupamento ou bonificação, inclusive mediante a permuta, venda ou qualquer outra forma de alienação das ações de emissão da Emissora e quaisquer bens ou títulos nos quais as ações de emissão da Emissora sejam convertidas (incluindo quaisquer depósitos, títulos ou valores mobiliários); (2) oriundas da subscrição de novas ações representativas do capital social da Emissora, títulos ou outros valores mobiliários conversíveis em ações, relacionados à participação dos Acionistas na Emissora; e (3) de emissão da Emissora recebidas, conferidas e/ou adquiridas por quaisquer dos Acionistas (direta ou indiretamente) por meio de consolidação, fusão, cisão, incorporação, permuta, substituição, divisão, reorganização societária ou de qualquer outra forma (observadas as restrições previstas no Contrato de Alienação Fiduciária de Ações e nesta Escritura de Emissão, conforme aplicável), sejam tais ações ou direitos atualmente ou futuramente detidas pelos Acionistas, incluindo todas e quaisquer novas ações ou outros títulos conversíveis em ações de emissão da Emissora que vierem a ser subscritos, recebidos, conferidos, adquiridos e/ou sob qualquer forma detidos direta e/ou indiretamente por quaisquer dos Acionistas (sendo todos os bens e direitos referidos nos itens (a) e (b) doravante denominados 'Ações'); e (c) de todos os direitos, frutos e rendimentos decorrentes das Ações, inclusive aos direitos a todos os lucros, juros sobre capital próprio, rendas, distribuições, proventos, bonificações e quaisquer outros valores creditados, pagos, distribuídos ou por outra forma entregues, ou a serem creditados, pagos, distribuídos ou por outra forma entregues, por qualquer razão aos Acionistas, incluindo todas as preferências e vantagens que forem atribuídas expressamente às Ações, a qualquer título, inclusive lucros, proventos decorrentes do fluxo de lucro, juros sobre o capital próprio, valores devidos por conta de redução de capital, amortização, resgate, reembolso ou outra operação e todos os demais proventos ou valores que de qualquer outra forma tenham sido e/ou que venham a ser declarados e ainda não tenham sido distribuídos ('Alienação Fiduciária de Ações'), nos termos do 'Instrumento Particular de Alienação Fiduciária de Ações em Garantia e Outras Avenças', celebrado entre os Acionistas, o Agente Fiduciário, na qualidade de representante da comunhão dos Debenturistas e, na qualidade de interveniente anuente, a Emissora ('Contrato de Alienação Fiduciária de Ações'); e
+Cessão Fiduciária. Observada a Condição Suspensiva (conforme definido no Contrato de Cessão Fiduciária), a Emissora constituirá, em favor dos Debenturistas, em caráter irrevogável e irretratável, cessão fiduciária (a) da totalidade do fluxo dos direitos creditórios de titularidade da Emissora, incluindo frutos, lucros, rendimentos, bonificações, distribuições e demais direitos, inclusive dividendos, restituições (inclusive restituições referentes à redução de capital social) e juros sobre capital próprio, em dinheiro ou mediante distribuição de bens, incluindo novas ações e direitos de subscrição, que venham a ser apurados, declarados, creditados ou pagos pela Corsan à Emissora, em qualquer caso em relação a (1) totalidade das ações representativas do capital social da Corsan ('Ações Corsan') que a Emissora venha a subscrever e integralizar na data do cumprimento da Condição Suspensiva, bem como (2) todas as Ações Corsan relacionadas à futura participação da Emissora na Corsan, que por ventura, após a verificação da Condição Suspensiva, venham a acrescentar e/ou substituir a participação societária da Emissora na Corsan em relação àquela por ela detida imediatamente após verificação da Condição Suspensiva ('Dividendos'); e (b) dos direitos emergentes da Conta Vinculada (conforme definido no Contrato de Cessão Fiduciária), na qual deverão ser depositados todos os recursos provenientes dos Dividendos que a Emissora venha a efetivamente receber a partir da verificação da Condição Suspensiva, bem como de todos e quaisquer recursos atuais ou futuros, principais ou acessórios, provenientes de valores recebidos ou depositados na Conta Vinculada (ou diretos creditórios a serem recebidos ou depositados), seja a que título for, independentemente de onde se encontrarem, inclusive em trânsito ou em fase de compensação bancária, bem como seus frutos e rendimentos, incluindo aplicações financeiras, rendimentos, direitos, proventos, distribuições e demais valores recebidos ou a serem recebidos ou de qualquer outra forma depositados ou a serem depositados à Emissora na Conta Vinculada ('Cessão Fiduciária'), nos termos do 'Instrumento Particular de Cessão Fiduciária de Direitos Creditórios, Conta Vinculada e Outras Avenças Sob Condição Suspensiva', celebrado entre a Emissora e o Agente Fiduciário, na qualidade de representante da comunhão dos Debenturistas ('Contrato de Cessão Fiduciária' e, em conjunto com o Contrato de Alienação Fiduciária de Ações, os 'Contratos de Garantia').
+Compromisso de Investimento
+Adicionalmente às Garantias outorgadas em favor dos Debenturistas, a AEGEA se compromete a aportar na Emissora, quantas vezes sejam requeridas, recursos financeiros em moeda corrente nacional, no caso da ocorrência de um Evento de Aporte (conforme definido no Contrato de Aporte), de forma individual ou conjunta, com a finalidade exclusiva de suprir eventual Evento de Aporte ('Compromisso de Aporte'), nos termos do 'Instrumento Particular de Compromisso de Investimentos e Outras Avanças' celebrado entre a AEGEA, o Agente Fiduciário e, na qualidade de interveniente anuente, a Emissora ('Contrato de Aporte').
+CARACTERÍSTICAS DA EMISSÃO E DAS DEBÊNTURES
+
+Número da Emissão
+
+A presente Emissão constitui a 2ª (segunda) emissão de debêntures da Emissora.
+
+Número de Séries
+
+A Emissão será realizada em até duas séries. A quantidade de Debêntures a ser alocada em cada série será definida após a conclusão do Procedimento de Bookbuilding, observado que a alocação das Debêntures entre as séries previstas nesta Escritura de Emissão ocorrerá no sistema de vasos comunicantes, em que a quantidade de Debêntures da Primeira Série e de Debêntures da Segunda Série (conforme definidos abaixo) poderá ser livremente alocada entre as próprias séries, sendo que [as Debêntures da Primeira Série poderão não ser emitidas em razão do Volume Mínimo da Segunda Série / qualquer uma das séries poderá não ser emitida,] a depender do resultado do Procedimento de Bookbuilding ('Sistema de Vasos Comunicantes'). A quantidade de Debêntures a ser alocada em cada série será objeto de aditamento à presente Escritura de Emissão, observado o disposto na Cláusula 6.7 abaixo e o Volume Mínimo da Segunda Série. 
+
+Valor Total da Emissão 
+
+O valor total da Emissão será de R$600.000.000,00 (seiscentos milhões de reais), na Data de Emissão (conforme definido abaixo) ('Valor Total da Emissão'), dos quais, no mínimo, R$200.000.000,00 (duzentos milhões de reais) serão necessariamente alocados entre as Debêntures da Segunda Série (conforme definido abaixo) ('Volume Mínimo da Segunda Série'). 
+
+Data de Emissão
+
+Para todos os fins e efeitos, a data de emissão das Debêntures é o dia [●] de [●] de 2022 ('Data de Emissão'). 
+
+Agente de Liquidação e Escriturador
+
+A instituição prestadora de serviços de agente de liquidação e escriturador das Debêntures será a OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A., instituição financeira, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro, na Avenida das Américas, 3.434, bloco 07, sala 201, Barra da Tijuca, CEP 22640-102, inscrita no CNPJ/ME sob nº 36.113.876/0001-91 ('Agente de Liquidação' ou 'Escriturador', conforme o caso, sendo que essas definições incluem qualquer outra instituição que venha a suceder o Agente de Liquidação ou o Escriturador). 
+
+Valor Nominal Unitário
+
+O valor nominal unitário das Debêntures será de R$1.000,00 (mil reais) na Data de Emissão ('Valor Nominal Unitário').
+
+Quantidade de Debêntures
+
+Serão emitidas 600.000 (seiscentas mil) Debêntures, sendo que a quantidade de Debêntures a serem alocadas como Debêntures da primeira série ('Debêntures da Primeira Série') e como Debêntures da segunda série ('Debêntures da Segunda Série' e, em conjunto com as Debêntures da Primeira Série, as 'Debêntures') será determinada por meio do Procedimento de Bookbuilding, respeitado o Sistema de Vasos Comunicantes, observado o Volume Mínimo da Segunda Série. A quantidade final de Debêntures alocadas, por série, será formalizada por meio de aditamento à presente Escritura de Emissão, sem a necessidade, para tanto, de aprovação societária da Emissora e/ou dos Debenturistas.
+
+Conforme previsto na Cláusula 5.7.1 acima, a quantidade efetiva de Debêntures da Primeira Série e Debêntures da Segunda Série poderá ser livremente alocada entre as próprias séries[, sendo que as Debêntures da Primeira Série poderão não ser emitidas em razão do Volume Mínimo da Segunda Série], a depender do resultado do Procedimento de Bookbuilding.
+
+Conversibilidade, Tipo, Forma e Comprovação de Titularidade das Debêntures
+
+As Debêntures serão simples, ou seja, não conversíveis em ações de emissão da Emissora. 
+
+As Debêntures serão escriturais e nominativas, sem emissão de cautelas ou certificados, nos termos do artigo 63, parágrafo 2º, da Lei das Sociedades por Ações. Para todos os fins de direito, a titularidade das Debêntures será comprovada pelo extrato emitido pelo Escriturador, onde serão inscritos os nomes dos respectivos Debenturistas. Adicionalmente, será reconhecido, como comprovante de titularidade das Debêntures, o extrato emitido pela B3, em nome do Debenturista, quando as Debêntures estiverem custodiadas eletronicamente na B3.
+
+Espécie
+
+As Debêntures serão da espécie quirografária, sem garantia adicional, não gozando os Debenturistas de preferência em relação aos demais credores quirografários da Emissora, nos termos do artigo 58, da Lei das Sociedades por Ações.
+
+Prazo e Data de Vencimento
+
+Ressalvadas as hipóteses de Oferta de Resgate Antecipado ou Evento de Vencimento Antecipado das obrigações decorrentes das Debêntures, nos termos previstos nesta Escritura de Emissão, as Debêntures da Primeira Série terão prazo de vigência de 3 (três) anos e 6 (seis) meses a contar da Data de Emissão, vencendo, portanto, em [●] de [●] de 2025 ('Data de Vencimento da Primeira Série').
+
+Ressalvadas as hipóteses de Oferta de Resgate Antecipado ou Evento de Vencimento Antecipado das obrigações decorrentes das Debêntures, nos termos previstos nesta Escritura de Emissão, as Debêntures da Segunda Série terão prazo de vigência de 6 (seis) anos a contar da Data de Emissão, vencendo, portanto, em [●] de [●] de 2028 ('Data de Vencimento da Segunda Série' e, em conjunto com a Data de Vencimento da Primeira Série, 'Datas de Vencimento').  
+
+Prazo e Forma de Subscrição e Integralização
+
+As Debêntures serão subscritas e integralizadas preferencialmente em uma única data, em moeda corrente nacional, pelo Valor Nominal Unitário. Caso não ocorra a subscrição e a integralização da totalidade das Debêntures em uma única data, o preço de subscrição para as Debêntures que foram integralizadas após a primeira Data de Integralização (conforme abaixo definido) será o Valor Nominal Unitário, acrescido da respectiva Remuneração (conforme definido abaixo), calculados pro rata temporis desde a primeira Data de Integralização até a data de sua efetiva integralização, utilizando-se, para tanto, 8 (oito) casas decimais, sem arredondamentos, de acordo com as normas de liquidação aplicáveis à B3. 
+
+Para os fins desta Escritura de Emissão, define-se 'Data de Integralização' a data em que ocorrerá a subscrição e a integralização das Debêntures.
+
+A exclusivo critério dos Coordenadores, em comum acordo com a Emissora, conforme indicado no Contrato de Distribuição (conforme definido abaixo), as Debêntures poderão ser subscritas e integralizadas com ágio ou deságio, a ser definido no ato de subscrição das Debêntures, sendo certo que, caso aplicável, o ágio ou deságio, será o mesmo para todas as Debêntures.
+
+Atualização Monetária das Debêntures 
+
+O Valor Nominal Unitário das Debêntures não será corrigido ou atualizado monetariamente por qualquer índice.
+
+Remuneração
+
+As Debêntures da Primeira Série farão jus, a partir da primeira Data de Integralização, a uma remuneração correspondente a 100% (cem por cento) da variação acumulada das taxas médias diárias dos DI – Depósitos Interfinanceiros de um dia, 'over extra grupo', expressa na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 no informativo diário disponível em sua página na internet () ('Taxa DI'), acrescida exponencialmente de spread ou sobretaxa equivalente a 2,10% (dois inteiros e dez centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis incidente sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures da Primeira Série, conforme o caso ('Remuneração da Primeira Série'), calculados de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos, desde a primeira Data de Integralização das Debêntures ou a Data de Pagamento da Remuneração da Primeira Série (conforme abaixo definido) imediatamente anterior, o que ocorrer por último, até a data de seu efetivo pagamento ('Período de Capitalização').
+
+O cálculo da Remuneração da Primeira Série obedecerá à seguinte fórmula:
+
+J = Vne x (Fator Juros – 1)
+
+onde:
+
+
+FatorJuros = (FatorDI x FatorSpread)
+
+Onde:
+
+
+FatorSpread = Sobretaxa de juros fixos calculada com 9 (nove) casas decimais, com arredondamento, conforme fórmula abaixo:
+
+
+
+Onde:
+
+
+Observações: 
+
+O fator resultante da expressão (1 + TDIk) é considerado com 16 (dezesseis) casas decimais, sem arredondamento;
+Efetua-se o produto dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado;
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pela entidade responsável pelo seu cálculo, salvo quando expressamente indicado de outra forma.
+
+As Debêntures da Segunda Série farão jus, a partir da primeira Data de Integralização, a uma remuneração correspondente a 100% (cem por cento) da Taxa DI, acrescida exponencialmente de spread ou sobretaxa equivalente a 2,40% (dois inteiros e quarenta centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis incidente sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures da Segunda Série, conforme o caso ('Remuneração da Segunda Série' e, em conjunto com a Remuneração da Primeira Série, as 'Remunerações') paga ao final de cada Período de Capitalização. 
+
+O cálculo da Remuneração da Segunda Série obedecerá à seguinte fórmula:
+
+J = Vne x (Fator Juros – 1)
+
+onde:
+
+
+FatorJuros = (FatorDI x FatorSpread)
+
+Onde:
+
+
+FatorSpread = Sobretaxa de juros fixos calculada com 9 (nove) casas decimais, com arredondamento, conforme fórmula abaixo:
+
+
+
+Onde:
+
+
+Observações: 
+
+O fator resultante da expressão (1 + TDIk) é considerado com 16 (dezesseis) casas decimais, sem arredondamento;
+Efetua-se o produto dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado;
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pela entidade responsável pelo seu cálculo, salvo quando expressamente indicado de outra forma.
+
+Indisponibilidade da Taxa DI
+
+Na hipótese de ausência de apuração e/ou divulgação da Taxa DI por prazo superior a 10 (dez) Dias Úteis contados da data esperada para sua apuração e/ou divulgação ('Período de Ausência de Taxa DI') ou, ainda, na hipótese de extinção ou inaplicabilidade da Taxa DI por disposição legal ou determinação judicial, o Agente Fiduciário deverá convocar assembleia geral de debenturistas ('Assembleia Geral de Debenturistas' ou 'AGD') (na forma e nos prazos estipulados na Cláusula Décima desta Escritura de Emissão e no artigo 124 da Lei das Sociedades por Ações), para definir, de comum acordo com a Emissora, observada a regulamentação aplicável, o novo parâmetro das Remunerações das Debêntures a ser aplicado, o qual deverá refletir os parâmetros utilizados em operações similares existentes à época, as quais utilizavam como base a Taxa DI ('Taxa Substitutiva'). A AGD será realizada no prazo máximo de 20 (vinte) dias contados do último dia do Período de Ausência da Taxa DI ou da extinção ou inaplicabilidade da Taxa DI por imposição legal ou determinação judicial, o que ocorrer primeiro. Até a deliberação do novo parâmetro de Remuneração, será utilizado, para o cálculo do valor das Remunerações, o percentual correspondente à última Taxa DI divulgada oficialmente, não sendo devidas quaisquer compensações entre a Emissora e os Debenturistas quando da deliberação da Taxa Substitutiva.
+
+Caso a Taxa DI venha a ser divulgada antes da realização da AGD prevista acima, referida AGD não será realizada, e a Taxa DI, a partir de sua validade e/ou divulgação, conforme o caso, voltará a ser utilizada para o cálculo das Remunerações das Debêntures desde o dia de sua validade ou divulgação, conforme o caso, não sendo devidas quaisquer compensações entre a Emissora e os Debenturistas com relação à última Taxa DI divulgada oficialmente e a Taxa DI que se tornar válida ou voltar a ser divulgada, nos termos desta Cláusula 5.15.2.
+
+Caso, na AGD prevista na Cláusula 5.15.2 acima, não haja acordo sobre a Taxa Substitutiva entre a Emissora e Debenturistas representando, no mínimo, 75% (setenta e cinco por cento) das Debêntures em Circulação (conforme abaixo definido), ou não seja atingido o quórum de instalação, a Emissora deverá resgatar antecipadamente e, consequentemente, cancelar a totalidade das Debêntures, sem o pagamento de multa ou prêmio de qualquer natureza, no prazo de até 30 (trinta) dias contados da data da realização da respectiva AGD, pelo Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, conforme o caso, acrescido das Remunerações devida até a data do efetivo resgate, calculada pro rata temporis desde a primeira Data de Integralização ou as Datas de Pagamento da Remuneração das Debêntures imediatamente anterior, o que ocorrer por último. Neste caso, para o cálculo da Remuneração aplicável às Debêntures, será utilizado o percentual correspondente à última Taxa DI oficialmente disponível.
+
+Amortização do Valor Nominal Unitário 
+
+O saldo do Valor Nominal Unitário das Debêntures da Primeira Série será amortizado em uma única parcela na Data de Vencimento da Primeira Série, ressalvadas as hipóteses de Oferta de Resgate Antecipado ou Evento de Vencimento Antecipado das obrigações decorrentes das Debêntures, conforme o caso.
+
+O saldo do Valor Nominal Unitário das Debêntures da Segunda Série será amortizado anualmente, em 4 (quatro) parcelas, a partir do 3º (terceiro) ano (inclusive), contado da Data de Emissão das Debêntures, sendo a primeira devida em [●] de [●] de 2025 e, a última, na Data de Vencimento da Segunda Série, ressalvadas as hipóteses de Oferta de Resgate Antecipado ou Evento de Vencimento Antecipado das obrigações decorrentes das Debêntures, conforme o caso, conforme tabela a seguir:
+
+
+Pagamento da Remuneração
+
+Ressalvadas as hipóteses de Oferta de Resgate Antecipado ou Evento de Vencimento Antecipado das obrigações decorrentes das Debêntures da Primeira Série, nos termos previstos nesta Escritura de Emissão, a Remuneração será paga semestralmente, sem carência, nas datas abaixo('Datas de Pagamento da Remuneração da Primeira Série'):
+
+
+Ressalvadas as hipóteses de Oferta de Resgate Antecipado ou Evento de Vencimento Antecipado das obrigações decorrentes das Debêntures da Segunda Série, nos termos previstos nesta Escritura de Emissão, a Remuneração será paga semestralmente, sem carência, nas datas abaixo ('Datas de Pagamento da Remuneração da Segunda Série' e, em conjunto com as Datas de Pagamento da Remuneração da Primeira Série, 'Datas de Pagamento da Remuneração'):
+
+
+Farão jus ao recebimento de qualquer valor devido aos Debenturistas nos termos desta Escritura de Emissão aqueles que forem titulares de Debêntures ao final do Dia Útil imediatamente anterior às Datas de Pagamento da Remuneração. 
+
+Repactuação Programada
+
+As Debêntures não serão objeto de repactuação programada. 
+
+Amortização Extraordinária 
+
+As Debêntures não estarão sujeitas à amortização extraordinária pela Emissora. 
+
+Resgate Antecipado Facultativo 
+
+Exceto pelo disposto na Cláusula 5.21 abaixo, a Emissora não poderá, voluntariamente, realizar o resgate antecipado de qualquer das Debêntures. 
+
+Oferta de Resgate Antecipado [Nota Machado Meyer: gentileza confirmar que as condições abaixo se aplicarão a ambas as séries]
+
+A Emissora poderá, a seu exclusivo critério e a qualquer tempo, mediante deliberação de seus órgãos societários competentes, conforme aplicável, realizar oferta de resgate antecipado da totalidade (sendo vedada oferta de resgate antecipado parcial) das Debêntures, que será endereçada a todos os Debenturistas, sem distinção, sendo assegurada a igualdade de condições a todos os Debenturistas para aceitar ou não o resgate das Debêntures por eles detidas ('Oferta de Resgate Antecipado').
+
+A Oferta de Resgate Antecipado deverá ser realizada pela Emissora por meio de publicação de anúncio a ser amplamente divulgado, com 10 (dez) Dias Úteis de antecedência da data em que se pretende realizar a Oferta de Resgate Antecipado, nos termos da Cláusula 5.26 abaixo, o qual deverá descrever os termos e condições da Oferta de Resgate Antecipado, incluindo: (i) a data efetiva para o resgate das Debêntures e pagamento aos Debenturistas que aceitarem a Oferta de Resgate Antecipado, (ii) eventual prêmio de resgate a ser oferecido aos Debenturistas, a exclusivo critério da Emissora, o qual não poderá, em nenhuma hipótese, ser negativo ('Prêmio de Oferta de Resgate'), e (iii) demais informações necessárias à operacionalização do resgate antecipado e para tomada de decisão pelos Debenturistas ('Edital de Oferta de Resgate Antecipado'). 
+
+Após a publicação do Edital de Oferta de Resgate Antecipado, os Debenturistas que optarem pela adesão à Oferta de Resgate Antecipado deverão se manifestar nesse sentido, de forma escrita, ao Agente Fiduciário com cópia para a Emissora, no prazo de 5 (cinco) Dias Úteis contado da data de publicação do Edital de Oferta de Resgate Antecipado, devendo a Emissora proceder ao resgate antecipado e pagamento dos valores devidos aos Debenturistas que aceitarem a Oferta de Resgate Antecipado na data estipulada no Edital de Oferta de Resgate Antecipado. A B3 e a ANBIMA deverão ser comunicadas do resgate antecipado com pelo menos 3 (três) Dias Úteis de antecedência da sua realização, através de correspondência da Emissora com o de acordo do Agente Fiduciário. O resgate antecipado seguirá, para as Debêntures custodiadas eletronicamente na B3, os procedimentos operacionais da B3. Caso as Debêntures não estejam custodiadas eletronicamente na B3, o pagamento do resgate antecipado de tais Debêntures deverá ocorrer conforme os procedimentos operacionais previstos pelo Escriturador.
+
+O valor a ser pago aos Debenturistas na hipótese de realização do resgate antecipado total das Debêntures em decorrência da Oferta de Resgate Antecipado será equivalente ao Valor Nominal Unitário ou saldo do Valor Nominal Unitário, das Debêntures, acrescido: (i) da Remuneração da respectiva série, calculada pro rata temporis desde a primeira Data de Integralização ou Datas de Pagamento da Remuneração imediatamente anterior, conforme o caso, até a data do efetivo resgate; (ii) de eventual Prêmio de Oferta de Resgate; e (iii) de demais encargos devidos e não pagos ('Preço de Oferta de Resgate').
+
+O pagamento do Preço de Oferta de Resgate será realizado: (i) por meio dos procedimentos adotados pela B3 para as Debêntures custodiadas eletronicamente na B3, ou (ii) mediante procedimentos adotados pelo Escriturador, no caso de Debêntures que não estejam custodiadas eletronicamente na B3.
+
+Somente serão objeto do resgate, a ser efetuado nos termos da Oferta de Resgate Antecipado, aquelas Debêntures de titularidade dos Debenturistas que expressamente manifestaram sua adesão à referida Oferta de Resgate Antecipado nos termos acima.
+
+As Debêntures resgatadas pela Emissora nos termos aqui previstos deverão ser canceladas pela Emissora.
+
+Aquisição Facultativa [Nota Machado Meyer: gentileza confirmar que as condições abaixo se aplicarão a ambas as séries]
+
+A Emissora poderá, a qualquer tempo, adquirir, total ou parcialmente, Debêntures, desde que observe o disposto no artigo 55, parágrafo 3º, da Lei das Sociedades por Ações, nos artigos 13 e 15 da Instrução CVM 476, na Instrução da CVM n° 620, de 17 de março de 2020, e na regulamentação aplicável da CVM, devendo o fato, se assim exigido pelas disposições legais e regulamentares aplicáveis, constar do relatório da administração e das demonstrações financeiras (e/ou informações financeiras trimestrais) da Emissora. As Debêntures adquiridas pela Emissora poderão, a critério da Emissora, ser canceladas, permanecer em tesouraria ou ser novamente colocadas no mercado. As Debêntures adquiridas pela Emissora para permanência em tesouraria nos termos desta cláusula, se e quando recolocadas no mercado, farão jus à mesma Remuneração aplicável às demais Debêntures da Primeira Série ou às Debêntures da Segunda Série, conforme o caso.
+
+Local de Pagamento
+
+Os pagamentos a que fizerem jus as Debêntures serão efetuados pela Emissora utilizando-se os procedimentos adotados pela B3, para as Debêntures custodiadas eletronicamente na B3. As Debêntures que não estiverem custodiadas eletronicamente na B3 terão os seus pagamentos realizados pelo Agente de Liquidação ou, conforme o caso, pela instituição financeira contratada para este fim, ou ainda na sede da Emissora, se for o caso.
+
+Prorrogação dos Prazos
+
+Considerar-se-ão automaticamente prorrogados até o primeiro Dia Útil subsequente, sem acréscimo de juros ou de qualquer outro encargo moratório aos valores a serem pagos, os prazos para pagamento de qualquer obrigação prevista ou decorrente da presente Escritura de Emissão, quando a data de tais pagamentos coincidir com qualquer dia que não seja um Dia Útil.
+
+Exceto quando previsto expressamente de modo diverso na presente Escritura de Emissão, entende-se por 'Dia(s) Útil(eis)' (i) com relação a qualquer obrigação pecuniária realizada por meio da B3, inclusive para fins de cálculo, qualquer dia que não seja sábado, domingo ou feriado declarado nacional; (ii) com relação a qualquer obrigação pecuniária que não seja realizada por meio da B3, qualquer dia no qual haja expediente nos bancos comerciais na Cidade de São Paulo, Estado de São Paulo, e que não seja sábado ou domingo; e (iii) com relação a qualquer obrigação não pecuniária prevista nesta Escritura de Emissão, qualquer dia que não seja sábado ou domingo ou feriado na Cidade de São Paulo, Estado de São Paulo.
+
+Encargos Moratórios
+
+Sem prejuízo das Remunerações, ocorrendo impontualidade no pagamento de qualquer quantia devida aos Debenturistas, os débitos em atraso ficarão sujeitos, desde a data do inadimplemento até a data do efetivo pagamento, independentemente de aviso ou notificação ou interpelação judicial ou extrajudicial, a: (i) juros moratórios de 1% (um por cento) ao mês sobre o montante devido calculados pro rata temporis; e (ii) multa convencional, irredutível e de natureza não compensatória, de 2% (dois por cento) sobre o valor devido e não pago ('Encargos Moratórios').
+
+Publicidade
+
+Todos os atos e decisões a serem tomados no âmbito desta Emissão ou que, de qualquer forma, vierem a envolver interesses dos Debenturistas, deverão ser obrigatoriamente comunicados na forma de avisos, no Jornal de Publicação, ou outro jornal que venha a ser designado para tanto pela assembleia geral de acionistas da Emissora, bem como na página da Emissora na rede mundial de computadores ('Avisos aos Debenturistas'), observado o estabelecido no artigo 289 da Lei das Sociedades por Ações e o disposto na Instrução CVM 476. Caso a Emissora altere  o Jornal de Publicação após a data de celebração desta Escritura de Emissão, a Emissora deverá enviar notificação ao Agente Fiduciário e efetuar publicação no Jornal de Publicação anteriormente utilizado, a fim de informar o(s) novo(s) veículo(s). 
+
+Decadência dos Direitos aos Acréscimos
+
+O não comparecimento do Debenturista para receber o valor correspondente a quaisquer das obrigações pecuniárias devidas pela Emissora nas datas previstas nesta Escritura de Emissão, ou em comunicado publicado pela Emissora, não lhe dará direito ao recebimento da Remuneração ou Encargos Moratórios no período relativo ao atraso no recebimento, sendo-lhe, todavia, assegurados os direitos adquiridos até a data do respectivo vencimento.
+
+Imunidade de Debenturistas. Caso qualquer Debenturista goze de algum tipo de imunidade ou isenção tributária, este deverá encaminhar ao Agente de Liquidação e à Emissora, no prazo mínimo de 10 (dez) Dias Úteis de antecedência em relação à data prevista para recebimento de quaisquer valores relativos às Debêntures, documentação comprobatória dessa imunidade ou isenção tributária, sendo certo que, caso o Debenturista não envie referida documentação, a Emissora fará as retenções dos tributos previstos na legislação tributária em vigor nos rendimentos de tal Debenturista.
+
+O Debenturista que tenha apresentado documentação comprobatória de sua condição de imunidade ou isenção tributária, nos termos da Cláusula 5.27.2 acima, e que tiver essa condição alterada e/ou revogada por disposição normativa, ou por deixar de atender as condições e requisitos porventura prescritos no dispositivo legal aplicável, ou ainda, tiver essa condição questionada por autoridade judicial, fiscal ou regulamentar competente, ou ainda, que tenha esta condição alterada e/ou revogada por qualquer outra razão que não as mencionadas nesta Cláusula, deverá comunicar esse fato, de forma detalhada e por escrito, ao Agente de Liquidação e ao Escriturador, com cópia para a Emissora, bem como prestar qualquer informação adicional em relação ao tema que lhe seja solicitada pelo Agente de Liquidação e pelo Escriturador ou pela Companhia, no prazo de 5 (cinco) Dias Úteis do seu conhecimento, e sempre, no mínimo, 2 (dois) Dias Úteis de qualquer pagamento a ser realizado pela Companhia.
+

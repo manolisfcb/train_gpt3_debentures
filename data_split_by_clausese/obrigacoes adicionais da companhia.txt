@@ -1,0 +1,495 @@
+Obrigações Adicionais da Companhia
+
+A Companhia adicionalmente está obrigada a:
+
+Fornecer para ao Agente Fiduciário:
+
+em 90 (noventa) dias após o encerramento de cada exercício social, ou nas datas de suas respectivas divulgações, o que ocorrer primeiro, (a) cópia de suas Demonstrações Financeiras Trimestrais Auditadas, acompanhadas do relatório de administrativo e do parecer dos auditores independentes, conforme exigido pela legislação aplicável e (b) declaração firmada por representantes legais da Emissora, na forma de seu estatuto social, atestando (i) que permanecem válidas as disposições contidas nesta Escritura de Emissão; (ii) a não ocorrência de qualquer Evento de Inadimplemento e a inexistência de descumprimento de qualquer obrigação prevista nesta Escritura de Emissão; e (iii) que não foram praticados atos em desacordo com seu estatuto social;
+
+em até 45 (quarenta e cinco) dias após o encerramento de cada trimestre (que não os trimestres fiscais findos no encerramento do exercício social), ou nas datas de suas respectivas publicações, o que ocorrer primeiro, uma cópia das Demonstrações Financeiras Trimestrais da Emissora; 
+
+(a) na data de envio das informações financeiras exigidas no inciso (i) acima, uma cópia de um relatório de apuração dos Índices Financeiros consolidados, elaborado pela Emissora, acompanhados do relatório de cálculo revisado e assinado pelo diretor financeiro da Emissora ('Relatório de Índices Financeiros'), que abranja os itens padrão e habituais, incluindo a revisão de deficiências, se houver, sendo certo que o Relatório de Índices Financeiros deverá estar acompanhado do relatório de cálculo revisado pelo diretor financeiro da Emissora e, em ambos os casos indicados nos itens (a) e (b), o relatório estará acompanhado de todas as rubricas necessárias que demonstre o cumprimento dos Índices Financeiros pela Emissora, de modo a possibilitar o acompanhamento dos referidos Índices Financeiros pelo Agente Fiduciário para os fins previstos nesta Escritura de Emissão. O Agente Fiduciário poderá solicitar esclarecimentos adicionais que se façam necessários para o devido acompanhamento dos Índices Financeiros; 
+
+notificação, na mesma data da convocação feita pela Emissora ou pelos Debenturistas, conforme seja o caso, para qualquer Assembleia Geral de Debenturistas dentro dos prazos legalmente estipulados, incluindo a data e a ordem do dia de tais assembleias; 
+
+em até 5 (cinco) Dias Úteis contados da data de solicitação, informações sobre a Companhia e seus ativos que o Agente Fiduciário razoavelmente requerer, desde que tais informações sejam relevantes para esta Emissão e ressalvadas as informações de natureza estratégica e/ou confidencial para a Companhia ou que a Companhia não está autorizada a divulgar nos termos de contratos que seja parte ou da regulamentação aplicável; 
+
+[cópia do Reporte Anual de Título Verde e do Reporte Extraordinário de Título Verde (caso aplicável), nos termos das Cláusulas 7.6.3, 7.18.1.2 e [7.18.2.3] acima, conforme o caso, até as datas previstas nesta Escritura de Emissão];
+
+em até 2 (dois) Dias Úteis após o seu recebimento, cópia de qualquer correspondência ou notificação judicial ou extrajudicial relevante recebida pela Companhia com relação às Debêntures ou a esta Escritura de Emissão; 
+
+dentro de 1 (um) Dia Útil da data em que a Emissora tomar ciência de sua ocorrência, informações sobre a ocorrência de qualquer Evento de Inadimplemento. O descumprimento desta obrigação pela Companhia não impedirá o Agente Fiduciário ou os Debenturistas de exercer, a seu critério, seus poderes, faculdades e pretensões previstas nesta Escritura de Emissão, incluindo o de declarar o vencimento antecipado, conforme aplicável; 
+
+em até 30 (trinta) dias antes do término do prazo para divulgação do relatório referido no inciso (xv) da Cláusula 9.5 abaixo, enviar todos os documentos necessários para elaborar este relatório, informações financeiras razoavelmente solicitadas, e uma cópia do organograma atualizado de seu grupo societário, incluindo as controladoras, controladas (se aplicável), sociedades sob o controle comum, sociedades coligadas e integrantes do bloco de controle, no encerramento de cada exercício social; 
+
+em até 2 (dois) Dias Úteis contados do respectivo arquivamento na JUCESP, 1 (uma) via original arquivada na JUCESP das atas das Assembleias Gerais de Debenturistas relacionadas à Emissão; e
+
+em até 90 (noventa) dias após o encerramento de cada exercício social, um relatório anual a respeito dos principais aspectos da atividade da Emissora para o ano transcorrido, que deverá abranger ao menos uma lista dos Contratos Data Centers vigentes celebrados pela Emissora, sendo que tal lista deverá incluir, pelo menos, (a.i) a contraparte do contrato; (a.ii) a duração de cada contrato; (a.iii) a existência de uma opção de renovação; (a.iv) a receita mínima anual e/ou a comissão exigida por cada 'quilowatt' de capacidade instalada e (a.v) a capacidade de 'quilowatt' contratada; (b) a capacidade total dos data centers da Emissora, assim como a capacidade total contratada; (c) o percentual de rotatividade de clientes (clientes/receita perdida em comparação com o ano anterior); (d) informações atualizadas sobre a energia elétrica, incluindo (d.i) quantidade de energia elétrica adquirida; (d.ii) preço médio da energia elétrica adquirida. Tal relatório anual deverá ser encaminhado pelo Agente Fiduciário aos Debenturistas em até 2 (dois) Dias Úteis contados de seu recebimento após encaminhamento pela Emissora. Não obstante o conteúdo dos relatórios previstos neste item, a Emissora se obriga a disponibilizar quaisquer outras informações que sejam razoavelmente solicitadas pelo Agente Fiduciário com relação às operações dos Data Centers, em até 15 (quinze) Dias Úteis contados da respectiva solicitação; 
+
+Cumprir integralmente as obrigações previstas no artigo 17 da Instrução CVM 476, transcritos abaixo: 
+
+preparar demonstrações financeiras de encerramento de exercício e, se for o caso, demonstrações consolidadas, em conformidade com a Lei das Sociedades por Ações e com a regulamentação da CVM; 
+
+submeter suas demonstrações financeiras à auditoria, por auditor registrado na CVM;
+
+divulgar, até o dia anterior ao início da negociação das Debêntures na B3, as demonstrações financeiras anuais, acompanhadas de notas explicativas e do parecer dos auditores independentes, sobre os últimos 3 (três) exercícios sociais encerrados;
+
+divulgar suas demonstrações financeiras anuais subsequentes, acompanhadas de notas explicativas e parecer dos auditores independentes, dentro de 3 (três) meses do encerramento do exercício social;
+
+observar as disposições da Resolução CVM 44, no tocante ao dever de sigilo e vedações à negociação;
+
+divulgar a ocorrência de fato relevante, conforme definido na Resolução CVM 44, imediatamente informando o Agente Fiduciário; 
+
+fornecer as informações solicitadas pela CVM; e
+
+divulgar em sua página na rede mundial de computadores o relatório anual e demais comunicações enviadas.
+
+Manter sua contabilidade atualizada e disponibilizar os respectivos registros de acordo com as práticas contábeis na República Federativa do Brasil.
+
+Convocar, nos termos da Cláusula 10 abaixo, as Assembleias Gerais de Debenturistas para deliberar sobre quaisquer matérias que, a exclusivo critério da Companhia, direta ou indiretamente, afetem os interesses dos Debenturistas, caso o Agente Fiduciário deva fazer, nos termos da Escritura de Emissão, mas não o faça.
+
+Não realizar operações fora de seu objeto social ou em desacordo com seu estatuto social, observadas as disposições estatutárias, legais e regulatórias em vigor.
+
+Notificar, no prazo máximo de 3 (três) Dias Úteis após a ocorrência do evento, o Agente Fiduciário com relação a qualquer ato ou fato que cause interrupção ou suspensão das atividades da Companhia e que resulte em um Efeito Adverso Relevante para a Emissora.
+
+Manter os bens necessários para sua operação e funcionamento adequadamente segurados, conforme práticas correntes da Emissora, ou valer-se de estruturas de autosseguro, não cabendo a presente verificação ao Agente Fiduciário.
+
+Não praticar quaisquer atos em desacordo com a presente Escritura de Emissão, de acordo com os termos e condições estipulados nos respectivos itens desta Escritura de Emissão.
+
+Manter válidas todas as autorizações e licenças, incluindo aquelas de natureza ambiental, necessárias para a exploração de seus negócios, exceto os casos que estejam sendo questionados de boa-fé nas esferas administrativa e/ou judicial, e desde que tal questionamento tenha efeito suspensivo ou cuja falta ou descumprimento não cause um Efeito Adverso Relevante. 
+
+Exceto com relação àqueles pagamentos que estejam sendo ou que venham a ser questionados ou contestados pela Companhia na esfera judicial ou administrativa e que não cause um Efeito Adverso Relevante, efetuar o pagamento de todos os tributos que entenda devidos aos órgãos Federais, Estaduais ou Municipais. 
+
+Manter, conservar e preservar todos os seus ativos (tangíveis e intangíveis) necessários para a devida condução de suas atividades, exceto se tais ativos forem alienados visando à sua substituição. 
+
+Cumprir todas as leis, incluindo, mas não se limitando, à legislação trabalhista, observado o disposto na Cláusula 8.1.15 abaixo, bem como regras, regulamentos e determinações de órgãos governamentais, autarquias ou tribunais, aplicáveis à condução de seus negócios, exceto aqueles que estão sendo questionados de boa-fé pela Companhia na esfera judicial ou administrativa com a obtenção do efeito suspensivo ou aqueles cujo descumprimento não possa resultar em um Efeito Adverso Relevante. 
+
+Cumprir e fazer com que suas Controladas cumpram (i) a Legislação Socioambiental, adotando as medidas e ações preventivas ou reparatórias destinadas a evitar ou corrigir eventuais danos ambientais decorrentes do exercício das atividades descritas em seu objeto social, em especial com relação aos seus projetos e atividades de qualquer forma beneficiados pela Emissão, de forma a (i) abster-se de adotar práticas de trabalho análogo ao escravo (inclusive aquelas que acarretem a inscrição da Emissora no cadastro de empregadores que tenham mantido trabalhadores em condições análogas à de escravo, instituídas pela Portaria Interministerial nº 4, ou outro cadastro oficial que venha a substituí-lo) e trabalho ilegal de crianças e adolescentes e/ou que incentivem a prostituição no desempenho de suas atividades e/ou que violem os direitos da população indígena; (ii) empregar trabalhadores devidamente registrados nos termos da legislação em vigor; (iii) cumprir com as obrigações decorrentes dos respectivos contratos de trabalho e da legislação trabalhista e previdenciária em vigor; e (iv) cumprir com a legislação aplicável à saúde e segurança do trabalho.  
+
+Orientar seus fornecedores e prestadores de serviços para que sigam as legislações vigentes e adotem as melhores práticas de proteção ao meio ambiente, à segurança e saúde do trabalho, inclusive no tocante ao cumprimento da Legislação Socioambiental, incluindo a não utilização de trabalho infantil, análogo ao escravo, incentivo à prostituição e violação dos direitos dos silvícolas, bem como mediante condição contratual específica.
+ 
+Cumprir e fazer com que suas Controladas, coligadas, seus administradores ou empregados, agindo em nome ou em favor da Emissora ('Representantes'), cumpram e envidar seus melhores esforços para que terceiros ou eventuais subcontratados, agindo em nome ou em favor da Emissora, cumpram a Legislação Anticorrupção, devendo, para tanto, (a) manter políticas e procedimentos internos que assegurem o integral cumprimento de tais normas; (b) dar pleno conhecimento de tais normas a todos os profissionais com quem venha a se relacionar, previamente ao início de sua atuação no âmbito da Emissão; e (c) se abster de praticar atos de corrupção e de agir de forma lesiva à administração pública, nacional e estrangeira, no seu interesse ou para seu benefício, exclusivo ou não. 
+
+Assegurar que os recursos líquidos obtidos com a Oferta não sejam empregados pela Emissora, seus diretores e membros do conselho de administração, no estrito exercício das respectivas funções de administradores da Emissora em: (a) qualquer ato tipificado como uma infração à Legislação Anticorrupção; (b) quaisquer atos que violem a Legislação Socioambiental para o pagamento de contribuições, presentes ou atividades de entretenimento ilegais ou qualquer outra despesa ilegal relativa à atividade política, para o pagamento ilegal, direto ou indireto, a empregados ou funcionários públicos, partidos políticos, políticos ou candidatos políticos (incluindo seus familiares), nacionais ou estrangeiros; (c) em ação destinada a facilitar uma oferta, pagamento ou promessa ilegal de pagar, bem como ter aprovado ou aprovar o pagamento, a doação de dinheiro, propriedade, presente ou qualquer outro bem de valor, direta ou indiretamente, para qualquer 'oficial do governo' (incluindo qualquer oficial ou funcionário de um governo ou de entidade de propriedade ou controlada por um governo ou organização pública internacional ou qualquer pessoa agindo na função de representante do governo ou candidato de partido político) a fim de influenciar qualquer ação política ou obter uma vantagem indevida com violação da lei aplicável; e (d) em quaisquer atos para obter ou manter qualquer negócio, transação ou vantagem comercial indevida. [Nota: Conceito já abarcado pelo item 'b' acima]
+
+Não realizar e nem autorizar seus Representantes a realizar, em benefício próprio ou para a Emissão: (a) o uso de recursos para contribuições, doações ou despesas de representação ilegais ou outras despesas ilegais relativas a atividades políticas; (b) qualquer pagamento ilegal, direto ou indireto, a empregados ou funcionários públicos, partidos políticos, políticos ou candidatos políticos (incluindo seus familiares), nacionais ou estrangeiros, ou quaisquer atos para obter ou manter qualquer negócio, transação ou vantagem comercial indevida; e/ou (c) qualquer pagamento de propina, abatimento ilícito, remuneração ilícita, suborno, tráfico de influência, 'caixinha' ou outro pagamento ilegal.
+
+Contratar e manter contratados os prestadores de serviço inerentes às obrigações previstas nesta Escritura de Emissão, incluindo o Agente Fiduciário, o Escriturador, o Agente de Liquidação, a Consultoria Especializada, bem como o ambiente de negociação das Debêntures no mercado secundário (CETIP21).
+
+Notificar o Agente Fiduciário, em até 2 (dois) Dias Úteis contados da data em que tomar conhecimento, caso quaisquer das declarações por ela prestadas na presente Escritura de Emissão tenham sido inverídicas, inconsistentes, insuficientes ou incorretas, em qualquer aspecto relevante, na data em que foram prestadas.
+
+Não omitir qualquer fato de qualquer natureza que seja de seu conhecimento e que cause alteração substancial na situação econômico-financeira ou jurídica da Emissora em prejuízo dos Debenturistas, ressalvadas as informações que a Companhia não está autorizada a divulgar segundo os termos das leis e regulamentos aplicáveis. 
+
+Caso a Emissora tenha conhecimento de qualquer violação da legislação Anticorrupção praticada por ela, a Emissora comunicará esse fato para o Agente Fiduciário em até 2 (dois) Dias Úteis contados da data em que tomar conhecimento de tal violação, ressalvadas as violações que a Companhia não esteja autorizada a divulgar nos termos da legislação e regulamentação a ela aplicáveis. 
+
+Apresentar aos Debenturistas, no âmbito da Emissão, informações verdadeiras, consistentes, corretas e suficientes, na forma do artigo 10 da Instrução CVM 476.
+
+
+Exceto pelos Pagamentos Permitidos, não realizar qualquer transação direta ou indiretamente com ou para o benefício de qualquer parte relacionada da Emissora, exceto por (i) transações no curso ordinário dos negócios da Emissora, com termos justos, razoáveis e não menos favoráveis para a Emissora que os que seriam obtidos em uma transação similar com qualquer entidade que não seja uma parte relacionada da Emissora, incluindo contratos celebrados com a Modular Data Centers Indústria, Comércio e Serviços Ltda., inscrita no CNPJ/ME sob o nº 08.061.365/0001-38, relacionados ao desenvolvimento (fast deploy) de projetos de data centers; (ii) emissões de novas ações pela Emissora, contanto que antes da data de tal emissão de ações, tais novas ações sejam outorgadas em garantia em favor dos Debenturistas; e (iii) serviços de consultoria prestados pela administração ou outros funcionários da Emissora a uma parte relacionada, contanto que esses serviços não reduzam de maneira relevante a qualidade ou as características dos serviços que a administração ou os funcionários prestam para a Emissora. 
+
+
+Caso a Emissora assine novos contratos denominados em moeda estrangeira de modo que a receita bruta anual denominada em moeda estrangeira da Emissora passe a representar 30% (trinta por cento) ou mais da receita bruta anual total da Emissora, a Emissora obriga-se a convocar Assembleia Geral de Debenturistas para que seja discutido e deliberado a respeito da forma mais adequada, a critério dos Debenturistas, em consulta com a Emissora, de se mitigar o risco cambial decorrente de tais contratos denominados em moeda estrangeira. 
+
+(i) Informar imediatamente o Agente Fiduciário sobre a existência de quaisquer investigações, processos administrativos e/ou judiciais relacionados à violação da Legislação Anticorrupção em vigor; (ii) informar o Agente Fiduciário, assim que tomar conhecimento, de qualquer violação, pela Emissora, suas Afiliadas, suas subsidiárias, ou seus respectivos Representantes, da Legislação Anticorrupção em vigor que esteja sujeita a investigação por uma Autoridade Governamental; (iii) não fazer, ofertar ou comprometer, direta ou indiretamente, pagamentos em dinheiro ou na forma de gratificações, doações, bens ou serviços ou qualquer item de valor (econômico ou outro) a um Agente Público, visando obter qualquer vantagem indevida na forma de: (a) conduta ou omissão de qualquer ato em violação a seu dever legítimo ou oficial; (b) indução desse Agente Público a influenciar governos nacionais ou estrangeiros ou qualquer um de seus órgãos para afetar ou influenciar qualquer ato ou decisão em seu favor; ou (c) obter ou reter negócios para si; (iv) não fazer, oferecer ou prometer, concordar ou solicitar, direta ou indiretamente, (a) pagamento, dinheiro, doações, bens, serviços ou qualquer item de valor (econômico ou outro); e/ou (b) desconto ilegal, tráfico de influências, propina ou outros pagamentos ilegais ou indevidos em benefício de uma pessoa em troca do tratamento favorável para obter, reter ou direcionar negócios para si, ou obter qualquer concessão especial em seu nome; (v) não utilizar nenhum recurso para qualquer contribuição, concessão, pagamento de entretenimento, ou qualquer outra despesa ilegal em relação a uma atividade política, assim como não fazer, ilegalmente, qualquer oferta, promessa ou entrega de pagamento, dinheiro, doações, bens, serviços ou item de valor (econômico ou outro) a partidos políticos e/ou candidatos a cargos eletivos e (vi) manter os Debenturistas e o Agente Fiduciário livres de qualquer responsabilidade que possam contrair por danos ambientais ou avaliações de natureza trabalhista ou em relação à saúde ocupacional e segurança ou falta de conformidade pela Emissora, suas Afiliadas ou por suas subsidiárias ou respectivos Representantes com Legislação Anticorrupção originadas pela e/ou contra a Emissora, obrigando-se a Emissora a reembolsar os Debenturistas e o Agente Fiduciário de quaisquer valores que venham a reembolsar com relação a condenações ou tributações contra a Emissora ou suas Controladas. [Nota: sob revisão da Companhia]
+
+(i) Conduzir suas operações, no âmbito de seus negócios habituais, de acordo com Legislação Anticorrupção; e (ii) imediatamente informar o Agente Fiduciário se ela ou se seus Representantes forem ameaçados de serem investigados e/ou acusados no âmbito de qualquer ação, processo ou procedimento pendente perante qualquer tribunal, Autoridade Governamental ou regulatória, órgão ou árbitro com relação à Legislação Anticorrupção. [Nota MM: Em avaliação pelos Coordenadores.]
+
+Neste ato, a Emissora concorda e concede para o Agente Fiduciário o direito de tomar as ações necessárias para garantir a conformidade com as disposições segundo este instrumento no que tange à Legislação Anticorrupção segundo as Cláusulas 8.1.21 e 8.1.22 acima, incluindo o direito de revisar as políticas e procedimentos relacionados à Emissora, assim como se compromete a exigir e supervisionar a conformidade com as obrigações assumidas nas referidas Cláusulas, por suas Afiliadas, conselheiros, diretores, funcionários e terceiros que a representam, devendo relatar dentro de 2 (dois) Dias Úteis ao Agente Fiduciário qualquer suspeita, violação ou prova de violação das disposições contidas neste instrumento, assim como o início de uma investigação pública ou privada, administrativa e/ou procedimento judicial acerca das violações descritas neste instrumento.
+[Nota MM: Em avaliação pelos Coordenadores.]
+
+(i) Conduzir suas operações de acordo com as Sanções; e (ii) imediatamente informar o Agente Fiduciário assim que tomar conhecimento de quaisquer violações das Sanções. 
+[Nota MM: Em avaliação pelos Coordenadores.]
+
+A Companhia obriga-se, neste ato, em caráter irrevogável e irretratável, a cuidar para que as operações que venha a praticar no âmbito da B3 sejam consistentes com as boas práticas de mercado, com plena observância das normas aplicáveis à matéria.
+
+Obrigações Adicionais da Companhia
+A Companhia está adicionalmente obrigada a:
+fornecer ao Agente Fiduciário:
+na data em que ocorrer primeiro entre o decurso de 3 (três) meses contados da data de término de cada exercício social ou a data da efetiva divulgação, cópia das demonstrações financeiras consolidadas da Companhia auditadas por auditor independente registrado na CVM ('Auditor Independente da Companhia'), relativas ao respectivo exercício social, preparadas de acordo com a Lei das Sociedades por Ações e as regras emitidas pela CVM ('Demonstrações Financeiras Consolidadas Auditadas da Companhia');
+na data em que ocorrer primeiro entre o decurso de 45 (quarenta e cinco) dias contados da data de término de cada trimestre de seu exercício social (exceto pelo último trimestre de seu exercício social) e a data da efetiva divulgação, cópia das demonstrações financeiras consolidadas da Companhia com revisão limitada pelo Auditor Independente da Companhia, relativas ao respectivo trimestre, preparadas de acordo com a Lei das Sociedades por Ações e as regras emitidas pela CVM ('Demonstrações Financeiras Consolidadas Revisadas da Companhia', sendo as Demonstrações Financeiras Consolidadas Auditadas da Companhia e as Demonstrações Financeiras Consolidadas Revisadas da Companhia, quando referidas indistintamente, 'Demonstrações Financeiras Consolidadas da Companhia'); 
+no prazo de até 10 (dez) Dias Úteis contados das datas a que se referem as alíneas (a) e (b) acima, relatório específico de apuração do Índice Financeiro, elaborado pela Companhia, contendo a memória de cálculo com todas as rubricas necessárias que demonstrem o cálculo do Índice Financeiro, sob pena de impossibilidade de acompanhamento do Índice Financeiro pelo Agente Fiduciário, podendo este solicitar à Companhia e/ou ao Auditor Independente da Companhia todos os eventuais esclarecimentos adicionais que se façam necessários;
+no prazo de até 10 (dez) Dias Úteis contados da data a que se refere a alínea (a) acima, declaração firmada por representantes legais da Companhia, na forma de seu estatuto social, atestando (i) a veracidade e ausência de vícios do Índice Financeiro; (ii) que permanecem válidas as disposições contidas nesta Escritura de Emissão; (iii) a não ocorrência de qualquer Evento de Inadimplemento e a inexistência de descumprimento de qualquer obrigação prevista nesta Escritura de Emissão; (iv) que seus bens foram mantidos assegurados nos termos do inciso VIII abaixo; e (v) que não foram praticados atos em desacordo com seu estatuto social; 
+no prazo de até 10 (dez) Dias Úteis antes da data de encerramento do prazo para disponibilização, na página do Agente Fiduciário na rede mundial de computadores, do relatório anual do Agente Fiduciário, conforme Resolução da CVM n.º 17, de 9 de fevereiro de 2021, conforme alterada ('Resolução CVM 17'), informações financeiras, atos societários e organograma do grupo societário da Companhia (que deverá conter todas as suas Afiliadas e integrantes do bloco de Controle no encerramento de cada exercício social) e demais informações razoáveis e necessárias à realização do relatório que venham a ser solicitados, por escrito, pelo Agente Fiduciário;
+no prazo de até 2 (dois) Dias Úteis contados da data em que forem realizados, avisos aos Debenturistas;
+no prazo de até 2 (dois) Dias Úteis contados da data de ocorrência, informações a respeito da ocorrência de (i) qualquer inadimplemento, pela Companhia, de qualquer obrigação prevista nesta Escritura de Emissão; e/ou (ii) qualquer Evento de Inadimplemento; 
+no prazo de até 2 (dois) Dias Úteis contados da data de ciência, informações a respeito da ocorrência de qualquer evento ou situação que cause um Efeito Adverso Relevante;
+no prazo de até 15 (quinze) Dias contados da data de sua ocorrência, informações a respeito de alterações comerciais e/ou estruturais a qualquer dos Contratos Operacionais;
+no prazo de até 5 (cinco) Dias Úteis contados da data de recebimento da respectiva solicitação, informações e/ou documentos que venham a ser razoavelmente solicitados pelo Agente Fiduciário;
+no prazo de até 5 (cinco) Dias Úteis contados da data da respectiva celebração desta Escritura de Emissão e de seus aditamentos, cópia eletrônica (formato PDF) do protocolo para arquivamento desta Escritura de Emissão ou do respectivo aditamento a esta Escritura de Emissão perante a JUCERJA;
+no prazo de até 5 (cinco) Dias Úteis contados da data da respectiva inscrição na JUCERJA, (i) uma via original desta Escritura de Emissão ou do respectivo aditamento a esta Escritura de Emissão inscrita(o) na JUCERJA; ou (ii) caso aplicável, uma via original desta Escritura de Emissão ou do respectivo aditamento a esta Escritura de Emissão, acompanhada de cópia eletrônica (formato PDF) desta Escritura de Emissão ou do respectivo aditamento a esta Escritura de Emissão contendo a chancela digital de inscrição na JUCERJA;
+no prazo de até 5 (cinco) Dias Úteis contados da data do respectivo arquivamento na JUCERJA, (i) uma via original da respectiva ata de Assembleia Geral de Debenturistas arquivada na JUCERJA; ou (ii) caso aplicável, cópia eletrônica (formato PDF) da respectiva ata de Assembleia Geral de Debenturistas contendo a chancela digital de arquivamento na JUCERJA; e
+no prazo de até 10 (dez) Dias Úteis contados da data de destinação dos recursos líquidos obtidos com a Emissão, declaração firmada por representantes legais da Companhia acerca da destinação dos recursos líquidos obtidos com a Emissão nos termos da Cláusula 3.5 acima;
+tomar todas as medidas e arcar com todos os custos (a) decorrentes da Emissão e da Oferta, incluindo todos os custos relativos ao depósito das Debêntures na B3; (b) de registro e de publicação dos atos necessários à Emissão, tais como esta Escritura de Emissão, seus eventuais aditamentos e os Atos Societários; e (c) de contratação do Agente Fiduciário, do Agente de Liquidação e do Escriturador;
+não realizar operações fora de seu objeto social e não praticar qualquer ato em desacordo com seu estatuto social;
+cumprir, e fazer com que suas Controladas Relevantes cumpram, as leis, regulamentos, normas administrativas e determinações dos órgãos governamentais, autarquias ou instâncias judiciais aplicáveis ao exercício de suas atividades, exceto por aqueles questionados de boa-fé nas esferas administrativa e/ou judicial ou cujo descumprimento não possa causar um Efeito Adverso Relevante;
+cumprir e envidar seus melhores esforços para fazer com que suas Controladas, seus empregados e eventuais subcontratados cumpram, a Legislação Anticorrupção, bem como (a) manter políticas e procedimentos internos objetivando a divulgação e o integral cumprimento da Legislação Anticorrupção; (b) dar conhecimento acerca da necessidade de observância da Legislação Anticorrupção aos profissionais com quem venha a contratar, por ocasião de sua contratação; (c) abster-se de praticar atos de corrupção e de agir de forma lesiva à administração pública, nacional e estrangeira, no seu interesse ou para seu benefício, exclusivo ou não; e (d) no prazo de até 2 (dois) Dias Úteis contados da data de ciência, comunicar os Debenturistas e o Agente Fiduciário de qualquer ato ou fato que comprovadamente tenha violado a Legislação Anticorrupção. Para fins desta Escritura de Emissão, 'Legislação Anticorrupção' significa as disposições legais e regulamentares relacionadas à prática de corrupção e atos lesivos à administração pública e ao patrimônio público, nacional ou estrangeiros, incluindo, sem limitação, a Lei n.º 12.846, de 1º de agosto de 2013, conforme alterada, o Decreto n.º 8.420, de 18 de março de 2015, conforme alterado, e, conforme aplicável, o U.S. Foreign Corrupt Practices Act of 1977, o U.K. Bribery Act e o Canada's Corruption of Foreign Public Officials Act;
+cumprir e, ainda fazer com que suas Controladas cumpram (a) as leis e regulamentos relativos à discriminação de raça ou gênero, inexistência de incentivo à prostituição e/ou a não utilização de mão de obra infantil e/ou em condições análogas às de escravo ou que de qualquer forma possa infringir os direitos dos silvícolas, bem como ao direito sobre as áreas de ocupação indígena, assim declaradas pela autoridade competente ('Legislação Socioambiental'), assim como não adotar ações que incentivem a prostituição, em especial com relação aos seus projetos e atividades de qualquer forma beneficiados pela Emissão; e (b) as demais legislações ambientais e legislações trabalhistas e regulamentações trabalhistas (incluindo, mas não se limitando, aquelas relativas a saúde e segurança ocupacional) não abarcadas pela alínea (a) acima, exceto, no caso desta alínea (b), por aquelas questionadas de boa-fé nas esferas administrativa ou judicial ou cujo descumprimento não possa causar um Efeito Adverso Relevante, zelando sempre para que os trabalhadores da Companhia e suas Controladas estejam devidamente registrados nos termos da legislação em vigor e a Companhia e suas Controladas cumpram as obrigações decorrentes dos respectivos contratos de trabalho e da legislação trabalhista e previdenciária em vigor; 
+manter, assim como suas Controladas Relevantes, em dia o pagamento de todas as obrigações de natureza tributária (municipal, estadual e federal), trabalhista, previdenciária, ambiental e de quaisquer outras obrigações impostas por lei, exceto por aquelas questionadas de boa-fé nas esferas administrativa e/ou judicial ou cujo descumprimento não possa causar um Efeito Adverso Relevante;
+manter, e fazer com que suas Controladas Relevantes mantenham, seguro adequado para seus bens e ativos relevantes, conforme práticas correntes da indústria em que atua;
+manter sempre válidas, eficazes, em perfeita ordem e em pleno vigor todas as autorizações necessárias à celebração desta Escritura de Emissão e ao cumprimento de todas as obrigações aqui previstas;
+contratar e manter contratados, às suas expensas, os prestadores de serviços inerentes às obrigações previstas nesta Escritura de Emissão, incluindo o Agente Fiduciário, o Escriturador, o Agente de Liquidação, o Auditor Independente da Companhia, o ambiente de distribuição no mercado primário (MDA) e o ambiente de negociação no mercado secundário (CETIP21);
+realizar o recolhimento de todos os tributos que incidam ou venham a incidir sobre a Emissão que sejam de responsabilidade da Companhia;
+realizar (a) o pagamento da remuneração do Agente Fiduciário, nos termos da Cláusula 8.4 abaixo, inciso I; e (b) desde que assim solicitado pelo Agente Fiduciário, o pagamento das despesas devidamente comprovadas incorridas pelo Agente Fiduciário, nos termos da Cláusula 8.4 abaixo, inciso II;
+notificar, na mesma data, o Agente Fiduciário da convocação, pela Companhia, de qualquer Assembleia Geral de Debenturistas;
+convocar, no prazo de até 2 (dois) Dias Úteis, Assembleia Geral de Debenturistas para deliberar sobre qualquer das matérias que sejam do interesse dos Debenturistas, caso o Agente Fiduciário deva fazer, nos termos da lei e/ou desta Escritura de Emissão, mas não o faça no prazo aplicável;
+comparecer, por meio de um de seus representantes, às Assembleias Gerais de Debenturistas, sempre que solicitada; 
+sem prejuízo das demais obrigações previstas acima ou de outras obrigações expressamente previstas na regulamentação em vigor e nesta Escritura de Emissão, cumprir com as obrigações previstas no artigo 17 da Instrução CVM 476, quais sejam:
+preparar demonstrações financeiras de encerramento de exercício e, se for o caso, demonstrações consolidadas, em conformidade com a Lei das Sociedades por Ações e com as regras emitidas pela CVM;
+submeter suas demonstrações financeiras a auditoria, por auditor registrado na CVM;
+divulgar, até o dia anterior ao início das negociações das Debêntures, as demonstrações financeiras, acompanhadas de notas explicativas e do relatório dos auditores independentes, relativas aos 3 (três) últimos exercícios sociais encerrados, (i) em sua página na rede mundial de computadores, mantendo-as disponíveis pelo período de 3 (três) anos; e (ii) em sistema disponibilizado pela B3;
+divulgar as demonstrações financeiras subsequentes, acompanhadas de notas explicativas e relatório dos auditores independentes, dentro de 3 (três) meses contados do encerramento do exercício social, (i) em sua página na rede mundial de computadores, mantendo-as disponíveis pelo período de 3 (três) anos; e (ii) em sistema disponibilizado pela B3;
+observar as disposições da Resolução da CVM n.º 44, de 23 de agosto de 2021 ('Resolução CVM 44'), no tocante a dever de sigilo e vedações à negociação;
+divulgar a ocorrência de fato relevante, conforme definido no artigo 2º da Resolução CVM 44 (i) em sua página na rede mundial de computadores, mantendo-as disponíveis pelo período de 3 (três) anos; e (ii) em sistema disponibilizado pela B3;
+fornecer as informações solicitadas pela CVM;
+divulgar em sua página na rede mundial de computadores o relatório anual e demais comunicações enviadas pelo Agente Fiduciário na mesma data do seu recebimento, observado, ainda, o disposto no item (d) acima; e
+observar as disposições da regulamentação específica editada pela CVM, caso seja convocada, para realização de modo parcial ou exclusivamente digital, assembleia de titulares de Debêntures; e
+caso uma Controlada da Companhia venha a se tornar uma Controlada Relevante da Companhia nos termos desta Escritura de Emissão, tal Controlada deverá, dentro de até 120 (cento e vinte) dias contados da data de alteração de seu status de Controlada para Controlada Relevante, promover a desoneração de Ônus constituídos sobre seus ativos que representem um montante total agregado que exceda R$[220.000.000,00] ([duzentos e vinte milhões de reais]), atualizados anualmente, a partir da Data de Emissão, pela variação positiva do IGPM, ou seu equivalente em outras moedas. [Nota PG: IBBA, favor confirmar threshold]
+
+OBRIGAÇÕES ADICIONAIS DA COMPANHIA
+
+Sem prejuízo das demais obrigações assumidas nesta Escritura de Emissão e nos termos da legislação aplicável, a Emissora se obriga a: 
+
+cumprir todos os requisitos e obrigações estabelecidos nesta Escritura de Emissão e na regulamentação em vigor pertinente à matéria, em especial as obrigações previstas no artigo 17 da Instrução CVM 476;
+
+enviar à CVM informações periódicas e eventuais, verdadeiras, completas, consistentes e que não induzam o investidor a erro, nos termos da Instrução da CVM nº 480, de 07 de dezembro de 2009, conforme alterada ('Instrução CVM 480');
+
+enviar, periodicamente: (i) o formulário cadastral; (ii) o Formulário de Referência (conforme abaixo definido); (iii) as demonstrações financeiras; (iv) o formulário de demonstrações financeiras padronizadas – DFP; (v) o formulário de informações trimestrais – ITR; e (vi) as demais informações previstas no artigo 21 da Instrução CVM 480;
+
+apresentar nos prazos legais ao público as decisões tomadas pela Emissora com relação a seus resultados operacionais, atividades comerciais e quaisquer outros fatos considerados relevantes nos termos da regulamentação expedida pela CVM;
+
+fornecer todas as informações solicitadas pela CVM, pela ANBIMA e/ou pela B3, conforme o caso;
+
+comunicar em até 1 (um) Dia Útil ao Agente Fiduciário a ocorrência de qualquer Evento de Inadimplemento, bem como qualquer inadimplemento quanto ao cumprimento de qualquer de suas obrigações referentes às Debêntures ou qualquer outro evento que possa trazer prejuízo aos Debenturistas, sendo que o descumprimento desse dever pela Emissora não impedirá o Agente Fiduciário ou os Debenturistas de, a seu critério, exercer seus poderes, faculdades e pretensões previstos na presente Escritura de Emissão, inclusive o de declarar o vencimento antecipado das Debêntures, se for o caso;
+
+comunicar em até 1 (um) Dia Útil ao Agente Fiduciário qualquer condenação em decisão transitada em julgado decorrente de processo judicial, ou sentença arbitral definitiva, que afete, de forma relevante e adversa, a Emissora ou a capacidade da Emissora de cumprir suas obrigações nos termos desta Escritura de Emissão ou, ainda, qualquer evento, fato ou circunstância potencial que vier a ser de seu conhecimento e que possa ser considerado pela Emissora como apto a afetar a validade, legalidade ou eficácia das Debêntures, mantendo o Agente Fiduciário informado por meio de relatórios semanais, sobre o ato, a ação, o procedimento e o processo em questão e as medidas a serem tomadas;
+
+comunicar em até 1 (um) Dia Útil ao Agente Fiduciário qualquer fato que seja do seu conhecimento e possa vir a afetar negativamente e de forma relevante seu desempenho financeiro e/ou operacional, atividades comerciais e/ou quaisquer outros fatos considerados relevantes, inclusive reputacionais, nos termos da regulamentação expedida pela CVM;
+
+manter sua existência legal e válidas e regulares as licenças, concessões ou aprovações necessárias, inclusive ambientais, exigidas pelos órgãos regulatórios competentes ao seu regular funcionamento, exceto caso as referidas autorizações, concessões, alvarás, subvenções ou licenças, conforme o caso, estejam em processo tempestivo de obtenção ou renovação nos termos das leis e normas aplicáveis ao setor de atuação da Emissora;
+
+cumprir as leis, regras, regulamentos, normas administrativas e determinações dos órgãos governamentais, autarquias ou tribunais, aplicáveis à condução de seus negócios e/ou de suas controladas, exceto por aqueles que questionadas nas esferas administrativa e/ou judicial e que tenham sua exigibilidade e efeitos suspensos por decisão judicial ou administrativa;
+
+atender de forma eficiente às solicitações dos Debenturistas e do Agente Fiduciário, observada a sua razoabilidade;
+
+contratar e manter contratados, às suas expensas, durante todo o prazo de vigência das Debêntures, os prestadores de serviços inerentes às obrigações previstas nesta Escritura de Emissão, incluindo, mas não se limitando a: (i) o Banco Liquidante; (ii) o Escriturador; (iii) o Agente Fiduciário; e (iv) os ambientes de distribuição e negociação das Debêntures nos mercados primário e secundário, respectivamente;
+
+manter contratada ou contratar às suas expensas, conforme o caso, pelo menos uma agência de classificação de risco, entre Standard & Poor’s, Fitch Ratings ou Moody’s America Latina, para realizar a classificação de risco (rating) das Debêntures até a data da liquidação da Oferta, devendo, ainda, (a) divulgar em sua página na Internet ou na página da CVM na Internet, e permitir que a Agência de Classificação de risco divulgue amplamente ao mercado o relatório com a súmula da classificação de risco; e (b) entregar ao Agente Fiduciário o relatório de classificação de risco preparado pela agência de classificação de risco no prazo de até 5 (cinco) Dias Úteis contados da data de seu recebimento pela Emissora;
+
+manter atualizado, pelo menos anualmente e até o vencimento das Debêntures, relatório de classificação de risco (rating) das Debêntures, devendo a atualização anual ser a partir da data de emissão do último relatório;
+
+não revelar informações relativas à Emissão, exceto aquilo que for necessário à consecução de seus objetivos, advertindo os destinatários sobre o caráter reservado da informação transmitida, tudo em conformidade com o disposto na regulamentação aplicável, incluindo, mas não se limitando a, o disposto na Instrução CVM 476 e no artigo 48 da Instrução CVM nº 400, de 29 de dezembro de 2003, conforme alterada ('Instrução CVM 400'), bem como abster-se de, até o envio da Comunicação de Encerramento da Emissão à CVM, utilizar as informações referentes à Emissão, exceto para fins estritamente relacionados com a preparação da Emissão;
+
+abster-se de negociar valores mobiliários de sua emissão, até o envio da Comunicação de Encerramento, salvo nas hipóteses previstas no inciso II do artigo 48 da Instrução CVM 400, observadas as disposições previstas na regulamentação aplicável;
+
+manter as Debêntures registradas para negociação no mercado secundário durante o seu respectivo prazo de vigência, arcando com os custos dos referidos registros; 
+
+cumprir todas as determinações da CVM, com o envio de documentos e, ainda, prestando as informações que lhe forem solicitadas;
+
+efetuar recolhimento de quaisquer tributos ou contribuições que incidam ou venham a incidir sobre a Emissão e que sejam de responsabilidade da Emissora de acordo com a legislação tributária aplicável;
+
+manter atualizado o registro de companhia aberta na CVM e cumprir integralmente com as obrigações de envio à CVM de informações periódicas e eventuais e de divulgação e colocação de tais informações à disposição dos investidores nos termos da Instrução CVM 480;
+
+não realizar operações fora de seu objeto social, observadas as disposições estatutárias, legais e regulamentares em vigor;
+
+manter em vigor a estrutura de contratos necessária para lhe assegurar a manutenção de suas condições de operação e funcionamento;
+
+manter seus bens essenciais para o desempenho do seu objeto social adequadamente segurados por companhias de seguro de primeira linha, conforme práticas usualmente adotadas pela Emissora; 
+
+exceto com relação àqueles pagamentos questionados na esfera judicial ou administrativa cujo não pagamento resulte em impacto adverso relevante para suas atividades, ou para sua capacidade em honrar tempestivamente as obrigações pecuniárias relativas às Debêntures, manter em dia o pagamento de todos os tributos devidos às Fazendas Federal, Estadual ou Municipal; 
+
+utilizar a parcela das Debêntures distribuídas e colocadas para amortizar ao menos R$ 200.000.000,00 (duzentos milhões de reais) da 8ª Emissão da Emissora;
+
+fornecer ao Agente Fiduciário, sendo que, no caso das alíneas (i) a (iii) abaixo, tais informações também serão fornecidas por meio de disponibilização em sua página na Internet () ou na página da CVM na Internet: 
+
+dentro de, no máximo, 90 (noventa) dias após o término de cada exercício social, ou prazo de até 3 (três) Dias Úteis contados de sua efetiva divulgação, o que ocorrer primeiro: (i) cópia de suas demonstrações financeiras completas relativas ao respectivo exercício social encerrado, acompanhadas de parecer dos auditores independentes; e (ii) cópia atualizada do organograma do grupo societário da Emissora;
+
+dentro de, no máximo, 45 (quarenta e cinco) dias após o término de cada trimestre ou no prazo de até 3 (três) Dias Úteis contados de sua efetiva divulgação, o que ocorrer primeiro, cópia de suas informações trimestrais relativas aos respectivos trimestres, acompanhada do relatório da administração e do parecer de auditoria ou relatório de revisão especial dos auditores independentes;
+
+nos mesmos prazos previstos na Instrução CVM 480, notificação da convocação de qualquer assembleia geral de acionistas e cópias de todas as atas de todas as assembleias gerais de acionistas, bem como a data e ordem do dia da assembleia a se realizar;
+
+declaração, em papel timbrado e assinada por representante legal, atestando a destinação dos recursos da presente Emissão em até 30 (trinta) dias corridos da data da efetiva destinação da totalidade dos recursos ou na Data de Vencimento, o que ocorrer primeiro, indicando, inclusive, os recursos utilizados para as despesas da Emissão, podendo o Agente Fiduciário solicitar à Emissora todos os eventuais esclarecimentos e documentos adicionais que se façam necessários;
+
+em até 10 (dez) Dias Úteis da data de apresentação das demonstrações financeiras consolidadas auditadas da Emissora, declaração do Diretor de Relações com Investidores da Emissora ou outro representante legal estatutário, atestando (a) a veracidade e ausência de vícios no cálculo dos Índices Financeiros; (b) que permanecem válidas as disposições contidas nesta Escritura de Emissão; (c) em seu melhor conhecimento, as declarações prestadas nesta Escritura de Emissão permanecem válidas; (d) a não ocorrência de qualquer Evento de Inadimplemento e a existência de descumprimento de qualquer obrigação prevista nesta Escritura de Emissão ou em desacordo com seu estatuto social; e (e) o cumprimento da obrigação de manutenção do registro de emissor de valores mobiliários perante a CVM; 
+
+no prazo de até 5 (cinco) Dias Úteis contados das datas a que se referem as alíneas (i) e (ii) acima, o relatório consolidado da memória de cálculo compreendendo todas as rubricas necessárias ao acompanhamento dos Índices Financeiros, acompanhadas de demonstração do cálculo dos Índices Financeiros devidamente calculados pela Emissora; 
+
+em até 5 (cinco) Dias Úteis contados da solicitação, documentos e informações sobre a Emissora e seus ativos que o Agente Fiduciário eventualmente requeira; e
+
+em até 2 (dois) Dias Úteis após o seu recebimento, cópia de qualquer correspondência relevante ou notificação judicial ou extrajudicial recebida pela Emissora, relativa às Debêntures ou à presente Escritura de Emissão;
+
+convocar Assembleia Geral de Debenturistas para deliberar sobre qualquer das matérias que direta ou indiretamente se relacione com a Emissão, caso o Agente Fiduciário não o faça;
+
+notificar em até 1 (um) Dia Útil o Agente Fiduciário caso quaisquer das declarações prestadas na presente Escritura de Emissão tornem-se total ou parcialmente inverídicas, incompletas ou incorretas; 
+
+assegurar que os recursos líquidos obtidos com a Oferta não sejam empregados em (i) qualquer oferta, promessa ou entrega de pagamento ou outra espécie de vantagem indevido a funcionário, empregado ou agente público, partidos políticos, políticos ou candidatos políticos, em âmbito nacional ou internacional, ou a terceiras pessoas relacionadas; (ii) pagamentos que possam ser considerados como propina, abatimento ilícito, remuneração ilícita, suborno, tráfico de influência ou atos de corrupção em geral em relação a autoridades públicas nacionais e estrangeiras; e (iii) qualquer outro ato que possa ser considerado lesivo à administração pública nos termos das Leis Anticorrupção;
+
+até a Data de Vencimento, observar, cumprir e/ou fazer cumprir, por si, e por suas Afiliadas, suas coligadas e Representantes (conforme definido abaixo) toda e qualquer Lei Anticorrupção, bem como abster-se de (a) praticar a utilização de recursos para contribuições, doações ou despesas ilegais relativas a atividades políticas; (b) realizar qualquer pagamento ilegal, direto ou indireto, a empregados ou funcionários públicos, partidos políticos, políticos ou candidatos políticos, incluindo seus familiares, nacionais ou estrangeiros, (c) praticar quaisquer atos para obter ou manter qualquer negócio, transação ou vantagem comercial indevida; (d) violar qualquer dispositivo de qualquer lei ou regulamento contra prática de corrupção ou atos lesivos à administração pública, incluindo, sem limitação, as Leis Anticorrupção; e (e) realizar qualquer pagamento de propina, abatimento ilícito, remuneração ilícita, suborno, tráfico de influência, 'caixinha' ou outro pagamento ilegal (em conjunto 'Condutas Indevidas'), devendo (i) manter políticas e procedimentos internos que assegurem integral cumprimento das Leis Anticorrupção, incluindo, sem limitação, por funcionários e terceiros; (ii) dar conhecimento pleno de tais normas a todos os seus profissionais e/ou os demais prestadores de serviços que venham a se relacionar; (iii) abster-se de praticar atos de corrupção e de agir de forma lesiva à administração pública, nacional ou estrangeira; e (iv) caso tenha conhecimento de qualquer ato ou fato que viole aludidas normas, comunicar imediatamente ao Agente Fiduciário, que poderá tomar todas as providências que entender necessárias;
+
+cumprir e, ainda fazer com que suas Afiliadas cumpram rigorosamente a as leis, regulamentos e demais normas ambientais e trabalhistas em vigor, relativas à saúde e segurança ocupacional, inclusive no que se refere à inexistência de trabalho infantil e análogo a de escravo, discriminação de raça e gênero e direitos dos silvícolas, incluindo, mas não se limitando, ao disposto na Legislação Socioambiental (conforme definido abaixo), assim como não adotar ações que incentivem a prostituição, em especial com relação aos seus projetos e atividades de qualquer forma beneficiados pela Emissão, zelando sempre para que os trabalhadores da Emissora estejam devidamente registrados nos termos da legislação em vigor e a Emissora cumpra as obrigações decorrentes dos respectivos contratos de trabalho e da legislação trabalhista e previdenciária em vigor, mantendo, ainda, as licenças ambientais válidas e/ou dispensas e/ou protocolo junto às autoridades públicas, bem como todos os registros necessários, em conformidade com a legislação civil e ambiental aplicável, observados os prazos previstos no artigo 18, §4º, da Resolução do Conselho Nacional do Meio Ambiente – CONAMA nº 237, de 19 de dezembro de 1997 e/ou os prazos definidos pelos órgãos ambientais das jurisdições em que a Emissora atue, adotando as medidas e ações preventivas e reparatórias, destinadas a evitar e corrigir eventuais danos ao meio ambiente e a seus trabalhadores decorrentes das atividades descritas em seu objeto social e, ainda, proceder a todas as diligências exigidas para suas atividades econômicas, preservando o meio ambiente e atendendo às determinações dos órgãos municipais, estaduais e federais que, subsidiariamente, venham a legislar ou regulamentar as normas ambientais em vigor;
+
+ressarcir, independentemente de culpa, os Debenturistas de qualquer quantia que estes sejam compelidos a pagar em razão de dano ambiental decorrente de suas atividades, bem como a indenizar os Debenturistas por qualquer perda ou dano que estes venham comprovadamente a sofrer em decorrência do referido dano ambiental;
+
+não praticar qualquer ato em desacordo com seu estatuto social ou com a presente Escritura de Emissão, em especial atos que possam, direta ou indiretamente, comprometer o pontual e integral cumprimento das obrigações assumidas perante os Debenturistas, nos termos desta Escritura de Emissão, não realizar operações fora de seu objeto social ou em desacordo com seu objeto social, observadas as disposições estatutária, legais e regulamentares em vigor, abaixo;
+
+não omitir qualquer fato de qualquer natureza que seja de seu conhecimento e que cause alteração substancial na situação econômico-financeira, reputacional, operacional ou jurídica da Emissora em prejuízo dos Debenturistas; 
+
+enviar o organograma, todos os dados financeiros e atos societários necessários à realização do relatório anual, conforme Resolução CVM nº 17, de 09 de fevereiro de 2021 ('Resolução CVM 17'), que venham a ser solicitados pelo Agente Fiduciário, os quais deverão ser devidamente encaminhados pela Emissora em até 30 (trinta) dias antes do encerramento do prazo para disponibilização na CVM. O referido relatório do grupo societário da Emissora deverá conter, inclusive, controladores, controladas, controle comum, coligadas, e integrante de bloco de controle, no encerramento de cada exercício social; 
+
+manter em adequado funcionamento órgão para atender, de forma eficiente, aos Debenturistas ou contratar instituições financeiras autorizadas para a prestação desse serviço;
+
+não constituir qualquer tipo de garantia, ônus ou gravame sobre valores mobiliários representativos de dívida de sua emissão no âmbito de operações conduzidas no mercado de capitais, que confiram aos credores da respectiva emissão ou oferta qualquer prioridade ou preferência sobre os créditos decorrentes das Debêntures, exceto com a prévia anuência de Debenturistas que representem 70% (setenta por cento), no mínimo, das Debêntures em Circulação; e 
+
+após a aprovação em sede de Assembleia Geral de Acionistas da Emissora, a Emissora deverá celebrar o Contrato de Cessão Fiduciária nos termos descritos na Cláusula 2.1.4 acima.
+
+Sem prejuízo das demais obrigações previstas nesta Escritura de Emissão, a Companhia está adicionalmente obrigada a, nos termos do artigo 17 da Instrução CVM 476:
+
+preparar as demonstrações financeiras consolidadas da Emissora relativas a cada exercício social, em conformidade com a Lei das Sociedades por Ações e com as regras emitidas pela CVM;
+
+submeter as demonstrações financeiras consolidadas da Emissora a auditoria, por auditor independente registrado na CVM;
+
+divulgar, em sua página na rede mundial de computadores () e no sistema disponibilizado pela B3, até o dia anterior ao início das negociações das Debêntures, as demonstrações financeiras consolidadas da Emissora, acompanhadas de notas explicativas e do relatório dos auditores independentes, relativas aos 3 (três) últimos exercícios sociais encerrados;
+
+divulgar, em sua página na rede mundial de computadores () e no sistema disponibilizado pela B3, as demonstrações financeiras consolidadas da Emissora subsequentes, acompanhadas de notas explicativas e relatório dos auditores independentes, dentro de 3 (três) meses contados do encerramento do exercício social;
+
+observar as disposições da Resolução da CVM nº 44, de 23 de agosto de 2021, conforme alterada de tempos em tempos ('Resolução CVM 44'), no que se refere ao dever de sigilo e às vedações à negociação;
+
+divulgar, em sua página na rede mundial de computadores () e no sistema disponibilizado pela B3, a ocorrência de qualquer ato ou fato relevante, conforme definido no artigo 2º da Resolução CVM 44; 
+
+fornecer todas as informações solicitadas pela CVM e pela B3;
+
+divulgar, em sua página na rede mundial de computadores (), o relatório anual do Agente Fiduciário e demais comunicações enviadas pelo Agente Fiduciário na mesma data do seu recebimento, observado, ainda, o disposto no item (d) acima;
+
+observar as disposições da regulamentação específica editada pela CVM, caso seja convocada, para realização de modo parcial ou exclusivamente digital, Assembleia Geral de Debenturistas.
+
+OBRIGAÇÕES ADICIONAIS DA COMPANHIA
+
+Sem prejuízo das demais obrigações assumidas nesta Escritura de Emissão e nos termos da legislação aplicável, a Emissora se obriga a: 
+
+cumprir todos os requisitos e obrigações estabelecidos nesta Escritura de Emissão e na regulamentação em vigor pertinente à matéria, em especial as obrigações previstas no artigo 17 da Instrução CVM 476;
+
+enviar à CVM informações periódicas e eventuais, verdadeiras, completas, consistentes e que não induzam o investidor a erro, nos termos da Instrução da CVM nº 480, de 07 de dezembro de 2009, conforme alterada ('Instrução CVM 480');
+
+enviar, periodicamente: (i) o formulário cadastral; (ii) o Formulário de Referência (conforme abaixo definido); (iii) as demonstrações financeiras; (iv) o formulário de demonstrações financeiras padronizadas – DFP; (v) o formulário de informações trimestrais – ITR; e (vi) as demais informações previstas no artigo 21 da Instrução CVM 480;
+
+apresentar nos prazos legais ao público as decisões tomadas pela Emissora com relação a seus resultados operacionais, atividades comerciais e quaisquer outros fatos considerados relevantes nos termos da regulamentação expedida pela CVM;
+
+fornecer todas as informações solicitadas pela CVM, pela ANBIMA e/ou pela B3, conforme o caso;
+
+comunicar em até 1 (um) Dia Útil ao Agente Fiduciário a ocorrência de qualquer Evento de Inadimplemento, bem como qualquer inadimplemento quanto ao cumprimento de qualquer de suas obrigações referentes às Debêntures ou qualquer outro evento que possa trazer prejuízo aos Debenturistas, sendo que o descumprimento desse dever pela Emissora não impedirá o Agente Fiduciário ou os Debenturistas de, a seu critério, exercer seus poderes, faculdades e pretensões previstos na presente Escritura de Emissão, inclusive o de declarar o vencimento antecipado das Debêntures, se for o caso;
+
+comunicar em até 1 (um) Dia Útil ao Agente Fiduciário qualquer condenação em decisão transitada em julgado decorrente de processo judicial, ou sentença arbitral definitiva, que afete, de forma relevante e adversa, a Emissora ou a capacidade da Emissora de cumprir suas obrigações nos termos desta Escritura de Emissão ou, ainda, qualquer evento, fato ou circunstância potencial que vier a ser de seu conhecimento e que possa ser considerado pela Emissora como apto a afetar a validade, legalidade ou eficácia das Debêntures, mantendo o Agente Fiduciário informado por meio de relatórios semanais, sobre o ato, a ação, o procedimento e o processo em questão e as medidas a serem tomadas;
+
+comunicar em até 1 (um) Dia Útil ao Agente Fiduciário qualquer fato que seja do seu conhecimento e possa vir a afetar negativamente e de forma relevante seu desempenho financeiro e/ou operacional, atividades comerciais e/ou quaisquer outros fatos considerados relevantes, inclusive reputacionais, nos termos da regulamentação expedida pela CVM;
+
+manter sua existência legal e válidas e regulares as licenças, concessões ou aprovações necessárias, inclusive ambientais, exigidas pelos órgãos regulatórios competentes ao seu regular funcionamento, exceto caso as referidas autorizações, concessões, alvarás, subvenções ou licenças, conforme o caso, estejam em processo tempestivo de obtenção ou renovação nos termos das leis e normas aplicáveis ao setor de atuação da Emissora;
+
+cumprir as leis, regras, regulamentos, normas administrativas e determinações dos órgãos governamentais, autarquias ou tribunais, aplicáveis à condução de seus negócios e/ou de suas controladas, exceto por aqueles que questionadas nas esferas administrativa e/ou judicial e que tenham sua exigibilidade e efeitos suspensos por decisão judicial ou administrativa;
+
+atender de forma eficiente às solicitações dos Debenturistas e do Agente Fiduciário, observada a sua razoabilidade;
+
+contratar e manter contratados, às suas expensas, durante todo o prazo de vigência das Debêntures, os prestadores de serviços inerentes às obrigações previstas nesta Escritura de Emissão, incluindo, mas não se limitando a: (i) o Banco Liquidante; (ii) o Escriturador; (iii) o Agente Fiduciário; e (iv) os ambientes de distribuição e negociação das Debêntures nos mercados primário e secundário, respectivamente;
+
+manter contratada ou contratar às suas expensas, conforme o caso, pelo menos uma agência de classificação de risco, entre Standard & Poor’s, Fitch Ratings ou Moody’s America Latina, para realizar a classificação de risco (rating) das Debêntures até a data da liquidação da Oferta Restrita, devendo, ainda, (a) divulgar em sua página na Internet ou na página da CVM na Internet, e permitir que a Agência de Classificação de risco divulgue amplamente ao mercado o relatório com a súmula da classificação de risco; e (b) entregar ao Agente Fiduciário o relatório de classificação de risco preparado pela agência de classificação de risco no prazo de até 5 (cinco) Dias Úteis contados da data de seu recebimento pela Emissora;
+
+manter atualizado, pelo menos anualmente e até o vencimento das Debêntures, relatório de classificação de risco (rating) das Debêntures, devendo a atualização anual ser a partir da data de emissão do último relatório;
+
+não revelar informações relativas à Emissão, exceto aquilo que for necessário à consecução de seus objetivos, advertindo os destinatários sobre o caráter reservado da informação transmitida, tudo em conformidade com o disposto na regulamentação aplicável, incluindo, mas não se limitando a, o disposto na Instrução CVM 476 e no artigo 48 da Instrução CVM nº 400, de 29 de dezembro de 2003, conforme alterada ('Instrução CVM 400'), bem como abster-se de, até o envio da Comunicação de Encerramento da Emissão à CVM, utilizar as informações referentes à Emissão, exceto para fins estritamente relacionados com a preparação da Emissão;
+
+abster-se de negociar valores mobiliários de sua emissão, até o envio da Comunicação de Encerramento, salvo nas hipóteses previstas no inciso II do artigo 48 da Instrução CVM 400, observadas as disposições previstas na regulamentação aplicável;
+
+manter as Debêntures registradas para negociação no mercado secundário durante o seu respectivo prazo de vigência, arcando com os custos dos referidos registros; 
+
+cumprir todas as determinações da CVM, com o envio de documentos e, ainda, prestando as informações que lhe forem solicitadas;
+
+efetuar recolhimento de quaisquer tributos ou contribuições que incidam ou venham a incidir sobre a Emissão e que sejam de responsabilidade da Emissora de acordo com a legislação tributária aplicável;
+
+manter atualizado o registro de companhia aberta na CVM e cumprir integralmente com as obrigações de envio à CVM de informações periódicas e eventuais e de divulgação e colocação de tais informações à disposição dos investidores nos termos da Instrução CVM 480;
+
+não realizar operações fora de seu objeto social, observadas as disposições estatutárias, legais e regulamentares em vigor;
+
+manter em vigor a estrutura de contratos necessária para lhe assegurar a manutenção de suas condições de operação e funcionamento;
+
+manter seus bens essenciais para o desempenho do seu objeto social adequadamente segurados por companhias de seguro de primeira linha, conforme práticas usualmente adotadas pela Emissora; 
+
+exceto com relação àqueles pagamentos questionados na esfera judicial ou administrativa cujo não pagamento resulte em impacto adverso relevante para suas atividades, ou para sua capacidade em honrar tempestivamente as obrigações pecuniárias relativas às Debêntures, manter em dia o pagamento de todos os tributos devidos às Fazendas Federal, Estadual ou Municipal; 
+
+utilizar a parcela das Debêntures distribuídas e colocadas pelo regime de melhores esforços para, a critério da Emissora:(a) amortizar prioritariamente os Vencimentos de 2021 conforme previsto no Anexo II desta Escritura de Emissão; e (b) reforço de caixa da Emissora;
+
+fornecer ao Agente Fiduciário, sendo que, no caso das alíneas (i) a (iii) abaixo, tais informações também serão fornecidas por meio de disponibilização em sua página na Internet () ou na página da CVM na Internet: 
+
+dentro de, no máximo, 90 (noventa) dias após o término de cada exercício social, ou prazo de até 3 (três) Dias Úteis contados de sua efetiva divulgação, o que ocorrer primeiro: (i) cópia de suas demonstrações financeiras completas relativas ao respectivo exercício social encerrado, acompanhadas de parecer dos auditores independentes; e (ii) cópia atualizada do organograma do grupo societário da Emissora;
+
+dentro de, no máximo, 45 (quarenta e cinco) dias após o término de cada trimestre ou no prazo de até 3 (três) Dias Úteis contados de sua efetiva divulgação, o que ocorrer primeiro, cópia de suas informações trimestrais relativas aos respectivos trimestres, acompanhada do relatório da administração e do parecer de auditoria ou relatório de revisão especial dos auditores independentes;
+
+nos mesmos prazos previstos na Instrução CVM 480, notificação da convocação de qualquer assembleia geral de acionistas e cópias de todas as atas de todas as assembleias gerais de acionistas, bem como a data e ordem do dia da assembleia a se realizar;
+
+declaração, em papel timbrado e assinada por representante legal, atestando a destinação dos recursos da presente Emissão em até 30 (trinta) dias corridos da data da efetiva destinação da totalidade dos recursos ou na Data de Vencimento, o que ocorrer primeiro, indicando, inclusive, os recursos utilizados para as despesas da Emissão, podendo o Agente Fiduciário solicitar à Emissora todos os eventuais esclarecimentos e documentos adicionais que se façam necessários;
+
+em até 10 (dez) Dias Úteis da data de apresentação das demonstrações financeiras consolidadas auditadas da Emissora, declaração do Diretor de Relações com Investidores da Emissora ou outro representante legal estatutário, atestando (a) a veracidade e ausência de vícios no cálculo dos Índices Financeiros; (b) que permanecem válidas as disposições contidas nesta Escritura de Emissão; (c) em seu melhor conhecimento, as declarações prestadas nesta Escritura de Emissão permanecem válidas; (d) a não ocorrência de qualquer Evento de Inadimplemento e a existência de descumprimento de qualquer obrigação prevista nesta Escritura de Emissão ou em desacordo com seu estatuto social; e (e) o cumprimento da obrigação de manutenção do registro de emissor de valores mobiliários perante a CVM; 
+
+no prazo de até 5 (cinco) Dias Úteis contados das datas a que se referem as alíneas (i) e (ii) acima, o relatório consolidado da memória de cálculo compreendendo todas as rubricas necessárias ao acompanhamento dos Índices Financeiros, acompanhadas de demonstração do cálculo dos Índices Financeiros devidamente calculados pela Emissora; 
+
+em até 5 (cinco) Dias Úteis contados da solicitação, documentos e informações sobre a Emissora e seus ativos que o Agente Fiduciário eventualmente requeira; e
+
+em até 2 (dois) Dias Úteis após o seu recebimento, cópia de qualquer correspondência relevante ou notificação judicial ou extrajudicial recebida pela Emissora, relativa às Debêntures ou à presente Escritura de Emissão;
+
+convocar Assembleia Geral de Debenturistas para deliberar sobre qualquer das matérias que direta ou indiretamente se relacione com a Emissão, caso o Agente Fiduciário não o faça;
+
+notificar em até 1 (um) Dia Útil o Agente Fiduciário caso quaisquer das declarações prestadas na presente Escritura de Emissão tornem-se total ou parcialmente inverídicas, incompletas ou incorretas; 
+
+assegurar que os recursos líquidos obtidos com a Oferta não sejam empregados em (i) qualquer oferta, promessa ou entrega de pagamento ou outra espécie de vantagem indevido a funcionário, empregado ou agente público, partidos políticos, políticos ou candidatos políticos, em âmbito nacional ou internacional, ou a terceiras pessoas relacionadas; (ii) pagamentos que possam ser considerados como propina, abatimento ilícito, remuneração ilícita, suborno, tráfico de influência ou atos de corrupção em geral em relação a autoridades públicas nacionais e estrangeiras; e (iii) qualquer outro ato que possa ser considerado lesivo à administração pública nos termos das Leis Anticorrupção;
+
+até a Data de Vencimento, observar, cumprir e/ou fazer cumprir, por si, e por suas Afiliadas, suas coligadas e Representantes (conforme definido abaixo) toda e qualquer Lei Anticorrupção, bem como abster-se de (a) praticar a utilização de recursos para contribuições, doações ou despesas ilegais relativas a atividades políticas; (b) realizar qualquer pagamento ilegal, direto ou indireto, a empregados ou funcionários públicos, partidos políticos, políticos ou candidatos políticos, incluindo seus familiares, nacionais ou estrangeiros, (c) praticar quaisquer atos para obter ou manter qualquer negócio, transação ou vantagem comercial indevida; (d) violar qualquer dispositivo de qualquer lei ou regulamento contra prática de corrupção ou atos lesivos à administração pública, incluindo, sem limitação, as Leis Anticorrupção; e (e) realizar qualquer pagamento de propina, abatimento ilícito, remuneração ilícita, suborno, tráfico de influência, 'caixinha' ou outro pagamento ilegal (em conjunto 'Condutas Indevidas'), devendo (i) manter políticas e procedimentos internos que assegurem integral cumprimento das Leis Anticorrupção, incluindo, sem limitação, por funcionários e terceiros; (ii) dar conhecimento pleno de tais normas a todos os seus profissionais e/ou os demais prestadores de serviços que venham a se relacionar; (iii) abster-se de praticar atos de corrupção e de agir de forma lesiva à administração pública, nacional ou estrangeira; e (iv) caso tenha conhecimento de qualquer ato ou fato que viole aludidas normas, comunicar imediatamente ao Agente Fiduciário, que poderá tomar todas as providências que entender necessárias;
+
+cumprir e, ainda fazer com que suas Afiliadas cumpram rigorosamente a as leis, regulamentos e demais normas ambientais e trabalhistas em vigor, relativas à saúde e segurança ocupacional, inclusive no que se refere à inexistência de trabalho infantil e análogo a de escravo, discriminação de raça e gênero e direitos dos silvícolas, incluindo, mas não se limitando, ao disposto na Legislação Socioambiental (conforme definido abaixo), assim como não adotar ações que incentivem a prostituição, em especial com relação aos seus projetos e atividades de qualquer forma beneficiados pela Emissão, zelando sempre para que os trabalhadores da Emissora estejam devidamente registrados nos termos da legislação em vigor e a Emissora cumpra as obrigações decorrentes dos respectivos contratos de trabalho e da legislação trabalhista e previdenciária em vigor, mantendo, ainda, as licenças ambientais válidas e/ou dispensas e/ou protocolo junto às autoridades públicas, bem como todos os registros necessários, em conformidade com a legislação civil e ambiental aplicável, observados os prazos previstos no artigo 18, §4º, da Resolução do Conselho Nacional do Meio Ambiente – CONAMA nº 237, de 19 de dezembro de 1997 e/ou os prazos definidos pelos órgãos ambientais das jurisdições em que a Emissora atue, adotando as medidas e ações preventivas e reparatórias, destinadas a evitar e corrigir eventuais danos ao meio ambiente e a seus trabalhadores decorrentes das atividades descritas em seu objeto social e, ainda, proceder a todas as diligências exigidas para suas atividades econômicas, preservando o meio ambiente e atendendo às determinações dos órgãos municipais, estaduais e federais que, subsidiariamente, venham a legislar ou regulamentar as normas ambientais em vigor;
+
+ressarcir, independentemente de culpa, os Debenturistas de qualquer quantia que estes sejam compelidos a pagar em razão de dano ambiental decorrente de suas atividades, bem como a indenizar os Debenturistas por qualquer perda ou dano que estes venham comprovadamente a sofrer em decorrência do referido dano ambiental;
+
+não praticar qualquer ato em desacordo com seu estatuto social ou com a presente Escritura de Emissão, em especial atos que possam, direta ou indiretamente, comprometer o pontual e integral cumprimento das obrigações assumidas perante os Debenturistas, nos termos desta Escritura de Emissão, não realizar operações fora de seu objeto social ou em desacordo com seu objeto social, observadas as disposições estatutária, legais e regulamentares em vigor, abaixo;
+
+não omitir qualquer fato de qualquer natureza que seja de seu conhecimento e que cause alteração substancial na situação econômico-financeira, reputacional, operacional ou jurídica da Emissora em prejuízo dos Debenturistas; 
+
+enviar o organograma, todos os dados financeiros e atos societários necessários à realização do relatório anual, conforme Resolução CVM nº 17, de 09 de fevereiro de 2021 ('Resolução CVM nº 17'), que venham a ser solicitados pelo Agente Fiduciário, os quais deverão ser devidamente encaminhados pela Emissora em até 30 (trinta) dias antes do encerramento do prazo para disponibilização na CVM. O referido relatório do grupo societário da Emissora deverá conter, inclusive, controladores, controladas, controle comum, coligadas, e integrante de bloco de controle, no encerramento de cada exercício social; 
+
+manter em adequado funcionamento órgão para atender, de forma eficiente, aos Debenturistas ou contratar instituições financeiras autorizadas para a prestação desse serviço;
+
+não constituir qualquer tipo de garantia, ônus ou gravame sobre valores mobiliários representativos de dívida de sua emissão no âmbito de operações conduzidas no mercado de capitais, que confiram aos credores da respectiva emissão ou oferta qualquer prioridade ou preferência sobre os créditos decorrentes das Debêntures, exceto com a prévia anuência de Debenturistas que representem 70% (setenta por cento), no mínimo, das Debêntures em Circulação; e 
+
+após a aprovação em sede de Assembleia Geral de Acionistas da Emissora, a Emissora deverá celebrar o Contrato de Cessão Fiduciária nos termos descritos na Cláusula 2.1.4 acima.
+
+Sem prejuízo das demais obrigações previstas nesta Escritura de Emissão, a Companhia está adicionalmente obrigada a, nos termos do artigo 17 da Instrução CVM 476:
+
+preparar as demonstrações financeiras consolidadas da Emissora relativas a cada exercício social, em conformidade com a Lei das Sociedades por Ações e com as regras emitidas pela CVM;
+
+submeter as demonstrações financeiras consolidadas da Emissora a auditoria, por auditor independente registrado na CVM;
+
+divulgar, em sua página na rede mundial de computadores () e no sistema disponibilizado pela B3, até o dia anterior ao início das negociações das Debêntures, as demonstrações financeiras consolidadas da Emissora, acompanhadas de notas explicativas e do relatório dos auditores independentes, relativas aos 3 (três) últimos exercícios sociais encerrados;
+
+divulgar, em sua página na rede mundial de computadores () e no sistema disponibilizado pela B3, as demonstrações financeiras consolidadas da Emissora subsequentes, acompanhadas de notas explicativas e relatório dos auditores independentes, dentro de 3 (três) meses contados do encerramento do exercício social;
+
+observar as disposições da Resolução da CVM nº 44, de 23 de agosto de 2021, conforme alterada de tempos em tempos ('Resolução CVM 44'), no que se refere ao dever de sigilo e às vedações à negociação;
+
+divulgar, em sua página na rede mundial de computadores () e no sistema disponibilizado pela B3, a ocorrência de qualquer ato ou fato relevante, conforme definido no artigo 2º da Resolução CVM 44; 
+
+fornecer todas as informações solicitadas pela CVM e pela B3;
+
+divulgar, em sua página na rede mundial de computadores (), o relatório anual do Agente Fiduciário e demais comunicações enviadas pelo Agente Fiduciário na mesma data do seu recebimento, observado, ainda, o disposto no item (d) acima;
+
+observar as disposições da regulamentação específica editada pela CVM, caso seja convocada, para realização de modo parcial ou exclusivamente digital, Assembleia Geral de Debenturistas.
+
+OBRIGAÇÕES ADICIONAIS DA COMPANHIA
+
+Sem prejuízo das demais obrigações assumidas nesta Escritura de Emissão e nos termos da legislação aplicável, a Emissora se obriga a: 
+
+cumprir todos os requisitos e obrigações estabelecidos nesta Escritura de Emissão e na regulamentação em vigor pertinente à matéria, em especial as obrigações previstas no artigo 17 da Instrução CVM 476;
+
+enviar à CVM informações periódicas e eventuais, verdadeiras, completas, consistentes e que não induzam o investidor a erro, nos termos da Instrução da CVM nº 480, de 07 de dezembro de 2009, conforme alterada ('Instrução CVM 480');
+
+enviar, periodicamente: (i) o formulário cadastral; (ii) o Formulário de Referência (conforme abaixo definido); (iii) as demonstrações financeiras; (iv) o formulário de demonstrações financeiras padronizadas – DFP; (v) o formulário de informações trimestrais – ITR; e (vi) as demais informações previstas no artigo 21 da Instrução CVM 480;
+
+apresentar nos prazos legais ao público as decisões tomadas pela Emissora com relação a seus resultados operacionais, atividades comerciais e quaisquer outros fatos considerados relevantes nos termos da regulamentação expedida pela CVM;
+
+fornecer todas as informações solicitadas pela CVM, pela ANBIMA e/ou pela B3, conforme o caso;
+
+comunicar em até 1 (um) Dia Útil ao Agente Fiduciário a ocorrência de qualquer Evento de Inadimplemento, bem como qualquer inadimplemento quanto ao cumprimento de qualquer de suas obrigações referentes às Debêntures ou qualquer outro evento que possa trazer prejuízo aos Debenturistas, sendo que o descumprimento desse dever pela Emissora não impedirá o Agente Fiduciário ou os Debenturistas de, a seu critério, exercer seus poderes, faculdades e pretensões previstos na presente Escritura de Emissão, inclusive o de declarar o vencimento antecipado das Debêntures, se for o caso;
+
+comunicar em até 1 (um) Dia Útil ao Agente Fiduciário qualquer condenação em decisão transitada em julgado decorrente de processo judicial, ou sentença arbitral definitiva, que afete, de forma relevante e adversa, a Emissora ou a capacidade da Emissora de cumprir suas obrigações nos termos desta Escritura de Emissão ou, ainda, qualquer evento, fato ou circunstância potencial que vier a ser de seu conhecimento e que possa ser considerado pela Emissora como apto a afetar a validade, legalidade ou eficácia das Debêntures, mantendo o Agente Fiduciário informado por meio de relatórios semanais, sobre o ato, a ação, o procedimento e o processo em questão e as medidas a serem tomadas;
+
+comunicar em até 1 (um) Dia Útil ao Agente Fiduciário qualquer fato que seja do seu conhecimento e possa vir a afetar negativamente e de forma relevante seu desempenho financeiro e/ou operacional, atividades comerciais e/ou quaisquer outros fatos considerados relevantes, inclusive reputacionais, nos termos da regulamentação expedida pela CVM;
+
+manter sua existência legal e válidas e regulares as licenças, concessões ou aprovações necessárias, inclusive ambientais, exigidas pelos órgãos regulatórios competentes ao seu regular funcionamento, exceto caso as referidas autorizações, concessões, alvarás, subvenções ou licenças, conforme o caso, estejam em processo tempestivo de obtenção ou renovação nos termos das leis e normas aplicáveis ao setor de atuação da Emissora;
+
+cumprir as leis, regras, regulamentos, normas administrativas e determinações dos órgãos governamentais, autarquias ou tribunais, aplicáveis à condução de seus negócios e/ou de suas controladas, exceto por aqueles que questionadas nas esferas administrativa e/ou judicial e que tenham sua exigibilidade e efeitos suspensos por decisão judicial ou administrativa;
+
+atender de forma eficiente às solicitações dos Debenturistas e do Agente Fiduciário, observada a sua razoabilidade;
+
+contratar e manter contratados, às suas expensas, durante todo o prazo de vigência das Debêntures, os prestadores de serviços inerentes às obrigações previstas nesta Escritura de Emissão, incluindo, mas não se limitando a: (i) o Banco Liquidante; (ii) o Escriturador; (iii) o Agente Fiduciário; e (iv) os ambientes de distribuição e negociação das Debêntures nos mercados primário e secundário, respectivamente;
+
+manter contratada ou contratar às suas expensas, conforme o caso, pelo menos uma agência de classificação de risco, entre Standard & Poor’s, Fitch Ratings ou Moody’s America Latina, para realizar a classificação de risco (rating) das Debêntures até a data da liquidação da Oferta Restrita, devendo, ainda, (a) divulgar em sua página na Internet ou na página da CVM na Internet, e permitir que a Agência de Classificação de risco divulgue amplamente ao mercado o relatório com a súmula da classificação de risco; e (b) entregar ao Agente Fiduciário o relatório de classificação de risco preparado pela agência de classificação de risco no prazo de até 5 (cinco) Dias Úteis contados da data de seu recebimento pela Emissora;
+
+manter atualizado, pelo menos anualmente e até o vencimento das Debêntures, relatório de classificação de risco (rating) das Debêntures, devendo a atualização anual ser a partir da data de emissão do último relatório;
+
+não revelar informações relativas à Emissão, exceto aquilo que for necessário à consecução de seus objetivos, advertindo os destinatários sobre o caráter reservado da informação transmitida, tudo em conformidade com o disposto na regulamentação aplicável, incluindo, mas não se limitando a, o disposto na Instrução CVM 476 e no artigo 48 da Instrução CVM nº 400, de 29 de dezembro de 2003, conforme alterada ('Instrução CVM 400'), bem como abster-se de, até o envio da Comunicação de Encerramento da Emissão à CVM, utilizar as informações referentes à Emissão, exceto para fins estritamente relacionados com a preparação da Emissão;
+
+abster-se de negociar valores mobiliários de sua emissão, até o envio da Comunicação de Encerramento, salvo nas hipóteses previstas no inciso II do artigo 48 da Instrução CVM 400, observadas as disposições previstas na regulamentação aplicável;
+
+manter as Debêntures registradas para negociação no mercado secundário durante o seu respectivo prazo de vigência, arcando com os custos dos referidos registros; 
+
+cumprir todas as determinações da CVM, com o envio de documentos e, ainda, prestando as informações que lhe forem solicitadas;
+
+efetuar recolhimento de quaisquer tributos ou contribuições que incidam ou venham a incidir sobre a Emissão e que sejam de responsabilidade da Emissora de acordo com a legislação tributária aplicável;
+
+manter atualizado o registro de companhia aberta na CVM e cumprir integralmente com as obrigações de envio à CVM de informações periódicas e eventuais e de divulgação e colocação de tais informações à disposição dos investidores nos termos da Instrução CVM 480;
+
+não realizar operações fora de seu objeto social, observadas as disposições estatutárias, legais e regulamentares em vigor;
+
+manter em vigor a estrutura de contratos necessária para lhe assegurar a manutenção de suas condições de operação e funcionamento;
+
+manter seus bens essenciais para o desempenho do seu objeto social adequadamente segurados por companhias de seguro de primeira linha, conforme práticas usualmente adotadas pela Emissora; 
+
+exceto com relação àqueles pagamentos questionados na esfera judicial ou administrativa cujo não pagamento resulte em impacto adverso relevante para suas atividades, ou para sua capacidade em honrar tempestivamente as obrigações pecuniárias relativas às Debêntures, manter em dia o pagamento de todos os tributos devidos às Fazendas Federal, Estadual ou Municipal; 
+
+utilizar a parcela das Debêntures distribuídas e colocadas pelo regime de melhores esforços para, a critério da Emissora:(a) amortizar prioritariamente os Vencimentos de 2021 conforme previsto no Anexo II desta Escritura de Emissão; e (b) reforço de caixa da Emissora;
+
+fornecer ao Agente Fiduciário, sendo que, no caso das alíneas (i) a (iii) abaixo, tais informações também serão fornecidas por meio de disponibilização em sua página na Internet () ou na página da CVM na Internet: 
+
+dentro de, no máximo, 90 (noventa) dias após o término de cada exercício social, ou prazo de até 3 (três) Dias Úteis contados de sua efetiva divulgação, o que ocorrer primeiro: (i) cópia de suas demonstrações financeiras completas relativas ao respectivo exercício social encerrado, acompanhadas de parecer dos auditores independentes; e (ii) cópia atualizada do organograma do grupo societário da Emissora;
+
+dentro de, no máximo, 45 (quarenta e cinco) dias após o término de cada trimestre ou no prazo de até 3 (três) Dias Úteis contados de sua efetiva divulgação, o que ocorrer primeiro, cópia de suas informações trimestrais relativas aos respectivos trimestres, acompanhada do relatório da administração e do parecer de auditoria ou relatório de revisão especial dos auditores independentes;
+
+nos mesmos prazos previstos na Instrução CVM 480, notificação da convocação de qualquer assembleia geral de acionistas e cópias de todas as atas de todas as assembleias gerais de acionistas, bem como a data e ordem do dia da assembleia a se realizar;
+
+declaração, em papel timbrado e assinada por representante legal, atestando a destinação dos recursos da presente Emissão em até 30 (trinta) dias corridos da data da efetiva destinação da totalidade dos recursos ou na Data de Vencimento, o que ocorrer primeiro, indicando, inclusive, os recursos utilizados para as despesas da Emissão, podendo o Agente Fiduciário solicitar à Emissora todos os eventuais esclarecimentos e documentos adicionais que se façam necessários;
+
+em até 10 (dez) Dias Úteis da data de apresentação das demonstrações financeiras consolidadas auditadas da Emissora, declaração do Diretor de Relações com Investidores da Emissora ou outro representante legal estatutário, atestando (a) a veracidade e ausência de vícios no cálculo dos Índices Financeiros; (b) que permanecem válidas as disposições contidas nesta Escritura de Emissão; (c) em seu melhor conhecimento, as declarações prestadas nesta Escritura de Emissão permanecem válidas; (d) a não ocorrência de qualquer Evento de Inadimplemento e a existência de descumprimento de qualquer obrigação prevista nesta Escritura de Emissão ou em desacordo com seu estatuto social; e (e) o cumprimento da obrigação de manutenção do registro de emissor de valores mobiliários perante a CVM; 
+
+no prazo de até 5 (cinco) Dias Úteis contados das datas a que se referem as alíneas (i) e (ii) acima, o relatório consolidado da memória de cálculo compreendendo todas as rubricas necessárias ao acompanhamento dos Índices Financeiros, acompanhadas de demonstração do cálculo dos Índices Financeiros devidamente calculados pela Emissora; 
+
+em até 5 (cinco) Dias Úteis contados da solicitação, documentos e informações sobre a Emissora e seus ativos que o Agente Fiduciário eventualmente requeira; e
+
+em até 2 (dois) Dias Úteis após o seu recebimento, cópia de qualquer correspondência relevante ou notificação judicial ou extrajudicial recebida pela Emissora, relativa às Debêntures ou à presente Escritura de Emissão;
+
+convocar Assembleia Geral de Debenturistas para deliberar sobre qualquer das matérias que direta ou indiretamente se relacione com a Emissão, caso o Agente Fiduciário não o faça;
+
+notificar em até 1 (um) Dia Útil o Agente Fiduciário caso quaisquer das declarações prestadas na presente Escritura de Emissão tornem-se total ou parcialmente inverídicas, incompletas ou incorretas; 
+
+assegurar que os recursos líquidos obtidos com a Oferta não sejam empregados em (i) qualquer oferta, promessa ou entrega de pagamento ou outra espécie de vantagem indevido a funcionário, empregado ou agente público, partidos políticos, políticos ou candidatos políticos, em âmbito nacional ou internacional, ou a terceiras pessoas relacionadas; (ii) pagamentos que possam ser considerados como propina, abatimento ilícito, remuneração ilícita, suborno, tráfico de influência ou atos de corrupção em geral em relação a autoridades públicas nacionais e estrangeiras; e (iii) qualquer outro ato que possa ser considerado lesivo à administração pública nos termos das Leis Anticorrupção;
+
+até a Data de Vencimento, observar, cumprir e/ou fazer cumprir, por si, e por suas Afiliadas, suas coligadas e Representantes (conforme definido abaixo) toda e qualquer Lei Anticorrupção, bem como abster-se de (a) praticar a utilização de recursos para contribuições, doações ou despesas ilegais relativas a atividades políticas; (b) realizar qualquer pagamento ilegal, direto ou indireto, a empregados ou funcionários públicos, partidos políticos, políticos ou candidatos políticos, incluindo seus familiares, nacionais ou estrangeiros, (c) praticar quaisquer atos para obter ou manter qualquer negócio, transação ou vantagem comercial indevida; (d) violar qualquer dispositivo de qualquer lei ou regulamento contra prática de corrupção ou atos lesivos à administração pública, incluindo, sem limitação, as Leis Anticorrupção; e (e) realizar qualquer pagamento de propina, abatimento ilícito, remuneração ilícita, suborno, tráfico de influência, 'caixinha' ou outro pagamento ilegal (em conjunto 'Condutas Indevidas'), devendo (i) manter políticas e procedimentos internos que assegurem integral cumprimento das Leis Anticorrupção, incluindo, sem limitação, por funcionários e terceiros; (ii) dar conhecimento pleno de tais normas a todos os seus profissionais e/ou os demais prestadores de serviços que venham a se relacionar; (iii) abster-se de praticar atos de corrupção e de agir de forma lesiva à administração pública, nacional ou estrangeira; e (iv) caso tenha conhecimento de qualquer ato ou fato que viole aludidas normas, comunicar imediatamente ao Agente Fiduciário, que poderá tomar todas as providências que entender necessárias;
+
+cumprir e, ainda fazer com que suas Afiliadas cumpram rigorosamente a as leis, regulamentos e demais normas ambientais e trabalhistas em vigor, relativas à saúde e segurança ocupacional, inclusive no que se refere à inexistência de trabalho infantil e análogo a de escravo, discriminação de raça e gênero e direitos dos silvícolas, incluindo, mas não se limitando, ao disposto na Legislação Socioambiental (conforme definido abaixo), assim como não adotar ações que incentivem a prostituição, em especial com relação aos seus projetos e atividades de qualquer forma beneficiados pela Emissão, zelando sempre para que os trabalhadores da Emissora estejam devidamente registrados nos termos da legislação em vigor e a Emissora cumpra as obrigações decorrentes dos respectivos contratos de trabalho e da legislação trabalhista e previdenciária em vigor, mantendo, ainda, as licenças ambientais válidas e/ou dispensas e/ou protocolo junto às autoridades públicas, bem como todos os registros necessários, em conformidade com a legislação civil e ambiental aplicável, observados os prazos previstos no artigo 18, §4º, da Resolução do Conselho Nacional do Meio Ambiente – CONAMA nº 237, de 19 de dezembro de 1997 e/ou os prazos definidos pelos órgãos ambientais das jurisdições em que a Emissora atue, adotando as medidas e ações preventivas e reparatórias, destinadas a evitar e corrigir eventuais danos ao meio ambiente e a seus trabalhadores decorrentes das atividades descritas em seu objeto social e, ainda, proceder a todas as diligências exigidas para suas atividades econômicas, preservando o meio ambiente e atendendo às determinações dos órgãos municipais, estaduais e federais que, subsidiariamente, venham a legislar ou regulamentar as normas ambientais em vigor;
+
+ressarcir, independentemente de culpa, os Debenturistas de qualquer quantia que estes sejam compelidos a pagar em razão de dano ambiental decorrente de suas atividades, bem como a indenizar os Debenturistas por qualquer perda ou dano que estes venham comprovadamente a sofrer em decorrência do referido dano ambiental;
+
+não praticar qualquer ato em desacordo com seu estatuto social ou com a presente Escritura de Emissão, em especial atos que possam, direta ou indiretamente, comprometer o pontual e integral cumprimento das obrigações assumidas perante os Debenturistas, nos termos desta Escritura de Emissão, não realizar operações fora de seu objeto social ou em desacordo com seu objeto social, observadas as disposições estatutária, legais e regulamentares em vigor, abaixo;
+
+não omitir qualquer fato de qualquer natureza que seja de seu conhecimento e que cause alteração substancial na situação econômico-financeira, reputacional, operacional ou jurídica da Emissora em prejuízo dos Debenturistas; 
+
+enviar o organograma, todos os dados financeiros e atos societários necessários à realização do relatório anual, conforme Resolução CVM nº 17, de 09 de fevereiro de 2021 ('Resolução CVM nº 17'), que venham a ser solicitados pelo Agente Fiduciário, os quais deverão ser devidamente encaminhados pela Emissora em até 30 (trinta) dias antes do encerramento do prazo para disponibilização na CVM. O referido relatório do grupo societário da Emissora deverá conter, inclusive, controladores, controladas, controle comum, coligadas, e integrante de bloco de controle, no encerramento de cada exercício social; 
+
+manter em adequado funcionamento órgão para atender, de forma eficiente, aos Debenturistas ou contratar instituições financeiras autorizadas para a prestação desse serviço;
+
+não constituir qualquer tipo de garantia, ônus ou gravame sobre valores mobiliários representativos de dívida de sua emissão no âmbito de operações conduzidas no mercado de capitais, que confiram aos credores da respectiva emissão ou oferta qualquer prioridade ou preferência sobre os créditos decorrentes das Debêntures, exceto com a prévia anuência de Debenturistas que representem 70% (setenta por cento), no mínimo, das Debêntures em Circulação; e 
+
+após a aprovação em sede de Assembleia Geral de Acionistas da Emissora, a Emissora deverá celebrar o Contrato de Cessão Fiduciária nos termos descritos na Cláusula 2.1.4 acima.
+
+Sem prejuízo das demais obrigações previstas nesta Escritura de Emissão, a Companhia está adicionalmente obrigada a, nos termos do artigo 17 da Instrução CVM 476:
+
+preparar as demonstrações financeiras consolidadas da Emissora relativas a cada exercício social, em conformidade com a Lei das Sociedades por Ações e com as regras emitidas pela CVM;
+
+submeter as demonstrações financeiras consolidadas da Emissora a auditoria, por auditor independente registrado na CVM;
+
+divulgar, em sua página na rede mundial de computadores () e no sistema disponibilizado pela B3, até o dia anterior ao início das negociações das Debêntures, as demonstrações financeiras consolidadas da Emissora, acompanhadas de notas explicativas e do relatório dos auditores independentes, relativas aos 3 (três) últimos exercícios sociais encerrados;
+
+divulgar, em sua página na rede mundial de computadores () e no sistema disponibilizado pela B3, as demonstrações financeiras consolidadas da Emissora subsequentes, acompanhadas de notas explicativas e relatório dos auditores independentes, dentro de 3 (três) meses contados do encerramento do exercício social;
+
+observar as disposições da Resolução da CVM nº 44, de 23 de agosto de 2021, conforme alterada de tempos em tempos ('Resolução CVM 44'), no que se refere ao dever de sigilo e às vedações à negociação;
+
+divulgar, em sua página na rede mundial de computadores () e no sistema disponibilizado pela B3, a ocorrência de qualquer ato ou fato relevante, conforme definido no artigo 2º da Resolução CVM 44; 
+
+fornecer todas as informações solicitadas pela CVM e pela B3;
+
+divulgar, em sua página na rede mundial de computadores (), o relatório anual do Agente Fiduciário e demais comunicações enviadas pelo Agente Fiduciário na mesma data do seu recebimento, observado, ainda, o disposto no item (d) acima;
+
+observar as disposições da regulamentação específica editada pela CVM, caso seja convocada, para realização de modo parcial ou exclusivamente digital, Assembleia Geral de Debenturistas.
+

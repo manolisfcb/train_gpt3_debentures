@@ -1,0 +1,80 @@
+RESGATE ANTECIPADO FACULTATIVO TOTAL, AMORTIZAÇÃO EXTRAORDINÁRIA FACULTATIVA E AQUISIÇÃO FACULTATIVA 
+
+5.1.	Resgate Antecipado Facultativo Total 
+
+5.1.1.	A Emissora poderá, observados os termos e condições estabelecidos a seguir, a seu exclusivo critério, a qualquer momento a partir da Data de Emissão, independentemente da vontade dos Debenturistas, realizar o resgate antecipado da totalidade das Debêntures ('Resgate Antecipado Facultativo Total'). 
+
+5.1.1.1.	Não será admitido o resgate antecipado facultativo parcial de Debêntures. 
+
+5.1.2.	O Resgate Antecipado Facultativo Total somente poderá ocorrer mediante o envio de comunicação dirigida a cada um dos Debenturistas, com cópia para o Agente Fiduciário e à B3, ou publicação no Jornal de Publicação ('Comunicação de Resgate Antecipado Facultativo Total'), com antecedência mínima de 3 (três) Dias Úteis da data prevista para realização do efetivo Resgate Antecipado Facultativo Total ('Data do Resgate Antecipado Facultativo Total'). 
+
+5.1.2.1.	Por ocasião do Resgate Antecipado Facultativo Total, os Debenturistas farão jus ao pagamento do Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, acrescido dos Juros Remuneratórios, calculados pro rata temporis, desde a primeira Data de Integralização até a Data do Resgate Antecipado Facultativo, acrescido de prêmio flat de 0,30% (trinta centésimos por cento) incidente sobre o valor total do resgate caso o Resgate Antecipado Facultativo Total seja realizado em até 9 (nove) meses contados da Data de Emissão (inclusive) e, caso o Resgate Antecipado Facultativo Total seja realizado após tal data, não haverá incidência de prêmio ('Valor do Resgate Antecipado Facultativo Total').
+
+5.1.2.2.	Na Comunicação de Resgate Antecipado Facultativo Total deverá constar: (a) a Data do Resgate Antecipado Facultativo Total; (b) menção ao Valor do Resgate Antecipado Facultativo Total; e (c) quaisquer outras informações necessárias à operacionalização do Resgate Antecipado Facultativo Total.
+
+5.1.3.	Caso ocorra o Resgate Antecipado Facultativo Total, este ocorrerá em uma única data e seguirá: (a) os procedimentos adotados pela B3, para as Debêntures custodiadas eletronicamente na B3; e/ou (b) os procedimentos adotados pelo Escriturador, para as Debêntures que não estejam custodiadas eletronicamente na B3.
+
+5.1.4.	As Debêntures objeto do Resgate Antecipado Facultativo Total serão obrigatoriamente canceladas.
+
+5.1.5.	A data para realização do Resgate Antecipado Facultativo Total deverá, obrigatoriamente, ser um Dia Útil.
+
+5.2. 	Aquisição Facultativa
+
+5.2.1.	Observadas as restrições de negociação e prazo previstos na Instrução CVM 476 e o disposto no parágrafo 3º do artigo 55 da Lei das Sociedades por Ações, a Emissora poderá a qualquer tempo, adquirir Debêntures no mercado secundário, condicionado ao aceite do respectivo Debenturista vendedor e observado o disposto no artigo 55, parágrafo 3°, da Lei das Sociedades por Ações e na Resolução CVM nº 77, de 29 de março de 2022 ('Resolução CVM 77'): (a) por valor igual ou inferior ao (i) saldo do Valor Nominal Unitário das Debêntures; ou (b) por valor superior ao (i) saldo do Valor Nominal Unitário das Debêntures, sendo certo que, neste caso, a aquisição facultativa deverá, necessariamente, observar o disposto na Cláusula 5.2.2 abaixo, devendo, em qualquer um dos casos dos subitens (a) e (b) acima, o fato constar do relatório da administração e das demonstrações financeiras da Emissora, observado o disposto no artigo 6º da Resolução CVM 77 ('Aquisição Facultativa').
+
+5.2.2.	Em atendimento ao disposto nos artigos 8º e 9º da Resolução CVM 77, a Emissora realizará a Aquisição Facultativa por meio de comunicação individual aos Debenturistas com cópia ao Agente Fiduciário, com ou por meio de publicação de aviso aos Debenturistas nos termos da Cláusula 4.11 acima, em ambos os casos com cópia ao Agente Fiduciário ('Comunicação de Aquisição Facultativa'), o qual deverá descrever os termos e condições da Aquisição Facultativa, incluindo (a) a data pretendida para a Aquisição Facultativa; (b) a quantidade de Debêntures que pretende adquirir, observado o disposto no art. 9º, §1º, inciso III, da Resolução CVM 77, no que aplicável; (c) a data da liquidação da Aquisição Facultativa e eventuais condições a que a liquidação esteja sujeita; (d) destinação a ser data pela Emissora para as Debêntures que vierem a ser adquiridas; (e) o preço máximo pelo qual as Debêntures serão adquiridas, destacando-se as informações previstas no art. 9º, §1º, inciso VI, (a) a (c) da Resolução CVM 77, no que aplicável; (f) prazo para os Debenturistas manifestarem interesse de alienação das Debêntures à Emissora, o qual não poderá ser inferior a 15 (quinze) dias contados da data da Comunicação de Aquisição Facultativa; e (g) demais informações necessárias para tomada de decisão pelos Debenturistas e à operacionalização da Aquisição Facultativa.
+
+5.2.3.	As Debêntures adquiridas pela Emissora poderão, a critério da Emissora (a) ser canceladas; (b) permanecer em tesouraria; ou (c) ser novamente colocadas no mercado. As Debêntures adquiridas pela Emissora para permanência em tesouraria nos termos desta Cláusula 5.2.3, se e quando recolocadas no mercado, farão jus ao mesmo Juros Remuneratórios da Debêntures aplicável às demais Debêntures.
+
+5.3	Amortização Extraordinária Facultativa: 
+
+5.3.1	A Emissora poderá, a seu exclusivo critério, realizar a amortização extraordinária facultativa do Valor Nominal Unitário das Debêntures, ou saldo do Valor Nominal Unitário, conforme o caso, observado o limite de 98% (noventa e oito por cento) do Valor Nominal Unitário, devendo a amortização extraordinária facultativa alcançar, proporcional e indistintamente todas as Debêntures ('Amortização Extraordinária Facultativa'). 
+
+5.3.2	A Amortização Extraordinária Facultativa somente poderá ocorrer mediante envio de comunicação dirigida a cada um dos Debenturistas, com cópia ao Agente Fiduciário e à B3, ou publicação no Jornal de Publicação ('Comunicação de Amortização Extraordinária Facultativa') com antecedência mínima de 3 (três) Dias Úteis da data prevista para realização da efetiva Amortização Extraordinária Facultativa ('Data da Amortização Extraordinária Facultativa').
+
+5.3.3	Na Comunicação de Amortização Extraordinária Facultativa deverá constar: (a) a Data da Amortização Extraordinária Facultativa; (b) o percentual do Valor Nominal Unitário ou do saldo do Valor Nominal Unitário das Debêntures que será amortizado nos termos desta Cláusula 5.3, a ser definido a exclusivo critério da Companhia, mas, em todo caso, limitado a 98% (noventa e oito por cento); (c) menção ao valor da Amortização Extraordinária Facultativa; e (d) quaisquer outras informações necessárias à operacionalização da Amortização Extraordinária Facultativa.
+
+5.3.4	Por ocasião da Amortização Extraordinária Facultativa, os Debenturistas farão jus ao pagamento de parcela do Valor Nominal Unitário (ou saldo do Valor Nominal Unitário, conforme o caso) das Debêntures a ser amortizada, acrescida dos Juros Remuneratórios, calculados pro rata temporis desde a primeira Data de Integralização até a Data da Amortização Extraordinária Facultativa, acrescido, ainda de eventuais encargos devidos nos termos desta Escritura e não pagos até a data do seu efetivo pagamento.  
+
+5.3.5	A liquidação financeira das Debêntures será feita por meio dos procedimentos adotados pela B3, para as Debêntures que estiverem custodiadas eletronicamente na B3. No caso das Debêntures que não estejam custodiadas eletronicamente na B3, o pagamento das Debêntures amortizadas antecipadamente será realizado pelo Escriturador, mediante depósito em contas correntes a serem indicadas pelos Debenturistas.
+
+RESGATE ANTECIPADO FACULTATIVO TOTAL, AMORTIZAÇÃO EXTRAORDINÁRIA FACULTATIVA E AQUISIÇÃO FACULTATIVA 
+
+5.1.	Resgate Antecipado Facultativo Total 
+
+5.1.1.	A Emissora poderá, observados os termos e condições estabelecidos a seguir, a seu exclusivo critério, a qualquer momento a partir da Data de Emissão, independentemente da vontade dos Debenturistas, realizar o resgate antecipado da totalidade das Debêntures ('Resgate Antecipado Facultativo Total'). 
+
+5.1.1.1.	Não será admitido o resgate antecipado facultativo parcial de Debêntures. 
+
+5.1.2.	O Resgate Antecipado Facultativo Total somente poderá ocorrer mediante o envio de comunicação dirigida a cada um dos Debenturistas, com cópia para o Agente Fiduciário e à B3, ou publicação no Jornal de Publicação ('Comunicação de Resgate Antecipado Facultativo Total'), com antecedência mínima de 3 (três) Dias Úteis da data prevista para realização do efetivo Resgate Antecipado Facultativo Total ('Data do Resgate Antecipado Facultativo Total'). 
+
+5.1.2.1.	Por ocasião do Resgate Antecipado Facultativo Total, os Debenturistas farão jus ao pagamento do Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, acrescido dos Juros Remuneratórios, calculados pro rata temporis, desde a primeira Data de Integralização até a Data do Resgate Antecipado Facultativo, acrescido de prêmio flat de 0,30% (trinta centésimos por cento) incidente sobre o valor total do resgate caso o Resgate Antecipado Facultativo Total seja realizado em até 9 (nove) meses contados da Data de Emissão (inclusive), ou seja, até 19 de fevereiro de 2023 e, caso o Resgate Antecipado Facultativo Total seja realizado após tal data, não haverá incidência de prêmio ('Valor do Resgate Antecipado Facultativo Total').
+
+5.1.2.2.	Na Comunicação de Resgate Antecipado Facultativo Total deverá constar: (a) a Data do Resgate Antecipado Facultativo Total; (b) menção ao Valor do Resgate Antecipado Facultativo Total; e (c) quaisquer outras informações necessárias à operacionalização do Resgate Antecipado Facultativo Total.
+
+5.1.3.	Caso ocorra o Resgate Antecipado Facultativo Total, este ocorrerá em uma única data e seguirá: (a) os procedimentos adotados pela B3, para as Debêntures custodiadas eletronicamente na B3; e/ou (b) os procedimentos adotados pelo Escriturador, para as Debêntures que não estejam custodiadas eletronicamente na B3.
+
+5.1.4.	As Debêntures objeto do Resgate Antecipado Facultativo Total serão obrigatoriamente canceladas.
+
+5.1.5.	A data para realização do Resgate Antecipado Facultativo Total deverá, obrigatoriamente, ser um Dia Útil.
+
+5.2. 	Aquisição Facultativa
+
+5.2.1.	Observadas as restrições de negociação e prazo previstos na Instrução CVM 476 e o disposto no parágrafo 3º do artigo 55 da Lei das Sociedades por Ações, a Emissora poderá a qualquer tempo, adquirir Debêntures no mercado secundário, condicionado ao aceite do respectivo Debenturista vendedor e observado o disposto no artigo 55, parágrafo 3°, da Lei das Sociedades por Ações e na Resolução CVM nº 77, de 29 de março de 2022 ('Resolução CVM 77'): (a) por valor igual ou inferior ao (i) saldo do Valor Nominal Unitário das Debêntures; ou (b) por valor superior ao (i) saldo do Valor Nominal Unitário das Debêntures, sendo certo que, neste caso, a aquisição facultativa deverá, necessariamente, observar o disposto na Cláusula 5.2.2 abaixo, devendo, em qualquer um dos casos dos subitens (a) e (b) acima, o fato constar do relatório da administração e das demonstrações financeiras da Emissora, observado o disposto no artigo 6º da Resolução CVM 77 ('Aquisição Facultativa').
+
+5.2.2.	Em atendimento ao disposto nos artigos 8º e 9º da Resolução CVM 77, a Emissora realizará a Aquisição Facultativa por meio de comunicação individual aos Debenturistas com cópia ao Agente Fiduciário, com ou por meio de publicação de aviso aos Debenturistas nos termos da Cláusula 4.11 acima, em ambos os casos com cópia ao Agente Fiduciário ('Comunicação de Aquisição Facultativa'), o qual deverá descrever os termos e condições da Aquisição Facultativa, incluindo (a) a data pretendida para a Aquisição Facultativa; (b) a quantidade de Debêntures que pretende adquirir, observado o disposto no art. 9º, §1º, inciso III, da Resolução CVM 77, no que aplicável; (c) a data da liquidação da Aquisição Facultativa e eventuais condições a que a liquidação esteja sujeita; (d) destinação a ser data pela Emissora para as Debêntures que vierem a ser adquiridas; (e) o preço máximo pelo qual as Debêntures serão adquiridas, destacando-se as informações previstas no art. 9º, §1º, inciso VI, (a) a (c) da Resolução CVM 77, no que aplicável; (f) prazo para os Debenturistas manifestarem interesse de alienação das Debêntures à Emissora, o qual não poderá ser inferior a 15 (quinze) dias contados da data da Comunicação de Aquisição Facultativa; e (g) demais informações necessárias para tomada de decisão pelos Debenturistas e à operacionalização da Aquisição Facultativa.
+
+5.2.3.	As Debêntures adquiridas pela Emissora poderão, a critério da Emissora (a) ser canceladas; (b) permanecer em tesouraria; ou (c) ser novamente colocadas no mercado. As Debêntures adquiridas pela Emissora para permanência em tesouraria nos termos desta Cláusula 5.2.3, se e quando recolocadas no mercado, farão jus ao mesmo Juros Remuneratórios da Debêntures aplicável às demais Debêntures.
+
+5.3	Amortização Extraordinária Facultativa: 
+
+5.3.1	A Emissora poderá, a seu exclusivo critério, realizar a amortização extraordinária facultativa do Valor Nominal Unitário das Debêntures, ou saldo do Valor Nominal Unitário, conforme o caso, observado o limite de 98% (noventa e oito por cento) do Valor Nominal Unitário, devendo a amortização extraordinária facultativa alcançar, proporcional e indistintamente todas as Debêntures ('Amortização Extraordinária Facultativa'). 
+
+5.3.2	A Amortização Extraordinária Facultativa somente poderá ocorrer mediante envio de comunicação dirigida a cada um dos Debenturistas, com cópia ao Agente Fiduciário e à B3, ou publicação no Jornal de Publicação ('Comunicação de Amortização Extraordinária Facultativa') com antecedência mínima de 3 (três) Dias Úteis da data prevista para realização da efetiva Amortização Extraordinária Facultativa ('Data da Amortização Extraordinária Facultativa').
+
+5.3.3	Na Comunicação de Amortização Extraordinária Facultativa deverá constar: (a) a Data da Amortização Extraordinária Facultativa; (b) o percentual do Valor Nominal Unitário ou do saldo do Valor Nominal Unitário das Debêntures que será amortizado nos termos desta Cláusula 5.3, a ser definido a exclusivo critério da Companhia, mas, em todo caso, limitado a 98% (noventa e oito por cento); (c) menção ao valor da Amortização Extraordinária Facultativa; e (d) quaisquer outras informações necessárias à operacionalização da Amortização Extraordinária Facultativa.
+
+5.3.4	Por ocasião da Amortização Extraordinária Facultativa, os Debenturistas farão jus ao pagamento de parcela do Valor Nominal Unitário (ou saldo do Valor Nominal Unitário, conforme o caso) das Debêntures a ser amortizada, acrescida dos Juros Remuneratórios, calculados pro rata temporis desde a primeira Data de Integralização até a Data da Amortização Extraordinária Facultativa, acrescido, ainda de eventuais encargos devidos nos termos desta Escritura e não pagos até a data do seu efetivo pagamento.  
+
+5.3.5	A liquidação financeira das Debêntures será feita por meio dos procedimentos adotados pela B3, para as Debêntures que estiverem custodiadas eletronicamente na B3. No caso das Debêntures que não estejam custodiadas eletronicamente na B3, o pagamento das Debêntures amortizadas antecipadamente será realizado pelo Escriturador, mediante depósito em contas correntes a serem indicadas pelos Debenturistas.
+

@@ -1,0 +1,971 @@
+REQUISITOS 
+
+A presente primeira emissão de debêntures simples, não conversíveis em ações, da espécie quirografária, em até duas séries, da Emissora ('Emissão'), será objeto de distribuição pública com esforços restritos de distribuição, nos termos da Instrução CVM 476 ('Oferta Restrita'), e será realizada com observância dos seguintes requisitos:
+
+Arquivamento e Publicação dos Atos Societários 
+
+ Os Atos Societários deverão, em até 30 (trinta) dias contados da data do respectivo ato e até a primeira Data de Integralização, ser registrados na JUCESP e publicados no jornal Diário Oficial do Estado de São Paulo ('Jornal da Emissora'), nos termos da Lei das Sociedades por Ações. A Emissora se compromete a enviar ao Agente Fiduciário 1 (uma) cópia simples dos Atos Societários, devidamente registrados na JUCESP e publicados no Jornal da Emissora, em até 5 (cinco) Dias Úteis contados da data de obtenção do referido registro e publicação, respectivamente, assim como seguirão este procedimento eventuais atos societários da Emissora posteriores, que sejam realizados em razão da Emissão.
+
+Caso a Emissora não realize os registros e publicações previstos acima, o Agente Fiduciário poderá promover os registros e publicações em questão, devendo a Emissora arcar com todos os custos e despesas de tal registro e/ou publicação, mediante o envio de comunicação nesse sentido. 
+
+Arquivamento e Registro da Escritura de Emissão
+
+Esta Escritura de Emissão e seus eventuais aditamentos deverão ser protocolados para registro na JUCESP em até 05 (cinco) Dias Úteis contados da data de suas respectivas assinaturas, de acordo com o disposto no artigo 62, inciso II e seu parágrafo 3º, da Lei das Sociedades por Ações. O protocolo para registro dessa Escritura de Emissão na JUCESP deverá ser realizado até a primeira Data de Integralização e o registro na JUCESP de qualquer aditamento à esta Escritura deverá ser realizado em até 20 (vinte) dias contados da data de sua assinatura. A Emissora se compromete a enviar ao Agente Fiduciário 1 (uma) via original desta Escritura de Emissão e seus eventuais aditamentos, devidamente registrados na JUCESP, em até 05 (cinco) Dias Úteis contados da data de obtenção dos referidos registros. 
+
+A presente Escritura de Emissão e seus eventuais aditamentos serão protocolados para registro em até 05 (cinco) Dias Úteis contados da data de sua respectiva assinatura, no competente Cartório de Registro de Títulos e Documentos da cidade de São Paulo, estado de São Paulo ('Cartório'). O registro de qualquer aditamento à esta Escritura deverá ser realizado no Cartório em até 05 (cinco) Dias Úteis contados da data de sua assinatura. A Emissora se compromete a enviar ao Agente Fiduciário 1 (uma) via original desta Escritura de Emissão e seus eventuais aditamentos, devidamente registrados no Cartório, em até 05 (cinco) Dias Úteis contados da data de obtenção dos referidos registros.
+
+Caso a Emissora não providencie os protocolos nos prazos previstos nesta Cláusula 2.1.2, o Agente Fiduciário poderá, nos termos do artigo 62, parágrafo 2º, da Lei das Sociedades por Ações, promover os registros acima previstos, devendo a Emissora arcar com todos os respectivos custos e despesas de tais registros, mediante o envio de comunicação pelo Agente Fiduciário nesse sentido.
+
+Dispensa Automática de Registro na CVM
+
+A presente Emissão está automaticamente dispensada de registro de distribuição na CVM, de que trata o artigo 19 da Lei do Mercado de Valores Mobiliários e nos termos do artigo 6º da Instrução CVM 476, por se tratar de oferta pública de valores mobiliários com esforços restritos de distribuição, sendo obrigatório, não obstante, o envio da comunicação de início da Oferta Restrita à CVM, nos termos do artigo 7º-A da Instrução CVM 476, e da comunicação de encerramento da Oferta Restrita à CVM, nos termos do artigo 8º da Instrução CVM 476 ('Comunicação de Encerramento').
+
+Registro na ANBIMA - Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais 
+
+A Oferta Restrita será objeto de registro perante a ANBIMA – Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais ('ANBIMA'), nos termos do inciso I do artigo 16 e do inciso V do artigo 18 do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários', em vigor desde 06 de maio de 2021 ('Código ANBIMA'), mediante envio da documentação descrita no artigo 18, inciso V, do Código ANBIMA, no prazo de até 15 (quinze) dias contados do envio da comunicação de encerramento da Oferta Restrita à CVM. 
+
+Depósito, Distribuição, Negociação e Custódia Eletrônica
+
+As Debêntures (conforme abaixo definidas) serão depositadas para (a) distribuição pública no mercado primário por meio do MDA – Módulo de Distribuição de Ativos, administrado e operacionalizado pela B3, sendo a distribuição liquidada financeiramente por meio da B3; (b) observado o disposto na Cláusula 2.1.5.2 abaixo, negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários, também administrado e operacionalizado pela B3, sendo as negociações e os eventos de pagamento liquidados financeiramente por meio da B3; e (c) custódia eletrônica na B3.
+
+As Debêntures somente poderão ser negociadas nos mercados regulamentados de valores mobiliários (i) entre Investidores Qualificados (conforme abaixo definido); e (ii) depois de decorridos 90 (noventa) dias contados da data de cada subscrição ou aquisição por Investidores Profissionais (conforme abaixo definido), conforme disposto nos artigos 13 e 15 da Instrução CVM 476, condicionado ainda ao cumprimento, pela Emissora, das obrigações previstas no artigo 17 da Instrução CVM 476, sendo que a negociação das Debêntures deverá sempre respeitar as disposições legais e regulamentares aplicáveis.
+
+Para fins desta Escritura de Emissão consideram-se (i) 'Investidores Qualificados' aqueles investidores referidos no artigo 12 da Resolução CVM nº 30; e (ii) 'Investidores Profissionais' aqueles investidores referidos no artigo 11 da Resolução CVM nº 30, sendo certo que, nos termos do artigo 12 da Resolução CVM nº 30, os regimes próprios de previdência social instituídos pela União, pelos Estados, pelo Distrito Federal ou por Municípios são considerados Investidores Profissionais ou Investidores Qualificados apenas se reconhecidos como tais conforme regulamentação específica do Ministério da Previdência Social. 
+
+REQUISITOS
+A presente 1ª (primeira) emissão de debêntures simples, não conversíveis em ações, da espécie com garantia real, em série única, da Emissora ('Emissão' e 'Debêntures', respectivamente), para distribuição pública, sob rito de registro automático, nos termos dos artigos 26, inciso X, e do artigo 27, inciso I, ambos da Resolução CVM 160, no valor de R$ 3.000.000.000,00 (três bilhões de reais), em regime de garantia firme de colocação para a totalidade da Emissão, nos termos da Lei do Mercado de Valores Mobiliários, da Resolução CVM 160 e das demais disposições legais e regulamentares aplicáveis ('Oferta Pública') será realizada com a observância dos seguintes requisitos:
+Arquivamentos e Publicações das Aprovações Societárias 
+A ata da Aprovação Societária Emissora (i) será devidamente arquivada perante a JUCESP; e (ii) será devidamente divulgada na Central de Balanços do Sistema Público de Escrituração Digital ('SPED') e em site eletrônico na rede mundial de computadores (www.ri.aegea.com.br), nos termos do artigo 294 da Lei das Sociedades por Ações, conforme redação dada pela Lei Complementar n° 182, de 1º de junho de 2021, conforme em vigor, e da Portaria do Ministério da Economia nº 12.071, de 7 de outubro de 2021.
+A ata da Aprovação Societária AEGEA (i) será devidamente arquivada perante a JUCESP, e (ii) será devidamente publicada no jornal 'Diário Comercial do Estado de São Paulo', nos termos do artigo 62, inciso I e artigo 289, inciso I, da Lei das Sociedades Por Ações, com divulgação simultânea da íntegra da ata da Aprovação Societária AEGEA na página de referido jornal na rede mundial de computadores, que deverão providenciar certificação digital da autenticidade dos documentos mantidos nas páginas próprias emitidas por autoridade certificadora credenciada no âmbito da Infraestrutura de Chaves Públicas Brasileiras (ICP-Brasil), conforme legislação em vigor. 
+As atas das Aprovações Societárias deverão ser protocoladas na JUCESP dentro do prazo de 3 (três) Dias Úteis (conforme abaixo definido) contados das suas respectivas realizações na JUCESP, cujos correspondentes arquivamentos deverão ser obtidos dentro do prazo de 30 (trinta) dias contados das respectivas datas de assinatura, observado que referido prazo será automaticamente prorrogado por iguais e sucessivos períodos caso a Emissora comprove ao Agente Fiduciário o tempestivo cumprimento de eventuais exigências formuladas pela JUCESP. Adicionalmente, a Emissora deverá encaminhar ao Agente Fiduciário uma via eletrônica (pdf) ou 1 (uma) via física original, conforme aplicável, das atas das Aprovações Societárias, devidamente arquivadas na JUCESP, em até 5 (cinco) Dias Úteis após as datas dos respectivos arquivamentos. 
+Inscrição desta Escritura de Emissão e seus eventuais aditamentos 
+Esta Escritura de Emissão e seus eventuais aditamentos serão inscritos na JUCESP, de acordo com o inciso II e o parágrafo 3º do artigo 62 da Lei das Sociedades por Ações. 
+A Emissora deverá (i) protocolar esta Escritura de Emissão e seus eventuais aditamentos na JUCESP no prazo de até 3 (três) Dias Úteis contados das respectivas datas de assinatura; (ii) obter o registro desta Escritura de Emissão e de seus eventuais aditamentos perante a JUCESP, no prazo de 30 (trinta) dias contados das respectivas datas de assinatura, observado que referido prazo será automaticamente prorrogado por iguais e sucessivos períodos caso a Emissora comprove ao Agente Fiduciário que está em tempestivo cumprimento de eventuais exigências formuladas pela JUCESP; e (iii) entregar ao Agente Fiduciário uma via original ou, em caso de registro digital, uma cópia eletrônica (pdf) desta Escritura de Emissão e de seus eventuais aditamentos devidamente registrados perante a JUCESP no prazo de até 5 (cinco) Dias Úteis contados da obtenção dos respectivos registros.
+Caso a Emissora não realize os protocolos dentro do prazo previsto na Cláusula acima, o Agente Fiduciário poderá, nos termos do artigo 62, parágrafo 2º, da Lei das Sociedades por Ações, promover os protocolos acima previstos, devendo a Emissora arcar com todos os respectivos custos e despesas comprovadamente incorridos em relação aos respectivos registros, sem prejuízo da ocorrência do descumprimento de obrigação não pecuniária pela Emissora.
+Registro dos Contratos de Garantia
+Os Contratos de Garantia (conforme definido abaixo), assim como quaisquer aditamentos subsequentes, quando de sua celebração, conforme disposto nesta Escritura de Emissão, serão levados a registro no competente Cartório de Registro de Títulos e Documentos da Comarca de São Paulo, nos termos e prazos previstos no respectivo Contrato de Garantia.
+Registro na Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais 
+Por se tratar de oferta de distribuição pública sob o rito automático de distribuição, a Oferta Pública será objeto de registro na ANBIMA – Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais ('ANBIMA'), nos termos do inciso I, do artigo 20, e do artigo 25 do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários', vigente a partir de 2 de janeiro de 2023 ('Código ANBIMA'), no prazo de até 15 (quinze) dias contados da divulgação do Anúncio de Encerramento (conforme definido abaixo). 
+Registro na CVM e Rito de Registro Automático de Distribuição
+A Oferta Pública será registrada na CVM, nos termos da Lei do Mercado de Valores Mobiliários, da Resolução CVM 160 e das demais disposições legais, regulamentares e autorregulatórias aplicáveis. 
+Nos termos do artigo 26, inciso X da Resolução CVM 160, a Oferta Pública não se sujeita à análise prévia da CVM e seu registro será obtido automaticamente, por se tratar de oferta pública de dívida de emissor não registrado na CVM e, assim, destinada exclusivamente a Investidores Profissionais (conforme definido abaixo), em conformidade com o §2º do artigo 25 da Resolução CVM 160, desde que cumpridos os requisitos e procedimentos elencados no artigo 27 da Resolução CVM 160.
+Em complemento aos requisitos e procedimentos elencados no artigo 27 da Resolução CVM 160, deverão ser divulgados, nas páginas da rede mundial de computadores da Emissora, dos Coordenadores (conforme definido abaixo), da B3 e da CVM, os seguintes documentos: (i) o anúncio de início da Oferta Pública nos termos dos artigos 13 e 59, II, da Resolução CVM 160 ('Anúncio de Início'), de forma a divulgar o início do período de distribuição das Debêntures; e (ii) o anúncio de encerramento da Oferta Pública, nos termos dos artigos 13 e 76 da Resolução CVM 160 ('Anúncio de Encerramento'), de forma a divulgar o resultado da Oferta Pública e a distribuição da totalidade das Debêntures. Adicionalmente, tendo em vista o público-alvo da Oferta Pública composto exclusivamente por Investidores Profissionais e a não realização de procedimento de precificação (bookbuilding), fica dispensada a apresentação de lâmina da oferta, aviso ao mercado e prospecto no âmbito da Oferta Pública, conforme previsto na Resolução CVM 160.
+Distribuição, Negociação e Custódia Eletrônica 
+As Debêntures serão depositadas para: (i) distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos ('MDA'), administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Balcão B3 ('B3'), sendo a distribuição liquidada financeiramente por meio da B3; e (ii) negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+Não obstante o descrito na Cláusula 2.6.1 acima, em conformidade com o disposto no artigo 86, inciso V, da Resolução CVM 160, as Debêntures poderão ser negociadas nos mercados regulamentados de valores mobiliários exclusivamente entre Investidores Profissionais, desde que observadas as obrigações previstas no artigo 89 da Resolução CVM 160 e sejam observadas as disposições legais e regulamentares aplicáveis. Ainda, nos termos do artigo 88, da Resolução CVM 160, as Debêntures poderão ser negociadas nos mercados de balcão organizado e não-organizado, mas não em bolsa, sem que a Emissora possua o registro de que trata o artigo 21 da Lei do Mercado de Valores Mobiliários. 
+OBJETO SOCIAL
+A Emissora tem por objeto social a participação e administração de investimentos em outras sociedades e/ou empreendimentos de qualquer natureza na qualidade de sócia ou acionista.
+DESTINAÇÃO DOS RECURSOS 
+Os recursos líquidos captados pela Emissora com a Oferta Pública serão integralmente destinados para o pagamento do valor referente ao preço de aquisição, pela Emissora, de, no mínimo, 89% (oitenta e nove por cento) das ações nominativas ordinárias e de, no mínimo, 89% (oitenta e nove por cento) das ações nominativas preferenciais da Companhia Riograndense de Saneamento Corsan, inscrita no CNPJ/MF sob o nº 92.802.784/0001-90 ('Corsan'). 
+Para fins do disposto nesta Cláusula 4, entende-se por 'recursos líquidos' os recursos captados pela Emissora, por meio da integralização das Debêntures, excluídos os custos incorridos para pagamento de despesas decorrentes da Oferta Pública. 
+A Emissora enviará ao Agente Fiduciário a declaração constante no Anexo I desta Escritura de Emissão, em papel timbrado, assinada por seus representantes legais, em até 30 (trinta) dias corridos da data da efetiva destinação da totalidade dos recursos líquidos ou na Data de Vencimento (conforme definido abaixo), o que ocorrer primeiro, juntamente com a documentação que for necessária para fins de confirmação da referida destinação, atestando a destinação da totalidade dos recursos líquidos da presente Emissão nos termos previstos nesta Escritura de Emissão, conforme Cláusula 4.1 acima, podendo o Agente Fiduciário solicitar à Emissora todos os eventuais esclarecimentos e documentos adicionais que se façam necessários. 
+Até a comprovação da totalidade da destinação de recursos líquidos no âmbito da Emissão, a Emissora obriga-se a enviar ao Agente Fiduciário, sempre que solicitado por escrito por autoridades para fins de atendimento às normas e exigências de órgãos reguladores e fiscalizadores, os documentos que, a critério das respectivas autoridades ou órgãos reguladores, comprovem o emprego dos recursos líquidos oriundos das Debêntures nos termos da Cláusula 4.1 acima, dentro do prazo solicitado pela autoridade competente e com antecedência mínima para que Agente Fiduciário possua tempo hábil para atendimento da solicitação em questão.
+O Agente Fiduciário deverá tratar todas e quaisquer informações recebidas nos termos desta Cláusula 4 em caráter sigiloso, com o fim exclusivo de verificar o cumprimento da destinação de recursos líquidos aqui estabelecida, salvo se forem solicitadas informações nesse sentido pelos Debenturistas ou por autoridades ou órgãos reguladores, regulamentos, leis ou determinações judiciais, administrativas ou arbitrais.
+REQUISITOS
+
+A presente 2ª (segunda) emissão de debêntures simples, não conversíveis em ações, da espécie quirografária, em até duas séries, da Emissora ('Emissão' e 'Debêntures', respectivamente), para distribuição pública, com esforços restritos, nos termos da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada ('Lei do Mercado de Valores Mobiliários'), da Instrução da CVM nº 476, de 16 de janeiro de 2009, conforme alterada ('Instrução CVM 476') e das demais disposições legais e regulamentares aplicáveis ('Oferta Restrita'), será realizada, conforme aplicável, com observância aos requisitos abaixo.
+
+Arquivamento na Junta Comercial e publicação da RCA
+
+Nos termos do artigo 62, inciso I, e artigo 289, da Lei das Sociedades por Ações, a ata da RCA será arquivada na JUCESP e publicada no jornal 'Valor Econômico' ('Jornal de Publicação').
+
+A Emissora deverá (i) protocolar o pedido de registro da ata da RCA na JUCESP, no prazo de até 5 (cinco) Dias Úteis (conforme definido abaixo) contados da data de sua realização ou celebração, podendo o protocolo ser comprovado por meio de documento emitido pela JUCESP e/ou pelos correios, conforme procedimento vigente na data do protocolo, ou por outro documento evidenciando o protocolo da ata da RCA; e (ii) encaminhar ao Agente Fiduciário cópia simples, contendo a chancela digital de inscrição na JUCESP (por e-mail via arquivo PDF) da ata da RCA que deliberou a Emissão, bem como das referidas publicações, em até 5 (cinco) Dias Úteis após as datas de arquivamento e publicações, respectivamente. 
+
+Arquivamento da Escritura de Emissão e seus aditamentos na Junta Comercial
+
+Nos termos do artigo 62, inciso II, e parágrafo 3º da Lei das Sociedades por Ações, esta Escritura de Emissão e seus eventuais aditamentos serão protocolados na JUCESP no prazo de 5 (cinco) Dias Úteis contados da assinatura do respectivo documento. Esta Escritura de Emissão será objeto de aditamento para refletir o resultado do Procedimento de Bookbuilding. 
+
+A Emissora deverá entregar ao Agente Fiduciário 1 (uma) via original desta Escritura de Emissão e de seus eventuais aditamentos devidamente registrados perante a JUCESP no prazo de até 5 (cinco) Dias Úteis contado da obtenção do registro. 
+
+Dispensa de Registro na CVM e Registro na ANBIMA
+
+A Oferta Restrita será realizada nos termos do artigo 6º da Instrução CVM 476 e das demais disposições legais e regulamentares aplicáveis, estando, portanto, automaticamente dispensada do registro de distribuição na CVM de que trata o artigo 19 da Lei do Mercado de Valores Mobiliários.
+
+A Oferta Restrita será objeto de registro na Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais ('ANBIMA'), nos termos do inciso I do artigo 16 e do inciso V do artigo 18 do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários' ('Código ANBIMA'), em vigor desde 6 de maio de 2021, em até 15 (quinze) dias contados da data do envio do comunicado de encerramento da Oferta Restrita ('Comunicado de Encerramento').
+
+Distribuição, Negociação e Custódia Eletrônica
+
+As Debêntures serão depositadas para: (i) distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos ('MDA'), administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Balcão B3 ('B3'), sendo a respectiva distribuição liquidada financeiramente por meio da B3; e (ii) negociação, observado o disposto na Cláusula 2.5.2 abaixo, no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+Não obstante o descrito na Cláusula 2.5.1 acima, as Debêntures somente poderão ser negociadas com investidores em geral nos mercados regulamentados de valores mobiliários depois de decorridos 90 (noventa) dias contados da data de cada subscrição ou aquisição pelos Investidores Profissionais (conforme definido abaixo), nos termos dos artigos 13 e 15 da Instrução CVM 476. O prazo de 90 (noventa) dias para restrição de negociação das Debêntures referido acima não será aplicável aos Coordenadores (conforme definido abaixo), para as Debêntures que tenham sido subscritas e integralizadas em razão do exercício da garantia firme de colocação, nos termos do Contrato de Distribuição (conforme definido abaixo), observado o disposto no inciso II do artigo 13 da Instrução CVM 476, devendo ser respeitadas todas as demais disposições legais e regulamentares aplicáveis. 
+
+Nos termos dos artigos 11 e 13 da Resolução da CVM nº 30, de 11 de maio de 2021 ('Resolução CVM 30'), são considerados investidores profissionais ('Investidores Profissionais'): (i) instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil; (ii) companhias seguradoras e sociedades de capitalização; (iii) entidades abertas e fechadas de previdência complementar; (iv) pessoas naturais ou jurídicas que possuam investimentos financeiros em valor superior a R$10.000.000,00 (dez milhões de reais) e que, adicionalmente, atestem por escrito sua condição de Investidor Profissional mediante termo próprio, elaborado de acordo com o Anexo A da Resolução CVM 30; (v) fundos de investimento; (vi) clubes de investimento, desde que tenham a carteira gerida por administrador de carteira de valores mobiliários autorizado pela CVM; (vii) agentes autônomos de investimento, administradores de carteira, analistas e consultores de valores mobiliários autorizados pela CVM, em relação a seus recursos próprios; (viii) investidores não residentes; e (ix) os regimes próprios de previdência social instituídos pela União, pelos Estados, pelo Distrito Federal ou por Municípios, quando reconhecidos como tal conforme regulamentação específica do Ministério da Previdência Social. 
+
+REQUISITOS
+
+A presente 2ª (segunda) emissão de debêntures simples, não conversíveis em ações, da espécie quirografária, em até duas séries, da Emissora ('Emissão' e 'Debêntures', respectivamente), para distribuição pública, com esforços restritos, nos termos da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada ('Lei do Mercado de Valores Mobiliários'), da Instrução da Comissão de Valores Mobiliários ('CVM') nº 476, de 16 de janeiro de 2009, conforme alterada ('Instrução CVM 476') e das demais disposições legais e regulamentares aplicáveis ('Oferta Restrita' ou 'Oferta'), será realizada, conforme aplicável, com observância aos requisitos abaixo.
+
+Arquivamento na Junta Comercial e publicação da RCA
+
+Nos termos do artigo 62, inciso I, e artigo 289, da Lei das Sociedades por Ações, a ata da RCA será arquivada na JUCESP e publicada no jornal 'Valor Econômico' ('Jornal de Publicação').
+
+A Emissora deverá (a) protocolar o pedido de registro na JUCESP, da ata da RCA, no prazo de até 5 (cinco) Dias Úteis (conforme definido abaixo) contados da data de sua realização ou celebração, podendo o protocolo ser comprovado por meio de documento emitido pela JUCESP e/ou pelos Correios, conforme procedimento vigente na data do protocolo, ou por outro documento evidenciando o protocolo da ata da RCA; e (b) encaminhar ao Agente Fiduciário cópia simples, contendo a chancela digital de inscrição na JUCESP (por e-mail via arquivo PDF) da ata da RCA que deliberou a Emissão, bem como das referidas publicações, em até 5 (cinco) Dias Úteis após as datas de arquivamento e publicações, respectivamente. 
+
+Inscrição da Escritura de Emissão e seus aditamentos na Junta Comercial
+
+Nos termos do artigo 62, inciso II, e parágrafo 3º da Lei das Sociedades por Ações, esta Escritura de Emissão e seus eventuais aditamentos serão registrados na JUCESP no prazo de 5 (cinco) Dias Úteis contados da assinatura do respectivo documento. 
+
+A Emissora deverá entregar ao Agente Fiduciário 1 (uma) via original desta Escritura de Emissão e de seus eventuais aditamentos devidamente registrados perante a JUCESP no prazo de até 5 (cinco) Dias Úteis contado da obtenção do registro. 
+
+Dispensa de Registro na CVM e Registro na Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais ('ANBIMA')
+
+A Oferta Restrita será realizada nos termos do artigo 6º da Instrução CVM 476 e das demais disposições legais e regulamentares aplicáveis, estando, portanto, automaticamente dispensada do registro de distribuição na CVM de que trata o artigo 19 da Lei do Mercado de Valores Mobiliários.
+
+A Oferta Restrita será objeto de registro na ANBIMA, nos termos do inciso I do artigo 16 e do inciso V do artigo 18 do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários' ('Código ANBIMA'), em vigor desde 6 de maio de 2021, em até 15 (quinze) dias contados do envio da comunicação de encerramento da Oferta Restrita.
+
+Distribuição, Negociação e Custódia Eletrônica
+
+As Debêntures serão depositadas para: (i) distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos ('MDA'), administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Balcão B3('B3'), sendo a respectiva distribuição liquidada financeiramente por meio da B3; e (ii) negociação, observado o disposto na Cláusula 2.4.2 abaixo, no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+Não obstante o descrito na Cláusula 2.4.1 acima, as Debêntures somente poderão ser negociadas nos mercados regulamentados de valores mobiliários entre investidores em geral, depois de decorridos 90 (noventa) dias contados da data de cada subscrição ou aquisição pelos Investidores Profissionais, nos termos do parágrafo 2º do art. 15 da Instrução CVM 476, observado o disposto nos artigos 13 e 15 da Instrução CVM 476, e observado que referido prazo não se aplica aos Coordenadores (conforme abaixo definido), na hipótese de exercício da garantia firme, nos termos do inciso II, artigo 13 da Instrução CVM 476, e, em qualquer caso, desde que a Emissora esteja cumprindo as obrigações de que trata o artigo 17 da Instrução CVM 476, devendo ser respeitadas todas as demais disposições legais e regulamentares aplicáveis. 
+
+Nos termos do artigo 11 da Resolução CVM nº 30, de 11 de maio de 2021 ('Resolução CVM 30'), são considerados investidores profissionais ('Investidores Profissionais'): (i) instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil; (ii) companhias seguradoras e sociedades de capitalização; (iii) entidades abertas e fechadas de previdência complementar; (iv) pessoas naturais ou jurídicas que possuam investimentos financeiros em valor superior a R$10.000.000,00 (dez milhões de reais) e que, adicionalmente, atestem por escrito sua condição de Investidor Profissional mediante termo próprio, elaborado de acordo com o Anexo A da Resolução CVM 30; (v) fundos de investimento; (vi) clubes de investimento, desde que tenham a carteira gerida por administrador de carteira de valores mobiliários autorizado pela CVM; (vii) agentes autônomos de investimento, administradores de carteira, analistas e consultores de valores mobiliários autorizados pela CVM, em relação a seus recursos próprios; (viii) investidores não residentes; e (ix) os regimes próprios de previdência social instituídos pela União, pelos Estados, pelo Distrito Federal ou por Municípios, quando reconhecidos como tal conforme regulamentação específica do Ministério da Previdência Social. 
+
+OBJETO SOCIAL DA EMISSORA
+
+Nos termos do artigo 4º do Estatuto Social da Emissora, a Emissora tem por objeto social: (i) o comércio de produtos de varejo em geral, inclusive comércio eletrônico, por qualquer meio (telefone, internet, catálogo, etc.), de vestuário, tais como, mas não exclusivamente: roupas femininas, masculinas, infanto-juvenis, calçados, bolsas, acessórios; artigos de cama, mesa, banho, tecidos, artigos e artefatos de armarinho; artigos de couro e peles; óculos, lentes de contato; artigos esportivos e de viagem, bijuterias e objetos de adorno em geral; metais preciosos e semi preciosos, pedras e joias, preciosas ou não; produtos de perfumaria de toucador e cosméticos; brinquedos e artigos recreativos, em geral; produtos de decoração; produtos de limpeza e higiene doméstica e pessoal; equipamentos e suprimentos de informática, aparelhos elétricos, eletrônicos, eletrodomésticos, inclusive celulares, disco, CDs, DVDs aparelhos de fotografia, filmagem, relógios; produtos alimentícios em geral; materiais de papelaria e livraria em geral e impressos de todos os tipos, bem como demais produtos típicos de lojas de departamento; (ii) a importação e exportação dos bens e produtos acima mencionados; (iii) o acondicionamento e a embalagem de produtos; (iv) publicidade de produtos próprios ou de terceiros e comércio de materiais de promoção e propaganda; (v) prestar serviços de operação logística, compreendendo o armazenamento, gestão de estoques em depósitos próprios ou de terceiros, bem como o transporte de cargas; (vi) a prestação de serviços relacionados a cartão de crédito e de débito de qualquer modalidade, de emissão própria ou de terceiros, e quaisquer atividades principais, acessórias ou correlatas a estes serviços; (vii) desenvolvimento e licenciamento de programas de computador; suporte técnico, manutenção e outros serviços em tecnologia da informação; (viii) a prestação, intermediação e agenciamento de negócios em geral, mas não exclusivamente e limitados, incluindo a intermediação de: (a) serviços financeiros tais como vendas financiadas, empréstimos pessoais, previdência privada, títulos de capitalização, corretagem de seguros, venda de garantia estendida, correspondente bancário, recargas de celulares, e atividades correlatas; (b) a prestação de serviços de intermediação na habilitação e recarga de linhas telefônicas da rede móvel, operadas por terceiros; (c) a prestação de serviços de intermediação, agenciamento e promoção para a distribuição de seguros, títulos de capitalização e produtos correlatos de sociedades seguradoras e quaisquer terceiros que detenham tais produtos, que será feita por meio de empresa corretora de seguro, quando for o caso, nos termos da regulamentação SUSEP (Superintendência de Seguros Privados) e do CNSP (Conselho Nacional de Seguros Privados); (ix) comércio e distribuição de produtos próprios ou de terceiros, no atacado ou varejo; e (x) a participação em outras sociedades, nacionais ou estrangeiras, a qualquer título. [Nota Machado Meyer: Companhia, gentileza confirmar que o objeto social está de acordo com a versão mais atualizada do estatuto social.]
+
+REQUISITOS
+A Emissão, a Oferta Restrita e a celebração desta Escritura de Emissão, dos demais Documentos das Obrigações Garantidas e do Contrato de Distribuição serão realizadas com observância aos requisitos abaixo.
+
+
+
+Arquivamento e publicação das atas dos atos societários. 
+
+Nos termos do artigo 62, inciso I, e artigo 289, ambos da Lei das Sociedades por Ações, as atas das Aprovações Societárias da Emissora serão: (i) protocoladas perante a JUCEP, no prazo de até 10 (dez) dias contados da data de realização das respectivas Aprovações Societárias da Emissora; e (ii) publicadas no jornal 'A União' ('Jornal de Publicação da Emissora'), com divulgação simultânea da íntegra do documento na respectiva página do Jornal de Publicação da Emissora na rede mundial de computadores, que deverá providenciar a certificação digital da autenticidade dos documentos mantidos na página própria, emitida por autoridade certificadora credenciada no âmbito da Infraestrutura de Chaves Públicas Brasileiras (ICP-Brasil), conforme legislação em vigor. [Nota LDR: prazo pendente de aprovação interna do pelo Coordenador Líder.]
+
+Eventuais atos societários posteriores da Emissora, que sejam realizados em razão da Emissão, seguirão o mesmo procedimento previsto na Cláusula 3.2.1 acima.
+
+A Emissora se compromete a enviar ao Agente Fiduciário 1 (uma) via eletrônica (formato .pdf) das atas das Aprovações Societárias da Emissora, devidamente arquivadas na JUCEP, no prazo de até 3 (três) Dias Úteis após a obtenção dos respectivos arquivamentos.
+
+Inscrição e registro desta Escritura de Emissão e seus aditamentos. 
+
+Nos termos do artigo 62, inciso II e parágrafo 3º, da Lei das Sociedades por Ações, esta Escritura de Emissão e seus eventuais aditamentos serão registrados na JUCEP.
+
+A Emissora se compromete a: (i) protocolar a presente Escritura de Emissão e seus eventuais aditamentos na JUCEP em até 3 (três) Dias Úteis contados das respectivas datas de assinatura; (ii) obter o registro da Escritura de Emissão e seus eventuais aditamentos na JUCEP em até 30 (trinta) dias contados das respectivas datas de assinatura, observado que referido prazo será automaticamente prorrogado por iguais e sucessivos períodos caso a Emissora comprove ao Agente Fiduciário que está em cumprimento do item (iii) desta Cláusula; (iii) atender a eventuais exigências formuladas pela JUCEP de forma tempestiva; e (iv) enviar ao Agente Fiduciário 1 (uma) via eletrônica (formato .pdf) desta Escritura de Emissão contendo a chancela digital de arquivamento perante a JUCEP, bem como de seus eventuais aditamentos, em até 3 (três) Dias Úteis após a obtenção dos referidos registros.
+
+O Agente Fiduciário fica, desde já, autorizado e constituído de todos os poderes, de forma irrevogável e irretratável, para, em nome da Emissora, e às expensas desta, promover o registro desta Escritura de Emissão e seus eventuais aditamentos na JUCEP, caso a Emissora não o faça no prazo determinando na Cláusula 3.3.2, item (i) acima, o que não descaracteriza, contudo, a possibilidade de vencimento antecipado das Debêntures em razão de descumprimento de obrigação não pecuniária pela Emissora, nos termos da Cláusula 9.1.2, item (i) abaixo.
+
+Nos termos da Cláusula 6.8 abaixo, esta Escritura de Emissão será objeto de aditamento para refletir o resultado do Procedimento de Bookbuilding, nos termos e condições aprovados nas Aprovações Societárias da Emissora, e, portanto, sem necessidade de nova aprovação societária pela Emissora ou de realização de Assembleia Geral de Debenturistas. O aditamento de que trata esta Cláusula será inscrito na JUCEP, nos termos da Cláusula 3.3.2 acima.
+
+Constituição das Garantias. 
+
+Nos termos do artigo 62, inciso III, da Lei das Sociedades por Ações, observado o disposto na Cláusula 7.7, (i) a Alienação Fiduciária será formalizada por meio do Contrato de Alienação Fiduciária, e (ii) a Cessão Fiduciária de Direitos Creditórios será formalizada por meio do Contrato de Cessão Fiduciária, sendo constituídas mediante o registro dos referidos contratos e averbação de qualquer aditamento subsequente, nos competentes Cartórios de Registro de Títulos e Documentos da sede das Partes, nos termos do artigo 62, inciso III, da Lei das Sociedades por Ações, e do artigo 129 da Lei de Registros Públicos e conforme disposto nos Contratos de Garantia.
+
+Depósito para Distribuição, Negociação e Custódia Eletrônica. 
+
+As Debêntures serão depositadas para (i) distribuição primária através do MDA, sendo a distribuição liquidada financeiramente por meio da B3; e (ii) negociação e custódia eletrônica no mercado secundário por meio do CETIP21, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+Não obstante o disposto na Cláusula 3.5.1 acima, as Debêntures somente poderão ser negociadas entre Investidores Qualificados (conforme definido abaixo) nos mercados regulamentados de valores mobiliários depois de decorridos 90 (noventa) dias contados de cada subscrição ou aquisição pelos Investidores Profissionais, salvo na hipótese de exercício da garantia firme pelo Coordenador Líder no momento da subscrição, nos termos do artigo 13 e 15 da Instrução CVM 476 e observado o cumprimento pela Emissora das obrigações dispostas no artigo 17 da Instrução CVM 476, sendo certo que a negociação das Debêntures deverá sempre respeitar as disposições legais e regulamentares aplicáveis.
+
+Dispensa de Registro da Oferta Restrita na CVM. 
+
+A Emissão será realizada nos termos do artigo 6° da Instrução CVM 476 e das demais disposições legais e regulamentares aplicáveis, estando, portanto, automaticamente dispensada do registro de distribuição de que trata o artigo 19 da Lei do Mercado de Valores Mobiliários, exceto pelo envio da comunicação sobre o início da Oferta Restrita e a comunicação de seu encerramento à CVM, nos termos dos artigos 7º-A e 8º, respectivamente, da Instrução CVM 476. 
+
+A Oferta Restrita não está sujeita ao disposto Instrução CVM 400, com exceção ao disposto nos incisos I, II, IV e V do artigo 48 da Instrução CVM 400.
+
+Registro da Oferta Restrita na ANBIMA. 
+
+A Oferta Restrita será objeto de registro na ANBIMA, nos termos do inciso I, artigo 16 e inciso V, do artigo 18 do Código ANBIMA, em até 15 (quinze) dias a contar do envio do comunicado de encerramento da Oferta Restrita à CVM. 
+
+Esta Escritura de Emissão foi elaborada, inicialmente, segundo as regras e procedimentos do Guia de Padronização dos Documentos dos Títulos de Renda Fixa, sendo passível de modificação por meio de eventuais aditamentos e alterações posteriores a partir desta data.
+OBJETO SOCIAL DA EMISSORA
+A Emissora tem por objeto social o exercício das seguintes atividades: Serviços de comunicação multimídia - SCM; Construção de estações e redes de telecomunicações; Manutenção de estações e redes de telecomunicações; Serviços de telefonia fixa comutada – STFC; Operadoras de televisão por assinatura por cabo; Provedores de acesso às redes de comunicações; Provedores de voz sobre protocolo internet – VOIP; Desenvolvimento de programas de computador sob encomenda; Desenvolvimento e licenciamento de programas de computador customizáveis; Desenvolvimento e licenciamento de programas de computador não-customizáveis; Suporte técnico, manutenção e outros serviços em tecnologia da informação; Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet; Portais, provedores de conteúdo e outros serviços de informação na internet; Outras atividades de prestação de serviços de informação; Aluguel de outras máquinas e equipamentos comerciais e industriais, sem operador; Atividades de monitoramento de sistemas de segurança eletrônico; Atividades de teleatendimento e Atividades de cobrança e informações cadastrais. 
+DESTINAÇÃO DOS RECURSOS
+Os recursos líquidos obtidos pela Emissora com a Emissão serão integral, única e exclusivamente, destinados ao investimento e à aquisição de novas operações, para expansão do ativo da Emissora. 
+A Emissora deverá enviar, ao Agente Fiduciário, declaração em papel timbrado assinada por representante legal, atestando a destinação dos recursos da presente Emissão, em até 30 (trinta) dias corridos, a contar da data da efetiva destinação da totalidade dos recursos ou na Data de Vencimento, o que ocorrer primeiro, podendo o Agente Fiduciário solicitar à Emissora eventuais esclarecimentos e documentos adicionais que se façam necessários.
+Requisitos
+
+Emissão e a Oferta serão realizados com observância aos seguintes requisitos: 
+
+Arquivamento e Publicação da Ata da AGE da Emissora. Nos termos do artigo 62, inciso I, do artigo 142, parágrafo primeiro e do artigo 289 da Lei das Sociedades por Ações, a ata de AGE da Emissora será arquivada na JUCESP e publicada no jornal 'Estado de São Paulo' ('Jornal de Publicação'), com divulgação simultânea na íntegra na página do referido jornal na internet, que deverá providenciar certificação digital da autenticidade dos documentos mantidos na página própria emitida por autoridade certificadora credenciada no âmbito da Infraestrutura de Chaves Públicas Brasileiras (ICP-Brasil). Os atos societários da Emissora que eventualmente venham a ser praticados após o arquivamento desta Escritura de Emissão relacionados à Emissão e/ou à Oferta também serão arquivados na JUCESP e publicados pela Emissora no Jornal de Publicação, com divulgação simultânea na íntegra na página do referido jornal na internet, nos termos indicados acima. 
+
+A ata da AGC será disponibilizada pelo DYN FIP no website da CVM.
+
+Arquivamento desta Escritura de Emissão e de eventuais aditamentos. Nos termos do artigo 62, inciso II e parágrafo 3º, da Lei das Sociedades por Ações, esta Escritura de Emissão e seus aditamentos serão protocolados para arquivamento perante a JUCESP em até 5 (cinco) Dias Úteis contados da data de sua assinatura, devendo 1 (uma) via original desta Escritura de Emissão e seus eventuais aditamentos, devidamente arquivados na JUCESP, ser enviados pela Emissora ao Agente Fiduciário em até 5 (cinco) Dias Úteis contados da data do respectivo arquivamento.
+
+Depósito para Distribuição Primária. As Debêntures serão depositadas em mercado de balcão organizado para distribuição pública no mercado primário por meio do MDA – Módulo de Distribuição de Ativos, administrado e operacionalizado pela B3, sendo a distribuição liquidada financeiramente por meio da B3. 
+
+Depósito para Negociação. As Debêntures serão depositadas em mercado de balcão organizado para a negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente liquidadas e as Debêntures custodiadas eletronicamente na B3. As Debêntures somente poderão ser negociadas nos mercados regulamentados de valores mobiliários entre os Investidores Qualificados (conforme definido abaixo) depois de decorridos 90 (noventa) dias de cada subscrição ou aquisição por Investidores Profissionais (conforme definido abaixo), conforme disposto nos artigos 13 e 15 da Instrução CVM 476, observado ainda o cumprimento pela Emissora das obrigações dispostas no artigo 17 da Instrução CVM 476, sendo que a negociação das Debêntures deverá sempre respeitar as disposições legais e regulamentares aplicáveis. Para fins desta Escritura de Emissão, consideram-se: (i) 'Investidores Qualificados' aqueles investidores referidos no artigo 12 da Resolução CVM 30; e (ii) 'Investidores Profissionais' aqueles investidores referidos no artigo 11 da Resolução CVM 30, sendo certo que, nos termos do artigo 13 da Resolução CVM 30, os regimes próprios de previdência social instituídos pela União, pelos Estados, pelo Distrito Federal ou por Municípios são considerados Investidores Profissionais ou Investidores Qualificados apenas se reconhecidos como tais conforme regulamentação específica do Ministério da Previdência Social.
+
+Não obstante o disposto na Cláusula 3.1.4 acima, o referido prazo de 90 (noventa) dias para restrição de negociação das Debêntures não será aplicável aos Coordenadores (conforme definido abaixo) para as Debêntures que tenham sido subscritas e integralizadas pelos Coordenadores em razão do exercício de garantia firme de colocação, nos termos do Contrato de Distribuição (conforme definido abaixo) e do inciso II do artigo 13 da Instrução CVM 476, desde que sejam observadas as seguintes condições: (i) o Investidor Profissional adquirente das Debêntures observe o prazo de 90 (noventa) dias de restrição de negociação, contado da data do exercício da garantia firme pelos Coordenadores; (ii) os Coordenadores verifiquem o cumprimento das regras previstas nos artigos 2º e 3º da Instrução CVM 476; e (iii) a negociação das Debêntures deve ser realizada nas mesmas condições aplicáveis à Oferta, podendo o valor de transferência das Debêntures ser equivalente ao Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, acrescido dos Juros Remuneratórios (conforme definido abaixo), calculados pro rata temporis, desde a primeira Data de Integralização até a data de sua efetiva aquisição.
+
+Registro na CVM. A presente Oferta está automaticamente dispensada de registro de distribuição na CVM, de que trata o artigo 19 da Lei 6.385, nos termos do artigo 6º da Instrução CVM 476, por se tratar de oferta pública de valores mobiliários com esforços restritos de distribuição.
+
+Registro na ANBIMA. Nos termos do Capítulo VIII do Código ANBIMA, a Oferta deverá ser registrada na ANBIMA, mediante envio da documentação descrita no artigo 18, inciso V, do Código ANBIMA, no prazo de até 15 (quinze) dias da contados do envio da comunicação de encerramento da Oferta à CVM.
+
+Constituição das Garantias. Nos termos do artigo 62, inciso III, da Lei das Sociedades por Ações, as Garantias foram formalizadas por meio dos Contratos de Garantia, que deverão ser protocolados para registro, conforme prazo e termos previstos nos Contratos de Garantia, nos competentes cartórios de títulos e documentos, devendo ainda a Alienação Fiduciária de Ações ser averbada no livro de registro de ações da Emissora, observado o disposto na Cláusula 7.26.3 abaixo. 
+
+Objeto Social da Companhia
+
+O objeto social da Emissora é (i) locação de equipamentos e cessão de infraestrutura em data center (hosting e colocation), incluindo locação de cage com um ou mais racks de energia com fornecimento de energia para os clientes instalarem seus equipamentos; (ii) a prestação dos seguintes serviços: (1) anti-DDoS, que consiste em proteção contra ataques do tipo Denial of Service, os quais podem indisponibilizar ou degradar os ambientes de clientes localizados dentro dos data centers por meio da sobrecarga de conexões de dados; (2) firewall virtual compartilhado, que consiste em camada de proteção configurada na borda de internet, cuja finalidade é restringir acessos externos indesejado ao ambiente dos clientes; (3) banda ou conexão com a internet, que pode ou não exigir a alocação de endereços de IP aos clientes; (4) golden jumper, que consiste de conexão do cabo de UTP ou fibra (única ou multimodal) entre os dispositivos do cliente e os pontos de conexão dos operadores de telecomunicações que foram contratados pelo cliente; (5) cross conexão, que consiste de cabos de fibra óptica ou UTP que se conectam aos dispositivos do cliente instalados dentro do data center; (6) remote hand, que consiste na realização de procedimentos em ambientes dos clientes alocados nos data centers; (7) LAN to LAN, que consiste em serviço de conectividade, cuja finalidade é interligar, por meio da rede, diferentes data centers da Companhia; e (8) business continuity servisse (BCS), que consiste na alocação de estações de trabalho, dedicadas ou compartilhadas, para fornecer o acesso aos ambientes hospedados nos data centers a colaboradores essenciais de clientes que estão em situação de contingência, desastre ou falha crítica; e (iii) participar, direta ou indiretamente, no capital social de outras empresas no Brasil ou no exterior, na qualidade de acionista, cotista ou detentora de quaisquer outros valores mobiliários, quer sejam conversíveis em participação societária ou não. 
+
+Destinação dos Recursos
+
+[Os recursos líquidos obtidos pela Emissora por meio da Emissão das Debêntures serão depositados na Conta Vinculada Liquidação (conforme definida abaixo) e utilizados para (i) pagar antecipadamente o endividamento existente da Emissora no âmbito de sua 1ª (primeira) emissão de debêntures, nos termos do 'Instrumento Particular de Escritura da Primeira Emissão de Debêntures Simples, Não Conversíveis em Ações, da Espécie com Garantia Real, em Série Única, para Distribuição Pública com Esforços Restritos, da Scala Data Centers S.A.', celebrado entre a Emissora e a Oliveira Trust Distribuidora de Títulos e Valores Mobiliários S.A., em 04 de março de 2022, conforme aditado de tempos em tempos ('Debêntures da Primeira Emissão'); (ii) pagamento dos custos e despesas relacionados à Oferta; e (iii) financiar, com os recursos líquidos remanescentes após o pagamento antecipado das Debêntures da Primeira Emissão e dos custos e despesas relacionados à Oferta, os investimentos de capital nos projetos dos Data Centers atualmente denominados SGRUTB04, SGRUTB05, SGRUTB06 desenvolvidos ou a serem desenvolvidos pela Emissora.]
+
+[Nota MM: destinação dos recursos pendente de confirmação, tendo em vista eventuais alterações decorrentes do SPO.]
+
+Os recursos recebidos pela Emissora por meio da liquidação das Debêntures serão depositados na conta corrente de número [=], agência nº [=],mantida pela Emissora junto ao Banco Depositário ('Conta Vinculada Liquidação'), os quais (i) não poderão ser utilizados ou de outra maneira movimentados pela Emissora, e (ii) serão acessíveis e movimentados apenas pelo Banco Depositário, da forma estabelecida no contrato de prestação de serviços de administração de contas, a ser celebrado entre a Emissora, o Banco Depositário e o Agente Fiduciário ('Contrato de Banco Depositário'). 
+
+Uma vez que Emissora envie para o Agente Fiduciário a documentação que comprove a data do resgate antecipado das Debêntures da Primeira Emissão na B3 ('Resgate das Debêntures da Primeira Emissão'), o Agente Fiduciário deverá notificar e instruir o Banco Depositário a liberar da Conta Vinculada Liquidação os recursos necessários para a realização do Resgate das Debêntures da Primeira Emissão, nos termos do Contrato de Banco Depositário.
+
+A Emissora enviará os documentos que comprovam o Resgate das Debêntures da Primeira Emissão para o Agente Fiduciário em até 5 (cinco) Dias Úteis contados da Data de Integralização. Mediante o recebimento da documentação comprobatória (i) do Resgate das Debêntures da Primeira Emissão; e (ii) dos protocolos nos competentes cartórios de registro de títulos e documentos dos termos de liberação da alienação fiduciária sobre a totalidade das ações de emissão da Companhia e da cessão fiduciária sobre a Conta Centralizadora (conforme definido abaixo) constituídas em favor dos titulares das Debêntures da Primeira Emissão, o Agente Fiduciário deverá notificar e instruir o Banco Depositário para liberar da Conta Vinculada Liquidação os recursos remanescentes da Emissão das Debêntures, que serão depositados na conta corrente a ser informada pela Emissora, nos termos do Contrato de Banco Depositário. 
+
+A Emissora deverá enviar ao Agente Fiduciário declaração em papel timbrado e assinada por seus representantes legais, atestando a destinação dos recursos remanescentes da Emissão, em até 5 (cinco) Dias Úteis contados da utilização da totalidade dos recursos, podendo o Agente Fiduciário solicitar à Emissora todos os eventuais esclarecimentos e documentos adicionais que se façam necessários.
+
+REQUISITOS
+
+A presente Emissão e a Oferta Restrita serão realizadas com observância dos seguintes requisitos:
+
+Dispensa de Registro na CVM e Registro na ANBIMA
+
+A Oferta Restrita será realizada com esforços restritos de distribuição nos termos do artigo 6º da Instrução CVM 476, e das demais disposições legais e regulamentares aplicáveis, estando, portanto, automaticamente dispensada do registro de distribuição perante a CVM, de que trata o artigo 19 da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada.
+
+A Oferta Restrita deverá ser objeto de registro na ANBIMA - Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais ('ANBIMA'), nos termos do artigo 16, do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários' ('Código ANBIMA'), no prazo de até 15 (quinze) dias contados da data de envio do comunicado de encerramento da Oferta Restrita à CVM ('Comunicado de Encerramento').
+
+Arquivamento e Publicação das Aprovações Societárias da Emissão
+
+As Aprovações Societárias da Emissora serão devidamente arquivadas na JUCESP e publicadas no jornal '[●]' ('Jornal de Publicação da Emissora'), nos termos do artigo 62, inciso I, e do artigo 289 da Lei das Sociedades por Ações. [Nota Machado Meyer: Cia/Lefosse, favor informar]
+
+A ata da RCA da Fiadora será devidamente arquivada na JUCESP e publicada no jornal '[●]' ('Jornal de Publicação da Fiadora' e, em conjunto com o Jornal de Publicação da Emissora, os 'Jornais de Publicação'), nos termos do artigo 62, inciso I, e do artigo 289 da Lei das Sociedades por Ações. [Nota Machado Meyer: Cia/Lefosse, favor informar]
+
+Os atos societários da Emissora e da Fiadora relacionados à Emissão e às Debêntures que eventualmente venham a ser realizados após a inscrição desta Escritura de Emissão serão igualmente arquivados na JUCESP e publicados nos Jornais de Publicação, conforme o caso, em atendimento ao disposto no artigo 62, inciso I, e no artigo 289, da Lei das Sociedades por Ações, observado que 1 (uma) cópia eletrônica (pdf) de referidos atos societários deverá ser enviada ao Agente Fiduciário em até 5 (cinco) Dias Úteis (conforme abaixo definido) após a data do efetivo arquivamento dos atos societários na JUCESP.
+
+Arquivamento desta Escritura de Emissão e seus eventuais aditamentos
+
+Esta Escritura de Emissão, e seus eventuais aditamentos, serão inscritos na JUCESP, conforme o disposto no artigo 62, inciso II, e parágrafo 3º do mesmo artigo, da Lei das Sociedades por Ações, devendo ser levados a registro, pela Emissora, em até 5 (cinco) Dias Úteis contados da data da respectiva assinatura por todas as partes. 
+
+A Emissora deverá enviar ao Agente Fiduciário 1 (uma) cópia eletrônica (.pdf) da presente Escritura de Emissão e/ou de seus eventuais aditamentos devidamente registrados em até 10 (dez) Dias Úteis após a data da realização dos registros estabelecidos na Cláusula 2.3.1 acima. 
+
+Caso a Emissora não realize o protocolo dentro do prazo previsto na Cláusula 2.3.1 acima, o Agente Fiduciário poderá, nos termos do artigo 62, parágrafo 2º, da Lei das Sociedades por Ações, promover o protocolo acima previsto, devendo a Emissora arcar com todos os respectivos custos e despesas do respectivo registro, sem prejuízo da ocorrência do descumprimento de obrigação não pecuniária pela Emissora.
+
+Registro desta Escritura de Emissão em Cartório de Registro de Títulos e Documentos
+
+Em virtude da Fiança, a presente Escritura de Emissão e seus eventuais aditamentos serão protocolados para registro no cartório de registro de títulos e documentos ('RTD') da cidade de São Paulo, Estado de São Paulo em até 5 (cinco) Dias Úteis contados da data da respectiva assinatura por todas as partes. [Nota Machado Meyer: A ser ajustado, conforme o caso, após a definido do AF]
+
+A Emissora deverá enviar ao Agente Fiduciário 1 (uma) cópia eletrônica (.pdf) da presente Escritura de Emissão e/ou de seus eventuais aditamentos devidamente registrado no cartório de RTD em até 10 (dez) Dias Úteis após a data da realização do registro estabelecido na Cláusula 2.4.1 acima.
+
+Distribuição, Negociação e Custódia Eletrônica
+
+As Debêntures serão depositadas para: (i) distribuição pública no mercado primário por meio do MDA – Módulo de Distribuição de Ativos, administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Balcão B3 ('B3'), sendo a distribuição liquidada financeiramente no âmbito da B3; e (ii) negociação, observadas as restrições dispostas nesta Escritura de Emissão, no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários, administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+Não obstante o descrito na Cláusula 2.5.1 acima, as Debêntures somente poderão ser negociadas no mercado secundário entre Investidores Qualificados (conforme abaixo definido), nos termos definidos na regulamentação aplicável, depois de decorridos 90 (noventa) dias contados da data de cada subscrição por Investidores Profissionais (conforme abaixo definido), conforme disposto nos artigos 13 e 15 da Instrução CVM 476 e observado o cumprimento, pela Emissora, dos itens descritos no artigo 17 da Instrução CVM 476.
+
+Nos termos da Resolução da CVM n° 30, de 11 de maio de 2021 ('Resolução CVM 30'), e para fins da Oferta Restrita, serão considerados:
+
+'Investidores Profissionais': (a) instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil ('BACEN'); (b) companhias seguradoras e sociedades de capitalização; (c) entidades abertas e fechadas de previdência complementar; (d) pessoas naturais ou jurídicas que possuam investimentos financeiros em valor superior a R$10.000.000,00 (dez milhões de reais) e que, adicionalmente, atestem por escrito sua condição de investidor profissional mediante termo próprio, de acordo com o Anexo A da Resolução CVM 30; (e) fundos de investimento; (f) clubes de investimento, desde que tenham a carteira gerida por administrador de carteira de valores mobiliários autorizado pela CVM; (g) agentes autônomos de investimento, administradores de carteira de valores mobiliários, analistas e consultores de valores mobiliários autorizados pela CVM, em relação a seus recursos próprios; e (h) investidores não residentes; e
+
+'Investidores Qualificados': (a) Investidores Profissionais; (b) pessoas naturais ou jurídicas que possuam investimentos financeiros em valor superior a R$1.000.000,00 (um milhão de reais) e que, adicionalmente, atestem por escrito sua condição de investidor qualificado mediante termo próprio, de acordo com o Anexo B da Resolução CVM 30; (c) as pessoas naturais que tenham sido aprovadas em exames de qualificação técnica ou possuam certificações aprovadas pela CVM como requisitos para o registro de agentes autônomos de investimento, administradores de carteira de valores mobiliários, analistas e consultores de valores mobiliários, em relação a seus recursos próprios; e (d) clubes de investimento, desde que tenham a carteira gerida por um ou mais cotistas, que sejam investidores qualificados.
+
+Os regimes próprios de previdência social instituídos pela União, pelos Estados, pelo Distrito Federal ou por Municípios são considerados Investidores Profissionais ou Investidores Qualificados apenas se reconhecidos como tais conforme regulamentação específica do Ministério da Previdência Social.
+
+Não obstante o disposto na Cláusula 2.5.2 acima, o prazo de 90 (noventa) dias para restrição de negociação das Debêntures referido acima não será aplicável ao Coordenador Líder, para as Debêntures que tenham sido subscritas e integralizadas pelo Coordenador Líder em razão do exercício de garantia firme de colocação, conforme disposto no Contrato de Distribuição (conforme abaixo definido), nos termos do artigo 13, inciso II, da Instrução CVM 476, desde que sejam observadas as seguintes condições: (i) os Investidores Profissionais adquirentes das Debêntures observem o prazo de 90 (noventa) dias de restrição de negociação, contado da data do exercício da garantia firme pelo Coordenador Líder; (ii) o Coordenador Líder verifique o cumprimento das regras previstas nos artigos 2º e 3º da Instrução CVM 476; e (iii) a negociação das Debêntures seja realizada nas mesmas condições aplicáveis à Oferta Restrita.
+
+REQUISITOS
+
+A presente Emissão e a Oferta Restrita serão realizadas com observância dos seguintes requisitos:
+
+Dispensa de Registro na CVM e Registro na ANBIMA
+
+A Oferta Restrita será realizada com esforços restritos de distribuição nos termos do artigo 6º da Instrução CVM 476, e das demais disposições legais e regulamentares aplicáveis, estando, portanto, automaticamente dispensada do registro de distribuição perante a CVM, de que trata o artigo 19 da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada.
+
+A Oferta Restrita deverá ser objeto de registro na ANBIMA - Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais ('ANBIMA'), nos termos do artigo 16, do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários' ('Código ANBIMA'), no prazo de até 15 (quinze) dias contados da data de envio do comunicado de encerramento da Oferta Restrita à CVM ('Comunicado de Encerramento').
+
+Arquivamento e Publicação das Aprovações Societárias da Emissão
+
+As Aprovações Societárias da Emissora serão devidamente arquivadas na JUCESP e publicadas no jornal '[●]' ('Jornal de Publicação da Emissora'), nos termos do artigo 62, inciso I, e do artigo 289 da Lei das Sociedades por Ações. [Nota Machado Meyer: Cia/Lefosse, favor informar]
+
+A ata da RCA da Fiadora será devidamente arquivada na JUCESP e publicada no jornal '[●]' ('Jornal de Publicação da Fiadora' e, em conjunto com o Jornal de Publicação da Emissora, os 'Jornais de Publicação'), nos termos do artigo 62, inciso I, e do artigo 289 da Lei das Sociedades por Ações. [Nota Machado Meyer: Cia/Lefosse, favor informar]
+
+Os atos societários da Emissora e da Fiadora relacionados à Emissão e às Debêntures que eventualmente venham a ser realizados após a inscrição desta Escritura de Emissão serão igualmente arquivados na JUCESP e publicados nos Jornais de Publicação, conforme o caso, em atendimento ao disposto no artigo 62, inciso I, e no artigo 289, da Lei das Sociedades por Ações, observado que 1 (uma) cópia eletrônica (pdf) de referidos atos societários deverá ser enviada ao Agente Fiduciário em até 5 (cinco) Dias Úteis (conforme abaixo definido) após a data do efetivo arquivamento dos atos societários na JUCESP.
+
+Arquivamento desta Escritura de Emissão e seus eventuais aditamentos
+
+Esta Escritura de Emissão, e seus eventuais aditamentos, serão inscritos na JUCESP, conforme o disposto no artigo 62, inciso II, e parágrafo 3º do mesmo artigo, da Lei das Sociedades por Ações, devendo ser levados a registro, pela Emissora, em até 5 (cinco) Dias Úteis contados da data da respectiva assinatura por todas as partes. 
+
+A Emissora deverá enviar ao Agente Fiduciário 1 (uma) cópia eletrônica (.pdf) da presente Escritura de Emissão e/ou de seus eventuais aditamentos devidamente registrados em até 10 (dez) Dias Úteis após a data da realização dos registros estabelecidos na Cláusula 2.3.1 acima. 
+
+Caso a Emissora não realize o protocolo dentro do prazo previsto na Cláusula 2.3.1 acima, o Agente Fiduciário poderá, nos termos do artigo 62, parágrafo 2º, da Lei das Sociedades por Ações, promover o protocolo acima previsto, devendo a Emissora arcar com todos os respectivos custos e despesas do respectivo registro, sem prejuízo da ocorrência do descumprimento de obrigação não pecuniária pela Emissora.
+
+Registro desta Escritura de Emissão em Cartório de Registro de Títulos e Documentos
+
+Em virtude da Fiança, a presente Escritura de Emissão e seus eventuais aditamentos serão protocolados para registro no cartório de registro de títulos e documentos ('RTD') da cidade de São Paulo, Estado de São Paulo em até 5 (cinco) Dias Úteis contados da data da respectiva assinatura por todas as partes. [Nota Machado Meyer: A ser ajustado, conforme o caso, após a definido do AF]
+
+A Emissora deverá enviar ao Agente Fiduciário 1 (uma) cópia eletrônica (.pdf) da presente Escritura de Emissão e/ou de seus eventuais aditamentos devidamente registrado no cartório de RTD em até 10 (dez) Dias Úteis após a data da realização do registro estabelecido na Cláusula 2.4.1 acima.
+
+Distribuição, Negociação e Custódia Eletrônica
+
+As Debêntures serão depositadas para: (i) distribuição pública no mercado primário por meio do MDA – Módulo de Distribuição de Ativos, administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Balcão B3 ('B3'), sendo a distribuição liquidada financeiramente no âmbito da B3; e (ii) negociação, observadas as restrições dispostas nesta Escritura de Emissão, no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários, administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+Não obstante o descrito na Cláusula 2.5.1 acima, as Debêntures somente poderão ser negociadas no mercado secundário entre Investidores Qualificados (conforme abaixo definido), nos termos definidos na regulamentação aplicável, depois de decorridos 90 (noventa) dias contados da data de cada subscrição por Investidores Profissionais (conforme abaixo definido), conforme disposto nos artigos 13 e 15 da Instrução CVM 476 e observado o cumprimento, pela Emissora, dos itens descritos no artigo 17 da Instrução CVM 476.
+
+Nos termos da Resolução da CVM n° 30, de 11 de maio de 2021 ('Resolução CVM 30'), e para fins da Oferta Restrita, serão considerados:
+
+'Investidores Profissionais': (a) instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil ('BACEN'); (b) companhias seguradoras e sociedades de capitalização; (c) entidades abertas e fechadas de previdência complementar; (d) pessoas naturais ou jurídicas que possuam investimentos financeiros em valor superior a R$10.000.000,00 (dez milhões de reais) e que, adicionalmente, atestem por escrito sua condição de investidor profissional mediante termo próprio, de acordo com o Anexo A da Resolução CVM 30; (e) fundos de investimento; (f) clubes de investimento, desde que tenham a carteira gerida por administrador de carteira de valores mobiliários autorizado pela CVM; (g) agentes autônomos de investimento, administradores de carteira de valores mobiliários, analistas e consultores de valores mobiliários autorizados pela CVM, em relação a seus recursos próprios; e (h) investidores não residentes; e
+
+'Investidores Qualificados': (a) Investidores Profissionais; (b) pessoas naturais ou jurídicas que possuam investimentos financeiros em valor superior a R$1.000.000,00 (um milhão de reais) e que, adicionalmente, atestem por escrito sua condição de investidor qualificado mediante termo próprio, de acordo com o Anexo B da Resolução CVM 30; (c) as pessoas naturais que tenham sido aprovadas em exames de qualificação técnica ou possuam certificações aprovadas pela CVM como requisitos para o registro de agentes autônomos de investimento, administradores de carteira de valores mobiliários, analistas e consultores de valores mobiliários, em relação a seus recursos próprios; e (d) clubes de investimento, desde que tenham a carteira gerida por um ou mais cotistas, que sejam investidores qualificados.
+
+Os regimes próprios de previdência social instituídos pela União, pelos Estados, pelo Distrito Federal ou por Municípios são considerados Investidores Profissionais ou Investidores Qualificados apenas se reconhecidos como tais conforme regulamentação específica do Ministério da Previdência Social.
+
+Não obstante o disposto na Cláusula 2.5.2 acima, o prazo de 90 (noventa) dias para restrição de negociação das Debêntures referido acima não será aplicável ao Coordenador Líder, para as Debêntures que tenham sido subscritas e integralizadas pelo Coordenador Líder em razão do exercício de garantia firme de colocação, conforme disposto no Contrato de Distribuição (conforme abaixo definido), nos termos do artigo 13, inciso II, da Instrução CVM 476, desde que sejam observadas as seguintes condições: (i) os Investidores Profissionais adquirentes das Debêntures observem o prazo de 90 (noventa) dias de restrição de negociação, contado da data do exercício da garantia firme pelo Coordenador Líder; (ii) o Coordenador Líder verifique o cumprimento das regras previstas nos artigos 2º e 3º da Instrução CVM 476; e (iii) a negociação das Debêntures seja realizada nas mesmas condições aplicáveis à Oferta Restrita.
+
+REQUISITOS
+A 5ª (quinta) emissão de debêntures simples, não conversíveis em ações, da espécie quirografária, em série única, da Emissora ('Debêntures'), para distribuição pública, com esforços restritos de distribuição, sob regime de melhores esforços de colocação, nos termos da Instrução CVM 476 ('Emissão'), será realizada com observância dos requisitos abaixo indicados.
+ARQUIVAMENTO NA JUCESP E PUBLICAÇÃO DOS ATOS SOCIETÁRIOS
+Nos termos do artigo 62, inciso I, da Lei das Sociedades por Ações, a ata da AGE será registrada na JUCESP e será publicada no Diário Oficial do Estado de São Paulo ('DOESP') e no jornal 'Valor Econômico'; e (ii) a ata de RCA foi arquivada na JUCESP. 
+Caso não seja possível, previamente à liquidação financeira da Oferta Restrita, a realização do devido registro dos Atos Societários perante a JUCESP em decorrência das medidas restritivas ao funcionamento normal da JUCESP decorrente exclusivamente da pandemia da Covid-19, a Emissora obriga-se a obter os referidos registros em até 30 (trinta) dias corridos contados da data em que a JUCESP restabelecer a prestação regular de seus serviços, nos termos do artigo 6º da Lei nº 14.030, de 28 de julho de 2020 ('Lei 14.030').
+ARQUIVAMENTO DA ESCRITURA NA JUCESP
+Esta Escritura de Emissão e eventuais aditamentos serão protocolados para registro de inscrição na JUCESP, em até 5 (cinco) dias contados da data da respectiva assinatura, de acordo com o artigo 62, inciso II, parágrafo 3º da Lei das Sociedades por Ações, devendo ser entregue 1 (uma) cópia eletrônica (pdf) do protocolo do pedido de registro de inscrição na JUCESP ao Agente Fiduciário em até 5 (cinco) Dias Úteis (conforme definido abaixo) contados da data do efetivo protocolo. 
+Caso não seja possível, previamente à liquidação financeira da Oferta Restrita, a realização do devido registro desta Escritura de Emissão e os eventuais aditamentos à Escritura de Emissão perante a JUCESP em decorrência das medidas restritivas ao funcionamento normal da JUCESP decorrente exclusivamente da pandemia da Covid-19, a Emissora obriga-se a obter os referidos registros em até 30 (trinta) dias corridos contados da data em que a JUCESP restabelecer a prestação regular de seus serviços, nos termos do artigo 6º da Lei nº 14.030.
+Após a realização da efetiva inscrição mencionada nas Cláusulas 2.3.1 e 2.3.2 acima, deverá ser entregue ao Agente Fiduciário 1 (uma) via original do respectivo documento, devidamente registrado, no prazo de até 5 (cinco) Dias Úteis contados da data da efetiva inscrição. 
+DISPENSA DE REGISTRO NA CVM E REGISTRO NA ASSOCIAÇÃO BRASILEIRA DAS ENTIDADES DOS MERCADOS FINANCEIRO E DE CAPITAIS ('ANBIMA')
+Nos termos do artigo 6º da Instrução CVM 476 e do artigo 19 da Lei do Mercado de Valores Mobiliários, a Oferta Restrita está automaticamente dispensada de registro perante a CVM, por se tratar de uma oferta pública de Debêntures com esforços restritos de distribuição, não sendo objeto de protocolo, registro e arquivamento perante a CVM, exceto pelo envio da comunicação sobre o início da Oferta Restrita e a comunicação de seu encerramento à CVM, nos termos dos artigos 7º-A e 8º, respectivamente, da Instrução CVM 476.
+A Oferta Restrita será registrada na ANBIMA no prazo de 15 (quinze) dias contado do envio da comunicação de encerramento da Oferta Restrita, nos termos do artigo 16 e seguintes do 'Código ANBIMA para Ofertas Públicas' ('Código ANBIMA').
+DISTRIBUIÇÃO, NEGOCIAÇÃO E CUSTÓDIA ELETRÔNICA
+As Debêntures serão depositadas para:
+distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos, administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Balcão B3 ('B3'), sendo a distribuição liquidada financeiramente por meio da B3; e
+negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários, administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+Não obstante o descrito na Cláusula 2.5.1 acima, as Debêntures somente poderão ser negociadas nos mercados regulamentados de valores mobiliários depois de decorridos 90 (noventa) dias contados de cada subscrição ou aquisição por Investidor Profissional (conforme definido abaixo), conforme disposto nos artigos 13 e 15 da Instrução CVM 476, uma vez verificado o cumprimento, pela Emissora, de suas obrigações previstas no artigo 17 da referida Instrução CVM 476, observado ainda o disposto em seu parágrafo 1º do artigo 15, sendo que a negociação das Debêntures deverá sempre respeitar as disposições legais e regulamentares aplicáveis.
+Para os fins desta Escritura de Emissão e nos termos da Instrução CVM 476, entende-se por: (i) 'Investidores Qualificados' aqueles investidores referidos no artigo 12 da Resolução CVM nº 30, de 11 de maio de 2021, conforme em vigor ('Resolução CVM 30'); e (ii) 'Investidores Profissionais' aqueles investidores referidos no artigo 11 da Resolução CVM 30.
+REQUISITOS
+
+A 1ª (primeira) emissão de debêntures simples, não conversíveis em ações de emissão da Emissora, da espécie quirografária, em série única ('Emissão' e 'Debêntures', respectivamente), para distribuição pública, com esforços restritos de distribuição da Emissora ('Oferta Restrita'), será realizada com observância aos seguintes requisitos:
+
+Dispensa de Registro pela CVM
+
+A Oferta Restrita será realizada nos termos do artigo 6º da Instrução da CVM nº 476, de 16 de janeiro de 2009, conforme alterada ('Instrução CVM 476') e das demais disposições legais e regulamentares aplicáveis, estando, portanto, automaticamente dispensada do registro de distribuição de que trata o artigo 19 da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada, exceto pelo envio da comunicação sobre o início da Oferta Restrita e a comunicação de seu encerramento à CVM, nos termos dos artigos 7°-A e 8°, respectivamente, da Instrução CVM 476.
+
+Registro na Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais ('ANBIMA')
+
+Por se tratar de oferta para distribuição pública, com esforços restritos, a Oferta Restrita deverá ser registrada na ANBIMA, nos termos dos artigos 12 e 16 do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários' ('Código ANBIMA'), vigente a partir de 6 de maio de 2021, em até 15 (quinze) dias contados do envio, pelo Coordenador Líder (conforme abaixo definido), da comunicação de encerramento da Oferta Restrita à CVM, nos termos do artigo 8º da Instrução CVM 476. 
+
+Arquivamento e Publicação das Aprovações Societárias 
+
+A ata da Aprovação Societária da Emissora será protocolada para registro na JUCERJA e publicada no Diário Oficial do Estado do Rio de Janeiro e no jornal 'O Diário do Acionista' ('Jornais de Publicação'), até a primeira Data de Integralização, conforme disposto no inciso I do artigo 62 da Lei das Sociedades por Ações. 
+
+A Emissora deverá enviar ao Agente Fiduciário cópias eletrônicas em formato .pdf da ata da Aprovação Societária da Emissora, contemplando o arquivamento eletrônico na junta comercial competente, bem como suas respectivas publicações nos respectivos Jornais de Publicação, conforme previsto nesta Cláusula 2.3, até a primeira Data de Integralização. 
+
+Arquivamento da presente Escritura e eventuais aditamentos na JUCERJA
+
+A Emissora deverá realizar o protocolo da Escritura e de seus eventuais aditamentos perante a JUCERJA em até 5 (cinco) dias contados de sua celebração, conforme disposto no inciso II e parágrafo 3º do artigo 62 da Lei das Sociedades por Ações, respectivamente, devendo a Emissora enviar ao Agente Fiduciário cópia eletrônica em formato .pdf da Escritura, bem como de seus eventuais aditamentos, contemplando o arquivamento eletrônico na JUCERJA, observados os seguintes prazos: (i) para a Escritura, até a primeira Data de Integralização; e (ii) para seus eventuais aditamentos, em até 5 (cinco) dias contados do respectivo arquivamento na JUCERJA. 
+
+Depósito para Distribuição e Negociação
+
+As Debêntures serão devidamente depositadas para:
+
+distribuição pública no mercado primário por meio do MDA – Módulo de Distribuição de Ativos ('MDA'), administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Balcão B3 ('B3'), sendo a distribuição liquidada financeiramente por meio da B3; e
+
+observado o disposto na Cláusula 2.5.2 abaixo, negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+Não obstante o descrito na Cláusula 2.5.1 acima, as Debêntures somente poderão ser negociadas entre Investidores Qualificados (conforme abaixo definido) nos mercados regulamentados de valores mobiliários depois de decorridos 90 (noventa) dias contados da data de cada subscrição ou aquisição por Investidores Profissionais (conforme abaixo definido), conforme o caso, indicado no momento da subscrição, observados, na negociação subsequente, os limites e condições previstos nos artigos 2º e 3º da Instrução CVM 476, devendo ainda serem observadas, pela Emissora, as obrigações previstas no artigo 17 da Instrução CVM 476, bem como as normas e condutas previstas no artigo 12 da Instrução CVM 476. A negociação das Debêntures deverá sempre respeitar as disposições legais e regulamentares aplicáveis.
+
+REQUISITOS
+
+A 1ª (primeira) emissão de debêntures simples, não conversíveis em ações de emissão da Emissora, da espécie quirografária, em série única ('Emissão' e 'Debêntures', respectivamente), para distribuição pública, com esforços restritos de distribuição da Emissora ('Oferta Restrita'), será realizada com observância aos seguintes requisitos:
+
+Dispensa de Registro pela CVM
+
+A Oferta Restrita será realizada nos termos do artigo 6º da Instrução da CVM nº 476, de 16 de janeiro de 2009, conforme alterada ('Instrução CVM 476') e das demais disposições legais e regulamentares aplicáveis, estando, portanto, automaticamente dispensada do registro de distribuição de que trata o artigo 19 da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada, exceto pelo envio da comunicação sobre o início da Oferta Restrita e a comunicação de seu encerramento à CVM, nos termos dos artigos 7°-A e 8°, respectivamente, da Instrução CVM 476.
+
+Registro na Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais ('ANBIMA')
+
+Por se tratar de oferta para distribuição pública, com esforços restritos, a Oferta Restrita deverá ser registrada na ANBIMA, nos termos dos artigos 12 e 16 do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários' ('Código ANBIMA'), vigente a partir de 6 de maio de 2021, em até 15 (quinze) dias contados do envio, pelo Coordenador Líder (conforme abaixo definido), da comunicação de encerramento da Oferta Restrita à CVM, nos termos do artigo 8º da Instrução CVM 476. 
+
+Arquivamento e Publicação das Aprovações Societárias 
+
+A ata da Aprovação Societária da Emissora será protocolada para registro na JUCERJA e publicada no Diário Oficial do Estado do Rio de Janeiro e no jornal 'O Diário do Acionista' ('Jornais de Publicação'), até a primeira Data de Integralização, conforme disposto no inciso I do artigo 62 da Lei das Sociedades por Ações. 
+
+A Emissora deverá enviar ao Agente Fiduciário cópias eletrônicas em formato .pdf da ata da Aprovação Societária da Emissora, contemplando o arquivamento eletrônico na junta comercial competente, bem como suas respectivas publicações nos respectivos Jornais de Publicação, conforme previsto nesta Cláusula 2.3, até a primeira Data de Integralização. 
+
+Arquivamento da presente Escritura e eventuais aditamentos na JUCERJA
+
+A Emissora deverá realizar o protocolo da Escritura e de seus eventuais aditamentos perante a JUCERJA em até 5 (cinco) dias contados de sua celebração, conforme disposto no inciso II e parágrafo 3º do artigo 62 da Lei das Sociedades por Ações, respectivamente, devendo a Emissora enviar ao Agente Fiduciário cópia eletrônica em formato .pdf da Escritura, bem como de seus eventuais aditamentos, contemplando o arquivamento eletrônico na JUCERJA, observados os seguintes prazos: (i) para a Escritura, até a primeira Data de Integralização; e (ii) para seus eventuais aditamentos, em até 5 (cinco) dias contados do respectivo arquivamento na JUCERJA. 
+
+Depósito para Distribuição e Negociação
+
+As Debêntures serão devidamente depositadas para:
+
+distribuição pública no mercado primário por meio do MDA – Módulo de Distribuição de Ativos ('MDA'), administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Balcão B3 ('B3'), sendo a distribuição liquidada financeiramente por meio da B3; e
+
+observado o disposto na Cláusula 2.5.2 abaixo, negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+Não obstante o descrito na Cláusula 2.5.1 acima, as Debêntures somente poderão ser negociadas entre Investidores Qualificados (conforme abaixo definido) nos mercados regulamentados de valores mobiliários depois de decorridos 90 (noventa) dias contados da data de cada subscrição ou aquisição por Investidores Profissionais (conforme abaixo definido), conforme o caso, indicado no momento da subscrição, observados, na negociação subsequente, os limites e condições previstos nos artigos 2º e 3º da Instrução CVM 476, devendo ainda serem observadas, pela Emissora, as obrigações previstas no artigo 17 da Instrução CVM 476, bem como as normas e condutas previstas no artigo 12 da Instrução CVM 476. A negociação das Debêntures deverá sempre respeitar as disposições legais e regulamentares aplicáveis.
+
+REQUISITOS
+
+A 1ª (primeira) emissão de debêntures simples, não conversíveis em ações de emissão da Emissora, da espécie quirografária, em série única ('Emissão' e 'Debêntures', respectivamente), para distribuição pública, com esforços restritos de distribuição da Emissora ('Oferta Restrita'), será realizada com observância aos seguintes requisitos:
+
+Dispensa de Registro pela CVM
+
+A Oferta Restrita será realizada nos termos do artigo 6º da Instrução da CVM nº 476, de 16 de janeiro de 2009, conforme alterada ('Instrução CVM 476') e das demais disposições legais e regulamentares aplicáveis, estando, portanto, automaticamente dispensada do registro de distribuição de que trata o artigo 19 da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada, exceto pelo envio da comunicação sobre o início da Oferta Restrita e a comunicação de seu encerramento à CVM, nos termos dos artigos 7°-A e 8°, respectivamente, da Instrução CVM 476.
+
+Registro na Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais ('ANBIMA')
+
+Por se tratar de oferta para distribuição pública, com esforços restritos, a Oferta Restrita deverá ser registrada na ANBIMA, nos termos dos artigos 12 e 16 do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários' ('Código ANBIMA'), vigente a partir de 6 de maio de 2021, em até 15 (quinze) dias contados do envio, pelo Coordenador Líder (conforme abaixo definido), da comunicação de encerramento da Oferta Restrita à CVM, nos termos do artigo 8º da Instrução CVM 476. 
+
+Arquivamento e Publicação das Aprovações Societárias 
+
+A ata da Aprovação Societária da Emissora foi [arquivada / protocolada para registro] na JUCERJA sob o nº [=] em [=] de [=] de 2021 e publicada no Diário Oficial do Estado do Rio de Janeiro e no jornal 'O Diário do Acionista' ('Jornais de Publicação') em [=] de [=] de 2021, conforme disposto no inciso I do artigo 62 da Lei das Sociedades por Ações. 
+
+A Emissora deverá enviar ao Agente Fiduciário cópias eletrônicas em formato .pdf da ata da Aprovação Societária da Emissora, contemplando o arquivamento eletrônico na junta comercial competente, bem como suas respectivas publicações nos respectivos Jornais de Publicação, conforme previsto nesta Cláusula 2.3, até a primeira Data de Integralização. 
+
+Arquivamento da presente Escritura e eventuais aditamentos na JUCERJA
+
+A Emissora deverá realizar o protocolo da Escritura e de seus eventuais aditamentos perante a JUCERJA em até 5 (cinco) dias contados de sua celebração, conforme disposto no inciso II e parágrafo 3º do artigo 62 da Lei das Sociedades por Ações, respectivamente, devendo a Emissora enviar ao Agente Fiduciário cópia eletrônica em formato .pdf da Escritura, bem como de seus eventuais aditamentos, contemplando o arquivamento eletrônico na JUCERJA, observados os seguintes prazos: (i) para a Escritura, até a primeira Data de Integralização; e (ii) para seus eventuais aditamentos, em até 5 (cinco) dias contados do respectivo arquivamento na JUCERJA. 
+
+Depósito para Distribuição e Negociação
+
+As Debêntures serão devidamente depositadas para:
+
+distribuição pública no mercado primário por meio do MDA – Módulo de Distribuição de Ativos ('MDA'), administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Balcão B3 ('B3'), sendo a distribuição liquidada financeiramente por meio da B3; e
+
+observado o disposto na Cláusula 2.5.2 abaixo, negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+Não obstante o descrito na Cláusula 2.5.1 acima, as Debêntures somente poderão ser negociadas entre Investidores Qualificados (conforme abaixo definido) nos mercados regulamentados de valores mobiliários depois de decorridos 90 (noventa) dias contados da data de cada subscrição ou aquisição por Investidores Profissionais (conforme abaixo definido), exceto pelo lote de Debêntures objeto da Garantia Firme (conforme abaixo definido) exercida pelo Coordenador Líder (conforme abaixo definido), conforme o caso, indicado no momento da subscrição, observados, na negociação subsequente, os limites e condições previstos nos artigos 2º e 3º da Instrução CVM 476, devendo ainda serem observadas, pela Emissora, as obrigações previstas no artigo 17 da Instrução CVM 476, bem como as normas e condutas previstas no artigo 12 da Instrução CVM 476. A negociação das Debêntures deverá sempre respeitar as disposições legais e regulamentares aplicáveis.
+
+REQUISITOS
+A 5ª (quinta) emissão de debêntures simples, não conversíveis em ações, da espécie quirografária, em série única, da Emissora ('Debêntures'), para distribuição pública, com esforços restritos de distribuição, sob regime de melhores esforços de colocação, nos termos da Instrução CVM 476 ('Emissão'), será realizada com observância dos requisitos abaixo indicados.
+ARQUIVAMENTO NA JUCESP E PUBLICAÇÃO DOS ATOS SOCIETÁRIOS
+Nos termos do artigo 62, inciso I, da Lei das Sociedades por Ações, a ata da AGE será registrada na JUCESP e será publicada no Diário Oficial do Estado de São Paulo ('DOESP') e no jornal 'Valor Econômico'; e (ii) a ata de RCA foi arquivada na JUCESP. 
+Caso não seja possível, previamente à liquidação financeira da Oferta Restrita, a realização do devido registro dos Atos Societários perante a JUCESP em decorrência das medidas restritivas ao funcionamento normal da JUCESP decorrente exclusivamente da pandemia da Covid-19, a Emissora obriga-se a obter os referidos registros em até 30 (trinta) dias corridos contados da data em que a JUCESP restabelecer a prestação regular de seus serviços, nos termos do artigo 6º da Lei nº 14.030, de 28 de julho de 2020 ('Lei 14.030').
+ARQUIVAMENTO DA ESCRITURA NA JUCESP
+Esta Escritura de Emissão e eventuais aditamentos serão protocolados para registro de inscrição na JUCESP, em até 5 (cinco) dias contados da data da respectiva assinatura, de acordo com o artigo 62, inciso II, parágrafo 3º da Lei das Sociedades por Ações, devendo ser entregue 1 (uma) cópia eletrônica (pdf) do protocolo do pedido de registro de inscrição na JUCESP ao Agente Fiduciário em até 5 (cinco) Dias Úteis (conforme definido abaixo) contados da data do efetivo protocolo. 
+Caso não seja possível, previamente à liquidação financeira da Oferta Restrita, a realização do devido registro desta Escritura de Emissão e os eventuais aditamentos à Escritura de Emissão perante a JUCESP em decorrência das medidas restritivas ao funcionamento normal da JUCESP decorrente exclusivamente da pandemia da Covid-19, a Emissora obriga-se a obter os referidos registros em até 30 (trinta) dias corridos contados da data em que a JUCESP restabelecer a prestação regular de seus serviços, nos termos do artigo 6º da Lei nº 14.030.
+Após a realização da efetiva inscrição mencionada nas Cláusulas 2.3.1 e 2.3.2 acima, deverá ser entregue ao Agente Fiduciário 1 (uma) via original do respectivo documento, devidamente registrado, no prazo de até 5 (cinco) Dias Úteis contados da data da efetiva inscrição. 
+DISPENSA DE REGISTRO NA CVM E REGISTRO NA ASSOCIAÇÃO BRASILEIRA DAS ENTIDADES DOS MERCADOS FINANCEIRO E DE CAPITAIS ('ANBIMA')
+Nos termos do artigo 6º da Instrução CVM 476 e do artigo 19 da Lei do Mercado de Valores Mobiliários, a Oferta Restrita está automaticamente dispensada de registro perante a CVM, por se tratar de uma oferta pública de Debêntures com esforços restritos de distribuição, não sendo objeto de protocolo, registro e arquivamento perante a CVM, exceto pelo envio da comunicação sobre o início da Oferta Restrita e a comunicação de seu encerramento à CVM, nos termos dos artigos 7º-A e 8º, respectivamente, da Instrução CVM 476.
+A Oferta Restrita será registrada na ANBIMA no prazo de 15 (quinze) dias contado do envio da comunicação de encerramento da Oferta Restrita, nos termos do artigo 16 e seguintes do 'Código ANBIMA para Ofertas Públicas' ('Código ANBIMA').
+DISTRIBUIÇÃO, NEGOCIAÇÃO E CUSTÓDIA ELETRÔNICA
+As Debêntures serão depositadas para:
+distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos, administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Balcão B3 ('B3'), sendo a distribuição liquidada financeiramente por meio da B3; e
+negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários, administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+Não obstante o descrito na Cláusula 2.5.1 acima, as Debêntures somente poderão ser negociadas nos mercados regulamentados de valores mobiliários depois de decorridos 90 (noventa) dias contados de cada subscrição ou aquisição por Investidor Profissional (conforme definido abaixo), conforme disposto nos artigos 13 e 15 da Instrução CVM 476, uma vez verificado o cumprimento, pela Emissora, de suas obrigações previstas no artigo 17 da referida Instrução CVM 476, observado ainda o disposto em seu parágrafo 1º do artigo 15, sendo que a negociação das Debêntures deverá sempre respeitar as disposições legais e regulamentares aplicáveis.
+Para os fins desta Escritura de Emissão e nos termos da Instrução CVM 476, entende-se por: (i) 'Investidores Qualificados' aqueles investidores referidos no artigo 12 da Resolução CVM nº 30, de 11 de maio de 2021, conforme em vigor ('Resolução CVM 30'); e (ii) 'Investidores Profissionais' aqueles investidores referidos no artigo 11 da Resolução CVM 30.
+REQUISITOS
+
+A 1ª (primeira) emissão de debêntures simples, não conversíveis em ações de emissão da Emissora, da espécie quirografária, em série única ('Emissão' e 'Debêntures', respectivamente), para distribuição pública, com esforços restritos de distribuição da Emissora ('Oferta Restrita'), será realizada com observância aos seguintes requisitos:
+
+Dispensa de Registro pela CVM
+
+A Oferta Restrita será realizada nos termos do artigo 6º da Instrução da CVM nº 476, de 16 de janeiro de 2009, conforme alterada ('Instrução CVM 476') e das demais disposições legais e regulamentares aplicáveis, estando, portanto, automaticamente dispensada do registro de distribuição de que trata o artigo 19 da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada, exceto pelo envio da comunicação sobre o início da Oferta Restrita e a comunicação de seu encerramento à CVM, nos termos dos artigos 7°-A e 8°, respectivamente, da Instrução CVM 476.
+
+Registro na Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais ('ANBIMA')
+
+Por se tratar de oferta para distribuição pública, com esforços restritos, a Oferta Restrita deverá ser registrada na ANBIMA, nos termos dos artigos 12 e 16 do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários' ('Código ANBIMA'), vigente a partir de 6 de maio de 2021, em até 15 (quinze) dias contados do envio, pelo Coordenador Líder (conforme abaixo definido), da comunicação de encerramento da Oferta Restrita à CVM, nos termos do artigo 8º da Instrução CVM 476. 
+
+Arquivamento e Publicação das Aprovações Societárias 
+
+A ata da Aprovação Societária da Emissora foi [arquivada / protocolada para registro] na JUCERJA sob o nº [=] em [=] de [=] de 2021 e publicada no Diário Oficial do Estado do Rio de Janeiro e no jornal 'O Diário do Acionista' ('Jornais de Publicação') em [=] de [=] de 2021, conforme disposto no inciso I do artigo 62 da Lei das Sociedades por Ações. 
+
+A Emissora deverá enviar ao Agente Fiduciário cópias eletrônicas em formato .pdf da ata da Aprovação Societária da Emissora, contemplando o arquivamento eletrônico na junta comercial competente, bem como suas respectivas publicações nos respectivos Jornais de Publicação, conforme previsto nesta Cláusula 2.3, até a primeira Data de Integralização. 
+
+Arquivamento da presente Escritura e eventuais aditamentos na JUCERJA
+
+A Emissora deverá realizar o protocolo da Escritura e de seus eventuais aditamentos perante a JUCERJA em até 5 (cinco) dias contados de sua celebração, conforme disposto no inciso II e parágrafo 3º do artigo 62 da Lei das Sociedades por Ações, respectivamente, devendo a Emissora enviar ao Agente Fiduciário cópia eletrônica em formato .pdf da Escritura, bem como de seus eventuais aditamentos, contemplando o arquivamento eletrônico na JUCERJA, observados os seguintes prazos: (i) para a Escritura, até a primeira Data de Integralização; e (ii) para seus eventuais aditamentos, em até 5 (cinco) dias contados do respectivo arquivamento na JUCERJA. 
+
+Depósito para Distribuição e Negociação
+
+As Debêntures serão devidamente depositadas para:
+
+distribuição pública no mercado primário por meio do MDA – Módulo de Distribuição de Ativos ('MDA'), administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Balcão B3 ('B3'), sendo a distribuição liquidada financeiramente por meio da B3; e
+
+observado o disposto na Cláusula 2.5.2 abaixo, negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+Não obstante o descrito na Cláusula 2.5.1 acima, as Debêntures somente poderão ser negociadas entre Investidores Qualificados (conforme abaixo definido) nos mercados regulamentados de valores mobiliários depois de decorridos 90 (noventa) dias contados da data de cada subscrição ou aquisição por Investidores Profissionais (conforme abaixo definido), exceto pelo lote de Debêntures objeto da Garantia Firme (conforme abaixo definido) exercida pelo Coordenador Líder (conforme abaixo definido), conforme o caso, indicado no momento da subscrição, observados, na negociação subsequente, os limites e condições previstos nos artigos 2º e 3º da Instrução CVM 476, devendo ainda serem observadas, pela Emissora, as obrigações previstas no artigo 17 da Instrução CVM 476, bem como as normas e condutas previstas no artigo 12 da Instrução CVM 476. A negociação das Debêntures deverá sempre respeitar as disposições legais e regulamentares aplicáveis.
+
+REQUISITOS
+
+A 2ª (segunda) emissão de debêntures simples, ou seja, não conversíveis em ações, da espécie quirografária, a ser convolada na espécie com garantia real, em série única ('Emissão' e 'Debêntures', respectivamente), para distribuição pública, com esforços restritos, pela Emissora ('Oferta Restrita'), será realizada com observância aos seguintes requisitos:
+
+2.1.	Dispensa de Registro na Comissão de Valores Mobiliários
+
+2.1.1.	A Oferta Restrita será realizada nos termos da Instrução da CVM nº 476, de 16 de janeiro de 2009, conforme alterada ('Instrução CVM 476'), e está automaticamente dispensada de registro pela CVM, de que trata o artigo 19 da Lei 6.385, de 07 de dezembro de 1976, conforme alterada ('Lei do Mercado de Valores Mobiliários'), nos termos do artigo 6º da Instrução CVM 476, por se tratar de oferta pública de distribuição com esforços restritos, não sendo objeto de protocolo, registro ou arquivamento na CVM, exceto pelo envio à CVM da comunicação de início da Oferta, nos termos do artigo 7º-A da Instrução CVM 476 ('Comunicação de Início'), e da comunicação de encerramento da Oferta, nos termos do artigo 8º da Instrução CVM 476 ('Comunicação de Encerramento'). 
+
+2.2.	Registro na ANBIMA - Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais
+
+2.2.1.	Por se tratar de distribuição pública com esforços restritos, a Oferta Restrita será registrada na Associação Brasileira das Entidades dos Mercados Financeiros e de Capitais ('ANBIMA'), nos termos do 'Código ANBIMA para Ofertas Públicas', atualmente em vigor ('Código ANBIMA'), exclusivamente para fins de envio de informações para a base de dados da ANBIMA.
+
+2.3.	Arquivamento e Publicação dos Atos Societários
+
+2.3.1.	A ata da AGE da Emissão será arquivada na JUCEMG e publicada no jornal [Diário do Comércio de Belo Horizonte] ('Jornal de Publicação'), conforme disposto no inciso I do artigo 62 da Lei das Sociedades por Ações. [Nota MM: Companhia, favor confirmar jornal de publicação.]
+
+2.3.2.	A ata da AGC Fundo será registrada no Ofício de Registro Títulos e Documentos da Cidade do Rio de Janeiro. 
+
+2.3.3.	A Emissora deverá enviar ao Agente Fiduciário cópia eletrônica em formato .pdf : (i) da ata da AGE da Emissão e da ata da AGC Fundo, contemplando o arquivamento e o registro contemplados nas Cláusulas 2.3.1 e 2.3.2 acima, respectivamente; e (ii) da publicação da ata da AGE da Emissão prevista na Cláusula 2.3.1 acima, em até 5 (cinco) Dias Úteis, contados da ocorrência de seus respectivos eventos. 
+
+2.4.	Arquivamento da presente Escritura e eventuais aditamentos na JUCEMG 
+
+2.4.1.	A Emissora deverá realizar o protocolo da Escritura e de seus eventuais aditamentos na JUCEMG em até 5 (cinco) Dias Úteis, contados de sua celebração, conforme disposto no inciso II e parágrafo 3º do artigo 62 da Lei das Sociedades por Ações, respectivamente, devendo a Emissora enviar ao Agente Fiduciário: (i) cópia eletrônica em formato .pdf da Escritura, bem como de seus eventuais aditamentos, contemplando o arquivamento eletrônico na JUCEMG, em até 5 (cinco) Dias Úteis contados de seus respectivos arquivamentos na JUCEMG. 
+
+2.5.	Depósito para Distribuição e Negociação 
+
+2.5.1. 	As Debêntures serão devidamente depositadas para:
+
+distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos ('MDA'), administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Balcão B3 ('B3'), sendo a distribuição liquidada financeiramente por meio da B3; e
+
+negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3. 
+
+2.5.2. Não obstante o disposto na Cláusula 2.5.1.  acima, o prazo de 90 (noventa) dias para restrição de negociação das Debêntures referido acima não será aplicável ao Coordenador Líder para as Debêntures que tenham sido subscritas e integralizadas pelo Coordenador Líder em razão do exercício de garantia firme de colocação, nos termos do Contrato de Distribuição e do inciso II do artigo 13 da Instrução CVM 476, sendo certo que: (i) o Investidor Profissional adquirente das Debêntures deverá observar o prazo de 90 (noventa) dias de restrição de negociação com Investidores Qualificados em mercados organizados, contado da data do exercício da garantia firme pelo Coordenador Líder; (ii) o Coordenador Líder deverá verificar o cumprimento das regras previstas nos artigos 2º e 3º da Instrução CVM 476; e (iii) a negociação das Debêntures deve ser realizada nas mesmas condições aplicáveis à Oferta (conforme definido abaixo).
+
+2.5.3. O prazo de 90 (noventa) dias para restrição de negociação das Debêntures referido acima não será aplicável ao Coordenador Líder (conforme abaixo definido) para as Debêntures que tenham sido subscritas e integralizadas em razão do exercício da garantia firme de colocação, nos termos do Contrato de Distribuição (conforme abaixo definido), observado o disposto no inciso II do artigo 13 da Instrução CVM 476, desde que sejam observados os requisitos estabelecidos no parágrafo único do artigo 13 da Instrução CVM 476
+
+2.6.	Registro das Garantias 
+
+2.6.1.	Os Contratos de Garantia e seus eventuais aditamentos, conforme aplicável, deverão ser, às expensas da Emissora, registrados nos competentes Cartórios de Registro de Títulos e Documentos da circunscrição territorial das sedes das respectivas partes, na forma e prazo nele previstos, sendo certo que os Contratos de Garantia deverão estar devidamente registrados até a primeira Data de Integralização. 
+
+2.6.3.	A Alienação Fiduciária de Ações será averbada nos Livros de Registro de Ações Nominativas da Emissora e junto ao escriturador das ações da Omega Energia (conforme abaixo definida), nos termos do artigo 39 da Lei das Sociedades por Ações, no prazo e forma previstos no Contrato de Alienação Fiduciária de Ações e, em todo caso, até a primeira Data de Integralização.
+
+REQUISITOS
+
+A 2ª (segunda) emissão de debêntures simples, ou seja, não conversíveis em ações, da espécie com garantia real, em série única ('Emissão' e 'Debêntures', respectivamente), para distribuição pública, com esforços restritos, pela Emissora ('Oferta Restrita'), será realizada com observância aos seguintes requisitos:'
+
+'4.1.3.	Espécie: As Debêntures serão da espécie com garantia real, nos termos do artigo 58, caput, da Lei das Sociedades por Ações.'
+
+Todas as demais referências à 'espécie quirografária, a ser convolada em espécie com garantia real' que não tenham sido expressamente alteradas neste Aditamento, passarão automaticamente a ser lidas como 'espécie com garantia real' para todos os fins de direito.
+
+REQUISITOS
+
+A 2ª (segunda) emissão de debêntures simples, ou seja, não conversíveis em ações, da espécie quirografária, a ser convolada na espécie com garantia real, em série única ('Emissão' e 'Debêntures', respectivamente), para distribuição pública, com esforços restritos, pela Emissora ('Oferta Restrita'), será realizada com observância aos seguintes requisitos:
+
+2.1.	Dispensa de Registro na Comissão de Valores Mobiliários
+
+2.1.1.	A Oferta Restrita será realizada nos termos da Instrução da CVM nº 476, de 16 de janeiro de 2009, conforme alterada ('Instrução CVM 476'), e está automaticamente dispensada de registro pela CVM, de que trata o artigo 19 da Lei 6.385, de 07 de dezembro de 1976, conforme alterada ('Lei do Mercado de Valores Mobiliários'), nos termos do artigo 6º da Instrução CVM 476, por se tratar de oferta pública de distribuição com esforços restritos, não sendo objeto de protocolo, registro ou arquivamento na CVM, exceto pelo envio à CVM da comunicação de início da Oferta, nos termos do artigo 7º-A da Instrução CVM 476 ('Comunicação de Início'), e da comunicação de encerramento da Oferta, nos termos do artigo 8º da Instrução CVM 476 ('Comunicação de Encerramento'). 
+
+2.2.	Registro na ANBIMA - Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais
+
+2.2.1.	Por se tratar de distribuição pública com esforços restritos, a Oferta Restrita será registrada na Associação Brasileira das Entidades dos Mercados Financeiros e de Capitais ('ANBIMA'), nos termos do 'Código ANBIMA para Ofertas Públicas', atualmente em vigor ('Código ANBIMA'), exclusivamente para fins de envio de informações para a base de dados da ANBIMA.
+
+2.3.	Arquivamento e Publicação dos Atos Societários
+
+2.3.1.	A ata da AGE da Emissão será arquivada na JUCEMG e publicada no jornal Diário do Comércio de Belo Horizonte ('Jornal de Publicação'), conforme disposto no inciso I do artigo 62 da Lei das Sociedades por Ações. 
+
+2.3.2.	A ata da AGC Fundos serão registradas na CVM. 
+
+2.3.3.	A Emissora deverá enviar ao Agente Fiduciário cópia eletrônica em formato .pdf : (i) da ata da AGE da Emissão e das atas da AGC Fundos, contemplando o arquivamento e o registro contemplados nas Cláusulas 2.3.1 e 2.3.2 acima, respectivamente; e (ii) da publicação da ata da AGE da Emissão prevista na Cláusula 2.3.1 acima, em até 5 (cinco) Dias Úteis, contados da ocorrência de seus respectivos eventos. 
+
+2.4.	Arquivamento da presente Escritura e eventuais aditamentos na JUCEMG 
+
+2.4.1.	A Emissora deverá realizar o protocolo da Escritura e de seus eventuais aditamentos na JUCEMG em até 5 (cinco) Dias Úteis, contados de sua celebração, conforme disposto no inciso II e parágrafo 3º do artigo 62 da Lei das Sociedades por Ações, respectivamente, devendo a Emissora enviar ao Agente Fiduciário: (i) cópia eletrônica em formato .pdf da Escritura, bem como de seus eventuais aditamentos, contemplando o arquivamento eletrônico na JUCEMG, em até 5 (cinco) Dias Úteis contados de seus respectivos arquivamentos na JUCEMG. 
+
+2.5.	Depósito para Distribuição e Negociação 
+
+2.5.1. 	As Debêntures serão devidamente depositadas para:
+
+distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos ('MDA'), administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Balcão B3 ('B3'), sendo a distribuição liquidada financeiramente por meio da B3; e
+
+negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3. 
+
+2.5.2. Não obstante o disposto na Cláusula 2.5.1.  acima, o prazo de 90 (noventa) dias para restrição de negociação das Debêntures referido acima não será aplicável ao Coordenador Líder para as Debêntures que tenham sido subscritas e integralizadas pelo Coordenador Líder em razão do exercício de garantia firme de colocação, nos termos do Contrato de Distribuição e do inciso II do artigo 13 da Instrução CVM 476, sendo certo que: (i) o Investidor Profissional adquirente das Debêntures deverá observar o prazo de 90 (noventa) dias de restrição de negociação com Investidores Qualificados em mercados organizados, contado da data do exercício da garantia firme pelo Coordenador Líder; (ii) o Coordenador Líder deverá verificar o cumprimento das regras previstas nos artigos 2º e 3º da Instrução CVM 476; e (iii) a negociação das Debêntures deve ser realizada nas mesmas condições aplicáveis à Oferta (conforme definido abaixo).
+
+2.5.3. O prazo de 90 (noventa) dias para restrição de negociação das Debêntures referido acima não será aplicável ao Coordenador Líder (conforme abaixo definido) para as Debêntures que tenham sido subscritas e integralizadas em razão do exercício da garantia firme de colocação, nos termos do Contrato de Distribuição (conforme abaixo definido), observado o disposto no inciso II do artigo 13 da Instrução CVM 476, desde que sejam observados os requisitos estabelecidos no parágrafo único do artigo 13 da Instrução CVM 476
+
+2.6.	Registro das Garantias 
+
+2.6.1.	Os Contratos de Garantia e seus eventuais aditamentos, conforme aplicável, deverão ser, às expensas da Emissora, registrados nos competentes Cartórios de Registro de Títulos e Documentos da circunscrição territorial das sedes das respectivas partes, na forma e prazo nele previstos, sendo certo que os Contratos de Garantia deverão estar devidamente protocolados nos competentes Cartórios de Registro de Títulos e Documentos até a primeira Data de Integralização. 
+
+2.6.3.	A Alienação Fiduciária de Ações será averbada nos Livros de Registro de Ações Nominativas da Emissora e junto ao escriturador das ações da Omega Energia (conforme abaixo definida), nos termos do artigo 39 da Lei das Sociedades por Ações, no prazo e forma previstos no Contrato de Alienação Fiduciária de Ações e, em todo caso, até a primeira Data de Integralização.
+
+REQUISITOS
+
+A 2ª (segunda) emissão de debêntures simples, ou seja, não conversíveis em ações, da espécie com garantia real, em série única ('Emissão' e 'Debêntures', respectivamente), para distribuição pública, com esforços restritos, pela Emissora ('Oferta Restrita'), será realizada com observância aos seguintes requisitos:'
+
+'4.1.3.	Espécie: As Debêntures serão da espécie com garantia real, nos termos do artigo 58, caput, da Lei das Sociedades por Ações.'
+
+Todas as demais referências à 'espécie quirografária, a ser convolada em espécie com garantia real' que não tenham sido expressamente alteradas neste Aditamento, passarão automaticamente a ser lidas como 'espécie com garantia real' para todos os fins de direito.
+
+Requisitos
+A Emissão, a Oferta e a celebração desta Escritura de Emissão e do Contrato de Distribuição serão realizadas com observância aos seguintes requisitos:
+arquivamento e publicação dos Atos Societários. Nos termos do artigo 62, inciso I, da Lei n.º 6.404, de 15 de dezembro de 1976, conforme alterada ('Lei das Sociedades por Ações'), a Aprovação Societária da Companhia será arquivada na JUCERJA e publicada no jornal 'Diário Comercial' e na respectiva página de tal jornal na rede mundial de computadores.
+inscrição e registro desta Escritura de Emissão e seus aditamentos. Nos termos do artigo 62, inciso II e parágrafo 3º, da Lei das Sociedades por Ações, bem como do artigo 129 da Lei n.º 6.015, de 31 de dezembro de 1973, conforme alterada, esta Escritura de Emissão e seus aditamentos serão inscritos na JUCERJA.
+depósito para distribuição. As Debêntures serão depositadas para distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos ('MDA'), administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão ('B3'), sendo a distribuição liquidada financeiramente por meio da B3;
+depósito para negociação. Observado o disposto na Cláusula 3.7 abaixo, as Debêntures serão depositadas para negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente por meio da B3 e as Debêntures custodiadas eletronicamente na B3;
+registro da Oferta pela CVM. A Oferta está automaticamente dispensada de registro pela CVM de que trata o artigo 19 da Lei do Mercado de Capitais, nos termos do artigo 6º da Instrução CVM 476, por se tratar de oferta pública de distribuição com esforços restritos de colocação; e
+registro da Oferta pela ANBIMA. A Oferta será objeto de registro pela ANBIMA – Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais ('ANBIMA'), nos termos do artigo 16 e seguintes do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários', em vigor desde 6 de maio de 2021.
+
+REQUISITOS
+
+A 1ª (primeira) emissão de debêntures simples, não conversíveis em ações, da espécie com garantia real, com garantia adicional fidejussória, em duas séries ('Emissão'), para distribuição pública, com esforços restritos, pela Emissora ('Oferta Restrita'), será realizada com observância aos seguintes requisitos:
+
+2.1.	Dispensa de Registro na Comissão de Valores Mobiliários
+
+2.1.1.	A Oferta Restrita será realizada nos termos da Instrução da CVM nº 476, de 16 de janeiro de 2009, conforme alterada ('Instrução CVM 476') e das demais disposições legais e regulamentares aplicáveis, estando, portanto, automaticamente dispensada do registro de distribuição de que trata o artigo 19 da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada.
+
+2.2.	Registro na Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais
+
+2.2.1.	A Oferta Restrita será registrada na ANBIMA – Associação Brasileira das Entidades dos Mercado Financeiro e de Capitais ('ANBIMA') nos termos do artigo 16 do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários' em vigor, no prazo de até 15 (quinze) dias contados do envio da comunicação de encerramento da Oferta à CVM.
+
+2.3.	Arquivamento e Publicação dos Atos Societários da Emissão
+
+2.3.1.	Os Atos Societários da Emissão serão arquivados na Junta Comercial do Estado de São Paulo ('JUCESP') e publicados na Gazeta de São Paulo ('Jornal de Publicação'), conforme disposto no inciso I do artigo 62 da Lei das Sociedades por Ações. 
+
+2.3.2.	A Emissora e a Interveniente Garantidora deverão enviar ao Agente Fiduciário cópia eletrônica em formato .pdf dos Atos Societários da Emissão contemplando o arquivamento eletrônico na JUCESP, bem como suas respectivas publicações no Jornal de Publicação, conforme previsto na Cláusula 2.3.1 acima, em até 5 (cinco) Dias Úteis, contados de seus respectivos arquivamentos na JUCESP. 
+
+2.4.	Arquivamento da presente Escritura e eventuais aditamentos na JUCESP
+
+2.4.1.	A Emissora deverá realizar o protocolo da Escritura e de seus eventuais aditamentos na JUCESP, conforme disposto no inciso II e parágrafo 3º do artigo 62 da Lei das Sociedades por Ações, em até 3 (três) Dias Úteis contados de sua assinatura, devendo enviar ao Agente Fiduciário cópia eletrônica em formato .pdf desta Escritura, bem como de seus eventuais aditamentos, contemplando o arquivamento eletrônico na JUCESP, em até 5 (cinco) Dias Úteis contados de seus respectivos arquivamentos na JUCESP. 
+
+2.5.	Registro no Cartório de Registros de Títulos e Documentos
+
+2.5.1.	Em virtude da Garantia Fidejussória prevista na Cláusula 4.17, a Emissora deverá registrar essa Escritura no Cartório de Registro de Títulos e Documentos da Cidade de São Paulo, Estado de São Paulo ('RTD-SP'), nos termos dos artigos 129 a 131 da Lei de Registros Públicos, e enviar ao Agente Fiduciário cópia eletrônica em formato .pdf desta Escritura, bem como de seus eventuais aditamentos, devidamente registrados, em até 20 (vinte) dias contados da data de sua assinatura.
+
+2.5.2	O Contrato de Alienação Fiduciária de Ações (conforme abaixo definido) deverá ser registrado no RTD-SP, nos termos do artigo 62, inciso III, da Lei das Sociedades por Ações, e dos artigos 129 a 131 da Lei de Registros Públicos, onde deverão ser registrados também seus eventuais aditamentos, devendo a Emissora enviar ao Agente Fiduciário cópia eletrônica em formato .pdf, do Contrato de Alienação Fiduciária de Ações e seus respectivos aditamentos devidamente registrados, nos prazos previstos no Contrato de Alienação Fiduciária de Ações. 
+
+2.6.	Depósito para Distribuição e Negociação 
+
+2.6.1. 	As Debêntures serão devidamente depositadas para:
+
+distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos ('MDA'), administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Segmento Balcão B3 ('B3'), sendo a distribuição liquidada financeiramente por meio da B3; e
+
+negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3. 
+
+2.6.2. Não obstante o descrito na Cláusula 2.6.1 acima, as Debêntures somente poderão ser subscritas e integralizadas por Investidores Profissionais e negociadas depois de decorridos 90 (noventa) dias contados de cada subscrição ou aquisição inicial pelos Investidores Profissionais, conforme disposto no artigo 13 da Instrução CVM 476, salvo as exceções nele previstas, na hipótese do lote objeto de garantia firme de colocação pelo Coordenador Líder indicado no momento da subscrição, observados, na negociação subsequente, os limites e condições previstos nos artigos 2º e 3º da Instrução CVM 476 e, em todos os casos, observado o cumprimento, pela Emissora, do artigo 17 da Instrução CVM 476, observado ainda o disposto no caput do artigo 15 da Instrução CVM 476 em relação à negociação das Debêntures entre Investidores Qualificados, bem como as exceções estabelecidas em seus parágrafos 1º e 2º, conforme aplicáveis, sendo que a negociação das Debêntures deverá sempre respeitar as disposições legais e regulamentares aplicáveis. 
+
+
+REQUISITOS
+
+A presente 1ª (primeira) emissão de debêntures simples, não conversíveis em ações de emissão da Emissora, da espécie com garantia real, com garantia adicional fidejussória, em série única ('Emissão' e 'Debêntures', respectivamente), para distribuição pública com esforços restritos, nos termos da Instrução da Comissão de Valores Mobiliários ('CVM') nº 476, de 16 de janeiro de 2009, conforme alterada ('Instrução CVM 476'), das demais disposições legais aplicáveis e desta Escritura de Emissão ('Oferta Restrita'), deverá observar os seguintes requisitos: 
+
+Arquivamento na Junta Comercial e Publicação das Aprovações da Emissora 
+
+Nos termos dos artigos 62, inciso I, e 289 da Lei nº 6.404, de 15 de dezembro de 1976, conforme alterada ('Lei das Sociedades por Ações'), (i) a ata da AGE da Emissora [será arquivada na JUCEMG e será publicada no Diário Oficial do Estado de Minas Gerais e no jornal [•] ('Jornais de Publicação') // foi arquivada na JUCEMG em [•] de [•]de 2019 sob o nº [•] e publicada no Diário Oficial do Estado de Minas Gerais e no jornal Diário do Comércio - Belo Horizonte('Jornais de Publicação') em [•] de [•] de 2019]; e (ii) a ata da RCA da Emissora [será arquivada na JUCEMG e será publicada nos Jornais de Publicação // foi arquivada na JUCEMG em [•] de [•] de 2019 sob o nº [•] e publicada nos Jornais de Publicação em [•] de [•] de 2019].
+
+Os atos societários da Emissora que, pela Lei das Sociedades por Ações, são passíveis de serem arquivados e publicados e que, eventualmente, venham a ser realizados após o registro da presente Escritura de Emissão também serão arquivados na JUCEMG, bem como serão publicadas nos Jornais de Publicação, observado o disposto na Cláusula 4.12 abaixo.
+
+ Publicação das Aprovações das Acionistas
+
+[A ser inserido conforme estrutura societária à época da assinatura da escritura]
+
+Arquivamento da Escritura de Emissão e averbação de seus eventuais aditamentos na Junta Comercial
+
+Esta Escritura de Emissão será arquivada e seus eventuais aditamentos serão averbados na JUCEMG, conforme disposto no artigo 62, inciso II e parágrafo 3º, da Lei das Sociedades por Ações. A Emissora entregará ao Agente Fiduciário 1 (uma) via original desta Escritura de Emissão e de eventuais aditamentos arquivados na JUCEMG em até 5 (cinco) Dias Úteis após o respectivo arquivamento.
+
+Dispensa de Registro na CVM e Registro na ANBIMA – Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais
+
+A Emissão será realizada nos termos da Instrução CVM 476 e das demais disposições legais e regulamentares aplicáveis, estando, portanto, automaticamente dispensada do registro de distribuição de que trata o artigo 19 da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada ('Lei do Mercado de Valores Mobiliários'), por se tratar de oferta pública de valores mobiliários, com esforços restritos, não sendo objeto de protocolo, registro e/ou arquivamento perante a CVM, exceto pelo envio da comunicação sobre o início da Oferta Restrita e a comunicação de seu encerramento à CVM, nos termos dos artigos 7º-A e 8º, respectivamente, da Instrução CVM 476.
+
+Por se tratar de distribuição pública com esforços restritos, a Oferta Restrita poderá vir a ser registrada na Associação Brasileira das Entidades dos Mercados Financeiros e de Capitais ('ANBIMA'), nos termos do parágrafo 2º do artigo 1° do 'Código ANBIMA de Regulação e Melhores Práticas para as Ofertas Públicas de Distribuição e Aquisição de Valores Mobiliários' atualmente em vigor, exclusivamente para fins de envio de informações para a base de dados da ANBIMA, desde que sejam expedidas diretrizes específicas nesse sentido pelo Conselho de Regulação e Melhores Práticas da ANBIMA, até o momento do protocolo da Comunicação de Encerramento da Emissão na CVM.
+
+Registro das Garantias 
+
+Os Contratos de Garantia (conforme definido na Cláusula 4.15.1 abaixo), assim como quaisquer aditamentos subsequentes a estes contratos, serão celebrados e levados a registro nos competentes Cartórios de Registro de Títulos e Documentos, conforme indicado nos respectivos instrumentos, sendo certo que os Contratos de Garantia, incluindo respectivos aditamentos deverão ser apresentados para registro no prazo determinado no respectivo instrumento, devendo ser fornecida ao Agente Fiduciário, dentro de até 5 (cinco) Dias Úteis contados da data do respectivo registro, 1 (uma) via original do respectivo instrumento devidamente registrado.
+
+A alienação fiduciária de ações descrita no item (i) da Cláusula 4.15.1 será averbada no livro de registro de ações nominativas da Emissora e/ou no respectivo livro e/ou sistemas da instituição financeira responsável pela prestação de serviços de escrituração das ações da Emissora, caso as ações da Emissora venham a se tornar escriturais, devendo ser anotados no extrato da conta de depósito fornecido às respectivas acionistas, nos termos do artigo 39, e de seu §1°, da Lei das Sociedades por Ações, em até 5 (cinco) Dias Úteis contados da data de assinatura do Contrato de Alienação Fiduciária de Ações (conforme definido na Cláusula 4.15.1, item (i) abaixo).
+
+Em até 5 (cinco) Dias Úteis após as respectivas averbações, a Emissora entregará ao Agente Fiduciário (i) cópia integral e autenticada do livro de registro de ações nominativas da Emissora, ou (ii) caso as ações da Emissora venham a se tornar escriturais, (ii-a) cópia autenticada do livro e/ou cópia simples dos sistemas da instituição financeira responsável pela prestação de serviços de escrituração das ações da Emissora ou cópia do extrato da conta de depósito fornecido às respectivas acionistas e (ii-b) original de declaração da instituição financeira responsável pela prestação de serviços de escrituração das ações da Emissora, evidenciando a anotação da garantia constituída por meio do Contrato de Alienação Fiduciária de Ações, podendo, para fins deste item (ii-b) ser apresentado cópia simples do extrato que contenha anotação da garantia que afeta tais ações.
+
+As Fianças Bancárias, assim como quaisquer aditamentos subsequentes a tais documentos, serão registradas, às expensas da Emissora, nos competentes Cartórios de Registro de Títulos e Documentos do domicílio das instituições financeiras emissoras das Fianças Bancárias e do Agente Fiduciário, na qualidade de representante dos Debenturistas, no prazo de até 20 (vinte) dias contados da data de emissão das Fianças Bancárias. A Emissora entregará ao Agente Fiduciário 1 (uma) via original das Fianças Bancárias em até 5 (cinco) Dias Úteis após os respectivos registros.
+
+Depósito para Distribuição, Negociação, Custódia Eletrônica e Liquidação Financeira
+
+As Debêntures serão depositadas para:
+
+distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos, administrado e operacionalizado pela B3S.A. – Brasil, Bolsa, Balcão ('B3')– Segmento Cetip UTVM, sendo a distribuição liquidada financeiramente por meio da B3; e 
+
+negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+As Debêntures somente poderão ser negociadas entre Investidores Qualificados (conforme definido abaixo) nos mercados regulamentados de valores mobiliários depois de decorridos 90 (noventa) dias, contados a partir da data de cada subscrição ou aquisição pelos investidores profissionais, conforme disposto nos artigos 13 e 15 da Instrução CVM 476, observado o cumprimento pela Emissora do artigo 17 da Instrução CVM 476, sendo que a negociação das Debêntures deverá sempre respeitar as disposições legais e regulamentares aplicáveis.
+
+Enquadramento do Projeto
+
+A Emissão será realizada na forma do artigo 2º da Lei nº 12.431, de 24 de junho de 2011, conforme alterada ('Lei 12.431') e do Decreto nº 8.874, de 11 de outubro de 2016 ('Decreto 8.874'), da Resolução do Conselho Monetário Nacional ('CMN') n° 3.947, de 27 de janeiro de 2011, conforme alterada('Resolução CMN 3.947'), ou de normas posteriores que as alterem, substituam ou complementem, tendo em vista o enquadramento do Projeto (conforme definido abaixo) como prioritário pelo Ministério de Minas e Energia ('MME'), por meio da Portaria do MME: nº 257, de 11 de setembro de 2017, publicada no Diário Oficial da União em 14 de setembro de 2017('Portaria de Enquadramento').
+
+
+REQUISITOS
+
+A presente 1ª (primeira) emissão de debêntures simples, não conversíveis em ações de emissão da Emissora, da espécie com garantia real, com garantia adicional fidejussória, em série única ('Emissão' e 'Debêntures', respectivamente), para distribuição pública com esforços restritos, nos termos da Instrução da Comissão de Valores Mobiliários ('CVM') nº 476, de 16 de janeiro de 2009, conforme alterada ('Instrução CVM 476'), das demais disposições legais aplicáveis e desta Escritura de Emissão ('Oferta Restrita'), deverá observar os seguintes requisitos: 
+
+Arquivamento na Junta Comercial e Publicação das Aprovações da Emissora 
+
+Nos termos dos artigos 62, inciso I, e 289 da Lei nº 6.404, de 15 de dezembro de 1976, conforme alterada ('Lei das Sociedades por Ações'), (i) a ata da AGE da Emissora será arquivada na JUCEMG e será publicada no Diário Oficial do Estado de Minas Gerais e no jornal Diário do Comércio - Belo Horizonte ('Jornais de Publicação'); e (ii) a ata da RCA da Emissora será arquivada na JUCEMG e será publicada nos Jornais de Publicação.
+
+Os atos societários da Emissora que, pela Lei das Sociedades por Ações, são passíveis de serem arquivados e publicados e que, eventualmente, venham a ser realizados após o registro da presente Escritura de Emissão também serão arquivados na JUCEMG, bem como serão publicados nos Jornais de Publicação, observado o disposto na Cláusula 4.12 abaixo.
+
+ Publicação das Aprovações das Acionistas
+
+Nos termos dos artigos 62, inciso I, e 289 da Lei das Sociedades por Ações, a ata da AGE da Tibagi Participações será arquivada na Junta Comercial do Estado de São Paulo - JUCESP e será publicada no Diário Oficial do Estado de São Paulo e no jornal [•].
+
+Arquivamento da Escritura de Emissão e averbação de seus eventuais aditamentos na Junta Comercial
+
+Esta Escritura de Emissão será arquivada e seus eventuais aditamentos serão averbados na JUCEMG, conforme disposto no artigo 62, inciso II e parágrafo 3º, da Lei das Sociedades por Ações. A Emissora entregará ao Agente Fiduciário 1 (uma) via original desta Escritura de Emissão e de eventuais aditamentos arquivados na JUCEMG em até 5 (cinco) Dias Úteis após o respectivo arquivamento.
+
+Dispensa de Registro na CVM e Registro na ANBIMA – Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais
+
+A Emissão será realizada nos termos da Instrução CVM 476 e das demais disposições legais e regulamentares aplicáveis, estando, portanto, automaticamente dispensada do registro de distribuição de que trata o artigo 19 da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada ('Lei do Mercado de Valores Mobiliários'), por se tratar de oferta pública de valores mobiliários, com esforços restritos, não sendo objeto de protocolo, registro e/ou arquivamento perante a CVM, exceto pelo envio da comunicação sobre o início da Oferta Restrita e a comunicação de seu encerramento à CVM, nos termos dos artigos 7º-A e 8º, respectivamente, da Instrução CVM 476.
+
+Por se tratar de distribuição pública, com esforços restritos, a Oferta Restrita será registrada na Associação Brasileira das Entidades dos Mercados Financeiros e de Capitais ('ANBIMA'), nos termos do artigo 16, inciso II, do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários' ('Código ANBIMA'), em até 15 (quinze) dias contados da Comunicação de Encerramento.
+
+Registro das Garantias 
+
+Os Contratos de Garantia (conforme definido na Cláusula 4.15.1 abaixo), assim como quaisquer aditamentos subsequentes a estes contratos, serão celebrados e levados a registro nos competentes Cartórios de Registro de Títulos e Documentos, conforme indicado nos respectivos instrumentos, sendo certo que os Contratos de Garantia, incluindo respectivos aditamentos deverão ser apresentados para registro no prazo determinado no respectivo instrumento, devendo ser fornecida ao Agente Fiduciário, dentro de até 5 (cinco) Dias Úteis contados da data do respectivo registro, 1 (uma) via original do respectivo instrumento devidamente registrado.
+
+A alienação fiduciária de ações descrita no item (i) da Cláusula 4.15.1 será averbada no livro de registro de ações nominativas da Emissora e/ou no respectivo livro e/ou sistemas da instituição financeira responsável pela prestação de serviços de escrituração das ações da Emissora, caso as ações da Emissora venham a se tornar escriturais, devendo ser anotados no extrato da conta de depósito fornecido às respectivas acionistas, nos termos do artigo 39, e de seu §1°, da Lei das Sociedades por Ações, em até 5 (cinco) Dias Úteis contados da data de assinatura do Contrato de Alienação Fiduciária de Ações (conforme definido na Cláusula 4.15.1, item (i) abaixo).
+
+Em até 5 (cinco) Dias Úteis após as respectivas averbações, a Emissora entregará ao Agente Fiduciário (i) cópia integral e autenticada do livro de registro de ações nominativas da Emissora, ou (ii) caso as ações da Emissora venham a se tornar escriturais, (ii-a) cópia autenticada do livro e/ou cópia simples dos sistemas da instituição financeira responsável pela prestação de serviços de escrituração das ações da Emissora ou cópia do extrato da conta de depósito fornecido às respectivas acionistas e (ii-b) original de declaração da instituição financeira responsável pela prestação de serviços de escrituração das ações da Emissora, evidenciando a anotação da garantia constituída por meio do Contrato de Alienação Fiduciária de Ações, podendo, para fins deste item (ii-b) ser apresentada cópia simples do extrato que contenha anotação da garantia que afeta tais ações.
+
+As Fianças Bancárias, assim como quaisquer aditamentos subsequentes a tais documentos, serão registradas, às expensas da Emissora, nos competentes Cartórios de Registro de Títulos e Documentos do domicílio das instituições financeiras emissoras das Fianças Bancárias e do Agente Fiduciário, na qualidade de representante dos Debenturistas, no prazo de até 20 (vinte) dias contados da data de emissão das Fianças Bancárias. A Emissora entregará ao Agente Fiduciário 1 (uma) via original das Fianças Bancárias em até 5 (cinco) Dias Úteis após os respectivos registros.
+
+Depósito para Distribuição, Negociação, Custódia Eletrônica e Liquidação Financeira
+
+As Debêntures serão depositadas para:
+
+distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos, administrado e operacionalizado pela B3S.A. – Brasil, Bolsa, Balcão ('B3') – Segmento Cetip UTVM, sendo a distribuição liquidada financeiramente por meio da B3; e 
+
+negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+As Debêntures somente poderão ser negociadas entre Investidores Qualificados (conforme definido abaixo) nos mercados regulamentados de valores mobiliários depois de decorridos 90 (noventa) dias, contados a partir da data de cada subscrição ou aquisição pelos investidores profissionais, conforme disposto nos artigos 13 e 15 da Instrução CVM 476, observado o cumprimento pela Emissora do artigo 17 da Instrução CVM 476, sendo que a negociação das Debêntures deverá sempre respeitar as disposições legais e regulamentares aplicáveis.
+
+Enquadramento do Projeto
+
+A Emissão será realizada na forma do artigo 2º da Lei nº 12.431, de 24 de junho de 2011, conforme alterada ('Lei 12.431') e do Decreto nº 8.874, de 11 de outubro de 2016 ('Decreto 8.874'), da Resolução do Conselho Monetário Nacional ('CMN') n° 3.947, de 27 de janeiro de 2011, conforme alterada('Resolução CMN 3.947'), ou de normas posteriores que as alterem, substituam ou complementem, tendo em vista o enquadramento do Projeto (conforme definido abaixo) como prioritário pelo Ministério de Minas e Energia ('MME'), por meio da Portaria do MME: nº 257, de 11 de setembro de 2017, publicada no Diário Oficial da União em 14 de setembro de 2017('Portaria de Enquadramento').
+
+
+REQUISITOS
+
+A presente 1ª (primeira) emissão de debêntures simples, não conversíveis em ações de emissão da Emissora, da espécie com garantia real, com garantia adicional fidejussória, em série única ('Emissão' e 'Debêntures', respectivamente), para distribuição pública com esforços restritos, nos termos da Instrução da Comissão de Valores Mobiliários ('CVM') nº 476, de 16 de janeiro de 2009, conforme alterada ('Instrução CVM 476'), das demais disposições legais aplicáveis e desta Escritura de Emissão ('Oferta Restrita'), deverá observar os seguintes requisitos: 
+
+Arquivamento na Junta Comercial e Publicação das Aprovações da Emissora 
+
+Nos termos dos artigos 62, inciso I, e 289 da Lei nº 6.404, de 15 de dezembro de 1976, conforme alterada ('Lei das Sociedades por Ações'), (i) a ata da AGE da Emissora [será arquivada na JUCEMG e será publicada no Diário Oficial do Estado de Minas Gerais e no jornal [•] ('Jornais de Publicação') // foi arquivada na JUCEMG em [•] de [•]de 2019 sob o nº [•] e publicada no Diário Oficial do Estado de Minas Gerais e no jornal Diário do Comércio - Belo Horizonte('Jornais de Publicação') em [•] de [•] de 2019]; e (ii) a ata da RCA da Emissora [será arquivada na JUCEMG e será publicada nos Jornais de Publicação // foi arquivada na JUCEMG em [•] de [•] de 2019 sob o nº [•] e publicada nos Jornais de Publicação em [•] de [•] de 2019].
+
+Os atos societários da Emissora que, pela Lei das Sociedades por Ações, são passíveis de serem arquivados e publicados e que, eventualmente, venham a ser realizados após o registro da presente Escritura de Emissão também serão arquivados na JUCEMG, bem como serão publicadas nos Jornais de Publicação, observado o disposto na Cláusula 4.12 abaixo.
+
+ Publicação das Aprovações das Acionistas
+
+[A ser inserido conforme estrutura societária à época da assinatura da escritura]
+
+Arquivamento da Escritura de Emissão e averbação de seus eventuais aditamentos na Junta Comercial
+
+Esta Escritura de Emissão será arquivada e seus eventuais aditamentos serão averbados na JUCEMG, conforme disposto no artigo 62, inciso II e parágrafo 3º, da Lei das Sociedades por Ações. A Emissora entregará ao Agente Fiduciário 1 (uma) via original desta Escritura de Emissão e de eventuais aditamentos arquivados na JUCEMG em até 5 (cinco) Dias Úteis após o respectivo arquivamento.
+
+Dispensa de Registro na CVM e Registro na ANBIMA – Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais
+
+A Emissão será realizada nos termos da Instrução CVM 476 e das demais disposições legais e regulamentares aplicáveis, estando, portanto, automaticamente dispensada do registro de distribuição de que trata o artigo 19 da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada ('Lei do Mercado de Valores Mobiliários'), por se tratar de oferta pública de valores mobiliários, com esforços restritos, não sendo objeto de protocolo, registro e/ou arquivamento perante a CVM, exceto pelo envio da comunicação sobre o início da Oferta Restrita e a comunicação de seu encerramento à CVM, nos termos dos artigos 7º-A e 8º, respectivamente, da Instrução CVM 476.
+
+Por se tratar de distribuição pública com esforços restritos, a Oferta Restrita poderá vir a ser registrada na Associação Brasileira das Entidades dos Mercados Financeiros e de Capitais ('ANBIMA'), nos termos do parágrafo 2º do artigo 1° do 'Código ANBIMA de Regulação e Melhores Práticas para as Ofertas Públicas de Distribuição e Aquisição de Valores Mobiliários' atualmente em vigor, exclusivamente para fins de envio de informações para a base de dados da ANBIMA, desde que sejam expedidas diretrizes específicas nesse sentido pelo Conselho de Regulação e Melhores Práticas da ANBIMA, até o momento do protocolo da Comunicação de Encerramento da Emissão na CVM.
+
+Registro das Garantias 
+
+Os Contratos de Garantia (conforme definido na Cláusula 4.15.1 abaixo), assim como quaisquer aditamentos subsequentes a estes contratos, serão celebrados e levados a registro nos competentes Cartórios de Registro de Títulos e Documentos, conforme indicado nos respectivos instrumentos, sendo certo que os Contratos de Garantia, incluindo respectivos aditamentos deverão ser apresentados para registro no prazo determinado no respectivo instrumento, devendo ser fornecida ao Agente Fiduciário, dentro de até 5 (cinco) Dias Úteis contados da data do respectivo registro, 1 (uma) via original do respectivo instrumento devidamente registrado.
+
+A alienação fiduciária de ações descrita no item (i) da Cláusula 4.15.1 será averbada no livro de registro de ações nominativas da Emissora e/ou no respectivo livro e/ou sistemas da instituição financeira responsável pela prestação de serviços de escrituração das ações da Emissora, caso as ações da Emissora venham a se tornar escriturais, devendo ser anotados no extrato da conta de depósito fornecido às respectivas acionistas, nos termos do artigo 39, e de seu §1°, da Lei das Sociedades por Ações, em até 5 (cinco) Dias Úteis contados da data de assinatura do Contrato de Alienação Fiduciária de Ações (conforme definido na Cláusula 4.15.1, item (i) abaixo).
+
+Em até 5 (cinco) Dias Úteis após as respectivas averbações, a Emissora entregará ao Agente Fiduciário (i) cópia integral e autenticada do livro de registro de ações nominativas da Emissora, ou (ii) caso as ações da Emissora venham a se tornar escriturais, (ii-a) cópia autenticada do livro e/ou cópia simples dos sistemas da instituição financeira responsável pela prestação de serviços de escrituração das ações da Emissora ou cópia do extrato da conta de depósito fornecido às respectivas acionistas e (ii-b) original de declaração da instituição financeira responsável pela prestação de serviços de escrituração das ações da Emissora, evidenciando a anotação da garantia constituída por meio do Contrato de Alienação Fiduciária de Ações, podendo, para fins deste item (ii-b) ser apresentado cópia simples do extrato que contenha anotação da garantia que afeta tais ações.
+
+As Fianças Bancárias, assim como quaisquer aditamentos subsequentes a tais documentos, serão registradas, às expensas da Emissora, nos competentes Cartórios de Registro de Títulos e Documentos do domicílio das instituições financeiras emissoras das Fianças Bancárias e do Agente Fiduciário, na qualidade de representante dos Debenturistas, no prazo de até 20 (vinte) dias contados da data de emissão das Fianças Bancárias. A Emissora entregará ao Agente Fiduciário 1 (uma) via original das Fianças Bancárias em até 5 (cinco) Dias Úteis após os respectivos registros.
+
+Depósito para Distribuição, Negociação, Custódia Eletrônica e Liquidação Financeira
+
+As Debêntures serão depositadas para:
+
+distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos, administrado e operacionalizado pela B3S.A. – Brasil, Bolsa, Balcão ('B3')– Segmento Cetip UTVM, sendo a distribuição liquidada financeiramente por meio da B3; e 
+
+negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+As Debêntures somente poderão ser negociadas entre Investidores Qualificados (conforme definido abaixo) nos mercados regulamentados de valores mobiliários depois de decorridos 90 (noventa) dias, contados a partir da data de cada subscrição ou aquisição pelos investidores, conforme disposto nos artigos 13 e 15 da Instrução CVM 476, observado o cumprimento pela Emissora do artigo 17 da Instrução CVM 476, sendo que a negociação das Debêntures deverá sempre respeitar as disposições legais e regulamentares aplicáveis.
+
+Enquadramento do Projeto
+
+A Emissão será realizada na forma do artigo 2º da Lei nº 12.431, de 24 de junho de 2011, conforme alterada ('Lei 12.431') e do Decreto nº 8.874, de 11 de outubro de 2016 ('Decreto 8.874'), da Resolução do Conselho Monetário Nacional ('CMN') n° 3.947, de 27 de janeiro de 2011, conforme alterada('Resolução CMN 3.947'), ou de normas posteriores que as alterem, substituam ou complementem, tendo em vista o enquadramento do Projeto (conforme definido abaixo) como prioritário pelo Ministério de Minas e Energia ('MME'), por meio da Portaria do MME: nº 257, de 11 de setembro de 2017, publicada no Diário Oficial da União em 14 de setembro de 2017('Portaria de Enquadramento').
+
+
+REQUISITOS
+
+A 6ª (sexta) emissão de debêntures simples, não conversíveis em ações, da espécie quirografária, em 2 (duas) séries, para distribuição pública, com esforços restritos, pela Emissora ('Emissão' e 'Oferta Restrita', respectivamente) será realizada com observância dos seguintes requisitos:
+
+Dispensa de Registro na CVM; Registro na Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais – ANBIMA ('ANBIMA').
+
+A Oferta Restrita será realizada nos termos do artigo 6º da Instrução da CVM nº 476, de 16 de janeiro de 2009, conforme alterada ('Instrução CVM 476') e das demais disposições legais e regulamentares aplicáveis por se tratar de oferta pública de valores mobiliários com esforços restritos, estando, portanto, automaticamente dispensada do registro de distribuição na CVM de que trata o artigo 19 da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada ('Lei de Mercado de Capitais'), não sendo objeto de protocolo, registro ou arquivamento na CVM, exceto pelo envio à CVM da comunicação de início da Oferta Restrita, nos termos do artigo 7º-A da Instrução CVM 476 ('Comunicação de Início'), e da comunicação de encerramento da Oferta Restrita, nos termos do artigo 8º da Instrução CVM 476 ('Comunicação de Encerramento').
+
+Além disso, nos termos do artigo 16 do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários', em vigor desde 6 de maio de 2021, a Oferta Restrita será registrada na ANBIMA no prazo máximo de 15 (quinze) dias contados da data do envio da Comunicação de Encerramento.
+
+Arquivamento e Publicação da RCA da Emissora
+
+A ata da RCA da Emissora deverá ser (i) protocolada para arquivamento perante a Junta Comercial do Estado do Espírito Santo ('JUCEES') no prazo de 5 (cinco) Dias Úteis da data de sua realização, (ii) devidamente arquivada na JUCEES no prazo de 20 (vinte) dias contados da data do protocolo, bem como (iii) publicada no jornal ['A Tribuna'], com divulgação simultânea da íntegra do documento na página do jornal na rede mundial de computadores, que deverá providenciar certificação digital de autenticidade dos documentos mantidos nas páginas próprias emitida por autoridade certificadora credenciada no âmbito da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil), nos termos do inciso I do artigo 62 e do artigo 289 da Lei das Sociedades por Ações. [Nota Cescon Barrieu: Companhia, favor confirmar se o jornal de publicação permanece o mesmo.]
+
+Inscrição e Registro desta Escritura de Emissão
+
+Esta Escritura de Emissão e seus eventuais aditamentos, de acordo com o disposto no artigo 62, inciso II e seu parágrafo 3º, da Lei das Sociedades por Ações, deverão ser (i) protocolados para arquivamento perante a JUCEES no prazo de 5 (cinco) Dias Úteis contados da respectiva data de assinatura, e (ii) arquivados na JUCEES no prazo de 20 (vinte) dias contados da data do protocolo, devendo 1 (uma) via original da respectiva Escritura de Emissão e seus eventuais aditamentos, devidamente arquivados na JUCEES, ser enviada, em até 5 (cinco) Dias Úteis após o respectivo arquivamento, pela Emissora ao Agente Fiduciário.
+
+Depósito para Distribuição, Negociação e Custódia Eletrônica
+
+As Debêntures serão depositadas para: (a) distribuição pública no mercado primário por meio do MDA – Módulo de Distribuição de Ativos, administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Balcão B3, com sede na Cidade de São Paulo, Estado de São Paulo, na Praça Antônio Prado, nº 48, 7º andar, inscrita no CNPJ/ME sob o n.º 09.346.601/0001-25 ('B3'), sendo a distribuição liquidada financeiramente por meio da B3; e (b) negociação, observado o disposto na Cláusula 2.1.4.2 abaixo, no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+Não obstante o descrito na Cláusula 2.1.4.1 acima, as Debêntures somente poderão ser negociadas depois de decorridos 90 (noventa) dias contados da data de cada subscrição ou aquisição pelo Investidor Profissional (conforme abaixo definido), exceto pelo lote de Debêntures objeto de garantia firme, observados, na negociação subsequente, os limites e condições previstos nos artigos 2º e 3º da Instrução CVM 476, conforme disposto nos artigos 13 e 15 da Instrução CVM 476 e observado o cumprimento, pela Emissora, do artigo 17 da Instrução CVM 476, sendo que as negociações deverão respeitar as disposições legais e regulamentares aplicáveis.
+
+REQUISITOS
+
+A 6ª (sexta) emissão de debêntures simples, não conversíveis em ações, da espécie quirografária, em 2 (duas) séries, para distribuição pública, com esforços restritos, pela Emissora ('Emissão' e 'Oferta Restrita', respectivamente) será realizada com observância dos seguintes requisitos:
+
+Dispensa de Registro na CVM; Registro na Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais – ANBIMA ('ANBIMA').
+
+A Oferta Restrita será realizada nos termos do artigo 6º da Instrução da CVM nº 476, de 16 de janeiro de 2009, conforme alterada ('Instrução CVM 476') e das demais disposições legais e regulamentares aplicáveis por se tratar de oferta pública de valores mobiliários com esforços restritos, estando, portanto, automaticamente dispensada do registro de distribuição na CVM de que trata o artigo 19 da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada ('Lei de Mercado de Capitais'), não sendo objeto de protocolo, registro ou arquivamento na CVM, exceto pelo envio à CVM da comunicação de início da Oferta Restrita, nos termos do artigo 7º-A da Instrução CVM 476 ('Comunicação de Início'), e da comunicação de encerramento da Oferta Restrita, nos termos do artigo 8º da Instrução CVM 476 ('Comunicação de Encerramento').
+
+Além disso, nos termos do artigo 16 do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários', em vigor desde 6 de maio de 2021, a Oferta Restrita será registrada na ANBIMA no prazo máximo de 15 (quinze) dias contados da data do envio da Comunicação de Encerramento.
+
+Arquivamento e Publicação da RCA da Emissora
+
+A ata da RCA da Emissora deverá ser (i) protocolada para arquivamento perante a Junta Comercial do Estado do Espírito Santo ('JUCEES') no prazo de 5 (cinco) Dias Úteis da data de sua realização, (ii) devidamente arquivada na JUCEES no prazo de 20 (vinte) dias contados da data do protocolo, bem como (iii) publicada no jornal ['A Tribuna'], com divulgação simultânea da íntegra do documento na página do jornal na rede mundial de computadores, que deverá providenciar certificação digital de autenticidade dos documentos mantidos nas páginas próprias emitida por autoridade certificadora credenciada no âmbito da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil), nos termos do inciso I do artigo 62 e do artigo 289 da Lei das Sociedades por Ações. [Nota Cescon Barrieu: Companhia, favor confirmar se o jornal de publicação permanece o mesmo.]
+
+Inscrição e Registro desta Escritura de Emissão
+
+Esta Escritura de Emissão e seus eventuais aditamentos, de acordo com o disposto no artigo 62, inciso II e seu parágrafo 3º, da Lei das Sociedades por Ações, deverão ser (i) protocolados para arquivamento perante a JUCEES no prazo de 5 (cinco) Dias Úteis contados da respectiva data de assinatura, e (ii) arquivados na JUCEES no prazo de 20 (vinte) dias contados da data do protocolo, devendo 1 (uma) via original da respectiva Escritura de Emissão e seus eventuais aditamentos, devidamente arquivados na JUCEES, ser enviada, em até 5 (cinco) Dias Úteis após o respectivo arquivamento, pela Emissora ao Agente Fiduciário.
+
+Depósito para Distribuição, Negociação e Custódia Eletrônica
+
+As Debêntures serão depositadas para: (a) distribuição pública no mercado primário por meio do MDA – Módulo de Distribuição de Ativos, administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Balcão B3, com sede na Cidade de São Paulo, Estado de São Paulo, na Praça Antônio Prado, nº 48, 7º andar, inscrita no CNPJ/ME sob o n.º 09.346.601/0001-25 ('B3'), sendo a distribuição liquidada financeiramente por meio da B3; e (b) negociação, observado o disposto na Cláusula 2.1.4.2 abaixo, no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+Não obstante o descrito na Cláusula 2.1.4.1 acima, as Debêntures somente poderão ser negociadas depois de decorridos 90 (noventa) dias contados da data de cada subscrição ou aquisição pelo Investidor Profissional (conforme abaixo definido), exceto pelo lote de Debêntures objeto de garantia firme, observados, na negociação subsequente, os limites e condições previstos nos artigos 2º e 3º da Instrução CVM 476, conforme disposto nos artigos 13 e 15 da Instrução CVM 476 e observado o cumprimento, pela Emissora, do artigo 17 da Instrução CVM 476, sendo que as negociações deverão respeitar as disposições legais e regulamentares aplicáveis.
+
+REQUISITOS
+
+A Emissão, a Oferta, a celebração desta Escritura de Emissão, do Contrato de Distribuição e do Contrato de Garantia, serão realizadas com observância aos seguintes requisitos:
+
+Arquivamento e publicação da RCA da Emissora. Nos termos do artigo 62, inciso I e do artigo 289 da Lei das Sociedades por Ações, a ata da RCA da Emissora será arquivada na JUCERJA e será publicada no jornal 'Valor Econômico'. A Emissora obriga-se a providenciar o protocolo da RCA da Emissora para arquivamento perante a JUCERJA no prazo de até 5 (cinco) Dias Úteis contados de suas respectivas assinaturas, observado que o devido arquivamento da RCA da Emissora deverá ocorrer dentro do prazo de 30 (trinta) dias contados da data de sua realização. A Emissora deverá enviar ao Agente Fiduciário 1 (uma) via original, ou, conforme aplicável, 1 (uma) cópia eletrônica (.pdf), contendo a chancela digital da JUCERJA que comprove o efetivo registro da RCA da Emissora devidamente arquivada na JUCERJA, em até 5 (cinco) Dias Úteis contados da data de arquivamento. 
+
+2.1.1.1 Os atos societários que eventualmente venham a ser praticados após o arquivamento da RCA da Emissora e desta Escritura de Emissão relacionados à Emissão e/ou à Oferta também serão arquivados na JUCERJA e publicados pela Emissora no jornal 'Valor Econômico', conforme aplicável e observada a legislação em vigor.
+
+Inscrição desta Escritura de Emissão e de seus aditamentos. Nos termos do artigo 62, inciso II e parágrafo 3º, da Lei das Sociedades por Ações, esta Escritura de Emissão e seus eventuais aditamentos serão (i) protocolados para arquivamento perante a JUCERJA em até 5 (cinco) Dias Úteis a contar da data de celebração da presente Escritura de Emissão; e (ii) arquivados perante a JUCERJA em até 30 (trinta) dias contados da data de assinatura desta Escritura de Emissão, devendo 1 (uma) via original, ou, conforme aplicável, 1 (uma) cópia eletrônica (.pdf), contendo a chancela digital da JUCERJA que comprove o efetivo registro da Escritura de Emissão ou seus eventuais aditamentos, ser enviada em até 5 (cinco) Dias Úteis contados da data de arquivamento, pela Emissora ao Agente Fiduciário. 
+
+Registro e Constituição da Garantia Real. Em, no máximo, 60 (sessenta) dias contados da data de realização da RCA da Emissora, a outorga da Garantia Real (conforme definido abaixo) deverá ser aprovada em sede de assembleia geral extraordinária de acionistas da Emissora, e deverá ser constituída e aperfeiçoada por meio do Contrato de Garantia (conforme definido abaixo), o qual deverá ser levado a registro nos competentes cartórios de registro de títulos e documentos, conforme indicado no Contrato de Garantia, assim como quaisquer aditamentos subsequentes ao Contrato de Garantia, sendo certo que o Contrato de Garantia e seus eventuais aditamentos, deverão ser apresentados para registro no prazo determinado no Contrato de Garantia, devendo ser fornecida ao Agente Fiduciário, dentro de até 5 (cinco) Dias Úteis contados da data do respectivo registro, devendo 1 (uma) via original, ou, conforme aplicável, 1 (uma) cópia eletrônica (.pdf) do Contrato de Garantia, e seus eventuais aditamentos, contendo a chancela digital dos competentes cartórios de registro de títulos e documentos que comprove o efetivo registro.
+
+Depósito para distribuição, negociação e liquidação financeira. As Debêntures serão depositadas para (i) distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos ('MDA'), administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Balcão B3 ('B3'), sendo a distribuição liquidada financeiramente por meio da B3; e (ii) negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+Dispensa de registro da Oferta pela CVM. Nos termos do artigo 6º da Instrução CVM 476, a Oferta está automaticamente dispensada do registro perante a CVM de que trata o artigo 19 da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada, por se tratar de oferta pública de valores mobiliários, com esforços restritos de distribuição, não sendo, portanto, objeto de protocolo, registro ou arquivamento perante a CVM, exceto pelo envio da comunicação sobre o início da Oferta e da comunicação sobre seu encerramento à CVM, nos termos dos artigos 7º-A e 8º, respectivamente, da Instrução CVM 476 ('Comunicação de Início' e 'Comunicação de Encerramento', respectivamente).
+
+Registro da Oferta pela ANBIMA. A Oferta será registrada na ANBIMA – Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais ('ANBIMA'), no prazo máximo de 15 (quinze) dias a contar da data da Comunicação de Encerramento, nos termos do artigo 16, inciso I, e do artigo 18, inciso V, do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários', em vigor desde 06 de maio de 2021. 
+
+REQUISITOS
+
+A Emissão, a Oferta, a celebração desta Escritura de Emissão, do Contrato de Distribuição e do Contrato de Garantia, serão realizadas com observância aos seguintes requisitos:
+
+Arquivamento e publicação da RCA da Emissora. Nos termos do artigo 62, inciso I e do artigo 289 da Lei das Sociedades por Ações, a ata da RCA da Emissora será arquivada na JUCERJA e será publicada no jornal 'Valor Econômico'. A Emissora obriga-se a providenciar o protocolo da RCA da Emissora para arquivamento perante a JUCERJA no prazo de até 5 (cinco) Dias Úteis contados de suas respectivas assinaturas, observado que o devido arquivamento da RCA da Emissora deverá ocorrer dentro do prazo de 30 (trinta) dias contados da data de sua realização. A Emissora deverá enviar ao Agente Fiduciário 1 (uma) via original, ou, conforme aplicável, 1 (uma) cópia eletrônica (.pdf), contendo a chancela digital da JUCERJA que comprove o efetivo registro da RCA da Emissora devidamente arquivada na JUCERJA, em até 5 (cinco) Dias Úteis contados da data de arquivamento. 
+
+2.1.1.1 Os atos societários que eventualmente venham a ser praticados após o arquivamento da RCA da Emissora e desta Escritura de Emissão relacionados à Emissão e/ou à Oferta também serão arquivados na JUCERJA e publicados pela Emissora no jornal 'Valor Econômico', conforme aplicável e observada a legislação em vigor.
+
+Inscrição desta Escritura de Emissão e de seus aditamentos. Nos termos do artigo 62, inciso II e parágrafo 3º, da Lei das Sociedades por Ações, esta Escritura de Emissão e seus eventuais aditamentos serão (i) protocolados para arquivamento perante a JUCERJA em até 5 (cinco) Dias Úteis a contar da data de celebração da presente Escritura de Emissão; e (ii) arquivados perante a JUCERJA em até 30 (trinta) dias contados da data de assinatura desta Escritura de Emissão, devendo 1 (uma) via original, ou, conforme aplicável, 1 (uma) cópia eletrônica (.pdf), contendo a chancela digital da JUCERJA que comprove o efetivo registro da Escritura de Emissão ou seus eventuais aditamentos, ser enviada em até 5 (cinco) Dias Úteis contados da data de arquivamento, pela Emissora ao Agente Fiduciário. 
+
+Registro e Constituição da Garantia Real. Em, no máximo, 50 (cinquenta) dias contados da data de realização da RCA da Emissora, a outorga da Garantia Real (conforme definido abaixo) deverá ser aprovada em sede de assembleia geral extraordinária de acionistas da Emissora, e deverá ser constituída e aperfeiçoada por meio do Contrato de Garantia (conforme definido abaixo), o qual deverá ser levado a registro nos competentes cartórios de registro de títulos e documentos, conforme indicado no Contrato de Garantia, assim como quaisquer aditamentos subsequentes ao Contrato de Garantia, sendo certo que o Contrato de Garantia e seus eventuais aditamentos, deverão ser apresentados para registro no prazo determinado no Contrato de Garantia, devendo ser fornecida ao Agente Fiduciário, dentro de até 5 (cinco) Dias Úteis contados da data do respectivo registro, devendo 1 (uma) via original, ou, conforme aplicável, 1 (uma) cópia eletrônica (.pdf) do Contrato de Garantia, e seus eventuais aditamentos, contendo a chancela digital dos competentes cartórios de registro de títulos e documentos que comprove o efetivo registro.
+
+Depósito para distribuição, negociação e liquidação financeira. As Debêntures serão depositadas para (i) distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos ('MDA'), administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Balcão B3 ('B3'), sendo a distribuição liquidada financeiramente por meio da B3; e (ii) negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+Dispensa de registro da Oferta pela CVM. Nos termos do artigo 6º da Instrução CVM 476, a Oferta está automaticamente dispensada do registro perante a CVM de que trata o artigo 19 da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada, por se tratar de oferta pública de valores mobiliários, com esforços restritos de distribuição, não sendo, portanto, objeto de protocolo, registro ou arquivamento perante a CVM, exceto pelo envio da comunicação sobre o início da Oferta e da comunicação sobre seu encerramento à CVM, nos termos dos artigos 7º-A e 8º, respectivamente, da Instrução CVM 476 ('Comunicação de Início' e 'Comunicação de Encerramento', respectivamente).
+
+Registro da Oferta pela ANBIMA. A Oferta será registrada na ANBIMA – Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais ('ANBIMA'), no prazo máximo de 15 (quinze) dias a contar da data da Comunicação de Encerramento, nos termos do artigo 16, inciso I, e do artigo 18, inciso V, do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários', em vigor desde 06 de maio de 2021.
+
+REQUISITOS
+
+A presente 1ª (primeira) emissão de debêntures simples, não conversíveis em ações de emissão da Emissora, da espécie com garantia real, com garantia adicional fidejussória, em série única ('Emissão' e 'Debêntures', respectivamente), para distribuição pública com esforços restritos, nos termos da Instrução da Comissão de Valores Mobiliários ('CVM') nº 476, de 16 de janeiro de 2009, conforme alterada ('Instrução CVM 476'), das demais disposições legais aplicáveis e desta Escritura de Emissão ('Oferta Restrita'), deverá observar os seguintes requisitos: 
+
+Arquivamento na Junta Comercial e Publicação das Aprovações da Emissora 
+
+Nos termos dos artigos 62, inciso I, e 289 da Lei nº 6.404, de 15 de dezembro de 1976, conforme alterada ('Lei das Sociedades por Ações'), (i) a ata da AGE da Emissora será arquivada na JUCEMG e será publicada no Diário Oficial do Estado de Minas Gerais e no jornal Diário do Comércio - Belo Horizonte ('Jornais de Publicação'); e (ii) a ata da RCA da Emissora será arquivada na JUCEMG e será publicada nos Jornais de Publicação.
+
+Os atos societários da Emissora que, pela Lei das Sociedades por Ações, são passíveis de serem arquivados e publicados e que, eventualmente, venham a ser realizados após o registro da presente Escritura de Emissão também serão arquivados na JUCEMG, bem como serão publicados nos Jornais de Publicação, observado o disposto na Cláusula 4.12 abaixo.
+
+ Publicação das Aprovações das Acionistas
+
+Nos termos dos artigos 62, inciso I, e 289 da Lei das Sociedades por Ações, a ata da AGE da Tibagi Participações será arquivada na Junta Comercial do Estado de São Paulo - JUCESP e será publicada no Diário Oficial do Estado de São Paulo e no jornal O Dia.
+
+Arquivamento da Escritura de Emissão e averbação de seus eventuais aditamentos na Junta Comercial
+
+Esta Escritura de Emissão será arquivada e seus eventuais aditamentos serão averbados na JUCEMG, conforme disposto no artigo 62, inciso II e parágrafo 3º, da Lei das Sociedades por Ações. A Emissora entregará ao Agente Fiduciário 1 (uma) via original desta Escritura de Emissão e de eventuais aditamentos arquivados na JUCEMG em até 5 (cinco) Dias Úteis após o respectivo arquivamento.
+
+Dispensa de Registro na CVM e Registro na ANBIMA – Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais
+
+A Emissão será realizada nos termos da Instrução CVM 476 e das demais disposições legais e regulamentares aplicáveis, estando, portanto, automaticamente dispensada do registro de distribuição de que trata o artigo 19 da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada ('Lei do Mercado de Valores Mobiliários'), por se tratar de oferta pública de valores mobiliários, com esforços restritos, não sendo objeto de protocolo, registro e/ou arquivamento perante a CVM, exceto pelo envio da comunicação sobre o início da Oferta Restrita e a comunicação de seu encerramento à CVM, nos termos dos artigos 7º-A e 8º, respectivamente, da Instrução CVM 476.
+
+Por se tratar de distribuição pública, com esforços restritos, a Oferta Restrita será registrada na Associação Brasileira das Entidades dos Mercados Financeiros e de Capitais ('ANBIMA'), nos termos do artigo 16, inciso II, do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários' ('Código ANBIMA'), em até 15 (quinze) dias contados da Comunicação de Encerramento.
+
+Registro das Garantias 
+
+Os Contratos de Garantia (conforme definido na Cláusula 4.15.1 abaixo), assim como quaisquer aditamentos subsequentes a estes contratos, serão celebrados e levados a registro nos competentes Cartórios de Registro de Títulos e Documentos, conforme indicado nos respectivos instrumentos, sendo certo que os Contratos de Garantia, incluindo respectivos aditamentos deverão ser apresentados para registro no prazo determinado no respectivo instrumento, devendo ser fornecida ao Agente Fiduciário, dentro de até 5 (cinco) Dias Úteis contados da data do respectivo registro, 1 (uma) via original do respectivo instrumento devidamente registrado.
+
+A alienação fiduciária de ações descrita no item (i) da Cláusula 4.15.1 será averbada no livro de registro de ações nominativas da Emissora e/ou no respectivo livro e/ou sistemas da instituição financeira responsável pela prestação de serviços de escrituração das ações da Emissora, caso as ações da Emissora venham a se tornar escriturais, devendo ser anotados no extrato da conta de depósito fornecido às respectivas acionistas, nos termos do artigo 39, e de seu §1°, da Lei das Sociedades por Ações, em até 5 (cinco) Dias Úteis contados da data de assinatura do Contrato de Alienação Fiduciária de Ações (conforme definido na Cláusula 4.15.1, item (i) abaixo).
+
+Em até 5 (cinco) Dias Úteis após as respectivas averbações, a Emissora entregará ao Agente Fiduciário (i) cópia integral e autenticada do livro de registro de ações nominativas da Emissora, ou (ii) caso as ações da Emissora venham a se tornar escriturais, (ii-a) cópia autenticada do livro e/ou cópia simples dos sistemas da instituição financeira responsável pela prestação de serviços de escrituração das ações da Emissora ou cópia do extrato da conta de depósito fornecido às respectivas acionistas e (ii-b) original de declaração da instituição financeira responsável pela prestação de serviços de escrituração das ações da Emissora, evidenciando a anotação da garantia constituída por meio do Contrato de Alienação Fiduciária de Ações, podendo, para fins deste item (ii-b) ser apresentada cópia simples do extrato que contenha anotação da garantia que afeta tais ações.
+
+As Fianças Bancárias, assim como quaisquer aditamentos subsequentes a tais documentos, serão registradas, às expensas da Emissora, nos competentes Cartórios de Registro de Títulos e Documentos do domicílio das instituições financeiras emissoras das Fianças Bancárias e do Agente Fiduciário, na qualidade de representante dos Debenturistas, no prazo de até 20 (vinte) dias contados da data de emissão das Fianças Bancárias. A Emissora entregará ao Agente Fiduciário 1 (uma) via original das Fianças Bancárias em até 5 (cinco) Dias Úteis após os respectivos registros.
+
+Depósito para Distribuição, Negociação, Custódia Eletrônica e Liquidação Financeira
+
+As Debêntures serão depositadas para:
+
+distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos, administrado e operacionalizado pela B3S.A. – Brasil, Bolsa, Balcão ('B3') – Segmento Cetip UTVM, sendo a distribuição liquidada financeiramente por meio da B3; e 
+
+negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+As Debêntures somente poderão ser negociadas entre Investidores Qualificados (conforme definido abaixo) nos mercados regulamentados de valores mobiliários depois de decorridos 90 (noventa) dias, contados a partir da data de cada subscrição ou aquisição pelos investidores profissionais, conforme disposto nos artigos 13 e 15 da Instrução CVM 476, observado o cumprimento pela Emissora do artigo 17 da Instrução CVM 476, sendo que a negociação das Debêntures deverá sempre respeitar as disposições legais e regulamentares aplicáveis.
+
+Enquadramento do Projeto
+
+A Emissão será realizada na forma do artigo 2º da Lei nº 12.431, de 24 de junho de 2011, conforme alterada ('Lei 12.431') e do Decreto nº 8.874, de 11 de outubro de 2016 ('Decreto 8.874'), da Resolução do Conselho Monetário Nacional ('CMN') n° 3.947, de 27 de janeiro de 2011, conforme alterada('Resolução CMN 3.947'), ou de normas posteriores que as alterem, substituam ou complementem, tendo em vista o enquadramento do Projeto (conforme definido abaixo) como prioritário pelo Ministério de Minas e Energia ('MME'), por meio da Portaria do MME nº 257, de 11 de setembro de 2017, publicada no Diário Oficial da União em 14 de setembro de 2017('Portaria de Enquadramento').
+
+
+REQUISITOS
+
+A presente 1ª (primeira) emissão de debêntures simples, não conversíveis em ações de emissão da Emissora, da espécie com garantia real, com garantia adicional fidejussória, em série única ('Emissão' e 'Debêntures', respectivamente), para distribuição pública com esforços restritos, nos termos da Instrução da Comissão de Valores Mobiliários ('CVM') nº 476, de 16 de janeiro de 2009, conforme alterada ('Instrução CVM 476'), das demais disposições legais aplicáveis e desta Escritura de Emissão ('Oferta Restrita'), deverá observar os seguintes requisitos: 
+
+Arquivamento na Junta Comercial e Publicação das Aprovações da Emissora 
+
+Nos termos dos artigos 62, inciso I, e 289 da Lei nº 6.404, de 15 de dezembro de 1976, conforme alterada ('Lei das Sociedades por Ações'), (i) a ata da AGE da Emissora [será arquivada na JUCEMG e será publicada no Diário Oficial do Estado de Minas Gerais e no jornal [•] ('Jornais de Publicação') // foi arquivada na JUCEMG em [•] de [•]de 2019 sob o nº [•] e publicada no Diário Oficial do Estado de Minas Gerais e no jornal Diário do Comércio - Belo Horizonte('Jornais de Publicação') em [•] de [•] de 2019]; e (ii) a ata da RCA da Emissora [será arquivada na JUCEMG e será publicada nos Jornais de Publicação // foi arquivada na JUCEMG em [•] de [•] de 2019 sob o nº [•] e publicada nos Jornais de Publicação em [•] de [•] de 2019].
+
+Os atos societários da Emissora que, pela Lei das Sociedades por Ações, são passíveis de serem arquivados e publicados e que, eventualmente, venham a ser realizados após o registro da presente Escritura de Emissão também serão arquivados na JUCEMG, bem como serão publicadas nos Jornais de Publicação, observado o disposto na Cláusula 4.12 abaixo.
+
+ Publicação das Aprovações das Acionistas
+
+[A ser inserido conforme estrutura societária à época da assinatura da escritura][Nota SAN: Atualizar conforme estrutura final.]
+
+Arquivamento da Escritura de Emissão e averbação de seus eventuais aditamentos na Junta Comercial
+
+Esta Escritura de Emissão será arquivada e seus eventuais aditamentos serão averbados na JUCEMG, conforme disposto no artigo 62, inciso II e parágrafo 3º, da Lei das Sociedades por Ações. A Emissora entregará ao Agente Fiduciário 1 (uma) via original desta Escritura de Emissão e de eventuais aditamentos arquivados na JUCEMG em até 5 (cinco) Dias Úteis após o respectivo arquivamento.
+
+Dispensa de Registro na CVM e Registro na ANBIMA – Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais
+
+A Emissão será realizada nos termos da Instrução CVM 476 e das demais disposições legais e regulamentares aplicáveis, estando, portanto, automaticamente dispensada do registro de distribuição de que trata o artigo 19 da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada ('Lei do Mercado de Valores Mobiliários'), por se tratar de oferta pública de valores mobiliários, com esforços restritos, não sendo objeto de protocolo, registro e/ou arquivamento perante a CVM, exceto pelo envio da comunicação sobre o início da Oferta Restrita e a comunicação de seu encerramento à CVM, nos termos dos artigos 7º-A e 8º, respectivamente, da Instrução CVM 476.
+
+Por se tratar de distribuição pública, com esforços restritos, a Oferta Restrita será registrada na Associação Brasileira das Entidades dos Mercados Financeiros e de Capitais ('ANBIMA'), nos termos do artigo 16, inciso II, do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários' ('Código ANBIMA'), em até 15 (quinze) dias contados da Comunicação de Encerramento.
+
+Registro das Garantias 
+
+Os Contratos de Garantia (conforme definido na Cláusula 4.15.1 abaixo), assim como quaisquer aditamentos subsequentes a estes contratos, serão celebrados e levados a registro nos competentes Cartórios de Registro de Títulos e Documentos, conforme indicado nos respectivos instrumentos, sendo certo que os Contratos de Garantia, incluindo respectivos aditamentos deverão ser apresentados para registro no prazo determinado no respectivo instrumento, devendo ser fornecida ao Agente Fiduciário, dentro de até 5 (cinco) Dias Úteis contados da data do respectivo registro, 1 (uma) via original do respectivo instrumento devidamente registrado.
+
+A alienação fiduciária de ações descrita no item (i) da Cláusula 4.15.1 será averbada no livro de registro de ações nominativas da Emissora e/ou no respectivo livro e/ou sistemas da instituição financeira responsável pela prestação de serviços de escrituração das ações da Emissora, caso as ações da Emissora venham a se tornar escriturais, devendo ser anotados no extrato da conta de depósito fornecido às respectivas acionistas, nos termos do artigo 39, e de seu §1°, da Lei das Sociedades por Ações, em até 5 (cinco) Dias Úteis contados da data de assinatura do Contrato de Alienação Fiduciária de Ações (conforme definido na Cláusula 4.15.1, item (i) abaixo).
+
+Em até 5 (cinco) Dias Úteis após as respectivas averbações, a Emissora entregará ao Agente Fiduciário (i) cópia integral e autenticada do livro de registro de ações nominativas da Emissora, ou (ii) caso as ações da Emissora venham a se tornar escriturais, (ii-a) cópia autenticada do livro e/ou cópia simples dos sistemas da instituição financeira responsável pela prestação de serviços de escrituração das ações da Emissora ou cópia do extrato da conta de depósito fornecido às respectivas acionistas e (ii-b) original de declaração da instituição financeira responsável pela prestação de serviços de escrituração das ações da Emissora, evidenciando a anotação da garantia constituída por meio do Contrato de Alienação Fiduciária de Ações, podendo, para fins deste item (ii-b) ser apresentado cópia simples do extrato que contenha anotação da garantia que afeta tais ações.
+
+As Fianças Bancárias, assim como quaisquer aditamentos subsequentes a tais documentos, serão registradas, às expensas da Emissora, nos competentes Cartórios de Registro de Títulos e Documentos do domicílio das instituições financeiras emissoras das Fianças Bancárias e do Agente Fiduciário, na qualidade de representante dos Debenturistas, no prazo de até 20 (vinte) dias contados da data de emissão das Fianças Bancárias. A Emissora entregará ao Agente Fiduciário 1 (uma) via original das Fianças Bancárias em até 5 (cinco) Dias Úteis após os respectivos registros.
+
+Depósito para Distribuição, Negociação, Custódia Eletrônica e Liquidação Financeira
+
+As Debêntures serão depositadas para:
+
+distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos, administrado e operacionalizado pela B3S.A. – Brasil, Bolsa, Balcão ('B3')– Segmento Cetip UTVM, sendo a distribuição liquidada financeiramente por meio da B3; e 
+
+negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+As Debêntures somente poderão ser negociadas entre Investidores Qualificados (conforme definido abaixo) nos mercados regulamentados de valores mobiliários depois de decorridos 90 (noventa) dias, contados a partir da data de cada subscrição ou aquisição pelos investidores profissionais, conforme disposto nos artigos 13 e 15 da Instrução CVM 476, observado o cumprimento pela Emissora do artigo 17 da Instrução CVM 476, sendo que a negociação das Debêntures deverá sempre respeitar as disposições legais e regulamentares aplicáveis.
+
+Enquadramento do Projeto
+
+A Emissão será realizada na forma do artigo 2º da Lei nº 12.431, de 24 de junho de 2011, conforme alterada ('Lei 12.431') e do Decreto nº 8.874, de 11 de outubro de 2016 ('Decreto 8.874'), da Resolução do Conselho Monetário Nacional ('CMN') n° 3.947, de 27 de janeiro de 2011, conforme alterada('Resolução CMN 3.947'), ou de normas posteriores que as alterem, substituam ou complementem, tendo em vista o enquadramento do Projeto (conforme definido abaixo) como prioritário pelo Ministério de Minas e Energia ('MME'), por meio da Portaria do MME: nº 257, de 11 de setembro de 2017, publicada no Diário Oficial da União em 14 de setembro de 2017('Portaria de Enquadramento').
+
+
+REQUISITOS
+
+A Emissão, a Oferta, a celebração desta Escritura de Emissão, do Contrato de Distribuição e do Contrato de Garantia, serão realizadas com observância aos seguintes requisitos:
+
+Arquivamento e publicação da RCA da Emissora. Nos termos do artigo 62, inciso I e do artigo 289 da Lei das Sociedades por Ações, a ata da RCA da Emissora será arquivada na JUCERJA e será publicada no jornal 'Valor Econômico'. A Emissora obriga-se a providenciar o protocolo da RCA da Emissora para arquivamento perante a JUCERJA no prazo de até 5 (cinco) Dias Úteis contados de suas respectivas assinaturas, observado que o devido arquivamento da RCA da Emissora deverá ocorrer dentro do prazo de 30 (trinta) dias contados da data de sua realização. A Emissora deverá enviar ao Agente Fiduciário 1 (uma) via original, ou, conforme aplicável, 1 (uma) cópia eletrônica (.pdf), contendo a chancela digital da JUCERJA que comprove o efetivo registro da RCA da Emissora devidamente arquivada na JUCERJA, em até 5 (cinco) Dias Úteis contados da data de arquivamento. 
+
+2.1.1.1 Os atos societários que eventualmente venham a ser praticados após o arquivamento da RCA da Emissora e desta Escritura de Emissão relacionados à Emissão e/ou à Oferta também serão arquivados na JUCERJA e publicados pela Emissora no jornal 'Valor Econômico', conforme aplicável e observada a legislação em vigor.
+
+Inscrição desta Escritura de Emissão e de seus aditamentos. Nos termos do artigo 62, inciso II e parágrafo 3º, da Lei das Sociedades por Ações, esta Escritura de Emissão e seus eventuais aditamentos serão (i) protocolados para arquivamento perante a JUCERJA em até 5 (cinco) Dias Úteis a contar da data de celebração da presente Escritura de Emissão; e (ii) arquivados perante a JUCERJA em até 30 (trinta) dias contados da data de assinatura desta Escritura de Emissão, devendo 1 (uma) via original, ou, conforme aplicável, 1 (uma) cópia eletrônica (.pdf), contendo a chancela digital da JUCERJA que comprove o efetivo registro da Escritura de Emissão ou seus eventuais aditamentos, ser enviada em até 5 (cinco) Dias Úteis contados da data de arquivamento, pela Emissora ao Agente Fiduciário. 
+
+Registro e Constituição da Garantia Real. Em, no máximo, 50 (cinquenta) dias contados da data de realização da RCA da Emissora, a outorga da Garantia Real (conforme definido abaixo) deverá ser aprovada em sede de assembleia geral extraordinária de acionistas da Emissora, e deverá ser constituída e aperfeiçoada por meio do Contrato de Garantia (conforme definido abaixo), o qual deverá ser levado a registro nos competentes cartórios de registro de títulos e documentos, conforme indicado no Contrato de Garantia, assim como quaisquer aditamentos subsequentes ao Contrato de Garantia, sendo certo que o Contrato de Garantia e seus eventuais aditamentos, deverão ser apresentados para registro no prazo determinado no Contrato de Garantia, devendo ser fornecida ao Agente Fiduciário, dentro de até 5 (cinco) Dias Úteis contados da data do respectivo registro, devendo 1 (uma) via original, ou, conforme aplicável, 1 (uma) cópia eletrônica (.pdf) do Contrato de Garantia, e seus eventuais aditamentos, contendo a chancela digital dos competentes cartórios de registro de títulos e documentos que comprove o efetivo registro.
+
+Depósito para distribuição, negociação e liquidação financeira. As Debêntures serão depositadas para (i) distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos ('MDA'), administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Balcão B3 ('B3'), sendo a distribuição liquidada financeiramente por meio da B3; e (ii) negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3.
+
+Dispensa de registro da Oferta pela CVM. Nos termos do artigo 6º da Instrução CVM 476, a Oferta está automaticamente dispensada do registro perante a CVM de que trata o artigo 19 da Lei nº 6.385, de 7 de dezembro de 1976, conforme alterada, por se tratar de oferta pública de valores mobiliários, com esforços restritos de distribuição, não sendo, portanto, objeto de protocolo, registro ou arquivamento perante a CVM, exceto pelo envio da comunicação sobre o início da Oferta e da comunicação sobre seu encerramento à CVM, nos termos dos artigos 7º-A e 8º, respectivamente, da Instrução CVM 476 ('Comunicação de Início' e 'Comunicação de Encerramento', respectivamente).
+
+Registro da Oferta pela ANBIMA. A Oferta será registrada na ANBIMA – Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais ('ANBIMA'), no prazo máximo de 15 (quinze) dias a contar da data da Comunicação de Encerramento, nos termos do artigo 16, inciso I, e do artigo 18, inciso V, do 'Código ANBIMA de Regulação e Melhores Práticas para Estruturação, Coordenação e Distribuição de Ofertas Públicas de Valores Mobiliários e Ofertas Públicas de Aquisição de Valores Mobiliários', em vigor desde 06 de maio de 2021.
+
