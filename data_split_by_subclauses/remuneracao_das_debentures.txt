@@ -1,0 +1,648 @@
+Remuneração das Debêntures 
+Sobre o Valor Nominal Unitário Atualizado, incidirão juros remuneratórios correspondentes a taxa interna de retorno do Tesouro IPCA+ com juros semestrais (NTN-B) com vencimento em 15 de agosto de 2030, a ser verificada conforme as taxas indicativas divulgadas pela ANBIMA em sua página na Internet (http://www.anbima.com.br), sendo apurada no dia útil anterior à data de realização do Procedimento de Bookbuilding, acrescida exponencialmente de spread de 0,5500% (cinco mil e quinhentos décimos de milésimos) ao ano-base 252 (duzentos e cinquenta e dois) Dias Úteis, incidentes desde a primeira Data de Integralização ou da Data de Pagamento da Remuneração (conforme definido abaixo) imediatamente anterior ('Remuneração'). O cálculo da Remuneração obedecerá a seguinte fórmula:
+J = {VNa x [FatorJuros-1]}
+onde:
+J = Valor unitário dos juros devidos no final de cada período de capitalização das Debêntures, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+FatorJuros = Fator de juros fixos calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+onde:
+taxa = taxa de juros informada com 4 (quatro) casas decimais, conforme definida nos termos da Cláusula 5.16.1 acima; e
+DP = Número de Dias Úteis entre a primeira Data de Integralização ou a última Data de Pagamento da Remuneração, e a data atual, sendo 'DP' um número inteiro.
+Considera-se período de capitalização o período compreendido entre a primeira Data de Integralização (inclusive) até a Data de Pagamento da Remuneração (exclusive) ou o período compreendido entre a Data de Pagamento da Remuneração imediatamente anterior (inclusive) e a próxima Data de Pagamento da Remuneração (exclusive).
+Remuneração das Debêntures 
+Sobre o Valor Nominal Unitário Atualizado, incidirão juros remuneratórios correspondentes a taxa interna de retorno do Tesouro IPCA+ com juros semestrais (NTN-B) com vencimento em 15 de agosto de 2030, a ser verificada conforme as taxas indicativas divulgadas pela ANBIMA em sua página na Internet (http://www.anbima.com.br), sendo apurada no mesmo dia da realização do Procedimento de Bookbuilding, acrescida exponencialmente de spread de 0,5500% (cinco mil e quinhentos décimos de milésimos) ao ano-base 252 (duzentos e cinquenta e dois) Dias Úteis, incidentes desde a primeira Data de Integralização ou da Data de Pagamento da Remuneração (conforme definido abaixo) imediatamente anterior ('Remuneração'). O cálculo da Remuneração obedecerá a seguinte fórmula:
+J = {VNa x [FatorJuros-1]}
+onde:
+J = Valor unitário dos juros devidos no final de cada período de capitalização das Debêntures, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+FatorJuros = Fator de juros fixos calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+onde:
+taxa = taxa de juros informada com 4 (quatro) casas decimais, conforme definida nos termos da Cláusula 5.16.1 acima; e
+DP = Número de Dias Úteis entre a primeira Data de Integralização ou a última Data de Pagamento da Remuneração, e a data atual, sendo 'DP' um número inteiro.
+Considera-se período de capitalização o período compreendido entre a primeira Data de Integralização (inclusive) até a Data de Pagamento da Remuneração (exclusive) ou o período compreendido entre a Data de Pagamento da Remuneração imediatamente anterior (inclusive) e a próxima Data de Pagamento da Remuneração (exclusive).
+Remuneração das Debêntures
+Sobre o Valor Nominal Atualizado das Debêntures incidirão juros remuneratórios prefixados, a ser definido por meio do Procedimento de Bookbuilding, em todo caso limitado ao maior entre (i) [=]% ([=]) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, ou (ii) percentual correspondente à taxa interna de retorno do Tesouro IPCA+ com Juros Semestrais (NTN-B), com vencimento em 20[=], a ser apurada como a média simples dos 3 (três) Dias Úteis imediatamente anteriores à data do Procedimento de Bookbuilding, conforme as taxas indicativas divulgadas pela ANBIMA em sua página na internet (http://www.anbima.com.br),('Remuneração'). A Remuneração final, uma vez calculada em conformidade com a Cláusula 3.7.1 acima, será ratificada por meio do Aditamento do Bookbuilding. 
+ A Remuneração será calculada em regime de capitalização composta de forma pro rata temporis por Dias Úteis decorridos desde a Data de Início da Rentabilidade ou da respectiva Data de Pagamento da Remuneração (conforme abaixo definido) imediatamente anterior, conforme o caso, até a data de seu efetivo pagamento, e deverão ser pagos, observada a periodicidade prevista na Cláusula 4.12 abaixo, ao final de cada Período de Capitalização, conforme abaixo definido (ou na data da liquidação antecipada resultante do vencimento antecipado das Debêntures em razão da ocorrência de um dos Eventos de Inadimplemento (conforme abaixo definido). 
+A Remuneração deverá ser calculada de acordo com a seguinte fórmula: 
+J = VNea x [(Fator Juros) x (C) - 1]onde:
+J = valor unitário da Remuneração devida no final de cada Período de Capitalização, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+FatorJuros = fator de juros fixos, calculado com 9 (nove) casas decimais, com arredondamento, de acordo com a seguinte fórmula:
+
+onde:
+taxa = a ser definida no Procedimento de Bookbuilding, informada com 4 (quatro) casas decimais;
+DP = número de Dias Úteis entre [=] de [=] de 2022 ou a data do evento anterior, inclusive, conforme o caso, e a data de cálculo.
+Para fins desta Escritura de Emissão: (i) a expressão 'Dia(s) Útil(eis)' significa para os (a) eventos pecuniários previstos nesta Escritura de Emissão, inclusive para fins de cálculos, qualquer dia, exceção feita aos sábados, domingos e feriados declarados nacionais na República Federativa do Brasil, observado o disposto na Cláusula 4.16 abaixo; e (b) eventos não pecuniários previstos nesta Escritura de Emissão qualquer dia, exceto sábados, domingos e feriados declarados nacionais, bem como feriados municipais nos município de São Paulo e estaduais no estado de São Paulo. Quando a indicação de prazo contado por dia na presente Escritura de Emissão não vier acompanhada da indicação de 'Dia Útil', entende-se que o prazo é contado em dias corridos; e (ii) a expressão 'Período de Capitalização' significa o período de capitalização da Remuneração, correspondente ao intervalo de tempo que se inicia na Data da Primeira Integralização (inclusive), ou da Data de Pagamento da Remuneração imediatamente anterior (inclusive), conforme o caso, e termina na Data de Pagamento da Remuneração (exclusive). 
+Remuneração das Debêntures
+Sobre o Valor Nominal Unitário das Debêntures incidirão juros remuneratórios prefixados, a ser definido por meio do Procedimento de Bookuilding, em todo caso limitado a [=]% ([=]) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração'). A Remuneração final, uma vez calculada em conformidade com a Cláusula 3.7 acima, será ratificada por meio do Aditamento ao Bookbuilding. [Nota Mattos Filho: favor confirmar]
+ A Remuneração será calculada em regime de capitalização composta de forma pro rata temporis por Dias Úteis decorridos desde a Data de Início da Rentabilidade ou da respectiva Data de Pagamento da Remuneração (conforme abaixo definido) imediatamente anterior, conforme o caso, até a data de seu efetivo pagamento, e deverão ser pagos, observada a periodicidade prevista na Cláusula 4.12 abaixo, ao final de cada Período de Capitalização, conforme abaixo definido (ou na data da liquidação antecipada resultante do vencimento antecipado das Debêntures em razão da ocorrência de um dos Eventos de Inadimplemento (conforme abaixo definido). 
+A Remuneração deverá ser calculada de acordo com a seguinte fórmula: 
+ 
+
+
+onde:
+J = valor unitário da Remuneração devida no final de cada Período de Capitalização, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário, calculado com 8 (oito) casas decimais, sem arredondamento;
+FatorJuros = fator de juros fixos, calculado com 9 (nove) casas decimais, com arredondamento, de acordo com a seguinte fórmula:
+
+
+onde:
+taxa = [=]%;[Nota Mattos Filho: favor confirmar]
+DP = número de Dias Úteis entre a Data de Início da Rentabilidade ou a data do evento anterior, inclusive, conforme o caso, e a data de cálculo.
+Para fins desta Escritura de Emissão: (i) a expressão 'Dia(s) Útil(eis)' significa para os (a) eventos pecuniários previstos nesta Escritura de Emissão, inclusive para fins de cálculos, qualquer dia, exceção feita aos sábados, domingos e feriados declarados nacionais na República Federativa do Brasil, observado o disposto na Cláusula 4.16 abaixo; e (b) eventos não pecuniários previstos nesta Escritura de Emissão qualquer dia, exceto sábados, domingos e feriados declarados nacionais, bem como feriados municipais nos município de São Paulo e estaduais no estado de São Paulo. Quando a indicação de prazo contado por dia na presente Escritura de Emissão não vier acompanhada da indicação de 'Dia Útil', entende-se que o prazo é contado em dias corridos; e (ii) a expressão 'Período de Capitalização' significa o período de capitalização da Remuneração, correspondente ao intervalo de tempo que se inicia na Data de Início da Rentabilidade (inclusive), ou da Data de Pagamento da Remuneração imediatamente anterior (inclusive), conforme o caso, e termina na Data de Pagamento da Remuneração (exclusive). 
+Remuneração das Debêntures 
+Sobre o Valor Nominal Unitário Atualizado, incidirão juros remuneratórios correspondentes a taxa interna de retorno do Tesouro IPCA+ com juros semestrais (NTN-B) com vencimento em [=] de [=] de 2030, a ser verificada conforme as taxas indicativas divulgadas pela ANBIMA em sua página na Internet (http://www.anbima.com.br), sendo apurada no dia útil anterior à data de realização do Procedimento de Bookbuilding, acrescida de spread de 0,60% (sessenta centésimos por cento) ao ano-base 252 (duzentos e cinquenta e dois) Dias Úteis, incidentes desde a primeira Data de Integralização ou da Data de Pagamento da Remuneração (conforme definido abaixo) imediatamente anterior ('Remuneração'). O cálculo da Remuneração obedecerá a seguinte fórmula:
+J = {VNa x [FatorJuros-1]}
+onde:
+J = Valor unitário dos juros devidos no final de cada período de capitalização das Debêntures, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+FatorJuros = Fator de juros fixos calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+onde:
+taxa = taxa de juros informada com 4 (quatro) casas decimais, conforme definida nos termos da Cláusula 5.16.1 acima; e
+DP = Número de Dias Úteis entre a primeira Data de Integralização ou a última Data de Pagamento da Remuneração, e a data atual, sendo 'DP' um número inteiro.
+Considera-se período de capitalização o período compreendido entre a primeira Data de Integralização (inclusive) até a Data de Pagamento da Remuneração (exclusive) ou o período compreendido entre a Data de Pagamento da Remuneração anterior (inclusive) e a próxima Data de Pagamento da Remuneração (exclusive).
+Remuneração das Debêntures 
+
+Atualização Monetária das Debêntures: O Valor Nominal Unitário das Debêntures não será atualizado monetariamente.
+
+Juros Remuneratórios das Debêntures: Sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, conforme o caso, incidirão juros remuneratórios correspondentes à variação acumulada de 100% (cem por cento) das taxas médias diárias do DI – Depósito Interfinanceiro de um dia, 'over extra-grupo', expressas na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 S.A. – Brasil, Bolsa, Balcão ('Taxa DI'), acrescida de spread (sobretaxa) equivalente a 3,55% (três inteiros e cinquenta e cinco centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Juros Remuneratórios'), calculados de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos, desde a primeira Data de Integralização, a Data de Incorporação (conforme definido abaixo) ou a Data de Pagamento dos Juros Remuneratórios das Debêntures imediatamente anterior, conforme o caso, até a data do efetivo pagamento. Sem prejuízo dos pagamentos em decorrência de (i) aquisição facultativa da totalidade, e consequente cancelamento, das Debêntures, nos termos da Cláusula 5.4 abaixo; (ii) resgate antecipado das Debêntures; (iii) Amortização Extraordinária Obrigatória e (iv) vencimento antecipado das obrigações decorrentes das Debêntures constantes das Cláusulas 6.1.1 e 6.1.2 abaixo, ocasiões em que a Emissora obriga-se a proceder ao pagamento das Debêntures, conforme previsto nesta Escritura, conforme o caso. 
+Os Juros Remuneratórios serão pagos trimestralmente, sempre no dia 8 dos meses de março, junho, setembro e dezembro de cada ano, sendo certo que (i) os Juros Remuneratórios calculados no período compreendido entre a primeira Data de Integralização e o dia 8 de dezembro de 2022 (inclusive) serão integralmente capitalizados e incorporados ao Valor Nominal Unitário em 8 de dezembro de 2022 ('Data de Incorporação'); (ii) o primeiro pagamento de Juros Remuneratórios será realizado em 8 de março de 2023 (inclusive) ('Data do Primeiro Pagamento de Juros Remuneratórios'); e (iii) os demais pagamentos de Juros Remuneratórios ocorrerão sucessivamente, nas datas previstas no cronograma abaixo, e o último na Data de Vencimento ('Data de Pagamento dos Juros Remuneratórios'). 
+
+
+Os Juros Remuneratórios serão calculados de acordo com a seguinte fórmula: 
+
+J = VNe x (Fator Juros – 1)
+Onde:
+
+J = valor unitário dos Juros Remuneratórios devidos ao final do Período de Capitalização (conforme abaixo definido), calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+Fator Juros = Fator de juros composto pelo parâmetro de flutuação acrescido de spread, calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+Fator Juros = (FatorDI x FatorSpread)
+onde:
+Fator DI = Produtório das Taxas DI com uso de percentual aplicado, da data de início de cada Período de Capitalização, inclusive, até a data de cálculo, exclusive, calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma: 
+
+
+onde:
+ndi = número total de Taxas DI, consideradas na atualização do ativo, sendo 'ndi' um número inteiro;
+TDIk = Taxa DI, expressa ao dia, calculada com 8 (oito) casas decimais, com arredondamento, apurada da seguinte forma:
+
+
+onde:
+DIk = Taxa DI, divulgada pela B3, válida por 1 (um) Dia Útil (overnight), utilizada com 2 (duas) casas decimais; e
+FatorSpread = sobretaxa de juros fixo, calculada com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+onde:
+spread = 3,5500 (três inteiros e cinco mil e quinhentos décimos de milésimos); e
+n = número de Dias Úteis entre a data do próximo Período de Capitalização e a data do Período de Capitalização anterior, sendo 'n' um número inteiro;
+DT = número de Dias Úteis entre o último e o próximo Período de Capitalização, sendo 'DT' um número inteiro;
+DP = número de Dias Úteis entre o último Período de Capitalização e a data atual, sendo 'DP' um número inteiro.
+Observações:
+Efetua-se o produtório dos fatores diários (1 + TDIk), sendo que a cada fator acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado.
+
+Se os fatores diários estiverem acumulados, considera-se o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+
+O fator resultante da expressão (Fator DI x FatorSpread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo.
+
+Observado o disposto na Cláusula 4.2.5 abaixo, se, a qualquer tempo durante a vigência das Debêntures, não houver divulgação da Taxa DI, será aplicada a última Taxa DI disponível até o momento para cálculo dos Juros Remuneratórios, não sendo devidas quaisquer compensações entre a Emissora e o titular das Debêntures, quando da divulgação posterior da Taxa DI que seria aplicável.
+Caso a Taxa DI deixe de ser divulgada por prazo superior a 30 (trinta) dias, ou caso seja extinta, ou haja impossibilidade legal de aplicação da Taxa DI para cálculo dos Juros Remuneratórios das Debêntures, o Agente Fiduciário deverá, no prazo máximo de até 5 (cinco) Dias Úteis a contar do final do prazo de 30 (trinta) dias acima mencionado ou do evento de extinção ou inaplicabilidade, conforme o caso, convocar Assembleia Geral de Debenturistas, na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura, conforme definidos na Cláusula 7 abaixo, a qual terá como objeto a deliberação pelos Debenturistas, de comum acordo com a Emissora, do novo parâmetro dos Juros Remuneratórios das Debêntures, parâmetro este que deverá preservar o valor real e os mesmos níveis dos Juros Remuneratórios. Caso não haja acordo sobre o novo parâmetro dos Juros Remuneratórios entre a Emissora e os Debenturistas representando, no mínimo, 75% (setenta e cinco por cento) das Debêntures em Circulação em primeira convocação ou segunda convocação, a Emissora deverá resgatar a totalidade das Debêntures, no prazo máximo de 30 (trinta) dias corridos contados da data de encerramento da respectiva assembleia geral de debenturistas ou em prazo superior que venha a ser definido em comum acordo em referida assembleia, pelo seu Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, acrescido dos Juros Remuneratórios devida até a data do efetivo resgate, calculada pro rata temporis, a partir da primeira Data de Integralização ou da última Data de Pagamento dos Juros Remuneratórios, o que ocorrer por último. As Debêntures resgatadas nos termos desta Cláusula serão canceladas pela Emissora. Nesta alternativa, para cálculo dos Juros Remuneratórios das Debêntures a serem resgatadas, para cada dia do período em que haja ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente. 
+
+O Período de Capitalização dos Juros Remuneratórios ('Período de Capitalização') é, para o primeiro Período de Capitalização, o intervalo de tempo que se inicia na primeira Data de Integralização, inclusive, e termina na Data de Incorporação, exclusive, e, para os demais Períodos de Capitalização, o intervalo de tempo que se inicia na Data de Incorporação ou na Data de Pagamento dos Juros Remuneratórios imediatamente anterior, inclusive, e termina na Data de Pagamento dos Juros Remuneratórios subsequente, exclusive. Cada Período de Capitalização sucede o anterior sem solução de continuidade, até a Data de Vencimento. 
+
+Remuneração das Debêntures 
+
+Atualização Monetária das Debêntures: O Valor Nominal Unitário das Debêntures não será atualizado monetariamente.
+
+Juros Remuneratórios das Debêntures: Sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, conforme o caso, incidirão juros remuneratórios correspondentes à variação acumulada de 100% (cem por cento) das taxas médias diárias do DI – Depósito Interfinanceiro de um dia, 'over extra-grupo', expressas na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 S.A. – Brasil, Bolsa, Balcão ('Taxa DI'), acrescida de spread (sobretaxa) equivalente a 3,55% (três inteiros e cinquenta e cinco centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Juros Remuneratórios'), calculados de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos, desde a primeira Data de Integralização, a Data de Incorporação (conforme definido abaixo) ou a Data de Pagamento dos Juros Remuneratórios das Debêntures imediatamente anterior, conforme o caso, até a data do efetivo pagamento. Sem prejuízo dos pagamentos em decorrência de (i) aquisição facultativa da totalidade, e consequente cancelamento, das Debêntures, nos termos da Cláusula 5.4 abaixo; (ii) resgate antecipado das Debêntures; (iii) Amortização Extraordinária Obrigatória e (iv) vencimento antecipado das obrigações decorrentes das Debêntures constantes das Cláusulas 6.1.1 e 6.1.2 abaixo, ocasiões em que a Emissora obriga-se a proceder ao pagamento das Debêntures, conforme previsto nesta Escritura, conforme o caso. 
+Os Juros Remuneratórios serão pagos trimestralmente, sempre no dia 8 dos meses de março, junho, setembro e dezembro de cada ano, sendo certo que (i) os Juros Remuneratórios calculados no período compreendido entre a primeira Data de Integralização e o dia 8 de dezembro de 2022 (inclusive) serão integralmente capitalizados e incorporados ao Valor Nominal Unitário em 8 de dezembro de 2022 ('Data de Incorporação'); (ii) o primeiro pagamento de Juros Remuneratórios será realizado em 8 de março de 2023 (inclusive) ('Data do Primeiro Pagamento de Juros Remuneratórios'); e (iii) os demais pagamentos de Juros Remuneratórios ocorrerão sucessivamente, nas datas previstas no cronograma abaixo, e o último na Data de Vencimento ('Data de Pagamento dos Juros Remuneratórios'). 
+
+
+Os Juros Remuneratórios serão calculados de acordo com a seguinte fórmula: 
+
+J = VNe x (Fator Juros – 1)
+Onde:
+
+J = valor unitário dos Juros Remuneratórios devidos ao final do Período de Capitalização (conforme abaixo definido), calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+Fator Juros = Fator de juros composto pelo parâmetro de flutuação acrescido de spread, calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+Fator Juros = (FatorDI x FatorSpread)
+onde:
+Fator DI = Produtório das Taxas DI com uso de percentual aplicado, da data de início de cada Período de Capitalização, inclusive, até a data de cálculo, exclusive, calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma: 
+
+
+onde:
+ndi = número total de Taxas DI, consideradas na atualização do ativo, sendo 'ndi' um número inteiro;
+TDIk = Taxa DI, expressa ao dia, calculada com 8 (oito) casas decimais, com arredondamento, apurada da seguinte forma:
+
+
+onde:
+DIk = Taxa DI, divulgada pela B3, válida por 1 (um) Dia Útil (overnight), utilizada com 2 (duas) casas decimais; e
+FatorSpread = sobretaxa de juros fixo, calculada com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+onde:
+spread = 3,5500 (três inteiros e cinco mil e quinhentos décimos de milésimos); e
+n = número de Dias Úteis entre a data do próximo Período de Capitalização e a data do Período de Capitalização anterior, sendo 'n' um número inteiro;
+DT = número de Dias Úteis entre o último e o próximo Período de Capitalização, sendo 'DT' um número inteiro;
+DP = número de Dias Úteis entre o último Período de Capitalização e a data atual, sendo 'DP' um número inteiro.
+Observações:
+Efetua-se o produtório dos fatores diários (1 + TDIk), sendo que a cada fator acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado.
+
+Se os fatores diários estiverem acumulados, considera-se o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+
+O fator resultante da expressão (Fator DI x FatorSpread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo.
+
+Observado o disposto na Cláusula 4.2.5 abaixo, se, a qualquer tempo durante a vigência das Debêntures, não houver divulgação da Taxa DI, será aplicada a última Taxa DI disponível até o momento para cálculo dos Juros Remuneratórios, não sendo devidas quaisquer compensações entre a Emissora e o titular das Debêntures, quando da divulgação posterior da Taxa DI que seria aplicável.
+Caso a Taxa DI deixe de ser divulgada por prazo superior a 30 (trinta) dias, ou caso seja extinta, ou haja impossibilidade legal de aplicação da Taxa DI para cálculo dos Juros Remuneratórios das Debêntures, o Agente Fiduciário deverá, no prazo máximo de até 5 (cinco) Dias Úteis a contar do final do prazo de 30 (trinta) dias acima mencionado ou do evento de extinção ou inaplicabilidade, conforme o caso, convocar Assembleia Geral de Debenturistas, na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura, conforme definidos na Cláusula 7 abaixo, a qual terá como objeto a deliberação pelos Debenturistas, de comum acordo com a Emissora, do novo parâmetro dos Juros Remuneratórios das Debêntures, parâmetro este que deverá preservar o valor real e os mesmos níveis dos Juros Remuneratórios. Caso não haja acordo sobre o novo parâmetro dos Juros Remuneratórios entre a Emissora e os Debenturistas representando, no mínimo, 75% (setenta e cinco por cento) das Debêntures em Circulação em primeira convocação ou segunda convocação, a Emissora deverá resgatar a totalidade das Debêntures, no prazo máximo de 30 (trinta) dias corridos contados da data de encerramento da respectiva assembleia geral de debenturistas ou em prazo superior que venha a ser definido em comum acordo em referida assembleia, pelo seu Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, acrescido dos Juros Remuneratórios devida até a data do efetivo resgate, calculada pro rata temporis, a partir da primeira Data de Integralização ou da última Data de Pagamento dos Juros Remuneratórios, o que ocorrer por último. As Debêntures resgatadas nos termos desta Cláusula serão canceladas pela Emissora. Nesta alternativa, para cálculo dos Juros Remuneratórios das Debêntures a serem resgatadas, para cada dia do período em que haja ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente. 
+
+O Período de Capitalização dos Juros Remuneratórios ('Período de Capitalização') é, para o primeiro Período de Capitalização, o intervalo de tempo que se inicia na primeira Data de Integralização, inclusive, e termina na Data de Incorporação, exclusive, e, para os demais Períodos de Capitalização, o intervalo de tempo que se inicia na Data de Incorporação ou na Data de Pagamento dos Juros Remuneratórios imediatamente anterior, inclusive, e termina na Data de Pagamento dos Juros Remuneratórios subsequente, exclusive. Cada Período de Capitalização sucede o anterior sem solução de continuidade, até a Data de Vencimento. 
+
+Remuneração das Debêntures 
+
+Atualização Monetária das Debêntures: O Valor Nominal Unitário das Debêntures não será atualizado monetariamente.
+
+Juros Remuneratórios das Debêntures: Sobre o Valor Nominal Unitário das Debêntures incidirão juros remuneratórios correspondentes à variação acumulada de 100% (cem por cento) das taxas médias diárias do DI – Depósito Interfinanceiro de um dia, 'over extra-grupo', expressas na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 ('Taxa DI'), acrescida de spread (sobretaxa) equivalente a 3,55% (três inteiros e cinquenta e cinco centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Juros Remuneratórios'), calculados de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos, desde a primeira Data de Integralização, a Data de Incorporação (conforme definido abaixo) ou a Data de Pagamento dos Juros Remuneratórios das Debêntures imediatamente anterior, conforme o caso, até a data do efetivo pagamento. Sem prejuízo dos pagamentos em decorrência de (i) aquisição facultativa da totalidade, e consequente cancelamento, das Debêntures, nos termos da Cláusula 5.4 abaixo; (ii) resgate antecipado das Debêntures; (iii) Amortização Extraordinária Obrigatória e (iv) vencimento antecipado das obrigações decorrentes das Debêntures constantes das Cláusulas 6.1.1 e 6.1.2 abaixo, ocasiões em que a Emissora obriga-se a proceder ao pagamento das Debêntures, conforme previsto nesta Escritura, conforme o caso. 
+Os Juros Remuneratórios serão pagos trimestralmente, sempre no dia [=] dos meses de [=], [=], [=] e [=] de cada ano, sendo certo que (i) os Juros Remuneratórios calculados no período compreendido entre a primeira Data de Integralização e o dia [=a inserir dia no qual se encerra o 12º (décimo segundo) mês a partir da Data de Emissão=] (inclusive) serão integralmente capitalizados e incorporados ao Valor Nominal Unitário em [=a inserir dia no qual se encerra o 12º (décimo segundo) mês a partir da Data de Emissão=] ('Data de Incorporação'); (ii) o primeiro pagamento de Juros Remuneratórios será realizado em [=a inserir dia no qual se encerra o 15º (décimo quinto) mês a partir da Data de Emissão=] de 2022 (inclusive) ('Data do Primeiro Pagamento de Juros Remuneratórios'); e (iii) os demais pagamentos de Juros Remuneratórios ocorrerão sucessivamente, nas datas previstas no cronograma abaixo, e o último na Data de Vencimento ('Data de Pagamento dos Juros Remuneratórios'). 
+
+
+
+Os Juros Remuneratórios serão calculados de acordo com a seguinte fórmula:
+
+J = VNe x (Fator Juros – 1)
+Onde:
+
+J = valor dos Juros Remuneratórios devidos ao final do Período de Capitalização (conforme abaixo definido), calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+Fator Juros = Fator de juros composto pelo parâmetro de flutuação acrescido de spread, calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+Fator Juros = (FatorDI x FatorSpread)
+onde:
+Fator DI = Produtório das Taxas DI com uso de percentual aplicado, da data de início de cada Período de Capitalização, inclusive, até a data de cálculo, exclusive, calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma: 
+
+
+onde:
+ndi = número total de Taxas DI, consideradas na atualização do ativo, sendo 'ndi' um número inteiro;
+TDIk = Taxa DI, expressa ao dia, calculada com 8 (oito) casas decimais, com arredondamento, apurada da seguinte forma:
+
+
+onde:
+DIk = Taxa DI, divulgada pela B3, válida por 1 (um) Dia Útil (overnight), utilizada com 2 (duas) casas decimais; e
+FatorSpread = sobretaxa de juros fixo, calculada com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+onde:
+spread = 3,5500 (três inteiros e cinco mil e quinhentos décimos de milésimos); e
+n = número de Dias Úteis entre a data do próximo Período de Capitalização e a data do Período de Capitalização anterior, sendo 'n' um número inteiro;
+DT = número de Dias Úteis entre o último e o próximo Período de Capitalização, sendo 'DT' um número inteiro;
+DP = número de Dias Úteis entre o último Período de Capitalização e a data atual, sendo 'DP' um número inteiro.
+Observações:
+Efetua-se o produtório dos fatores diários (1 + TDIk), sendo que a cada fator acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado.
+
+Se os fatores diários estiverem acumulados, considera-se o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+
+O fator resultante da expressão (Fator DI x FatorSpread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo.
+
+Observado o disposto na Cláusula 4.2.5 abaixo, se, a qualquer tempo durante a vigência das Debêntures, não houver divulgação da Taxa DI, será aplicada a última Taxa DI disponível até o momento para cálculo dos Juros Remuneratórios, não sendo devidas quaisquer compensações entre a Emissora e o titular das Debêntures, quando da divulgação posterior da Taxa DI que seria aplicável.
+Caso a Taxa DI deixe de ser divulgada por prazo superior a 30 (trinta) dias, ou caso seja extinta, ou haja impossibilidade legal de aplicação da Taxa DI para cálculo dos Juros Remuneratórios das Debêntures, o Agente Fiduciário deverá, no prazo máximo de até 5 (cinco) Dias Úteis a contar do final do prazo de 30 (trinta) dias acima mencionado ou do evento de extinção ou inaplicabilidade, conforme o caso, convocar Assembleia Geral de Debenturistas, na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura, conforme definidos na Cláusula 7 abaixo, a qual terá como objeto a deliberação pelos Debenturistas, de comum acordo com a Emissora, do novo parâmetro dos Juros Remuneratórios das Debêntures, parâmetro este que deverá preservar o valor real e os mesmos níveis dos Juros Remuneratórios. Caso não haja acordo sobre o novo parâmetro dos Juros Remuneratórios entre a Emissora e os Debenturistas representando, no mínimo, 75% (setenta e cinco por cento) das Debêntures em Circulação em primeira convocação ou segunda convocação, a Emissora deverá adquirir a totalidade das Debêntures em Circulação, no prazo máximo de 30 (trinta) dias corridos contados da data de encerramento da respectiva assembleia geral de debenturistas ou em prazo superior que venha a ser definido em comum acordo em referida assembleia, pelo seu Valor Nominal Unitário, conforme o caso, acrescido dos Juros Remuneratórios devida até a data da efetiva aquisição, calculada pro rata temporis, a partir da Data de Integralização ou da última Data de Pagamento dos Juros Remuneratórios, o que ocorrer por último. As Debêntures adquiridas nos termos desta Cláusula serão canceladas pela Emissora. Nesta alternativa, para cálculo dos Juros Remuneratórios das Debêntures a serem adquiridas, para cada dia do período em que haja ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente. 
+
+O Período de Capitalização dos Juros Remuneratórios ('Período de Capitalização') é, para o primeiro Período de Capitalização, o intervalo de tempo que se inicia na Data de Integralização, inclusive, e termina na Data de Incorporação, exclusive, e, para os demais Períodos de Capitalização, o intervalo de tempo que se inicia na Data de Incorporação ou na Data de Pagamento dos Juros Remuneratórios imediatamente anterior, inclusive, e termina na Data de Pagamento dos Juros Remuneratórios subsequente, exclusive. Cada Período de Capitalização sucede o anterior sem solução de continuidade, até a Data de Vencimento.
+
+Remuneração das Debêntures 
+
+Atualização Monetária das Debêntures: O Valor Nominal Unitário das Debêntures não será atualizado monetariamente.
+
+Juros Remuneratórios das Debêntures: Sobre o Valor Nominal Unitário das Debêntures incidirão juros remuneratórios correspondentes à variação acumulada de 100% (cem por cento) das taxas médias diárias do DI – Depósito Interfinanceiro de um dia, 'over extra-grupo', expressas na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 ('Taxa DI'), acrescida de spread (sobretaxa) equivalente a 3,55% (três inteiros e cinquenta e cinco centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Juros Remuneratórios'), calculados de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos, desde a primeira Data de Integralização, a Data de Incorporação (conforme definido abaixo) ou a Data de Pagamento dos Juros Remuneratórios das Debêntures imediatamente anterior, conforme o caso, até a data do efetivo pagamento. Sem prejuízo dos pagamentos em decorrência de (i) aquisição facultativa da totalidade, e consequente cancelamento, das Debêntures, nos termos da Cláusula 5.4 abaixo; (ii) resgate antecipado das Debêntures; (iii) Amortização Extraordinária Obrigatória e (iv) vencimento antecipado das obrigações decorrentes das Debêntures constantes das Cláusulas 6.1.1 e 6.1.2 abaixo, ocasiões em que a Emissora obriga-se a proceder ao pagamento das Debêntures, conforme previsto nesta Escritura, conforme o caso. 
+Os Juros Remuneratórios serão pagos trimestralmente, sempre no dia [=] dos meses de [=], [=], [=] e [=] de cada ano, sendo certo que (i) os Juros Remuneratórios calculados no período compreendido entre a primeira Data de Integralização e o dia [=a inserir dia no qual se encerra o 12º (décimo segundo) mês a partir da Data de Emissão=] (inclusive) serão integralmente capitalizados e incorporados ao Valor Nominal Unitário em [=a inserir dia no qual se encerra o 12º (décimo segundo) mês a partir da Data de Emissão=] ('Data de Incorporação'); (ii) o primeiro pagamento de Juros Remuneratórios será realizado em [=a inserir dia no qual se encerra o 15º (décimo quinto) mês a partir da Data de Emissão=] de 2022 (inclusive) ('Data do Primeiro Pagamento de Juros Remuneratórios'); e (iii) os demais pagamentos de Juros Remuneratórios ocorrerão sucessivamente, nas datas previstas no cronograma abaixo, e o último na Data de Vencimento ('Data de Pagamento dos Juros Remuneratórios'). 
+
+
+
+Os Juros Remuneratórios serão calculados de acordo com a seguinte fórmula:
+
+J = VNe x (Fator Juros – 1)
+Onde:
+
+J = valor dos Juros Remuneratórios devidos ao final do Período de Capitalização (conforme abaixo definido), calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+Fator Juros = Fator de juros composto pelo parâmetro de flutuação acrescido de spread, calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+Fator Juros = (FatorDI x FatorSpread)
+onde:
+Fator DI = Produtório das Taxas DI com uso de percentual aplicado, da data de início de cada Período de Capitalização, inclusive, até a data de cálculo, exclusive, calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma: 
+
+
+onde:
+ndi = número total de Taxas DI, consideradas na atualização do ativo, sendo 'ndi' um número inteiro;
+TDIk = Taxa DI, expressa ao dia, calculada com 8 (oito) casas decimais, com arredondamento, apurada da seguinte forma:
+
+
+onde:
+DIk = Taxa DI, divulgada pela B3, válida por 1 (um) Dia Útil (overnight), utilizada com 2 (duas) casas decimais; e
+FatorSpread = sobretaxa de juros fixo, calculada com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+onde:
+spread = 3,5500 (três inteiros e cinco mil e quinhentos décimos de milésimos); e
+n = número de Dias Úteis entre a data do próximo Período de Capitalização e a data do Período de Capitalização anterior, sendo 'n' um número inteiro;
+DT = número de Dias Úteis entre o último e o próximo Período de Capitalização, sendo 'DT' um número inteiro;
+DP = número de Dias Úteis entre o último Período de Capitalização e a data atual, sendo 'DP' um número inteiro.
+Observações:
+Efetua-se o produtório dos fatores diários (1 + TDIk), sendo que a cada fator acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado.
+
+Se os fatores diários estiverem acumulados, considera-se o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+
+O fator resultante da expressão (Fator DI x FatorSpread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo.
+
+Observado o disposto na Cláusula 4.2.5 abaixo, se, a qualquer tempo durante a vigência das Debêntures, não houver divulgação da Taxa DI, será aplicada a última Taxa DI disponível até o momento para cálculo dos Juros Remuneratórios, não sendo devidas quaisquer compensações entre a Emissora e o titular das Debêntures, quando da divulgação posterior da Taxa DI que seria aplicável.
+Caso a Taxa DI deixe de ser divulgada por prazo superior a 30 (trinta) dias, ou caso seja extinta, ou haja impossibilidade legal de aplicação da Taxa DI para cálculo dos Juros Remuneratórios das Debêntures, o Agente Fiduciário deverá, no prazo máximo de até 5 (cinco) Dias Úteis a contar do final do prazo de 30 (trinta) dias acima mencionado ou do evento de extinção ou inaplicabilidade, conforme o caso, convocar Assembleia Geral de Debenturistas, na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura, conforme definidos na Cláusula 7 abaixo, a qual terá como objeto a deliberação pelos Debenturistas, de comum acordo com a Emissora, do novo parâmetro dos Juros Remuneratórios das Debêntures, parâmetro este que deverá preservar o valor real e os mesmos níveis dos Juros Remuneratórios. Caso não haja acordo sobre o novo parâmetro dos Juros Remuneratórios entre a Emissora e os Debenturistas representando, no mínimo, 75% (setenta e cinco por cento) das Debêntures em Circulação em primeira convocação ou segunda convocação, a Emissora deverá adquirir a totalidade das Debêntures em Circulação, no prazo máximo de 30 (trinta) dias corridos contados da data de encerramento da respectiva assembleia geral de debenturistas ou em prazo superior que venha a ser definido em comum acordo em referida assembleia, pelo seu Valor Nominal Unitário, conforme o caso, acrescido dos Juros Remuneratórios devida até a data da efetiva aquisição, calculada pro rata temporis, a partir da Data de Integralização ou da última Data de Pagamento dos Juros Remuneratórios, o que ocorrer por último. As Debêntures adquiridas nos termos desta Cláusula serão canceladas pela Emissora. Nesta alternativa, para cálculo dos Juros Remuneratórios das Debêntures a serem adquiridas, para cada dia do período em que haja ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente. 
+
+O Período de Capitalização dos Juros Remuneratórios ('Período de Capitalização') é, para o primeiro Período de Capitalização, o intervalo de tempo que se inicia na Data de Integralização, inclusive, e termina na Data de Incorporação, exclusive, e, para os demais Períodos de Capitalização, o intervalo de tempo que se inicia na Data de Incorporação ou na Data de Pagamento dos Juros Remuneratórios imediatamente anterior, inclusive, e termina na Data de Pagamento dos Juros Remuneratórios subsequente, exclusive. Cada Período de Capitalização sucede o anterior sem solução de continuidade, até a Data de Vencimento.
+
+Remuneração das Debêntures 
+Sobre o Valor Nominal Unitário Atualizado, incidirão juros remuneratórios correspondentes a taxa interna de retorno do Tesouro IPCA+ com juros semestrais (NTN-B) com vencimento em 15 de agosto de 2030, a ser verificada conforme as taxas indicativas divulgadas pela ANBIMA em sua página na Internet (http://www.anbima.com.br), sendo apurada no dia útil anterior à data de realização do Procedimento de Bookbuilding, acrescida exponencialmente de spread de 0,60% (sessenta centésimos por cento) ao ano-base 252 (duzentos e cinquenta e dois) Dias Úteis, incidentes desde a primeira Data de Integralização ou da Data de Pagamento da Remuneração (conforme definido abaixo) imediatamente anterior ('Remuneração'). O cálculo da Remuneração obedecerá a seguinte fórmula:
+J = {VNa x [FatorJuros-1]}
+onde:
+J = Valor unitário dos juros devidos no final de cada período de capitalização das Debêntures, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+FatorJuros = Fator de juros fixos calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+onde:
+taxa = taxa de juros informada com 4 (quatro) casas decimais, conforme definida nos termos da Cláusula 5.16.1 acima; e
+DP = Número de Dias Úteis entre a primeira Data de Integralização ou a última Data de Pagamento da Remuneração, e a data atual, sendo 'DP' um número inteiro.
+Considera-se período de capitalização o período compreendido entre a primeira Data de Integralização (inclusive) até a Data de Pagamento da Remuneração (exclusive) ou o período compreendido entre a Data de Pagamento da Remuneração imediatamente anterior (inclusive) e a próxima Data de Pagamento da Remuneração (exclusive).
+Remuneração das Debêntures 
+Sobre o Valor Nominal Unitário Atualizado, incidirão juros remuneratórios correspondentes a taxa interna de retorno do Tesouro IPCA+ com juros semestrais (NTN-B) com vencimento em 15 de agosto de 2030, a ser verificada conforme as taxas indicativas divulgadas pela ANBIMA em sua página na Internet (http://www.anbima.com.br), sendo apurada no dia útil anterior à data de realização do Procedimento de Bookbuilding, acrescida exponencialmente de spread de 0,60% (sessenta centésimos por cento) ao ano-base 252 (duzentos e cinquenta e dois) Dias Úteis, incidentes desde a primeira Data de Integralização ou da Data de Pagamento da Remuneração (conforme definido abaixo) imediatamente anterior ('Remuneração'). O cálculo da Remuneração obedecerá a seguinte fórmula:
+J = {VNa x [FatorJuros-1]}
+onde:
+J = Valor unitário dos juros devidos no final de cada período de capitalização das Debêntures, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+FatorJuros = Fator de juros fixos calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+onde:
+taxa = taxa de juros informada com 4 (quatro) casas decimais, conforme definida nos termos da Cláusula 5.16.1 acima; e
+DP = Número de Dias Úteis entre a primeira Data de Integralização ou a última Data de Pagamento da Remuneração, e a data atual, sendo 'DP' um número inteiro.
+Considera-se período de capitalização o período compreendido entre a primeira Data de Integralização (inclusive) até a Data de Pagamento da Remuneração (exclusive) ou o período compreendido entre a Data de Pagamento da Remuneração imediatamente anterior (inclusive) e a próxima Data de Pagamento da Remuneração (exclusive).
+Remuneração das Debêntures 
+Sobre o Valor Nominal Unitário Atualizado, incidirão juros remuneratórios correspondentes a taxa interna de retorno do Tesouro IPCA+ com juros semestrais (NTN-B) com vencimento em [=] de [=] de 2030, a ser verificada conforme as taxas indicativas divulgadas pela ANBIMA em sua página na Internet (http://www.anbima.com.br), sendo apurada no dia útil anterior à data de realização do Procedimento de Bookbuilding, acrescida de spread de 0,60% (sessenta centésimos por cento) ao ano-base 252 (duzentos e cinquenta e dois) Dias Úteis, incidentes desde a primeira Data de Integralização ou da Data de Pagamento da Remuneração (conforme definido abaixo) imediatamente anterior ('Remuneração'). O cálculo da Remuneração obedecerá a seguinte fórmula:
+J = {VNa x [FatorJuros-1]}
+onde:
+J = Valor unitário dos juros devidos no final de cada período de capitalização das Debêntures, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+FatorJuros = Fator de juros fixos calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+onde:
+taxa = taxa de juros informada com 4 (quatro) casas decimais, conforme definida nos termos da Cláusula 5.16.1 acima; e
+DP = Número de Dias Úteis entre a primeira Data de Integralização ou a última Data de Pagamento da Remuneração, e a data atual, sendo 'DP' um número inteiro.
+Considera-se período de capitalização o período compreendido entre a primeira Data de Integralização (inclusive) até a Data de Pagamento da Remuneração (exclusive) ou o período compreendido entre a Data de Pagamento da Remuneração anterior (inclusive) e a próxima Data de Pagamento da Remuneração (exclusive).
+Remuneração das Debêntures 
+Sobre o Valor Nominal Unitário Atualizado, incidirão juros remuneratórios correspondentes a taxa interna de retorno do Tesouro IPCA+ com juros semestrais (NTN-B) com vencimento em [=] de [=] de 2030, a ser verificada conforme as taxas indicativas divulgadas pela ANBIMA em sua página na Internet (http://www.anbima.com.br), sendo apurada no dia útil anterior à data de realização do Procedimento de Bookbuilding, acrescida de spread de 0,60% (sessenta centésimos por cento) ao ano-base 252 (duzentos e cinquenta e dois) Dias Úteis, incidentes desde a primeira Data de Integralização ou da Data de Pagamento da Remuneração (conforme definido abaixo) imediatamente anterior ('Remuneração'). O cálculo da Remuneração obedecerá a seguinte fórmula:
+J = {VNa x [FatorJuros-1]}
+onde:
+J = Valor unitário dos juros devidos no final de cada período de capitalização das Debêntures, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+FatorJuros = Fator de juros fixos calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+onde:
+taxa = taxa de juros informada com 4 (quatro) casas decimais, conforme definida nos termos da Cláusula 5.16.1 acima; e
+DP = Número de Dias Úteis entre a primeira Data de Integralização ou a última Data de Pagamento da Remuneração, e a data atual, sendo 'DP' um número inteiro.
+Considera-se período de capitalização o período compreendido entre a primeira Data de Integralização (inclusive) até a Data de Pagamento da Remuneração (exclusive) ou o período compreendido entre a Data de Pagamento da Remuneração anterior (inclusive) e a próxima Data de Pagamento da Remuneração (exclusive).
+Remuneração das Debêntures 
+Sobre o Valor Nominal Unitário Atualizado, incidirão juros remuneratórios correspondentes a taxa interna de retorno do Tesouro IPCA+ com juros semestrais (NTN-B) com vencimento em 15 de agosto de 2030, a ser verificada conforme as taxas indicativas divulgadas pela ANBIMA em sua página na Internet (http://www.anbima.com.br), sendo apurada no dia útil anterior à data de realização do Procedimento de Bookbuilding, acrescida exponencialmente de spread de 0,5500% (cinco mil e quinhentos décimos de milésimos) ao ano-base 252 (duzentos e cinquenta e dois) Dias Úteis, incidentes desde a primeira Data de Integralização ou da Data de Pagamento da Remuneração (conforme definido abaixo) imediatamente anterior ('Remuneração'). O cálculo da Remuneração obedecerá a seguinte fórmula:
+J = {VNa x [FatorJuros-1]}
+onde:
+J = Valor unitário dos juros devidos no final de cada período de capitalização das Debêntures, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+FatorJuros = Fator de juros fixos calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+onde:
+taxa = taxa de juros informada com 4 (quatro) casas decimais, conforme definida nos termos da Cláusula 5.16.1 acima; e
+DP = Número de Dias Úteis entre a primeira Data de Integralização ou a última Data de Pagamento da Remuneração, e a data atual, sendo 'DP' um número inteiro.
+Considera-se período de capitalização o período compreendido entre a primeira Data de Integralização (inclusive) até a Data de Pagamento da Remuneração (exclusive) ou o período compreendido entre a Data de Pagamento da Remuneração imediatamente anterior (inclusive) e a próxima Data de Pagamento da Remuneração (exclusive).
+Remuneração das Debêntures 
+Sobre o Valor Nominal Unitário Atualizado, incidirão juros remuneratórios correspondentes a taxa interna de retorno do Tesouro IPCA+ com juros semestrais (NTN-B) com vencimento em 15 de agosto de 2030, a ser verificada conforme as taxas indicativas divulgadas pela ANBIMA em sua página na Internet (http://www.anbima.com.br), sendo apurada no mesmo dia da realização do Procedimento de Bookbuilding, acrescida exponencialmente de spread de 0,5500% (cinco mil e quinhentos décimos de milésimos) ao ano-base 252 (duzentos e cinquenta e dois) Dias Úteis, incidentes desde a primeira Data de Integralização ou da Data de Pagamento da Remuneração (conforme definido abaixo) imediatamente anterior ('Remuneração'). O cálculo da Remuneração obedecerá a seguinte fórmula:
+J = {VNa x [FatorJuros-1]}
+onde:
+J = Valor unitário dos juros devidos no final de cada período de capitalização das Debêntures, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+FatorJuros = Fator de juros fixos calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+onde:
+taxa = taxa de juros informada com 4 (quatro) casas decimais, conforme definida nos termos da Cláusula 5.16.1 acima; e
+DP = Número de Dias Úteis entre a primeira Data de Integralização ou a última Data de Pagamento da Remuneração, e a data atual, sendo 'DP' um número inteiro.
+Considera-se período de capitalização o período compreendido entre a primeira Data de Integralização (inclusive) até a Data de Pagamento da Remuneração (exclusive) ou o período compreendido entre a Data de Pagamento da Remuneração imediatamente anterior (inclusive) e a próxima Data de Pagamento da Remuneração (exclusive).
+Remuneração das Debêntures
+Sobre o Valor Nominal Atualizado das Debêntures incidirão juros remuneratórios prefixados, a ser definido por meio do Procedimento de Bookbuilding, em todo caso limitado ao maior entre (i) [=]% ([=]) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, ou (ii) percentual correspondente à taxa interna de retorno do Tesouro IPCA+ com Juros Semestrais (NTN-B), com vencimento em 20[=], a ser apurada como a média simples dos 3 (três) Dias Úteis imediatamente anteriores à data do Procedimento de Bookbuilding, conforme as taxas indicativas divulgadas pela ANBIMA em sua página na internet (http://www.anbima.com.br),('Remuneração'). A Remuneração final, uma vez calculada em conformidade com a Cláusula 3.7.1 acima, será ratificada por meio do Aditamento do Bookbuilding. 
+ A Remuneração será calculada em regime de capitalização composta de forma pro rata temporis por Dias Úteis decorridos desde a Data de Início da Rentabilidade ou da respectiva Data de Pagamento da Remuneração (conforme abaixo definido) imediatamente anterior, conforme o caso, até a data de seu efetivo pagamento, e deverão ser pagos, observada a periodicidade prevista na Cláusula 4.12 abaixo, ao final de cada Período de Capitalização, conforme abaixo definido (ou na data da liquidação antecipada resultante do vencimento antecipado das Debêntures em razão da ocorrência de um dos Eventos de Inadimplemento (conforme abaixo definido). 
+A Remuneração deverá ser calculada de acordo com a seguinte fórmula: 
+J = VNea x [(Fator Juros) x (C) - 1]onde:
+J = valor unitário da Remuneração devida no final de cada Período de Capitalização, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+FatorJuros = fator de juros fixos, calculado com 9 (nove) casas decimais, com arredondamento, de acordo com a seguinte fórmula:
+
+onde:
+taxa = a ser definida no Procedimento de Bookbuilding, informada com 4 (quatro) casas decimais;
+DP = número de Dias Úteis entre [=] de [=] de 2022 ou a data do evento anterior, inclusive, conforme o caso, e a data de cálculo.
+Para fins desta Escritura de Emissão: (i) a expressão 'Dia(s) Útil(eis)' significa para os (a) eventos pecuniários previstos nesta Escritura de Emissão, inclusive para fins de cálculos, qualquer dia, exceção feita aos sábados, domingos e feriados declarados nacionais na República Federativa do Brasil, observado o disposto na Cláusula 4.16 abaixo; e (b) eventos não pecuniários previstos nesta Escritura de Emissão qualquer dia, exceto sábados, domingos e feriados declarados nacionais, bem como feriados municipais nos município de São Paulo e estaduais no estado de São Paulo. Quando a indicação de prazo contado por dia na presente Escritura de Emissão não vier acompanhada da indicação de 'Dia Útil', entende-se que o prazo é contado em dias corridos; e (ii) a expressão 'Período de Capitalização' significa o período de capitalização da Remuneração, correspondente ao intervalo de tempo que se inicia na Data da Primeira Integralização (inclusive), ou da Data de Pagamento da Remuneração imediatamente anterior (inclusive), conforme o caso, e termina na Data de Pagamento da Remuneração (exclusive). 
+Remuneração das Debêntures
+Sobre o Valor Nominal Unitário das Debêntures incidirão juros remuneratórios prefixados, a ser definido por meio do Procedimento de Bookuilding, em todo caso limitado a [=]% ([=]) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração'). A Remuneração final, uma vez calculada em conformidade com a Cláusula 3.7 acima, será ratificada por meio do Aditamento ao Bookbuilding. [Nota Mattos Filho: favor confirmar]
+ A Remuneração será calculada em regime de capitalização composta de forma pro rata temporis por Dias Úteis decorridos desde a Data de Início da Rentabilidade ou da respectiva Data de Pagamento da Remuneração (conforme abaixo definido) imediatamente anterior, conforme o caso, até a data de seu efetivo pagamento, e deverão ser pagos, observada a periodicidade prevista na Cláusula 4.12 abaixo, ao final de cada Período de Capitalização, conforme abaixo definido (ou na data da liquidação antecipada resultante do vencimento antecipado das Debêntures em razão da ocorrência de um dos Eventos de Inadimplemento (conforme abaixo definido). 
+A Remuneração deverá ser calculada de acordo com a seguinte fórmula: 
+ 
+
+
+onde:
+J = valor unitário da Remuneração devida no final de cada Período de Capitalização, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário, calculado com 8 (oito) casas decimais, sem arredondamento;
+FatorJuros = fator de juros fixos, calculado com 9 (nove) casas decimais, com arredondamento, de acordo com a seguinte fórmula:
+
+
+onde:
+taxa = [=]%;[Nota Mattos Filho: favor confirmar]
+DP = número de Dias Úteis entre a Data de Início da Rentabilidade ou a data do evento anterior, inclusive, conforme o caso, e a data de cálculo.
+Para fins desta Escritura de Emissão: (i) a expressão 'Dia(s) Útil(eis)' significa para os (a) eventos pecuniários previstos nesta Escritura de Emissão, inclusive para fins de cálculos, qualquer dia, exceção feita aos sábados, domingos e feriados declarados nacionais na República Federativa do Brasil, observado o disposto na Cláusula 4.16 abaixo; e (b) eventos não pecuniários previstos nesta Escritura de Emissão qualquer dia, exceto sábados, domingos e feriados declarados nacionais, bem como feriados municipais nos município de São Paulo e estaduais no estado de São Paulo. Quando a indicação de prazo contado por dia na presente Escritura de Emissão não vier acompanhada da indicação de 'Dia Útil', entende-se que o prazo é contado em dias corridos; e (ii) a expressão 'Período de Capitalização' significa o período de capitalização da Remuneração, correspondente ao intervalo de tempo que se inicia na Data de Início da Rentabilidade (inclusive), ou da Data de Pagamento da Remuneração imediatamente anterior (inclusive), conforme o caso, e termina na Data de Pagamento da Remuneração (exclusive). 
+Remuneração das Debêntures 
+Sobre o Valor Nominal Unitário Atualizado, incidirão juros remuneratórios correspondentes a taxa interna de retorno do Tesouro IPCA+ com juros semestrais (NTN-B) com vencimento em [=] de [=] de 2030, a ser verificada conforme as taxas indicativas divulgadas pela ANBIMA em sua página na Internet (http://www.anbima.com.br), sendo apurada no dia útil anterior à data de realização do Procedimento de Bookbuilding, acrescida de spread de 0,60% (sessenta centésimos por cento) ao ano-base 252 (duzentos e cinquenta e dois) Dias Úteis, incidentes desde a primeira Data de Integralização ou da Data de Pagamento da Remuneração (conforme definido abaixo) imediatamente anterior ('Remuneração'). O cálculo da Remuneração obedecerá a seguinte fórmula:
+J = {VNa x [FatorJuros-1]}
+onde:
+J = Valor unitário dos juros devidos no final de cada período de capitalização das Debêntures, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+FatorJuros = Fator de juros fixos calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+onde:
+taxa = taxa de juros informada com 4 (quatro) casas decimais, conforme definida nos termos da Cláusula 5.16.1 acima; e
+DP = Número de Dias Úteis entre a primeira Data de Integralização ou a última Data de Pagamento da Remuneração, e a data atual, sendo 'DP' um número inteiro.
+Considera-se período de capitalização o período compreendido entre a primeira Data de Integralização (inclusive) até a Data de Pagamento da Remuneração (exclusive) ou o período compreendido entre a Data de Pagamento da Remuneração anterior (inclusive) e a próxima Data de Pagamento da Remuneração (exclusive).
+Remuneração das Debêntures 
+
+Atualização Monetária das Debêntures: O Valor Nominal Unitário das Debêntures não será atualizado monetariamente.
+
+Juros Remuneratórios das Debêntures: Sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, conforme o caso, incidirão juros remuneratórios correspondentes à variação acumulada de 100% (cem por cento) das taxas médias diárias do DI – Depósito Interfinanceiro de um dia, 'over extra-grupo', expressas na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 S.A. – Brasil, Bolsa, Balcão ('Taxa DI'), acrescida de spread (sobretaxa) equivalente a 3,55% (três inteiros e cinquenta e cinco centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Juros Remuneratórios'), calculados de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos, desde a primeira Data de Integralização, a Data de Incorporação (conforme definido abaixo) ou a Data de Pagamento dos Juros Remuneratórios das Debêntures imediatamente anterior, conforme o caso, até a data do efetivo pagamento. Sem prejuízo dos pagamentos em decorrência de (i) aquisição facultativa da totalidade, e consequente cancelamento, das Debêntures, nos termos da Cláusula 5.4 abaixo; (ii) resgate antecipado das Debêntures; (iii) Amortização Extraordinária Obrigatória e (iv) vencimento antecipado das obrigações decorrentes das Debêntures constantes das Cláusulas 6.1.1 e 6.1.2 abaixo, ocasiões em que a Emissora obriga-se a proceder ao pagamento das Debêntures, conforme previsto nesta Escritura, conforme o caso. 
+Os Juros Remuneratórios serão pagos trimestralmente, sempre no dia 8 dos meses de março, junho, setembro e dezembro de cada ano, sendo certo que (i) os Juros Remuneratórios calculados no período compreendido entre a primeira Data de Integralização e o dia 8 de dezembro de 2022 (inclusive) serão integralmente capitalizados e incorporados ao Valor Nominal Unitário em 8 de dezembro de 2022 ('Data de Incorporação'); (ii) o primeiro pagamento de Juros Remuneratórios será realizado em 8 de março de 2023 (inclusive) ('Data do Primeiro Pagamento de Juros Remuneratórios'); e (iii) os demais pagamentos de Juros Remuneratórios ocorrerão sucessivamente, nas datas previstas no cronograma abaixo, e o último na Data de Vencimento ('Data de Pagamento dos Juros Remuneratórios'). 
+
+
+Os Juros Remuneratórios serão calculados de acordo com a seguinte fórmula: 
+
+J = VNe x (Fator Juros – 1)
+Onde:
+
+J = valor unitário dos Juros Remuneratórios devidos ao final do Período de Capitalização (conforme abaixo definido), calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+Fator Juros = Fator de juros composto pelo parâmetro de flutuação acrescido de spread, calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+Fator Juros = (FatorDI x FatorSpread)
+onde:
+Fator DI = Produtório das Taxas DI com uso de percentual aplicado, da data de início de cada Período de Capitalização, inclusive, até a data de cálculo, exclusive, calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma: 
+
+
+onde:
+ndi = número total de Taxas DI, consideradas na atualização do ativo, sendo 'ndi' um número inteiro;
+TDIk = Taxa DI, expressa ao dia, calculada com 8 (oito) casas decimais, com arredondamento, apurada da seguinte forma:
+
+
+onde:
+DIk = Taxa DI, divulgada pela B3, válida por 1 (um) Dia Útil (overnight), utilizada com 2 (duas) casas decimais; e
+FatorSpread = sobretaxa de juros fixo, calculada com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+onde:
+spread = 3,5500 (três inteiros e cinco mil e quinhentos décimos de milésimos); e
+n = número de Dias Úteis entre a data do próximo Período de Capitalização e a data do Período de Capitalização anterior, sendo 'n' um número inteiro;
+DT = número de Dias Úteis entre o último e o próximo Período de Capitalização, sendo 'DT' um número inteiro;
+DP = número de Dias Úteis entre o último Período de Capitalização e a data atual, sendo 'DP' um número inteiro.
+Observações:
+Efetua-se o produtório dos fatores diários (1 + TDIk), sendo que a cada fator acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado.
+
+Se os fatores diários estiverem acumulados, considera-se o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+
+O fator resultante da expressão (Fator DI x FatorSpread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo.
+
+Observado o disposto na Cláusula 4.2.5 abaixo, se, a qualquer tempo durante a vigência das Debêntures, não houver divulgação da Taxa DI, será aplicada a última Taxa DI disponível até o momento para cálculo dos Juros Remuneratórios, não sendo devidas quaisquer compensações entre a Emissora e o titular das Debêntures, quando da divulgação posterior da Taxa DI que seria aplicável.
+Caso a Taxa DI deixe de ser divulgada por prazo superior a 30 (trinta) dias, ou caso seja extinta, ou haja impossibilidade legal de aplicação da Taxa DI para cálculo dos Juros Remuneratórios das Debêntures, o Agente Fiduciário deverá, no prazo máximo de até 5 (cinco) Dias Úteis a contar do final do prazo de 30 (trinta) dias acima mencionado ou do evento de extinção ou inaplicabilidade, conforme o caso, convocar Assembleia Geral de Debenturistas, na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura, conforme definidos na Cláusula 7 abaixo, a qual terá como objeto a deliberação pelos Debenturistas, de comum acordo com a Emissora, do novo parâmetro dos Juros Remuneratórios das Debêntures, parâmetro este que deverá preservar o valor real e os mesmos níveis dos Juros Remuneratórios. Caso não haja acordo sobre o novo parâmetro dos Juros Remuneratórios entre a Emissora e os Debenturistas representando, no mínimo, 75% (setenta e cinco por cento) das Debêntures em Circulação em primeira convocação ou segunda convocação, a Emissora deverá resgatar a totalidade das Debêntures, no prazo máximo de 30 (trinta) dias corridos contados da data de encerramento da respectiva assembleia geral de debenturistas ou em prazo superior que venha a ser definido em comum acordo em referida assembleia, pelo seu Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, acrescido dos Juros Remuneratórios devida até a data do efetivo resgate, calculada pro rata temporis, a partir da primeira Data de Integralização ou da última Data de Pagamento dos Juros Remuneratórios, o que ocorrer por último. As Debêntures resgatadas nos termos desta Cláusula serão canceladas pela Emissora. Nesta alternativa, para cálculo dos Juros Remuneratórios das Debêntures a serem resgatadas, para cada dia do período em que haja ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente. 
+
+O Período de Capitalização dos Juros Remuneratórios ('Período de Capitalização') é, para o primeiro Período de Capitalização, o intervalo de tempo que se inicia na primeira Data de Integralização, inclusive, e termina na Data de Incorporação, exclusive, e, para os demais Períodos de Capitalização, o intervalo de tempo que se inicia na Data de Incorporação ou na Data de Pagamento dos Juros Remuneratórios imediatamente anterior, inclusive, e termina na Data de Pagamento dos Juros Remuneratórios subsequente, exclusive. Cada Período de Capitalização sucede o anterior sem solução de continuidade, até a Data de Vencimento. 
+
+Remuneração das Debêntures 
+
+Atualização Monetária das Debêntures: O Valor Nominal Unitário das Debêntures não será atualizado monetariamente.
+
+Juros Remuneratórios das Debêntures: Sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, conforme o caso, incidirão juros remuneratórios correspondentes à variação acumulada de 100% (cem por cento) das taxas médias diárias do DI – Depósito Interfinanceiro de um dia, 'over extra-grupo', expressas na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 S.A. – Brasil, Bolsa, Balcão ('Taxa DI'), acrescida de spread (sobretaxa) equivalente a 3,55% (três inteiros e cinquenta e cinco centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Juros Remuneratórios'), calculados de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos, desde a primeira Data de Integralização, a Data de Incorporação (conforme definido abaixo) ou a Data de Pagamento dos Juros Remuneratórios das Debêntures imediatamente anterior, conforme o caso, até a data do efetivo pagamento. Sem prejuízo dos pagamentos em decorrência de (i) aquisição facultativa da totalidade, e consequente cancelamento, das Debêntures, nos termos da Cláusula 5.4 abaixo; (ii) resgate antecipado das Debêntures; (iii) Amortização Extraordinária Obrigatória e (iv) vencimento antecipado das obrigações decorrentes das Debêntures constantes das Cláusulas 6.1.1 e 6.1.2 abaixo, ocasiões em que a Emissora obriga-se a proceder ao pagamento das Debêntures, conforme previsto nesta Escritura, conforme o caso. 
+Os Juros Remuneratórios serão pagos trimestralmente, sempre no dia 8 dos meses de março, junho, setembro e dezembro de cada ano, sendo certo que (i) os Juros Remuneratórios calculados no período compreendido entre a primeira Data de Integralização e o dia 8 de dezembro de 2022 (inclusive) serão integralmente capitalizados e incorporados ao Valor Nominal Unitário em 8 de dezembro de 2022 ('Data de Incorporação'); (ii) o primeiro pagamento de Juros Remuneratórios será realizado em 8 de março de 2023 (inclusive) ('Data do Primeiro Pagamento de Juros Remuneratórios'); e (iii) os demais pagamentos de Juros Remuneratórios ocorrerão sucessivamente, nas datas previstas no cronograma abaixo, e o último na Data de Vencimento ('Data de Pagamento dos Juros Remuneratórios'). 
+
+
+Os Juros Remuneratórios serão calculados de acordo com a seguinte fórmula: 
+
+J = VNe x (Fator Juros – 1)
+Onde:
+
+J = valor unitário dos Juros Remuneratórios devidos ao final do Período de Capitalização (conforme abaixo definido), calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+Fator Juros = Fator de juros composto pelo parâmetro de flutuação acrescido de spread, calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+Fator Juros = (FatorDI x FatorSpread)
+onde:
+Fator DI = Produtório das Taxas DI com uso de percentual aplicado, da data de início de cada Período de Capitalização, inclusive, até a data de cálculo, exclusive, calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma: 
+
+
+onde:
+ndi = número total de Taxas DI, consideradas na atualização do ativo, sendo 'ndi' um número inteiro;
+TDIk = Taxa DI, expressa ao dia, calculada com 8 (oito) casas decimais, com arredondamento, apurada da seguinte forma:
+
+
+onde:
+DIk = Taxa DI, divulgada pela B3, válida por 1 (um) Dia Útil (overnight), utilizada com 2 (duas) casas decimais; e
+FatorSpread = sobretaxa de juros fixo, calculada com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+onde:
+spread = 3,5500 (três inteiros e cinco mil e quinhentos décimos de milésimos); e
+n = número de Dias Úteis entre a data do próximo Período de Capitalização e a data do Período de Capitalização anterior, sendo 'n' um número inteiro;
+DT = número de Dias Úteis entre o último e o próximo Período de Capitalização, sendo 'DT' um número inteiro;
+DP = número de Dias Úteis entre o último Período de Capitalização e a data atual, sendo 'DP' um número inteiro.
+Observações:
+Efetua-se o produtório dos fatores diários (1 + TDIk), sendo que a cada fator acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado.
+
+Se os fatores diários estiverem acumulados, considera-se o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+
+O fator resultante da expressão (Fator DI x FatorSpread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo.
+
+Observado o disposto na Cláusula 4.2.5 abaixo, se, a qualquer tempo durante a vigência das Debêntures, não houver divulgação da Taxa DI, será aplicada a última Taxa DI disponível até o momento para cálculo dos Juros Remuneratórios, não sendo devidas quaisquer compensações entre a Emissora e o titular das Debêntures, quando da divulgação posterior da Taxa DI que seria aplicável.
+Caso a Taxa DI deixe de ser divulgada por prazo superior a 30 (trinta) dias, ou caso seja extinta, ou haja impossibilidade legal de aplicação da Taxa DI para cálculo dos Juros Remuneratórios das Debêntures, o Agente Fiduciário deverá, no prazo máximo de até 5 (cinco) Dias Úteis a contar do final do prazo de 30 (trinta) dias acima mencionado ou do evento de extinção ou inaplicabilidade, conforme o caso, convocar Assembleia Geral de Debenturistas, na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura, conforme definidos na Cláusula 7 abaixo, a qual terá como objeto a deliberação pelos Debenturistas, de comum acordo com a Emissora, do novo parâmetro dos Juros Remuneratórios das Debêntures, parâmetro este que deverá preservar o valor real e os mesmos níveis dos Juros Remuneratórios. Caso não haja acordo sobre o novo parâmetro dos Juros Remuneratórios entre a Emissora e os Debenturistas representando, no mínimo, 75% (setenta e cinco por cento) das Debêntures em Circulação em primeira convocação ou segunda convocação, a Emissora deverá resgatar a totalidade das Debêntures, no prazo máximo de 30 (trinta) dias corridos contados da data de encerramento da respectiva assembleia geral de debenturistas ou em prazo superior que venha a ser definido em comum acordo em referida assembleia, pelo seu Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, acrescido dos Juros Remuneratórios devida até a data do efetivo resgate, calculada pro rata temporis, a partir da primeira Data de Integralização ou da última Data de Pagamento dos Juros Remuneratórios, o que ocorrer por último. As Debêntures resgatadas nos termos desta Cláusula serão canceladas pela Emissora. Nesta alternativa, para cálculo dos Juros Remuneratórios das Debêntures a serem resgatadas, para cada dia do período em que haja ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente. 
+
+O Período de Capitalização dos Juros Remuneratórios ('Período de Capitalização') é, para o primeiro Período de Capitalização, o intervalo de tempo que se inicia na primeira Data de Integralização, inclusive, e termina na Data de Incorporação, exclusive, e, para os demais Períodos de Capitalização, o intervalo de tempo que se inicia na Data de Incorporação ou na Data de Pagamento dos Juros Remuneratórios imediatamente anterior, inclusive, e termina na Data de Pagamento dos Juros Remuneratórios subsequente, exclusive. Cada Período de Capitalização sucede o anterior sem solução de continuidade, até a Data de Vencimento. 
+
+Remuneração das Debêntures 
+
+Atualização Monetária das Debêntures: O Valor Nominal Unitário das Debêntures não será atualizado monetariamente.
+
+Juros Remuneratórios das Debêntures: Sobre o Valor Nominal Unitário das Debêntures incidirão juros remuneratórios correspondentes à variação acumulada de 100% (cem por cento) das taxas médias diárias do DI – Depósito Interfinanceiro de um dia, 'over extra-grupo', expressas na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 ('Taxa DI'), acrescida de spread (sobretaxa) equivalente a 3,55% (três inteiros e cinquenta e cinco centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Juros Remuneratórios'), calculados de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos, desde a primeira Data de Integralização, a Data de Incorporação (conforme definido abaixo) ou a Data de Pagamento dos Juros Remuneratórios das Debêntures imediatamente anterior, conforme o caso, até a data do efetivo pagamento. Sem prejuízo dos pagamentos em decorrência de (i) aquisição facultativa da totalidade, e consequente cancelamento, das Debêntures, nos termos da Cláusula 5.4 abaixo; (ii) resgate antecipado das Debêntures; (iii) Amortização Extraordinária Obrigatória e (iv) vencimento antecipado das obrigações decorrentes das Debêntures constantes das Cláusulas 6.1.1 e 6.1.2 abaixo, ocasiões em que a Emissora obriga-se a proceder ao pagamento das Debêntures, conforme previsto nesta Escritura, conforme o caso. 
+Os Juros Remuneratórios serão pagos trimestralmente, sempre no dia [=] dos meses de [=], [=], [=] e [=] de cada ano, sendo certo que (i) os Juros Remuneratórios calculados no período compreendido entre a primeira Data de Integralização e o dia [=a inserir dia no qual se encerra o 12º (décimo segundo) mês a partir da Data de Emissão=] (inclusive) serão integralmente capitalizados e incorporados ao Valor Nominal Unitário em [=a inserir dia no qual se encerra o 12º (décimo segundo) mês a partir da Data de Emissão=] ('Data de Incorporação'); (ii) o primeiro pagamento de Juros Remuneratórios será realizado em [=a inserir dia no qual se encerra o 15º (décimo quinto) mês a partir da Data de Emissão=] de 2022 (inclusive) ('Data do Primeiro Pagamento de Juros Remuneratórios'); e (iii) os demais pagamentos de Juros Remuneratórios ocorrerão sucessivamente, nas datas previstas no cronograma abaixo, e o último na Data de Vencimento ('Data de Pagamento dos Juros Remuneratórios'). 
+
+
+
+Os Juros Remuneratórios serão calculados de acordo com a seguinte fórmula:
+
+J = VNe x (Fator Juros – 1)
+Onde:
+
+J = valor dos Juros Remuneratórios devidos ao final do Período de Capitalização (conforme abaixo definido), calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+Fator Juros = Fator de juros composto pelo parâmetro de flutuação acrescido de spread, calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+Fator Juros = (FatorDI x FatorSpread)
+onde:
+Fator DI = Produtório das Taxas DI com uso de percentual aplicado, da data de início de cada Período de Capitalização, inclusive, até a data de cálculo, exclusive, calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma: 
+
+
+onde:
+ndi = número total de Taxas DI, consideradas na atualização do ativo, sendo 'ndi' um número inteiro;
+TDIk = Taxa DI, expressa ao dia, calculada com 8 (oito) casas decimais, com arredondamento, apurada da seguinte forma:
+
+
+onde:
+DIk = Taxa DI, divulgada pela B3, válida por 1 (um) Dia Útil (overnight), utilizada com 2 (duas) casas decimais; e
+FatorSpread = sobretaxa de juros fixo, calculada com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+onde:
+spread = 3,5500 (três inteiros e cinco mil e quinhentos décimos de milésimos); e
+n = número de Dias Úteis entre a data do próximo Período de Capitalização e a data do Período de Capitalização anterior, sendo 'n' um número inteiro;
+DT = número de Dias Úteis entre o último e o próximo Período de Capitalização, sendo 'DT' um número inteiro;
+DP = número de Dias Úteis entre o último Período de Capitalização e a data atual, sendo 'DP' um número inteiro.
+Observações:
+Efetua-se o produtório dos fatores diários (1 + TDIk), sendo que a cada fator acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado.
+
+Se os fatores diários estiverem acumulados, considera-se o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+
+O fator resultante da expressão (Fator DI x FatorSpread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo.
+
+Observado o disposto na Cláusula 4.2.5 abaixo, se, a qualquer tempo durante a vigência das Debêntures, não houver divulgação da Taxa DI, será aplicada a última Taxa DI disponível até o momento para cálculo dos Juros Remuneratórios, não sendo devidas quaisquer compensações entre a Emissora e o titular das Debêntures, quando da divulgação posterior da Taxa DI que seria aplicável.
+Caso a Taxa DI deixe de ser divulgada por prazo superior a 30 (trinta) dias, ou caso seja extinta, ou haja impossibilidade legal de aplicação da Taxa DI para cálculo dos Juros Remuneratórios das Debêntures, o Agente Fiduciário deverá, no prazo máximo de até 5 (cinco) Dias Úteis a contar do final do prazo de 30 (trinta) dias acima mencionado ou do evento de extinção ou inaplicabilidade, conforme o caso, convocar Assembleia Geral de Debenturistas, na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura, conforme definidos na Cláusula 7 abaixo, a qual terá como objeto a deliberação pelos Debenturistas, de comum acordo com a Emissora, do novo parâmetro dos Juros Remuneratórios das Debêntures, parâmetro este que deverá preservar o valor real e os mesmos níveis dos Juros Remuneratórios. Caso não haja acordo sobre o novo parâmetro dos Juros Remuneratórios entre a Emissora e os Debenturistas representando, no mínimo, 75% (setenta e cinco por cento) das Debêntures em Circulação em primeira convocação ou segunda convocação, a Emissora deverá adquirir a totalidade das Debêntures em Circulação, no prazo máximo de 30 (trinta) dias corridos contados da data de encerramento da respectiva assembleia geral de debenturistas ou em prazo superior que venha a ser definido em comum acordo em referida assembleia, pelo seu Valor Nominal Unitário, conforme o caso, acrescido dos Juros Remuneratórios devida até a data da efetiva aquisição, calculada pro rata temporis, a partir da Data de Integralização ou da última Data de Pagamento dos Juros Remuneratórios, o que ocorrer por último. As Debêntures adquiridas nos termos desta Cláusula serão canceladas pela Emissora. Nesta alternativa, para cálculo dos Juros Remuneratórios das Debêntures a serem adquiridas, para cada dia do período em que haja ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente. 
+
+O Período de Capitalização dos Juros Remuneratórios ('Período de Capitalização') é, para o primeiro Período de Capitalização, o intervalo de tempo que se inicia na Data de Integralização, inclusive, e termina na Data de Incorporação, exclusive, e, para os demais Períodos de Capitalização, o intervalo de tempo que se inicia na Data de Incorporação ou na Data de Pagamento dos Juros Remuneratórios imediatamente anterior, inclusive, e termina na Data de Pagamento dos Juros Remuneratórios subsequente, exclusive. Cada Período de Capitalização sucede o anterior sem solução de continuidade, até a Data de Vencimento.
+
+Remuneração das Debêntures 
+
+Atualização Monetária das Debêntures: O Valor Nominal Unitário das Debêntures não será atualizado monetariamente.
+
+Juros Remuneratórios das Debêntures: Sobre o Valor Nominal Unitário das Debêntures incidirão juros remuneratórios correspondentes à variação acumulada de 100% (cem por cento) das taxas médias diárias do DI – Depósito Interfinanceiro de um dia, 'over extra-grupo', expressas na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 ('Taxa DI'), acrescida de spread (sobretaxa) equivalente a 3,55% (três inteiros e cinquenta e cinco centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Juros Remuneratórios'), calculados de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos, desde a primeira Data de Integralização, a Data de Incorporação (conforme definido abaixo) ou a Data de Pagamento dos Juros Remuneratórios das Debêntures imediatamente anterior, conforme o caso, até a data do efetivo pagamento. Sem prejuízo dos pagamentos em decorrência de (i) aquisição facultativa da totalidade, e consequente cancelamento, das Debêntures, nos termos da Cláusula 5.4 abaixo; (ii) resgate antecipado das Debêntures; (iii) Amortização Extraordinária Obrigatória e (iv) vencimento antecipado das obrigações decorrentes das Debêntures constantes das Cláusulas 6.1.1 e 6.1.2 abaixo, ocasiões em que a Emissora obriga-se a proceder ao pagamento das Debêntures, conforme previsto nesta Escritura, conforme o caso. 
+Os Juros Remuneratórios serão pagos trimestralmente, sempre no dia [=] dos meses de [=], [=], [=] e [=] de cada ano, sendo certo que (i) os Juros Remuneratórios calculados no período compreendido entre a primeira Data de Integralização e o dia [=a inserir dia no qual se encerra o 12º (décimo segundo) mês a partir da Data de Emissão=] (inclusive) serão integralmente capitalizados e incorporados ao Valor Nominal Unitário em [=a inserir dia no qual se encerra o 12º (décimo segundo) mês a partir da Data de Emissão=] ('Data de Incorporação'); (ii) o primeiro pagamento de Juros Remuneratórios será realizado em [=a inserir dia no qual se encerra o 15º (décimo quinto) mês a partir da Data de Emissão=] de 2022 (inclusive) ('Data do Primeiro Pagamento de Juros Remuneratórios'); e (iii) os demais pagamentos de Juros Remuneratórios ocorrerão sucessivamente, nas datas previstas no cronograma abaixo, e o último na Data de Vencimento ('Data de Pagamento dos Juros Remuneratórios'). 
+
+
+
+Os Juros Remuneratórios serão calculados de acordo com a seguinte fórmula:
+
+J = VNe x (Fator Juros – 1)
+Onde:
+
+J = valor dos Juros Remuneratórios devidos ao final do Período de Capitalização (conforme abaixo definido), calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+Fator Juros = Fator de juros composto pelo parâmetro de flutuação acrescido de spread, calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+Fator Juros = (FatorDI x FatorSpread)
+onde:
+Fator DI = Produtório das Taxas DI com uso de percentual aplicado, da data de início de cada Período de Capitalização, inclusive, até a data de cálculo, exclusive, calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma: 
+
+
+onde:
+ndi = número total de Taxas DI, consideradas na atualização do ativo, sendo 'ndi' um número inteiro;
+TDIk = Taxa DI, expressa ao dia, calculada com 8 (oito) casas decimais, com arredondamento, apurada da seguinte forma:
+
+
+onde:
+DIk = Taxa DI, divulgada pela B3, válida por 1 (um) Dia Útil (overnight), utilizada com 2 (duas) casas decimais; e
+FatorSpread = sobretaxa de juros fixo, calculada com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+onde:
+spread = 3,5500 (três inteiros e cinco mil e quinhentos décimos de milésimos); e
+n = número de Dias Úteis entre a data do próximo Período de Capitalização e a data do Período de Capitalização anterior, sendo 'n' um número inteiro;
+DT = número de Dias Úteis entre o último e o próximo Período de Capitalização, sendo 'DT' um número inteiro;
+DP = número de Dias Úteis entre o último Período de Capitalização e a data atual, sendo 'DP' um número inteiro.
+Observações:
+Efetua-se o produtório dos fatores diários (1 + TDIk), sendo que a cada fator acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado.
+
+Se os fatores diários estiverem acumulados, considera-se o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+
+O fator resultante da expressão (Fator DI x FatorSpread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo.
+
+Observado o disposto na Cláusula 4.2.5 abaixo, se, a qualquer tempo durante a vigência das Debêntures, não houver divulgação da Taxa DI, será aplicada a última Taxa DI disponível até o momento para cálculo dos Juros Remuneratórios, não sendo devidas quaisquer compensações entre a Emissora e o titular das Debêntures, quando da divulgação posterior da Taxa DI que seria aplicável.
+Caso a Taxa DI deixe de ser divulgada por prazo superior a 30 (trinta) dias, ou caso seja extinta, ou haja impossibilidade legal de aplicação da Taxa DI para cálculo dos Juros Remuneratórios das Debêntures, o Agente Fiduciário deverá, no prazo máximo de até 5 (cinco) Dias Úteis a contar do final do prazo de 30 (trinta) dias acima mencionado ou do evento de extinção ou inaplicabilidade, conforme o caso, convocar Assembleia Geral de Debenturistas, na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura, conforme definidos na Cláusula 7 abaixo, a qual terá como objeto a deliberação pelos Debenturistas, de comum acordo com a Emissora, do novo parâmetro dos Juros Remuneratórios das Debêntures, parâmetro este que deverá preservar o valor real e os mesmos níveis dos Juros Remuneratórios. Caso não haja acordo sobre o novo parâmetro dos Juros Remuneratórios entre a Emissora e os Debenturistas representando, no mínimo, 75% (setenta e cinco por cento) das Debêntures em Circulação em primeira convocação ou segunda convocação, a Emissora deverá adquirir a totalidade das Debêntures em Circulação, no prazo máximo de 30 (trinta) dias corridos contados da data de encerramento da respectiva assembleia geral de debenturistas ou em prazo superior que venha a ser definido em comum acordo em referida assembleia, pelo seu Valor Nominal Unitário, conforme o caso, acrescido dos Juros Remuneratórios devida até a data da efetiva aquisição, calculada pro rata temporis, a partir da Data de Integralização ou da última Data de Pagamento dos Juros Remuneratórios, o que ocorrer por último. As Debêntures adquiridas nos termos desta Cláusula serão canceladas pela Emissora. Nesta alternativa, para cálculo dos Juros Remuneratórios das Debêntures a serem adquiridas, para cada dia do período em que haja ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente. 
+
+O Período de Capitalização dos Juros Remuneratórios ('Período de Capitalização') é, para o primeiro Período de Capitalização, o intervalo de tempo que se inicia na Data de Integralização, inclusive, e termina na Data de Incorporação, exclusive, e, para os demais Períodos de Capitalização, o intervalo de tempo que se inicia na Data de Incorporação ou na Data de Pagamento dos Juros Remuneratórios imediatamente anterior, inclusive, e termina na Data de Pagamento dos Juros Remuneratórios subsequente, exclusive. Cada Período de Capitalização sucede o anterior sem solução de continuidade, até a Data de Vencimento.
+
+Remuneração das Debêntures 
+Sobre o Valor Nominal Unitário Atualizado, incidirão juros remuneratórios correspondentes a taxa interna de retorno do Tesouro IPCA+ com juros semestrais (NTN-B) com vencimento em 15 de agosto de 2030, a ser verificada conforme as taxas indicativas divulgadas pela ANBIMA em sua página na Internet (http://www.anbima.com.br), sendo apurada no dia útil anterior à data de realização do Procedimento de Bookbuilding, acrescida exponencialmente de spread de 0,60% (sessenta centésimos por cento) ao ano-base 252 (duzentos e cinquenta e dois) Dias Úteis, incidentes desde a primeira Data de Integralização ou da Data de Pagamento da Remuneração (conforme definido abaixo) imediatamente anterior ('Remuneração'). O cálculo da Remuneração obedecerá a seguinte fórmula:
+J = {VNa x [FatorJuros-1]}
+onde:
+J = Valor unitário dos juros devidos no final de cada período de capitalização das Debêntures, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+FatorJuros = Fator de juros fixos calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+onde:
+taxa = taxa de juros informada com 4 (quatro) casas decimais, conforme definida nos termos da Cláusula 5.16.1 acima; e
+DP = Número de Dias Úteis entre a primeira Data de Integralização ou a última Data de Pagamento da Remuneração, e a data atual, sendo 'DP' um número inteiro.
+Considera-se período de capitalização o período compreendido entre a primeira Data de Integralização (inclusive) até a Data de Pagamento da Remuneração (exclusive) ou o período compreendido entre a Data de Pagamento da Remuneração imediatamente anterior (inclusive) e a próxima Data de Pagamento da Remuneração (exclusive).
+Remuneração das Debêntures 
+Sobre o Valor Nominal Unitário Atualizado, incidirão juros remuneratórios correspondentes a taxa interna de retorno do Tesouro IPCA+ com juros semestrais (NTN-B) com vencimento em 15 de agosto de 2030, a ser verificada conforme as taxas indicativas divulgadas pela ANBIMA em sua página na Internet (http://www.anbima.com.br), sendo apurada no dia útil anterior à data de realização do Procedimento de Bookbuilding, acrescida exponencialmente de spread de 0,60% (sessenta centésimos por cento) ao ano-base 252 (duzentos e cinquenta e dois) Dias Úteis, incidentes desde a primeira Data de Integralização ou da Data de Pagamento da Remuneração (conforme definido abaixo) imediatamente anterior ('Remuneração'). O cálculo da Remuneração obedecerá a seguinte fórmula:
+J = {VNa x [FatorJuros-1]}
+onde:
+J = Valor unitário dos juros devidos no final de cada período de capitalização das Debêntures, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+FatorJuros = Fator de juros fixos calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+onde:
+taxa = taxa de juros informada com 4 (quatro) casas decimais, conforme definida nos termos da Cláusula 5.16.1 acima; e
+DP = Número de Dias Úteis entre a primeira Data de Integralização ou a última Data de Pagamento da Remuneração, e a data atual, sendo 'DP' um número inteiro.
+Considera-se período de capitalização o período compreendido entre a primeira Data de Integralização (inclusive) até a Data de Pagamento da Remuneração (exclusive) ou o período compreendido entre a Data de Pagamento da Remuneração imediatamente anterior (inclusive) e a próxima Data de Pagamento da Remuneração (exclusive).
+Remuneração das Debêntures 
+Sobre o Valor Nominal Unitário Atualizado, incidirão juros remuneratórios correspondentes a taxa interna de retorno do Tesouro IPCA+ com juros semestrais (NTN-B) com vencimento em [=] de [=] de 2030, a ser verificada conforme as taxas indicativas divulgadas pela ANBIMA em sua página na Internet (http://www.anbima.com.br), sendo apurada no dia útil anterior à data de realização do Procedimento de Bookbuilding, acrescida de spread de 0,60% (sessenta centésimos por cento) ao ano-base 252 (duzentos e cinquenta e dois) Dias Úteis, incidentes desde a primeira Data de Integralização ou da Data de Pagamento da Remuneração (conforme definido abaixo) imediatamente anterior ('Remuneração'). O cálculo da Remuneração obedecerá a seguinte fórmula:
+J = {VNa x [FatorJuros-1]}
+onde:
+J = Valor unitário dos juros devidos no final de cada período de capitalização das Debêntures, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+FatorJuros = Fator de juros fixos calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+onde:
+taxa = taxa de juros informada com 4 (quatro) casas decimais, conforme definida nos termos da Cláusula 5.16.1 acima; e
+DP = Número de Dias Úteis entre a primeira Data de Integralização ou a última Data de Pagamento da Remuneração, e a data atual, sendo 'DP' um número inteiro.
+Considera-se período de capitalização o período compreendido entre a primeira Data de Integralização (inclusive) até a Data de Pagamento da Remuneração (exclusive) ou o período compreendido entre a Data de Pagamento da Remuneração anterior (inclusive) e a próxima Data de Pagamento da Remuneração (exclusive).
+Remuneração das Debêntures 
+Sobre o Valor Nominal Unitário Atualizado, incidirão juros remuneratórios correspondentes a taxa interna de retorno do Tesouro IPCA+ com juros semestrais (NTN-B) com vencimento em [=] de [=] de 2030, a ser verificada conforme as taxas indicativas divulgadas pela ANBIMA em sua página na Internet (http://www.anbima.com.br), sendo apurada no dia útil anterior à data de realização do Procedimento de Bookbuilding, acrescida de spread de 0,60% (sessenta centésimos por cento) ao ano-base 252 (duzentos e cinquenta e dois) Dias Úteis, incidentes desde a primeira Data de Integralização ou da Data de Pagamento da Remuneração (conforme definido abaixo) imediatamente anterior ('Remuneração'). O cálculo da Remuneração obedecerá a seguinte fórmula:
+J = {VNa x [FatorJuros-1]}
+onde:
+J = Valor unitário dos juros devidos no final de cada período de capitalização das Debêntures, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+FatorJuros = Fator de juros fixos calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+onde:
+taxa = taxa de juros informada com 4 (quatro) casas decimais, conforme definida nos termos da Cláusula 5.16.1 acima; e
+DP = Número de Dias Úteis entre a primeira Data de Integralização ou a última Data de Pagamento da Remuneração, e a data atual, sendo 'DP' um número inteiro.
+Considera-se período de capitalização o período compreendido entre a primeira Data de Integralização (inclusive) até a Data de Pagamento da Remuneração (exclusive) ou o período compreendido entre a Data de Pagamento da Remuneração anterior (inclusive) e a próxima Data de Pagamento da Remuneração (exclusive).

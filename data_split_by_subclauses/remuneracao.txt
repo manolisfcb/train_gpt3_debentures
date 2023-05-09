@@ -1,0 +1,1087 @@
+Remuneração
+
+As Debêntures da Primeira Série farão jus a juros remuneratórios estabelecidos com base na variação acumulada de 100% (cem por cento) das taxas médias diárias dos depósitos interfinanceiros de 1 (um) dia, over extra-grupo, denominadas 'Taxa DI', expressa na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculada e divulgada diariamente pela B3 S.A. – Brasil, Bolsa, Balcão, no informativo diário disponível em sua página na rede mundial de computadores () ('Taxa DI'), acrescida de sobretaxa de 0,50% (zero vírgula cinquenta por cento) ao ano entre a primeira Data de Integralização (inclusive) e a Data de Vencimento, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Sobretaxa' e, em conjunto com a Taxa DI, 'Remuneração das Debêntures da Primeira Série'), calculados de forma exponencial e cumulativa, pro rata temporis, por Dias Úteis decorridos, incidentes sobre o Valor Nominal Unitário ou sobre o saldo do Valor Nominal Unitário, conforme o caso, desde a Data de Início da Rentabilidade das Debêntures da Primeira Série, ou última Data de Pagamento da Remuneração das Debêntures da Primeira Série (conforme abaixo definida), o que ocorrer por último, até a data do efetivo pagamento, e pagos ao final de cada Período de Capitalização das Debêntures da Primeira Série ou na data do efetivo pagamento das Debêntures da Primeira Série, conforme aplicável, ou na data de eventual declaração de Vencimento Antecipado, de eventual Resgate Antecipado Facultativo Total e/ou Resgate Antecipado Total Obrigatório. 
+
+Entre a presente data e a efetiva Data de Integralização das Debêntures da Segunda Série, não haverá qualquer atualização ou qualquer incidência de juros sobre o Valor Nominal Unitário das Debêntures da Segunda Série, que permanecerá de R$ 1.000,00 (um mil reais). Após a efetiva Data de Integralização das Debêntures da Segunda Série, sobre o Valor Nominal Unitário das Debêntures da Segunda Série incidirão juros remuneratórios correspondentes a 100% (cem por cento) da Taxa DI, acrescida, exponencialmente, de sobretaxa a ser definida em processo oportuno, previamente a primeira Data de Integralização, que integrará o presente instrumento na forma de aditamento ('Remuneração das Debêntures da Segunda Série' e, em conjunto com a Remuneração das Debêntures da Primeira Série, a 'Remuneração das Debêntures').
+
+Exceto quanto à sobretaxa a ser acrescida à Taxa DI, que poderá variar da primeira para a segunda série, a Remuneração das Debêntures será calculada de acordo com a seguinte fórmula: 
+
+J = VNe x (FatorJuros– 1)
+
+onde:
+
+J	valor unitário da Remuneração devida no final de cada Período de Capitalização, calculado com 8 (oito) casas decimais sem arredondamento;
+
+VNe	Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, conforme o caso, no início de cada Período de Capitalização, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+
+FatorJuros	fator de juros composto pelo parâmetro de flutuação acrescido de spread (Sobretaxa), calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+FatorDI	produtório das Taxas DI, com uso de percentual aplicado a partir da data de início de cada Período de Capitalização (inclusive), até o final de cada Período de Capitalização das Debêntures (exclusive), calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+
+onde:
+
+nDI	número total de Taxas DI consideradas em cada Período de Capitalização, sendo 'n' um número inteiro;
+
+k	número de ordem das Taxas DI, variando de 1 até n;
+
+TDIk 	Taxa DI, de ordem k, expressa ao dia, calculada com 8 (oito) casas decimais com arredondamento, apurada da seguinte forma:
+
+
+
+onde:
+
+DIk	A Taxa DI divulgada pela B3 S.A. – Brasil, Bolsa, Balcão, utilizada com 2 (duas) casas decimais; 
+
+FatorSpread	Fator de juros devido à sobretaxa de juros fixos calculada com 9 (nove) casas decimais, com arredondamento, conforme fórmula abaixo:
+
+
+
+
+
+
+onde:
+
+spread0,5000 ao ano entre a primeira Data de Integralização (inclusive) das Debêntures da Primeira Série e a Data de Pagamento das Debêntures da Primeira Série; Para as Debêntures da Segunda Série, spread a ser definida em processo de bookbuilding e mediante formalização de aditamento a presente Escritura de Emissão;
+
+DP	número de dias úteis entre Data de Início da Rentabilidade das Debêntures ou a Data de Pagamento da Remuneração das Debêntures imediatamente anterior, conforme o caso, e a data de cálculo, sendo 'DP' um número inteiro.
+
+Observações:
+
+(i)O fator resultante da expressão (1 + TDIk) é considerado com 16 (dezesseis) casas decimais, sem arredondamento; 
+
+(ii)	Efetua-se o produtório dos fatores (1 + TDIk) sendo que a cada fator acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado; 
+
+(iii) 	Para efeito de cálculo de DIk será sempre considerada a Taxa DI divulgada com um Dia Útil de defasagem em relação à data de cálculo;
+
+(iv) A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pela B3 S.A. – Brasil, Bolsa, Balcão.
+
+Define-se 'Período de Capitalização' como o intervalo de tempo que se inicia na primeira Data de Integralização, no caso do primeiro Período de Capitalização, ou na Data de Pagamento da Remuneração das Debêntures imediatamente anterior, no caso dos demais Períodos de Capitalização (inclusive), e termina na data prevista para o pagamento da Remuneração correspondente ao período em questão (exclusive). Cada Período de Capitalização sucede o anterior sem solução de continuidade, até a respectiva Data de Vencimento, Vencimento Antecipado, de eventual Resgate Antecipado Facultativo Total e/ou Resgate Antecipado Total Obrigatório.
+
+Se na Data de Vencimento de quaisquer obrigações pecuniárias da Emissora decorrentes desta Escritura de Emissão não houver divulgação da Taxa DI pela B3 S.A. – Brasil, Bolsa, Balcão, a Taxa DI deverá ser substituída pela taxa média ponderada de remuneração dos títulos públicos federais brasileiros de curto prazo, à época de tal verificação, que tiverem sido negociados nos últimos 30 (trinta) dias, com prazo de vencimento de até 120 (cento e vinte) dias, conforme apurada pelo Sistema Especial de Liquidação e Custódia – SELIC., no caso da impossibilidade dessas, será aplicada na apuração de TDIk a última Taxa DI divulgada oficialmente, não sendo devidas quaisquer compensações entre a Emissora e os Debenturistas quando da divulgação posterior da Taxa DI que seria aplicável. Se a não divulgação da Taxa DI for superior ao prazo de 10 (dez) Dias Úteis, aplicar-se-á o disposto na Cláusula 5.12.5 abaixo.
+
+No caso de ausência de apuração e/ou divulgação da Taxa DI por prazo superior a 10 (dez) Dias Úteis após a data esperada para sua apuração e/ou divulgação, ou, ainda, no caso de extinção ou impossibilidade de aplicação da Taxa DI por imposição legal ou determinação judicial ('Evento de Ausência da Taxa DI'), o Agente Fiduciário deverá, no prazo máximo de 2 (dois) Dias Úteis contados do Evento de Ausência da Taxa DI, convocar Assembleia Geral de Debenturistas (conforme abaixo definida) (na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura de Emissão), para que os Debenturistas deliberem, de comum acordo com a Emissora e observada a regulamentação aplicável, sobre o novo parâmetro de remuneração das Debêntures a ser aplicado, o qual deverá refletir os parâmetros utilizados em operações similares existentes à época. Até a deliberação do novo parâmetro, será utilizada, para o cálculo do valor de quaisquer obrigações previstas nesta Escritura de Emissão, a última Taxa DI divulgada até a data da deliberação da Assembleia Geral de Debenturistas (conforme abaixo definida), não sendo devidas quaisquer compensações financeiras, tanto por parte da Emissora quanto pelos Debenturistas, quando da divulgação posterior da Taxa DI aplicável.
+
+	Caso não haja acordo sobre o novo parâmetro a ser utilizado para fins de cálculo da Remuneração entre a Emissora e os Debenturistas representando, no mínimo, 80% (oitenta por cento) mais 1 (uma) das Debêntures em Circulação (conforme abaixo definidas) ou caso não haja quórum de instalação e/ou deliberação em segunda convocação da referida Assembleia Geral de Debenturistas, a Emissora deverá resgatar a totalidade das Debêntures, no prazo de até 30 (trinta) dias contados da data da realização da respectiva Assembleia Geral de Debenturistas (conforme abaixo definida) ou na Data de Vencimento, o que ocorrer primeiro, pelo seu Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, acrescido da respectiva Remuneração devida até a data do efetivo resgate, calculada nos termos desta Cláusula 5.12, sem acréscimo de qualquer prêmio, sendo que para cálculo da Remuneração com relação às Debêntures a serem resgatadas, será utilizado para a apuração de TDIk o valor da última Taxa DI divulgada oficialmente, não sendo devidas quaisquer compensações financeiras, tanto por parte da Emissora quanto pelos Debenturistas, quando da divulgação posterior da Taxa DI aplicável. 
+
+Não obstante o disposto acima, caso a Taxa DI volte a ser divulgada antes da realização da respectiva Assembleia Geral de Debenturistas (conforme abaixo definida), a referida Assembleia Geral não será mais realizada e a Taxa DI, a partir de sua divulgação, passará a ser utilizada para o cálculo da Remuneração, sendo utilizada a última Taxa DI divulgada até a data da divulgação, não sendo devidas quaisquer compensações financeiras, tanto por parte da Emissora quanto pelos Debenturistas, quando da divulgação posterior da Taxa DI aplicável.
+
+Remuneração 
+Sobre o Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, incidirão juros remuneratórios correspondentes à variação acumulada de 100% (cem por cento) das taxas médias diárias do DI – Depósito Interfinanceiro de um dia, 'over extra-grupo', expressas na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 S.A. – Brasil, Bolsa, Balcão ('Taxa DI'), acrescida de spread (sobretaxa) de 3,50% (três inteiros e cinquenta centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração').
+A Remuneração será calculada de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos, incidentes sobre o Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, desde a Data de Início da Rentabilidade (inclusive) até a Data de Pagamento da Remuneração (conforme abaixo definido) ou outro evento de pagamento das Debêntures previsto nesta Escritura de Emissão (exclusive). A Remuneração será calculada de acordo com a seguinte fórmula: 
+J= VNe x (Fator Juros – 1)
+Onde: 
+J = valor unitário da Remuneração devida ao final do Período de Capitalização (conforme abaixo definido), calculado com 8 (oito) casas decimais, sem arredondamento;
+
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, conforme o caso, informado/calculado com 8 (oito) casas decimais, sem arredondamento; e 
+ 
+Fator Juros = Fator de Juros composto pelo parâmetro de flutuação acrescido de spread calculado com 9 (nove) casas decimais, com arredondamento. Apurado da seguinte forma:
+
+Fator Juros = (Fator DI x Fator Spread)
+
+Onde:
+Fator DI = produtório das Taxas DI da data de início do Período de Capitalização, inclusive, até a data de cálculo, exclusive, calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma: 
+Onde:
+nDI = número total de Taxas DI, consideradas na atualização do ativo, sendo 'nDI' um número inteiro;
+TDIk = Taxa DI, expressa ao dia, calculada com 8 (oito) casas decimais com arredondamento, apurada da seguinte forma:
+
+Onde:
+DIk = Taxa DI, divulgada pela B3 S.A. – Brasil, Bolsa, Balcão, válida por 1 (um) Dia Útil (overnight), utilizada com 2 (duas) casas decimais; e
+Fator Spread = sobretaxa de juros fixo, calculada com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+Onde:
+spread = 3,5000; 
+n = número de Dias Úteis entra a data do próximo Período de Capitalização e a data do Período de Capitalização anterior, sendo 'n' um número inteiro;
+DT = número de Dias Úteis entre o último e o próximo Período de Capitalização, sendo 'DT' um número inteiro;
+DP = número de Dias Úteis entre o último Período de Capitalização e a data atual, sendo 'DP' um número inteiro.
+Efetua-se o produtório dos fatores diários , sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado. 
+Se os fatores diários estiverem acumulados, considerar-se-á o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+O fator resultante da expressão (Fator DI x Fator Spread) é considerado com 9 (nove) casas decimais, com arredondamento.
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo, salvo quando expressamente indicado de outra forma.
+O período de capitalização da Remuneração é para o primeiro Período de Capitalização, o intervalo de tempo que se inicia na Data de Início da Rentabilidade, inclusive, e termina na primeira Data de Pagamento da Remuneração, exclusive, e, para os demais períodos de capitalização, o intervalo de tempo que se inicia na Data de Pagamento da Remuneração imediatamente anterior, inclusive, e termina na Data de Pagamento da Remuneração subsequente, exclusive. Cada Período de Capitalização sucede o anterior sem solução de continuidade, até a Data de Vencimento ou outro evento de pagamento das Debêntures previsto nesta Escritura de Emissão ('Período de Capitalização').
+Remuneração
+
+Remuneração das Debêntures da Primeira Série: Sobre o Valor Nominal Unitário das Debêntures da Primeira Série incidirão juros remuneratórios correspondentes à variação acumulada de 100% (cem por cento) das taxas médias diárias dos DI – Depósitos Interfinanceiros de um dia, 'over extra grupo', expressas na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 ('Taxa DI'), acrescida de spread (sobretaxa) a ser definida de acordo com o Procedimento de Bookbuilding, limitada a 2,10% (dois inteiros e dez centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração das Debêntures da Primeira Série').
+
+A Remuneração das Debêntures da Primeira Série será calculada de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos, incidentes sobre o Valor Nominal Unitário das Debêntures da Primeira Série, desde a Data de Início da Rentabilidade das Debêntures da Primeira Série, ou Data de Pagamento da Remuneração das Debêntures da Primeira Série imediatamente anterior (inclusive) até a data de pagamento da Remuneração das Debêntures da Primeira Série em questão, data de declaração de vencimento antecipado em decorrência de um Evento de Vencimento Antecipado (conforme definido abaixo) ou na data de uma eventual Oferta de Resgate Antecipado (conforme definido abaixo), o que ocorrer primeiro. A Remuneração das Debêntures da Primeira Série será calculada de acordo com a seguinte fórmula:
+
+J = Vne x (Fator Juros – 1)
+
+Onde:
+
+
+Fator Juros = (Fator DI x Fator Spread)
+
+Onde:
+
+
+
+Efetua-se o produto dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado.
+
+Se os fatores diários estiverem acumulados, considerar-se-á o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+
+O fator resultante da expressão (Fator DI x Fator Spread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pela entidade responsável pelo seu cálculo.
+
+Observado o disposto no parágrafo abaixo, se, a qualquer tempo durante a vigência das Debêntures da Primeira Série, não houver divulgação da Taxa DI, será aplicada a última Taxa DI disponível até o momento para cálculo da Remuneração das Debêntures da Primeira Série, não sendo devidas quaisquer compensações entre a Emissora e o titular das Debêntures da Primeira Série quando da divulgação posterior da Taxa DI que seria aplicável.
+
+Caso a Taxa DI deixe de ser divulgada por prazo superior a 30 (trinta) dias, ou caso seja extinta, ou haja a impossibilidade legal de aplicação da Taxa DI para cálculo da Remuneração das Debêntures da Primeira Série, o Agente Fiduciário deverá, no prazo máximo de até 5 (cinco) Dias Úteis a contar do final do prazo de 30 (trinta) dias acima mencionado ou do evento de extinção ou inaplicabilidade, conforme o caso, convocar Assembleia Geral de Debenturistas da Primeira Série, na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura de Emissão, conforme definidos na Cláusula 10 abaixo, a qual terá como objeto a deliberação pelos Debenturistas da Primeira Série, de comum acordo com a Emissora, do novo parâmetro de remuneração das Debêntures da Primeira Série, parâmetro este que deverá preservar o valor real e os mesmos níveis de Remuneração das Debêntures da Primeira Série. Caso não haja acordo sobre o novo parâmetro da Remuneração das Debêntures da Primeira Série, entre a Emissora e os Debenturistas das Debêntures da Primeira Série, representando, no mínimo, em primeira ou em segunda convocação, 2/3 (dois terços) das Debêntures da Primeira Série em Circulação (conforme definido abaixo), ou na ausência de quórum de instalação em ambas as convocações, a Emissora deverá resgatar a totalidade das Debêntures da Primeira Série, no prazo máximo de 30 (trinta) dias corridos contados da data de encerramento da respectiva Assembleia Geral de Debenturistas da Primeira Série ou em prazo superior que venha a ser definido em comum acordo em referida assembleia, pelo Valor Nominal Unitário das Debêntures da Primeira Série, acrescido da Remuneração das Debêntures da Primeira Série, devida até a data do efetivo resgate, calculada pro rata temporis, desde a Data de Início da Rentabilidade das Debêntures da Primeira Série, ou Data de Pagamento da Remuneração das Debêntures da Primeira Série (inclusive) imediatamente anterior, até a data do efetivo resgate (exclusive). As Debêntures da Primeira Série resgatadas nos termos desta Cláusula 4.11.8 serão canceladas pela Emissora. Nesta alternativa, para cálculo da Remuneração das Debêntures da Primeira Série, a serem resgatadas, para cada dia do período em que a ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente. 
+
+O período de capitalização da Remuneração das Debêntures da Primeira Série ('Período de Capitalização das Debêntures da Primeira Série') é, para o primeiro Período de Capitalização das Debêntures da Primeira Série, o intervalo de tempo que se inicia na Data de Início da Rentabilidade das Debêntures da Primeira Série, inclusive, e termina na primeira Data de Pagamento da Remuneração das Debêntures da Primeira Série, exclusive, e, para os demais Períodos de Capitalização das Debêntures da Primeira Série, o intervalo de tempo que se inicia na Data de Pagamento da Remuneração das Debêntures da Primeira Série imediatamente anterior, inclusive, e termina na Data de Pagamento da Remuneração das Debêntures da Primeira Série subsequente, exclusive. Cada Período de Capitalização das Debêntures da Primeira Série sucede o anterior sem solução de continuidade, até a Data de Vencimento das Debêntures da Primeira Série.
+
+Remuneração das Debêntures da Segunda Série: Sobre o Valor Nominal Unitário das Debêntures da Segunda Série incidirão juros remuneratórios correspondentes à variação acumulada de 100% (cem por cento) da Taxa DI, acrescida de spread (sobretaxa) a ser definida de acordo com o Procedimento de Bookbuilding, limitada a 2,40% (dois inteiros e quarenta centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração das Debêntures da Segunda Série' e, em conjunto com a Remuneração das Debêntures da Primeira Série, as 'Remunerações'). 
+
+A Remuneração da Segunda Série será calculada de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos, incidentes sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures da Segunda Série, desde a Data de Início da Rentabilidade das Debêntures da Segunda Série, ou Data de Pagamento da Remuneração da Segunda Série imediatamente anterior (inclusive) até a data de pagamento da Remuneração da Segunda Série em questão, data de declaração de vencimento antecipado em decorrência de um Evento de Vencimento Antecipado (conforme abaixo definido) ou na data de uma eventual Oferta de Resgate Antecipado (conforme abaixo definido), o que ocorrer primeiro. A Remuneração da Segunda Série será calculada de acordo com a seguinte fórmula:
+
+J = Vne x (Fator Juros – 1)
+
+Onde:
+
+
+Fator Juros = (Fator DI x Fator Spread)
+
+Onde:
+
+
+
+Efetua-se o produto dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado.
+
+Se os fatores diários estiverem acumulados, considerar-se-á o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+
+O fator resultante da expressão (Fator DI x Fator Spread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pela entidade responsável pelo seu cálculo.
+
+Observado o disposto no parágrafo abaixo, se, a qualquer tempo durante a vigência das Debêntures da Segunda Série, não houver divulgação da Taxa DI, será aplicada a última Taxa DI disponível até o momento para cálculo da Remuneração das Debêntures da Segunda Série, não sendo devidas quaisquer compensações entre a Emissora e o titular das Debêntures da Segunda Série quando da divulgação posterior da Taxa DI que seria aplicável.
+
+Caso a Taxa DI deixe de ser divulgada por prazo superior a 30 (trinta) dias, ou caso seja extinta, ou haja a impossibilidade legal de aplicação da Taxa DI para cálculo da Remuneração das Debêntures da Segunda Série, o Agente Fiduciário deverá, no prazo máximo de até 5 (cinco) Dias Úteis a contar do final do prazo de 30 (trinta) dias acima mencionado ou do evento de extinção ou inaplicabilidade, conforme o caso, convocar Assembleia Geral de Debenturistas da Segunda Série, na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura de Emissão, conforme definidos na Cláusula 10 abaixo, a qual terá como objeto a deliberação pelos Debenturistas da Segunda Série, de comum acordo com a Emissora, do novo parâmetro de remuneração das Debêntures da Segunda Série, parâmetro este que deverá preservar o valor real e os mesmos níveis de Remuneração das Debêntures da Segunda Série. Caso não haja acordo sobre o novo parâmetro da Remuneração das Debêntures da Segunda Série, entre a Emissora e os Debenturistas das Debêntures da Segunda Série, representando, no mínimo, em primeira ou em segunda convocação, 2/3 (dois terços) das Debêntures da Segunda Série em Circulação (conforme definido abaixo), ou na ausência de quórum de instalação em ambas as convocações, a Emissora deverá resgatar a totalidade das Debêntures da Segunda Série, no prazo máximo de 30 (trinta) dias corridos contados da data de encerramento da respectiva Assembleia Geral de Debenturistas da Segunda Série ou em prazo superior que venha a ser definido em comum acordo em referida assembleia, pelo Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures da Segunda Série, acrescido da Remuneração das Debêntures da Segunda Série, devida até a data do efetivo resgate, calculada pro rata temporis, desde a Data de Início da Rentabilidade das Debêntures da Segunda Série, ou Data de Pagamento da Remuneração das Debêntures da Segunda Série imediatamente anterior (inclusive), até a data do efetivo resgate (exclusive). As Debêntures da Segunda Série resgatadas nos termos desta Cláusula 4.11.17 serão canceladas pela Emissora. Nesta alternativa, para cálculo da Remuneração das Debêntures da Segunda Série, a serem resgatadas, para cada dia do período em que a ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente. 
+
+O período de capitalização da Remuneração das Debêntures da Segunda Série ('Período de Capitalização das Debêntures da Segunda Série') é, para o primeiro Período de Capitalização das Debêntures da Segunda Série, o intervalo de tempo que se inicia na Data de Início da Rentabilidade das Debêntures da Segunda Série, inclusive, e termina na primeira Data de Pagamento da Remuneração das Debêntures da Segunda Série, exclusive, e, para os demais Períodos de Capitalização das Debêntures da Segunda Série, o intervalo de tempo que se inicia na Data de Pagamento da Remuneração das Debêntures da Segunda Série imediatamente anterior, inclusive, e termina na Data de Pagamento da Remuneração das Debêntures da Segunda Série subsequente, exclusive. Cada Período de Capitalização das Debêntures da Segunda Série sucede o anterior sem solução de continuidade, até a Data de Vencimento das Debêntures da Segunda Série.
+
+Remuneração
+
+As Debêntures da Primeira Série farão jus, a partir da primeira Data de Integralização, a uma remuneração correspondente a 100% (cem por cento) da variação acumulada das taxas médias diárias dos DI – Depósitos Interfinanceiros de um dia, 'over extra grupo', expressa na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 no informativo diário disponível em sua página na internet () ('Taxa DI'), acrescida exponencialmente de spread ou sobretaxa equivalente a 2,10% (dois inteiros e dez centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis incidente sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures da Primeira Série, conforme o caso ('Remuneração da Primeira Série'), calculados de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos, desde a primeira Data de Integralização das Debêntures ou a Data de Pagamento da Remuneração da Primeira Série (conforme abaixo definido) imediatamente anterior, o que ocorrer por último, até a data de seu efetivo pagamento ('Período de Capitalização').
+
+O cálculo da Remuneração da Primeira Série obedecerá à seguinte fórmula:
+
+J = Vne x (Fator Juros – 1)
+
+onde:
+
+
+FatorJuros = (FatorDI x FatorSpread)
+
+Onde:
+
+
+FatorSpread = Sobretaxa de juros fixos calculada com 9 (nove) casas decimais, com arredondamento, conforme fórmula abaixo:
+
+
+
+Onde:
+
+
+Observações: 
+
+O fator resultante da expressão (1 + TDIk) é considerado com 16 (dezesseis) casas decimais, sem arredondamento;
+Efetua-se o produto dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado;
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pela entidade responsável pelo seu cálculo, salvo quando expressamente indicado de outra forma.
+
+As Debêntures da Segunda Série farão jus, a partir da primeira Data de Integralização, a uma remuneração correspondente a 100% (cem por cento) da Taxa DI, acrescida exponencialmente de spread ou sobretaxa equivalente a 2,40% (dois inteiros e quarenta centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis incidente sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures da Segunda Série, conforme o caso ('Remuneração da Segunda Série' e, em conjunto com a Remuneração da Primeira Série, as 'Remunerações') paga ao final de cada Período de Capitalização. 
+
+O cálculo da Remuneração da Segunda Série obedecerá à seguinte fórmula:
+
+J = Vne x (Fator Juros – 1)
+
+onde:
+
+
+FatorJuros = (FatorDI x FatorSpread)
+
+Onde:
+
+
+FatorSpread = Sobretaxa de juros fixos calculada com 9 (nove) casas decimais, com arredondamento, conforme fórmula abaixo:
+
+
+
+Onde:
+
+
+Observações: 
+
+O fator resultante da expressão (1 + TDIk) é considerado com 16 (dezesseis) casas decimais, sem arredondamento;
+Efetua-se o produto dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado;
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pela entidade responsável pelo seu cálculo, salvo quando expressamente indicado de outra forma.
+
+Remuneração
+
+Sobre o Valor Nominal Unitário ou o saldo do Valor Nominal Unitário, conforme o caso, das Debêntures incidirão juros remuneratórios correspondentes a 100% (cem por cento) das taxas médias diárias do DI – Depósitos Interfinanceiros de um dia, 'over extra grupo', expressa na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 S.A. – Brasil, Bolsa, Balcão, no informativo diário disponível em sua página na internet () ('Taxa DI'), acrescida de spread (sobretaxa) de 1,35% (um inteiro e trinta e cinco centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração'). [Nota Machado Meyer: a ordem e a redação foram atualizadas conforme o Guia de Padronização da ANBIMA.]
+
+A Remuneração será calculada de forma exponencial e cumulativa, pro rata temporis por Dias Úteis decorridos, incidentes sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, das Debêntures desde a Data de Início da Rentabilidade até a data do seu efetivo pagamento (exclusive), em regime de capitalização composta, de acordo com a fórmula abaixo:
+
+
+
+onde:
+
+J = valor unitário da Remuneração devida até a data do seu efetivo pagamento (exclusive), calculado com 8 (oito) casas decimais, sem arredondamento;
+
+Vne = Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, das Debêntures, calculado com 8 (oito) casas decimais, sem arredondamento;
+
+Fator Juros = fator de juros composto pelo parâmetro de flutuação acrescido de spread calculado com 9 (nove) casas decimais, com arredondamento. Apurado da seguinte forma:
+
+
+
+onde:
+
+Fator DI = produto das Taxas DI-Over, com uso de percentual aplicado, da Data de Início da Rentabilidade, inclusive, até a data de cálculo, exclusive, calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+onde:
+
+nDI = número total de Taxas DI-Over consideradas na atualização do ativo, sendo 'nDI' um número inteiro;
+
+= Taxa DI-Over, de ordem k, expressa ao dia, calculada com 8 (oito) casas decimais com arredondamento, apurada da seguinte forma:
+
+
+
+onde: 
+
+ = Taxa DI, de ordem k, divulgada pela B3 por meio de seu site, utilizada com 2 (duas) casas decimais; e
+
+Fator Spread= sobretaxa de juros fixos calculada com 9 (nove) casas decimais, com arredondamento, apurada conforme fórmula abaixo:
+
+
+
+onde:
+
+Spread = 1,3500;
+
+DP = número de Dias Úteis entre a Data de Início da Rentabilidade e a data atual, sendo 'DP' um número inteiro.
+
+Efetua-se o produto dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado.
+
+Se os fatores diários estiverem acumulados, considera-se o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+
+O fator resultante da expressão (Fator DI x Fator Spread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo.
+
+Observado o disposto no parágrafo abaixo, se, a qualquer tempo durante a vigência das Debêntures, não houver divulgação da Taxa DI, será aplicada a última Taxa DI disponível até o momento para cálculo da Remuneração, não sendo devidas quaisquer compensações entre a Emissora e o Debenturista quando da divulgação posterior da Taxa DI que seria aplicável.
+
+Caso a Taxa DI deixe de ser divulgada por prazo superior a 30 (trinta) dias, ou caso seja extinta, ou haja a impossibilidade legal de aplicação da Taxa DI para cálculo da Remuneração das Debêntures, o Agente Fiduciário deverá, no prazo máximo de até 5 (cinco) Dias Úteis a contar do final do prazo de 30 (trinta) dias acima mencionado ou do evento de extinção ou inaplicabilidade, conforme o caso, convocar AGD (conforme abaixo definido), na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura de Emissão, conforme definidos na Cláusula 9 abaixo, a qual terá como objeto a deliberação pelos Debenturistas, de comum acordo com a Emissora, do novo parâmetro de Remuneração das Debêntures, parâmetro este que deverá preservar o valor real e os mesmos níveis de Remuneração. Caso não haja acordo sobre o novo parâmetro de Remuneração entre a Emissora e os Debenturistas representando, no mínimo, 2/3 (dois terços) das Debêntures em Circulação (conforme abaixo definido) em primeira convocação e 30% (trinta por cento) das Debêntures em Circulação em segunda convocação, a Emissora deverá resgatar a totalidade das Debêntures, no prazo máximo de 30 (trinta) dias contados da data de encerramento da respectiva AGD ou em prazo superior que venha a ser definido em comum acordo em referida assembleia, pelo seu Valor Nominal Unitário ou saldo do Valor Nominal Unitário, acrescido da Remuneração devida até a data do efetivo resgate, calculada pro rata temporis, a partir da Data de Início da Rentabilidade das Debêntures ou da Data de Pagamento da Remuneração imediatamente anterior, conforme o caso. As Debêntures resgatadas nos termos deste item serão canceladas pela Emissora. Nesta alternativa, para cálculo da Remuneração das Debêntures a serem resgatadas, para cada dia do período em que a ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente.
+
+Remuneração
+
+Sobre o Valor Nominal Unitário ou o saldo do Valor Nominal Unitário, conforme o caso, das Debêntures incidirão juros remuneratórios correspondentes a 100% (cem por cento) das taxas médias diárias do DI – Depósitos Interfinanceiros de um dia, 'over extra grupo', expressa na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 S.A. – Brasil, Bolsa, Balcão, no informativo diário disponível em sua página na internet () ('Taxa DI'), acrescida de spread (sobretaxa) de 1,35% (um inteiro e trinta e cinco centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração'). [Nota Machado Meyer: a ordem e a redação foram atualizadas conforme o Guia de Padronização da ANBIMA.]
+
+A Remuneração será calculada de forma exponencial e cumulativa, pro rata temporis por Dias Úteis decorridos, incidentes sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, das Debêntures desde a Data de Início da Rentabilidade até a data do seu efetivo pagamento (exclusive), em regime de capitalização composta, de acordo com a fórmula abaixo:
+
+
+
+onde:
+
+J = valor unitário da Remuneração devida até a data do seu efetivo pagamento (exclusive), calculado com 8 (oito) casas decimais, sem arredondamento;
+
+Vne = Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, das Debêntures, calculado com 8 (oito) casas decimais, sem arredondamento;
+
+Fator Juros = fator de juros composto pelo parâmetro de flutuação acrescido de spread calculado com 9 (nove) casas decimais, com arredondamento. Apurado da seguinte forma:
+
+
+
+onde:
+
+Fator DI = produto das Taxas DI-Over, com uso de percentual aplicado, da Data de Início da Rentabilidade, inclusive, até a data de cálculo, exclusive, calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+onde:
+
+nDI = número total de Taxas DI-Over consideradas na atualização do ativo, sendo 'nDI' um número inteiro;
+
+= Taxa DI-Over, de ordem k, expressa ao dia, calculada com 8 (oito) casas decimais com arredondamento, apurada da seguinte forma:
+
+
+
+onde: 
+
+ = Taxa DI, de ordem k, divulgada pela B3 por meio de seu site, utilizada com 2 (duas) casas decimais; e
+
+Fator Spread= sobretaxa de juros fixos calculada com 9 (nove) casas decimais, com arredondamento, apurada conforme fórmula abaixo:
+
+
+
+onde:
+
+Spread = 1,3500;
+
+DP = número de Dias Úteis entre a Data de Início da Rentabilidade e a data atual, sendo 'DP' um número inteiro.
+
+Efetua-se o produto dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado.
+
+Se os fatores diários estiverem acumulados, considera-se o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+
+O fator resultante da expressão (Fator DI x Fator Spread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo.
+
+Observado o disposto no parágrafo abaixo, se, a qualquer tempo durante a vigência das Debêntures, não houver divulgação da Taxa DI, será aplicada a última Taxa DI disponível até o momento para cálculo da Remuneração, não sendo devidas quaisquer compensações entre a Emissora e o Debenturista quando da divulgação posterior da Taxa DI que seria aplicável.
+
+Caso a Taxa DI deixe de ser divulgada por prazo superior a 30 (trinta) dias, ou caso seja extinta, ou haja a impossibilidade legal de aplicação da Taxa DI para cálculo da Remuneração das Debêntures, o Agente Fiduciário deverá, no prazo máximo de até 5 (cinco) Dias Úteis a contar do final do prazo de 30 (trinta) dias acima mencionado ou do evento de extinção ou inaplicabilidade, conforme o caso, convocar AGD (conforme abaixo definido), na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura de Emissão, conforme definidos na Cláusula 9 abaixo, a qual terá como objeto a deliberação pelos Debenturistas, de comum acordo com a Emissora, do novo parâmetro de Remuneração das Debêntures, parâmetro este que deverá preservar o valor real e os mesmos níveis de Remuneração. Caso não haja acordo sobre o novo parâmetro de Remuneração entre a Emissora e os Debenturistas representando, no mínimo, 2/3 (dois terços) das Debêntures em Circulação (conforme abaixo definido) em primeira convocação e 30% (trinta por cento) das Debêntures em Circulação em segunda convocação, a Emissora deverá resgatar a totalidade das Debêntures, no prazo máximo de 30 (trinta) dias contados da data de encerramento da respectiva AGD ou em prazo superior que venha a ser definido em comum acordo em referida assembleia, pelo seu Valor Nominal Unitário ou saldo do Valor Nominal Unitário, acrescido da Remuneração devida até a data do efetivo resgate, calculada pro rata temporis, a partir da Data de Início da Rentabilidade das Debêntures ou da Data de Pagamento da Remuneração imediatamente anterior, conforme o caso. As Debêntures resgatadas nos termos deste item serão canceladas pela Emissora. Nesta alternativa, para cálculo da Remuneração das Debêntures a serem resgatadas, para cada dia do período em que a ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente.
+
+Remuneração
+Sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, conforme o caso, incidirão juros remuneratórios correspondentes a 100% (cem por cento) da variação acumulada das taxas médias diárias dos DI – Depósitos Interfinanceiros de um dia, over extra grupo, expressa na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculada e divulgada diariamente pela B3 no informativo diário disponível em sua página na internet (http://www.b3.com.br) ('Taxa DI'), acrescida de uma sobretaxa de 1,70% (um inteiro e setenta centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração'), calculados de forma exponencial e cumulativa pro rata temporis, por dias úteis decorridos, desde a respectiva Primeira Data de Integralização ou a Data de Pagamento da Remuneração (conforme abaixo definida) imediatamente anterior, conforme o caso, até a data do efetivo pagamento.
+A Remuneração das Debêntures será calculada de acordo com a seguinte fórmula:
+J = VNe x (Fator Juros – 1)
+Onde:
+J = valor unitário da Remuneração relativa às Debêntures devida ao final de cada Período de Capitalização (conforme abaixo definido), calculado com 8 (oito) casas decimais sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, informado/calculado com 8 (oito) casas decimais, sem arredondamento; e
+FatorJuros = fator de juros composto pelo parâmetro de flutuação acrescido do spread, calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+Onde:
+
+FatorJuros = (FatorDI x FatorSpread)
+
+FatorDI = produtório das Taxas DIk, desde a Primeira Data de Integralização, inclusive, ou da Data de Pagamento da Remuneração (conforme abaixo definida) imediatamente anterior, inclusive, até a data de cálculo, exclusive, calculado com
+
+8 (oito) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+
+
+Onde:
+
+FatorDI  1 TDIk 
+k 1
+
+k = número de ordens das Taxas DI, variando de 1 (um) até nDI;
+nDI = número total de Taxas DI consideradas na apuração do produtório, sendo 'nDI' um número inteiro; e
+TDIk = Taxa DI, de ordem k, expressa ao dia, calculada com 8 (oito) casas decimais, com arredondamento, apurada da seguinte forma:
+
+
+
+
+
+Onde:
+
+
+TDIk
+
+  DI k
+ 100
+
+
+1
+
+
+ 252
+1	1
+
+
+DIk = Taxa DI divulgada pela B3, válida por 1 (um) Dia Útil, utilizada com 2 (duas) casas decimais.
+Fator Spread = sobretaxa de juros fixos calculada com 9 (nove) casas decimais, com arredondamento, calculado conforme fórmula abaixo:
+
+DP
+FatorSpread   spread  1 252
+
+ 100	
+Onde:
+spread = 1,7000; e
+DP = número de Dias Úteis entre a Primeira Data de Integralização ou a Data de Pagamento da Remuneração imediatamente anterior (inclusive), conforme o caso, e a data do cálculo (exclusive), sendo 'DP' um número inteiro.
+Observações:
+o fator resultante da expressão (1 + TDIk) é considerado com 16 (dezesseis) casas decimais, sem arredondamento;
+efetua-se o produtório dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado; e
+a Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo, salvo quando expressamente indicado de outra forma.
+Define-se 'Período de Capitalização' como sendo o intervalo de tempo que se inicia na respectiva Primeira Data de Integralização, no caso do primeiro Período de Capitalização (inclusive), ou na Data de Pagamento da Remuneração imediatamente anterior (inclusive), no caso dos demais Períodos de Capitalização, e termina na data prevista para o pagamento da Remuneração correspondente ao período em questão (exclusive). Cada Período de
+
+Capitalização sucede o anterior de forma contínua, até a respectiva Data de Vencimento.
+No caso de indisponibilidade temporária da Taxa DI na data de pagamento de qualquer obrigação pecuniária da Emissora relativa às Debêntures, inclusive a Remuneração, será aplicada, em sua substituição, a última Taxa DI divulgada oficialmente pelo número de dias necessários até a data do cálculo, não sendo devidas quaisquer compensações financeiras, tanto por parte da Emissora quanto por parte dos Debenturistas, quando da divulgação posterior da Taxa DI que seria aplicável.
+Na hipótese de extinção, limitação e/ou não divulgação da Taxa DI por mais de 10 (dez) Dias Úteis consecutivos após a data esperada para sua apuração e/ou divulgação ou no caso de impossibilidade de aplicação da Taxa DI à Remuneração das Debêntures por proibição legal ou judicial, o Agente Fiduciário deverá, nos termos da Cláusula 9 abaixo, em até 2 (dois) Dias Úteis contados: (i) do primeiro dia em que a Taxa DI não tenha sido divulgada pelo prazo superior a 10 (dez) Dias Úteis; ou (ii) do primeiro dia em que a Taxa DI não possa ser utilizada por proibição legal ou judicial, convocar Assembleia Geral de Debenturistas (conforme definida abaixo) para deliberar, em comum acordo com a Emissora e com os Debenturistas e observada a regulamentação aplicável e na Cláusula 9 abaixo, sobre o novo parâmetro de remuneração das Debêntures a ser aplicado, observadas as disposições da Cláusula 9 abaixo relativas aos quóruns para instalação e deliberação da Assembleia Geral de Debenturistas ('Taxa Substitutiva'). Até a deliberação da Taxa Substitutiva, a última Taxa DI divulgada oficialmente será utilizada na apuração do FatorDI quando do cálculo de quaisquer obrigações previstas nesta Escritura de Emissão, não sendo devidas quaisquer compensações entre a Emissora e os Debenturistas, quando da deliberação da Taxa Substitutiva.
+Caso, na Assembleia Geral de que trata a Cláusula 4.12.5 acima, não haja acordo sobre a Taxa Substitutiva entre a Emissora e os Debenturistas representando, no mínimo, a maioria das Debêntures em Circulação (conforme abaixo definidas), ou caso, ainda, a Assembleia Geral de Debenturistas não seja instalada em segunda convocação, a Emissora deverá resgatar antecipadamente a totalidade das Debêntures, no prazo de 20 (vinte) Dias Úteis contados da (i) data em que ocorrer a Assembleia Geral de Debenturistas; ou (ii) data em que a Assembleia Geral de Debenturistas deveria ter sido realizada, em caso de ausência de quórum de instalação em segunda convocação, nos termos da Cláusula 9.2 abaixo, ou (iii) Data de Vencimento, o que ocorrer primeiro, pelo Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, acrescido da Remuneração devida até a data do efetivo resgate, calculados pro rata temporis, a partir da Primeira Data de Integralização, ou Data de Pagamento da Remuneração imediatamente anterior, conforme o caso, sem pagamento de multa ou qualquer prêmio (ressalvado o disposto na Cláusula 4.20 abaixo, se for o caso). As Debêntures, uma vez resgatadas antecipadamente nos termos desta Cláusula, serão canceladas pela Emissora. Na hipótese de resgate antecipado das Debêntures nos termos desta Cláusula, para o cálculo da Remuneração, para cada dia do período em que ocorra a ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente.
+Remuneração
+Sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, conforme o caso, incidirão juros remuneratórios correspondentes a 100% (cem por cento) da variação acumulada das taxas médias diárias dos DI – Depósitos Interfinanceiros de um dia, over extra grupo, expressa na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculada e divulgada diariamente pela B3 no informativo diário disponível em sua página na internet (http://www.b3.com.br) ('Taxa DI'), acrescida de uma sobretaxa de 1,70% (um inteiro e setenta centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração'), calculados de forma exponencial e cumulativa pro rata temporis, por dias úteis decorridos, desde a respectiva Primeira Data de Integralização ou a Data de Pagamento da Remuneração (conforme abaixo definida) imediatamente anterior, conforme o caso, até a data do efetivo pagamento. 
+A Remuneração das Debêntures será calculada de acordo com a seguinte fórmula:
+J = VNe x (Fator Juros – 1)
+Onde:
+J = valor unitário da Remuneração relativa às Debêntures devida ao final de cada Período de Capitalização (conforme abaixo definido), calculado com 8 (oito) casas decimais sem arredondamento; 
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, informado/calculado com 8 (oito) casas decimais, sem arredondamento; e
+FatorJuros = fator de juros composto pelo parâmetro de flutuação acrescido do spread, calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma: 
+
+Onde:
+FatorDI = produtório das Taxas DIk, desde a Primeira Data de Integralização, inclusive, ou da Data de Pagamento da Remuneração (conforme abaixo definida) imediatamente anterior, inclusive, até a data de cálculo, exclusive, calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma:
+
+Onde:
+k = número de ordens das Taxas DI, variando de 1 (um) até nDI;
+nDI = número total de Taxas DI consideradas na apuração do produtório, sendo 'nDI' um número inteiro; e
+TDIk = Taxa DI, de ordem k, expressa ao dia, calculada com 8 (oito) casas decimais, com arredondamento, apurada da seguinte forma:
+
+Onde:
+DIk = Taxa DI divulgada pela B3, válida por 1 (um) Dia Útil, utilizada com 2 (duas) casas decimais.
+Fator Spread = sobretaxa de juros fixos calculada com 9 (nove) casas decimais, com arredondamento, calculado conforme fórmula abaixo:
+
+Onde:
+spread = 1,7000; e
+DP = número de Dias Úteis entre a Primeira Data de Integralização ou a Data de Pagamento da Remuneração imediatamente anterior (inclusive), conforme o caso, e a data do cálculo (exclusive), sendo 'DP' um número inteiro.
+Observações:
+o fator resultante da expressão (1 + TDIk) é considerado com 16 (dezesseis) casas decimais, sem arredondamento;
+efetua-se o produtório dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado; e
+a Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo, salvo quando expressamente indicado de outra forma.
+Define-se 'Período de Capitalização' como sendo o intervalo de tempo que se inicia na respectiva Primeira Data de Integralização, no caso do primeiro Período de Capitalização (inclusive), ou na Data de Pagamento da Remuneração imediatamente anterior (inclusive), no caso dos demais Períodos de Capitalização, e termina na data prevista para o pagamento da Remuneração correspondente ao período em questão (exclusive). Cada Período de Capitalização sucede o anterior de forma contínua, até a respectiva Data de Vencimento.
+No caso de indisponibilidade temporária da Taxa DI na data de pagamento de qualquer obrigação pecuniária da Emissora relativa às Debêntures, inclusive a Remuneração, será aplicada, em sua substituição, a última Taxa DI divulgada oficialmente pelo número de dias necessários até a data do cálculo, não sendo devidas quaisquer compensações financeiras, tanto por parte da Emissora quanto por parte dos Debenturistas, quando da divulgação posterior da Taxa DI que seria aplicável.
+Na hipótese de extinção, limitação e/ou não divulgação da Taxa DI por mais de 10 (dez) Dias Úteis consecutivos após a data esperada para sua apuração e/ou divulgação ou no caso de impossibilidade de aplicação da Taxa DI à Remuneração das Debêntures por proibição legal ou judicial, o Agente Fiduciário deverá, nos termos da Cláusula 9 abaixo, em até 2 (dois) Dias Úteis contados: (i) do primeiro dia em que a Taxa DI não tenha sido divulgada pelo prazo superior a 10 (dez) Dias Úteis; ou (ii) do primeiro dia em que a Taxa DI não possa ser utilizada por proibição legal ou judicial, convocar Assembleia Geral de Debenturistas (conforme definida abaixo) para deliberar, em comum acordo com a Emissora e com os Debenturistas e observada a regulamentação aplicável e na Cláusula 9 abaixo, sobre o novo parâmetro de remuneração das Debêntures a ser aplicado, observadas as disposições da Cláusula 9 abaixo relativas aos quóruns para instalação e deliberação da Assembleia Geral de Debenturistas ('Taxa Substitutiva'). Até a deliberação da Taxa Substitutiva, a última Taxa DI divulgada oficialmente será utilizada na apuração do FatorDI quando do cálculo de quaisquer obrigações previstas nesta Escritura de Emissão, não sendo devidas quaisquer compensações entre a Emissora e os Debenturistas, quando da deliberação da Taxa Substitutiva.
+Caso, na Assembleia Geral de que trata a Cláusula 4.12.5 acima, não haja acordo sobre a Taxa Substitutiva entre a Emissora e os Debenturistas representando, no mínimo, a maioria das Debêntures em Circulação (conforme abaixo definidas), ou caso, ainda, a Assembleia Geral de Debenturistas não seja instalada em segunda convocação, a Emissora deverá resgatar antecipadamente a totalidade das Debêntures, no prazo de 20 (vinte) Dias Úteis contados da (i) data em que ocorrer a Assembleia Geral de Debenturistas; ou (ii) data em que a Assembleia Geral de Debenturistas deveria ter sido realizada, em caso de ausência de quórum de instalação em segunda convocação, nos termos da Cláusula 9.2 abaixo, ou (iii) Data de Vencimento, o que ocorrer primeiro, pelo Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, acrescido da Remuneração devida até a data do efetivo resgate, calculados pro rata temporis, a partir da Primeira Data de Integralização, ou Data de Pagamento da Remuneração imediatamente anterior, conforme o caso, sem pagamento de multa ou qualquer prêmio (ressalvado o disposto na Cláusula 4.20 abaixo, se for o caso). As Debêntures, uma vez resgatadas antecipadamente nos termos desta Cláusula, serão canceladas pela Emissora. Na hipótese de resgate antecipado das Debêntures nos termos desta Cláusula, para o cálculo da Remuneração, para cada dia do período em que ocorra a ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente. 
+Remuneração
+
+As Debêntures da Primeira Série farão jus a juros remuneratórios estabelecidos com base na variação acumulada de 100% (cem por cento) das taxas médias diárias dos depósitos interfinanceiros de 1 (um) dia, over extra-grupo, denominadas 'Taxa DI', expressa na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculada e divulgada diariamente pela B3 S.A. – Brasil, Bolsa, Balcão, no informativo diário disponível em sua página na rede mundial de computadores () ('Taxa DI'), acrescida de sobretaxa de 0,50% (zero vírgula cinquenta por cento) ao ano entre a primeira Data de Integralização (inclusive) e a Data de Vencimento, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Sobretaxa' e, em conjunto com a Taxa DI, 'Remuneração das Debêntures da Primeira Série'), calculados de forma exponencial e cumulativa, pro rata temporis, por Dias Úteis decorridos, incidentes sobre o Valor Nominal Unitário ou sobre o saldo do Valor Nominal Unitário, conforme o caso, desde a Data de Início da Rentabilidade das Debêntures da Primeira Série, ou última Data de Pagamento da Remuneração das Debêntures da Primeira Série (conforme abaixo definida), o que ocorrer por último, até a data do efetivo pagamento, e pagos ao final de cada Período de Capitalização das Debêntures da Primeira Série ou na data do efetivo pagamento das Debêntures da Primeira Série, conforme aplicável, ou na data de eventual declaração de Vencimento Antecipado, de eventual Resgate Antecipado Facultativo Total e/ou Resgate Antecipado Total Obrigatório. 
+
+Entre a presente data e a efetiva Data de Integralização das Debêntures da Segunda Série, não haverá qualquer atualização ou qualquer incidência de juros sobre o Valor Nominal Unitário das Debêntures da Segunda Série, que permanecerá de R$ 1.000,00 (um mil reais). Após a efetiva Data de Integralização das Debêntures da Segunda Série, sobre o Valor Nominal Unitário das Debêntures da Segunda Série incidirão juros remuneratórios correspondentes a 100% (cem por cento) da Taxa DI, acrescida, exponencialmente, de sobretaxa a ser definida em processo oportuno, previamente a primeira Data de Integralização, que integrará o presente instrumento na forma de aditamento ('Remuneração das Debêntures da Segunda Série' e, em conjunto com a Remuneração das Debêntures da Primeira Série, a 'Remuneração das Debêntures').
+
+Exceto quanto à sobretaxa a ser acrescida à Taxa DI, que poderá variar da primeira para a segunda série, a Remuneração das Debêntures será calculada de acordo com a seguinte fórmula: 
+
+J = VNe x (FatorJuros– 1)
+
+onde:
+
+J	valor unitário da Remuneração devida no final de cada Período de Capitalização, calculado com 8 (oito) casas decimais sem arredondamento;
+
+VNe	Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, conforme o caso, no início de cada Período de Capitalização, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+
+FatorJuros	fator de juros composto pelo parâmetro de flutuação acrescido de spread (Sobretaxa), calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+FatorDI	produtório das Taxas DI, com uso de percentual aplicado a partir da data de início de cada Período de Capitalização (inclusive), até o final de cada Período de Capitalização das Debêntures (exclusive), calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+
+onde:
+
+nDI	número total de Taxas DI consideradas em cada Período de Capitalização, sendo 'n' um número inteiro;
+
+k	número de ordem das Taxas DI, variando de 1 até n;
+
+TDIk 	Taxa DI, de ordem k, expressa ao dia, calculada com 8 (oito) casas decimais com arredondamento, apurada da seguinte forma:
+
+
+
+onde:
+
+DIk	A Taxa DI divulgada pela B3 S.A. – Brasil, Bolsa, Balcão, utilizada com 2 (duas) casas decimais; 
+
+FatorSpread	Fator de juros devido à sobretaxa de juros fixos calculada com 9 (nove) casas decimais, com arredondamento, conforme fórmula abaixo:
+
+
+
+
+
+
+onde:
+
+spread0,5000 ao ano entre a primeira Data de Integralização (inclusive) das Debêntures da Primeira Série e a Data de Pagamento das Debêntures da Primeira Série; Para as Debêntures da Segunda Série, spread a ser definida em processo de bookbuilding e mediante formalização de aditamento a presente Escritura de Emissão;
+
+DP	número de dias úteis entre Data de Início da Rentabilidade das Debêntures ou a Data de Pagamento da Remuneração das Debêntures imediatamente anterior, conforme o caso, e a data de cálculo, sendo 'DP' um número inteiro.
+
+Observações:
+
+(i)O fator resultante da expressão (1 + TDIk) é considerado com 16 (dezesseis) casas decimais, sem arredondamento; 
+
+(ii)	Efetua-se o produtório dos fatores (1 + TDIk) sendo que a cada fator acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado; 
+
+(iii) 	Para efeito de cálculo de DIk será sempre considerada a Taxa DI divulgada com um Dia Útil de defasagem em relação à data de cálculo;
+
+(iv) A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pela B3 S.A. – Brasil, Bolsa, Balcão.
+
+Define-se 'Período de Capitalização' como o intervalo de tempo que se inicia na primeira Data de Integralização, no caso do primeiro Período de Capitalização, ou na Data de Pagamento da Remuneração das Debêntures imediatamente anterior, no caso dos demais Períodos de Capitalização (inclusive), e termina na data prevista para o pagamento da Remuneração correspondente ao período em questão (exclusive). Cada Período de Capitalização sucede o anterior sem solução de continuidade, até a respectiva Data de Vencimento, Vencimento Antecipado, de eventual Resgate Antecipado Facultativo Total e/ou Resgate Antecipado Total Obrigatório.
+
+Se na Data de Vencimento de quaisquer obrigações pecuniárias da Emissora decorrentes desta Escritura de Emissão não houver divulgação da Taxa DI pela B3 S.A. – Brasil, Bolsa, Balcão, a Taxa DI deverá ser substituída pela taxa média ponderada de remuneração dos títulos públicos federais brasileiros de curto prazo, à época de tal verificação, que tiverem sido negociados nos últimos 30 (trinta) dias, com prazo de vencimento de até 120 (cento e vinte) dias, conforme apurada pelo Sistema Especial de Liquidação e Custódia – SELIC., no caso da impossibilidade dessas, será aplicada na apuração de TDIk a última Taxa DI divulgada oficialmente, não sendo devidas quaisquer compensações entre a Emissora e os Debenturistas quando da divulgação posterior da Taxa DI que seria aplicável. Se a não divulgação da Taxa DI for superior ao prazo de 10 (dez) Dias Úteis, aplicar-se-á o disposto na Cláusula 5.12.5 abaixo.
+
+No caso de ausência de apuração e/ou divulgação da Taxa DI por prazo superior a 10 (dez) Dias Úteis após a data esperada para sua apuração e/ou divulgação, ou, ainda, no caso de extinção ou impossibilidade de aplicação da Taxa DI por imposição legal ou determinação judicial ('Evento de Ausência da Taxa DI'), o Agente Fiduciário deverá, no prazo máximo de 2 (dois) Dias Úteis contados do Evento de Ausência da Taxa DI, convocar Assembleia Geral de Debenturistas (conforme abaixo definida) (na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura de Emissão), para que os Debenturistas deliberem, de comum acordo com a Emissora e observada a regulamentação aplicável, sobre o novo parâmetro de remuneração das Debêntures a ser aplicado, o qual deverá refletir os parâmetros utilizados em operações similares existentes à época. Até a deliberação do novo parâmetro, será utilizada, para o cálculo do valor de quaisquer obrigações previstas nesta Escritura de Emissão, a última Taxa DI divulgada até a data da deliberação da Assembleia Geral de Debenturistas (conforme abaixo definida), não sendo devidas quaisquer compensações financeiras, tanto por parte da Emissora quanto pelos Debenturistas, quando da divulgação posterior da Taxa DI aplicável.
+
+	Caso não haja acordo sobre o novo parâmetro a ser utilizado para fins de cálculo da Remuneração entre a Emissora e os Debenturistas representando, no mínimo, 80% (oitenta por cento) mais 1 (uma) das Debêntures em Circulação (conforme abaixo definidas) ou caso não haja quórum de instalação e/ou deliberação em segunda convocação da referida Assembleia Geral de Debenturistas, a Emissora deverá resgatar a totalidade das Debêntures, no prazo de até 30 (trinta) dias contados da data da realização da respectiva Assembleia Geral de Debenturistas (conforme abaixo definida) ou na Data de Vencimento, o que ocorrer primeiro, pelo seu Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, acrescido da respectiva Remuneração devida até a data do efetivo resgate, calculada nos termos desta Cláusula 5.12, sem acréscimo de qualquer prêmio, sendo que para cálculo da Remuneração com relação às Debêntures a serem resgatadas, será utilizado para a apuração de TDIk o valor da última Taxa DI divulgada oficialmente, não sendo devidas quaisquer compensações financeiras, tanto por parte da Emissora quanto pelos Debenturistas, quando da divulgação posterior da Taxa DI aplicável. 
+
+Não obstante o disposto acima, caso a Taxa DI volte a ser divulgada antes da realização da respectiva Assembleia Geral de Debenturistas (conforme abaixo definida), a referida Assembleia Geral não será mais realizada e a Taxa DI, a partir de sua divulgação, passará a ser utilizada para o cálculo da Remuneração, sendo utilizada a última Taxa DI divulgada até a data da divulgação, não sendo devidas quaisquer compensações financeiras, tanto por parte da Emissora quanto pelos Debenturistas, quando da divulgação posterior da Taxa DI aplicável.
+
+
+A Remuneração das Debêntures da Primeira Série será paga, anualmente, em parcelas consecutivas, a partir da Data de Emissão, sendo o primeiro pagamento da Remuneração das Debêntures da Primeira Série devido em 15 de setembro de 2023, e o último pagamento devido na Data de Vencimento das Debêntures da Primeira Série (cada uma, uma 'Data de Pagamento da Remuneração'), exceto nas hipóteses de declaração de Vencimento Antecipado, de Resgate Antecipado Facultativo Total, Resgate Antecipado Total Obrigatório e de Amortização Extraordinária Obrigatória e a Remuneração das Debêntures da Segunda Série será paga, anualmente, em parcelas consecutivas, a partir da Data de Emissão, sendo o primeiro pagamento da Remuneração das Debêntures da Primeira Série devido em 15 de fevereiro de 2024, e o último pagamento devido na Data de Vencimento das Debêntures da Segunda, exceto nas hipóteses de declaração de Vencimento Antecipado, de Resgate Antecipado Facultativo Total, Resgate Antecipado Total Obrigatório e de Amortização Extraordinária Obrigatória.
+
+Farão jus ao pagamento da Remuneração das Debêntures aqueles que sejam Debenturistas ao final do Dia Útil anterior a cada Data de Pagamento da Remuneração de sua respectiva série.
+
+O pagamento do Valor Nominal Unitário, acrescido da Remuneração relativa ao último período anual, será realizado em uma única data, na Data de Vencimento da respectiva série, conforme exposto no cronograma de pagamentos disposto na Cláusula 5.13.4 a seguir, ressalvadas as hipóteses de Vencimento Antecipado constantes da presente Escritura, que não sejam tempestivamente sanadas pela Emissora e/ou renunciadas pelos debenturistas.
+
+O cronograma de pagamentos de juros e amortizações da Primeira Série e da Segunda Série obedecerá o o disposto nas tabelas a seguir:
+
+
+
+
+
+
+
+Remuneração 
+Sobre o Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, incidirão juros remuneratórios correspondentes à variação acumulada de 100% (cem por cento) das taxas médias diárias do DI – Depósito Interfinanceiro de um dia, 'over extra-grupo', expressas na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 S.A. – Brasil, Bolsa, Balcão ('Taxa DI'), acrescida de spread (sobretaxa) de 3,50% (três inteiros e cinquenta centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração').
+A Remuneração será calculada de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos, incidentes sobre o Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, desde a Data de Início da Rentabilidade (inclusive) até a Data de Pagamento da Remuneração (conforme abaixo definido) ou outro evento de pagamento das Debêntures previsto nesta Escritura de Emissão (exclusive). A Remuneração será calculada de acordo com a seguinte fórmula: 
+J= VNe x (Fator Juros – 1)
+Onde: 
+J = valor unitário da Remuneração devida ao final do Período de Capitalização (conforme abaixo definido), calculado com 8 (oito) casas decimais, sem arredondamento;
+
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, conforme o caso, informado/calculado com 8 (oito) casas decimais, sem arredondamento; e 
+ 
+Fator Juros = Fator de Juros composto pelo parâmetro de flutuação acrescido de spread calculado com 9 (nove) casas decimais, com arredondamento. Apurado da seguinte forma:
+
+Fator Juros = (Fator DI x Fator Spread)
+
+Onde:
+Fator DI = produtório das Taxas DI da data de início do Período de Capitalização, inclusive, até a data de cálculo, exclusive, calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma: 
+Onde:
+nDI = número total de Taxas DI, consideradas na atualização do ativo, sendo 'nDI' um número inteiro;
+TDIk = Taxa DI, expressa ao dia, calculada com 8 (oito) casas decimais com arredondamento, apurada da seguinte forma:
+
+Onde:
+DIk = Taxa DI, divulgada pela B3 S.A. – Brasil, Bolsa, Balcão, válida por 1 (um) Dia Útil (overnight), utilizada com 2 (duas) casas decimais; e
+Fator Spread = sobretaxa de juros fixo, calculada com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+Onde:
+spread = 3,5000; 
+n = número de Dias Úteis entra a data do próximo Período de Capitalização e a data do Período de Capitalização anterior, sendo 'n' um número inteiro;
+DT = número de Dias Úteis entre o último e o próximo Período de Capitalização, sendo 'DT' um número inteiro;
+DP = número de Dias Úteis entre o último Período de Capitalização e a data atual, sendo 'DP' um número inteiro.
+Efetua-se o produtório dos fatores diários , sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado. 
+Se os fatores diários estiverem acumulados, considerar-se-á o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+O fator resultante da expressão (Fator DI x Fator Spread) é considerado com 9 (nove) casas decimais, com arredondamento.
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo, salvo quando expressamente indicado de outra forma.
+O período de capitalização da Remuneração é para o primeiro Período de Capitalização, o intervalo de tempo que se inicia na Data de Início da Rentabilidade, inclusive, e termina na primeira Data de Pagamento da Remuneração, exclusive, e, para os demais períodos de capitalização, o intervalo de tempo que se inicia na Data de Pagamento da Remuneração imediatamente anterior, inclusive, e termina na Data de Pagamento da Remuneração subsequente, exclusive. Cada Período de Capitalização sucede o anterior sem solução de continuidade, até a Data de Vencimento ou outro evento de pagamento das Debêntures previsto nesta Escritura de Emissão ('Período de Capitalização').
+Remuneração
+
+Remuneração das Debêntures da Primeira Série: Sobre o Valor Nominal Unitário das Debêntures da Primeira Série incidirão juros remuneratórios correspondentes à variação acumulada de 100% (cem por cento) das taxas médias diárias dos DI – Depósitos Interfinanceiros de um dia, 'over extra grupo', expressas na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 ('Taxa DI'), acrescida de spread (sobretaxa) a ser definida de acordo com o Procedimento de Bookbuilding, limitada a 2,10% (dois inteiros e dez centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração das Debêntures da Primeira Série').
+
+A Remuneração das Debêntures da Primeira Série será calculada de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos, incidentes sobre o Valor Nominal Unitário das Debêntures da Primeira Série, desde a Data de Início da Rentabilidade das Debêntures da Primeira Série, ou Data de Pagamento da Remuneração das Debêntures da Primeira Série imediatamente anterior (inclusive) até a data de pagamento da Remuneração das Debêntures da Primeira Série em questão, data de declaração de vencimento antecipado em decorrência de um Evento de Vencimento Antecipado (conforme definido abaixo) ou na data de uma eventual Oferta de Resgate Antecipado (conforme definido abaixo), o que ocorrer primeiro. A Remuneração das Debêntures da Primeira Série será calculada de acordo com a seguinte fórmula:
+
+J = Vne x (Fator Juros – 1)
+
+Onde:
+
+
+Fator Juros = (Fator DI x Fator Spread)
+
+Onde:
+
+
+
+Efetua-se o produto dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado.
+
+Se os fatores diários estiverem acumulados, considerar-se-á o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+
+O fator resultante da expressão (Fator DI x Fator Spread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pela entidade responsável pelo seu cálculo.
+
+Observado o disposto no parágrafo abaixo, se, a qualquer tempo durante a vigência das Debêntures da Primeira Série, não houver divulgação da Taxa DI, será aplicada a última Taxa DI disponível até o momento para cálculo da Remuneração das Debêntures da Primeira Série, não sendo devidas quaisquer compensações entre a Emissora e o titular das Debêntures da Primeira Série quando da divulgação posterior da Taxa DI que seria aplicável.
+
+Caso a Taxa DI deixe de ser divulgada por prazo superior a 30 (trinta) dias, ou caso seja extinta, ou haja a impossibilidade legal de aplicação da Taxa DI para cálculo da Remuneração das Debêntures da Primeira Série, o Agente Fiduciário deverá, no prazo máximo de até 5 (cinco) Dias Úteis a contar do final do prazo de 30 (trinta) dias acima mencionado ou do evento de extinção ou inaplicabilidade, conforme o caso, convocar Assembleia Geral de Debenturistas da Primeira Série, na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura de Emissão, conforme definidos na Cláusula 10 abaixo, a qual terá como objeto a deliberação pelos Debenturistas da Primeira Série, de comum acordo com a Emissora, do novo parâmetro de remuneração das Debêntures da Primeira Série, parâmetro este que deverá preservar o valor real e os mesmos níveis de Remuneração das Debêntures da Primeira Série. Caso não haja acordo sobre o novo parâmetro da Remuneração das Debêntures da Primeira Série, entre a Emissora e os Debenturistas das Debêntures da Primeira Série, representando, no mínimo, em primeira ou em segunda convocação, 2/3 (dois terços) das Debêntures da Primeira Série em Circulação (conforme definido abaixo), ou na ausência de quórum de instalação em ambas as convocações, a Emissora deverá resgatar a totalidade das Debêntures da Primeira Série, no prazo máximo de 30 (trinta) dias corridos contados da data de encerramento da respectiva Assembleia Geral de Debenturistas da Primeira Série ou em prazo superior que venha a ser definido em comum acordo em referida assembleia, pelo Valor Nominal Unitário das Debêntures da Primeira Série, acrescido da Remuneração das Debêntures da Primeira Série, devida até a data do efetivo resgate, calculada pro rata temporis, desde a Data de Início da Rentabilidade das Debêntures da Primeira Série, ou Data de Pagamento da Remuneração das Debêntures da Primeira Série (inclusive) imediatamente anterior, até a data do efetivo resgate (exclusive). As Debêntures da Primeira Série resgatadas nos termos desta Cláusula 4.11.8 serão canceladas pela Emissora. Nesta alternativa, para cálculo da Remuneração das Debêntures da Primeira Série, a serem resgatadas, para cada dia do período em que a ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente. 
+
+O período de capitalização da Remuneração das Debêntures da Primeira Série ('Período de Capitalização das Debêntures da Primeira Série') é, para o primeiro Período de Capitalização das Debêntures da Primeira Série, o intervalo de tempo que se inicia na Data de Início da Rentabilidade das Debêntures da Primeira Série, inclusive, e termina na primeira Data de Pagamento da Remuneração das Debêntures da Primeira Série, exclusive, e, para os demais Períodos de Capitalização das Debêntures da Primeira Série, o intervalo de tempo que se inicia na Data de Pagamento da Remuneração das Debêntures da Primeira Série imediatamente anterior, inclusive, e termina na Data de Pagamento da Remuneração das Debêntures da Primeira Série subsequente, exclusive. Cada Período de Capitalização das Debêntures da Primeira Série sucede o anterior sem solução de continuidade, até a Data de Vencimento das Debêntures da Primeira Série.
+
+Remuneração das Debêntures da Segunda Série: Sobre o Valor Nominal Unitário das Debêntures da Segunda Série incidirão juros remuneratórios correspondentes à variação acumulada de 100% (cem por cento) da Taxa DI, acrescida de spread (sobretaxa) a ser definida de acordo com o Procedimento de Bookbuilding, limitada a 2,40% (dois inteiros e quarenta centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração das Debêntures da Segunda Série' e, em conjunto com a Remuneração das Debêntures da Primeira Série, as 'Remunerações'). 
+
+A Remuneração da Segunda Série será calculada de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos, incidentes sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures da Segunda Série, desde a Data de Início da Rentabilidade das Debêntures da Segunda Série, ou Data de Pagamento da Remuneração da Segunda Série imediatamente anterior (inclusive) até a data de pagamento da Remuneração da Segunda Série em questão, data de declaração de vencimento antecipado em decorrência de um Evento de Vencimento Antecipado (conforme abaixo definido) ou na data de uma eventual Oferta de Resgate Antecipado (conforme abaixo definido), o que ocorrer primeiro. A Remuneração da Segunda Série será calculada de acordo com a seguinte fórmula:
+
+J = Vne x (Fator Juros – 1)
+
+Onde:
+
+
+Fator Juros = (Fator DI x Fator Spread)
+
+Onde:
+
+
+
+Efetua-se o produto dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado.
+
+Se os fatores diários estiverem acumulados, considerar-se-á o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+
+O fator resultante da expressão (Fator DI x Fator Spread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pela entidade responsável pelo seu cálculo.
+
+Observado o disposto no parágrafo abaixo, se, a qualquer tempo durante a vigência das Debêntures da Segunda Série, não houver divulgação da Taxa DI, será aplicada a última Taxa DI disponível até o momento para cálculo da Remuneração das Debêntures da Segunda Série, não sendo devidas quaisquer compensações entre a Emissora e o titular das Debêntures da Segunda Série quando da divulgação posterior da Taxa DI que seria aplicável.
+
+Caso a Taxa DI deixe de ser divulgada por prazo superior a 30 (trinta) dias, ou caso seja extinta, ou haja a impossibilidade legal de aplicação da Taxa DI para cálculo da Remuneração das Debêntures da Segunda Série, o Agente Fiduciário deverá, no prazo máximo de até 5 (cinco) Dias Úteis a contar do final do prazo de 30 (trinta) dias acima mencionado ou do evento de extinção ou inaplicabilidade, conforme o caso, convocar Assembleia Geral de Debenturistas da Segunda Série, na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura de Emissão, conforme definidos na Cláusula 10 abaixo, a qual terá como objeto a deliberação pelos Debenturistas da Segunda Série, de comum acordo com a Emissora, do novo parâmetro de remuneração das Debêntures da Segunda Série, parâmetro este que deverá preservar o valor real e os mesmos níveis de Remuneração das Debêntures da Segunda Série. Caso não haja acordo sobre o novo parâmetro da Remuneração das Debêntures da Segunda Série, entre a Emissora e os Debenturistas das Debêntures da Segunda Série, representando, no mínimo, em primeira ou em segunda convocação, 2/3 (dois terços) das Debêntures da Segunda Série em Circulação (conforme definido abaixo), ou na ausência de quórum de instalação em ambas as convocações, a Emissora deverá resgatar a totalidade das Debêntures da Segunda Série, no prazo máximo de 30 (trinta) dias corridos contados da data de encerramento da respectiva Assembleia Geral de Debenturistas da Segunda Série ou em prazo superior que venha a ser definido em comum acordo em referida assembleia, pelo Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures da Segunda Série, acrescido da Remuneração das Debêntures da Segunda Série, devida até a data do efetivo resgate, calculada pro rata temporis, desde a Data de Início da Rentabilidade das Debêntures da Segunda Série, ou Data de Pagamento da Remuneração das Debêntures da Segunda Série imediatamente anterior (inclusive), até a data do efetivo resgate (exclusive). As Debêntures da Segunda Série resgatadas nos termos desta Cláusula 4.11.17 serão canceladas pela Emissora. Nesta alternativa, para cálculo da Remuneração das Debêntures da Segunda Série, a serem resgatadas, para cada dia do período em que a ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente. 
+
+O período de capitalização da Remuneração das Debêntures da Segunda Série ('Período de Capitalização das Debêntures da Segunda Série') é, para o primeiro Período de Capitalização das Debêntures da Segunda Série, o intervalo de tempo que se inicia na Data de Início da Rentabilidade das Debêntures da Segunda Série, inclusive, e termina na primeira Data de Pagamento da Remuneração das Debêntures da Segunda Série, exclusive, e, para os demais Períodos de Capitalização das Debêntures da Segunda Série, o intervalo de tempo que se inicia na Data de Pagamento da Remuneração das Debêntures da Segunda Série imediatamente anterior, inclusive, e termina na Data de Pagamento da Remuneração das Debêntures da Segunda Série subsequente, exclusive. Cada Período de Capitalização das Debêntures da Segunda Série sucede o anterior sem solução de continuidade, até a Data de Vencimento das Debêntures da Segunda Série.
+
+Remuneração
+
+As Debêntures da Primeira Série farão jus, a partir da primeira Data de Integralização, a uma remuneração correspondente a 100% (cem por cento) da variação acumulada das taxas médias diárias dos DI – Depósitos Interfinanceiros de um dia, 'over extra grupo', expressa na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 no informativo diário disponível em sua página na internet () ('Taxa DI'), acrescida exponencialmente de spread ou sobretaxa equivalente a 2,10% (dois inteiros e dez centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis incidente sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures da Primeira Série, conforme o caso ('Remuneração da Primeira Série'), calculados de forma exponencial e cumulativa pro rata temporis por Dias Úteis decorridos, desde a primeira Data de Integralização das Debêntures ou a Data de Pagamento da Remuneração da Primeira Série (conforme abaixo definido) imediatamente anterior, o que ocorrer por último, até a data de seu efetivo pagamento ('Período de Capitalização').
+
+O cálculo da Remuneração da Primeira Série obedecerá à seguinte fórmula:
+
+J = Vne x (Fator Juros – 1)
+
+onde:
+
+
+FatorJuros = (FatorDI x FatorSpread)
+
+Onde:
+
+
+FatorSpread = Sobretaxa de juros fixos calculada com 9 (nove) casas decimais, com arredondamento, conforme fórmula abaixo:
+
+
+
+Onde:
+
+
+Observações: 
+
+O fator resultante da expressão (1 + TDIk) é considerado com 16 (dezesseis) casas decimais, sem arredondamento;
+Efetua-se o produto dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado;
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pela entidade responsável pelo seu cálculo, salvo quando expressamente indicado de outra forma.
+
+As Debêntures da Segunda Série farão jus, a partir da primeira Data de Integralização, a uma remuneração correspondente a 100% (cem por cento) da Taxa DI, acrescida exponencialmente de spread ou sobretaxa equivalente a 2,40% (dois inteiros e quarenta centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis incidente sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures da Segunda Série, conforme o caso ('Remuneração da Segunda Série' e, em conjunto com a Remuneração da Primeira Série, as 'Remunerações') paga ao final de cada Período de Capitalização. 
+
+O cálculo da Remuneração da Segunda Série obedecerá à seguinte fórmula:
+
+J = Vne x (Fator Juros – 1)
+
+onde:
+
+
+FatorJuros = (FatorDI x FatorSpread)
+
+Onde:
+
+
+FatorSpread = Sobretaxa de juros fixos calculada com 9 (nove) casas decimais, com arredondamento, conforme fórmula abaixo:
+
+
+
+Onde:
+
+
+Observações: 
+
+O fator resultante da expressão (1 + TDIk) é considerado com 16 (dezesseis) casas decimais, sem arredondamento;
+Efetua-se o produto dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado;
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pela entidade responsável pelo seu cálculo, salvo quando expressamente indicado de outra forma.
+
+Remuneração
+
+Sobre o Valor Nominal Unitário ou o saldo do Valor Nominal Unitário, conforme o caso, das Debêntures incidirão juros remuneratórios correspondentes a 100% (cem por cento) das taxas médias diárias do DI – Depósitos Interfinanceiros de um dia, 'over extra grupo', expressa na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 S.A. – Brasil, Bolsa, Balcão, no informativo diário disponível em sua página na internet () ('Taxa DI'), acrescida de spread (sobretaxa) de 1,35% (um inteiro e trinta e cinco centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração'). [Nota Machado Meyer: a ordem e a redação foram atualizadas conforme o Guia de Padronização da ANBIMA.]
+
+A Remuneração será calculada de forma exponencial e cumulativa, pro rata temporis por Dias Úteis decorridos, incidentes sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, das Debêntures desde a Data de Início da Rentabilidade até a data do seu efetivo pagamento (exclusive), em regime de capitalização composta, de acordo com a fórmula abaixo:
+
+
+
+onde:
+
+J = valor unitário da Remuneração devida até a data do seu efetivo pagamento (exclusive), calculado com 8 (oito) casas decimais, sem arredondamento;
+
+Vne = Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, das Debêntures, calculado com 8 (oito) casas decimais, sem arredondamento;
+
+Fator Juros = fator de juros composto pelo parâmetro de flutuação acrescido de spread calculado com 9 (nove) casas decimais, com arredondamento. Apurado da seguinte forma:
+
+
+
+onde:
+
+Fator DI = produto das Taxas DI-Over, com uso de percentual aplicado, da Data de Início da Rentabilidade, inclusive, até a data de cálculo, exclusive, calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+onde:
+
+nDI = número total de Taxas DI-Over consideradas na atualização do ativo, sendo 'nDI' um número inteiro;
+
+= Taxa DI-Over, de ordem k, expressa ao dia, calculada com 8 (oito) casas decimais com arredondamento, apurada da seguinte forma:
+
+
+
+onde: 
+
+ = Taxa DI, de ordem k, divulgada pela B3 por meio de seu site, utilizada com 2 (duas) casas decimais; e
+
+Fator Spread= sobretaxa de juros fixos calculada com 9 (nove) casas decimais, com arredondamento, apurada conforme fórmula abaixo:
+
+
+
+onde:
+
+Spread = 1,3500;
+
+DP = número de Dias Úteis entre a Data de Início da Rentabilidade e a data atual, sendo 'DP' um número inteiro.
+
+Efetua-se o produto dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado.
+
+Se os fatores diários estiverem acumulados, considera-se o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+
+O fator resultante da expressão (Fator DI x Fator Spread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo.
+
+Observado o disposto no parágrafo abaixo, se, a qualquer tempo durante a vigência das Debêntures, não houver divulgação da Taxa DI, será aplicada a última Taxa DI disponível até o momento para cálculo da Remuneração, não sendo devidas quaisquer compensações entre a Emissora e o Debenturista quando da divulgação posterior da Taxa DI que seria aplicável.
+
+Caso a Taxa DI deixe de ser divulgada por prazo superior a 30 (trinta) dias, ou caso seja extinta, ou haja a impossibilidade legal de aplicação da Taxa DI para cálculo da Remuneração das Debêntures, o Agente Fiduciário deverá, no prazo máximo de até 5 (cinco) Dias Úteis a contar do final do prazo de 30 (trinta) dias acima mencionado ou do evento de extinção ou inaplicabilidade, conforme o caso, convocar AGD (conforme abaixo definido), na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura de Emissão, conforme definidos na Cláusula 9 abaixo, a qual terá como objeto a deliberação pelos Debenturistas, de comum acordo com a Emissora, do novo parâmetro de Remuneração das Debêntures, parâmetro este que deverá preservar o valor real e os mesmos níveis de Remuneração. Caso não haja acordo sobre o novo parâmetro de Remuneração entre a Emissora e os Debenturistas representando, no mínimo, 2/3 (dois terços) das Debêntures em Circulação (conforme abaixo definido) em primeira convocação e 30% (trinta por cento) das Debêntures em Circulação em segunda convocação, a Emissora deverá resgatar a totalidade das Debêntures, no prazo máximo de 30 (trinta) dias contados da data de encerramento da respectiva AGD ou em prazo superior que venha a ser definido em comum acordo em referida assembleia, pelo seu Valor Nominal Unitário ou saldo do Valor Nominal Unitário, acrescido da Remuneração devida até a data do efetivo resgate, calculada pro rata temporis, a partir da Data de Início da Rentabilidade das Debêntures ou da Data de Pagamento da Remuneração imediatamente anterior, conforme o caso. As Debêntures resgatadas nos termos deste item serão canceladas pela Emissora. Nesta alternativa, para cálculo da Remuneração das Debêntures a serem resgatadas, para cada dia do período em que a ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente.
+
+Remuneração
+
+Sobre o Valor Nominal Unitário ou o saldo do Valor Nominal Unitário, conforme o caso, das Debêntures incidirão juros remuneratórios correspondentes a 100% (cem por cento) das taxas médias diárias do DI – Depósitos Interfinanceiros de um dia, 'over extra grupo', expressa na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas diariamente pela B3 S.A. – Brasil, Bolsa, Balcão, no informativo diário disponível em sua página na internet () ('Taxa DI'), acrescida de spread (sobretaxa) de 1,35% (um inteiro e trinta e cinco centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração'). [Nota Machado Meyer: a ordem e a redação foram atualizadas conforme o Guia de Padronização da ANBIMA.]
+
+A Remuneração será calculada de forma exponencial e cumulativa, pro rata temporis por Dias Úteis decorridos, incidentes sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, das Debêntures desde a Data de Início da Rentabilidade até a data do seu efetivo pagamento (exclusive), em regime de capitalização composta, de acordo com a fórmula abaixo:
+
+
+
+onde:
+
+J = valor unitário da Remuneração devida até a data do seu efetivo pagamento (exclusive), calculado com 8 (oito) casas decimais, sem arredondamento;
+
+Vne = Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, das Debêntures, calculado com 8 (oito) casas decimais, sem arredondamento;
+
+Fator Juros = fator de juros composto pelo parâmetro de flutuação acrescido de spread calculado com 9 (nove) casas decimais, com arredondamento. Apurado da seguinte forma:
+
+
+
+onde:
+
+Fator DI = produto das Taxas DI-Over, com uso de percentual aplicado, da Data de Início da Rentabilidade, inclusive, até a data de cálculo, exclusive, calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+onde:
+
+nDI = número total de Taxas DI-Over consideradas na atualização do ativo, sendo 'nDI' um número inteiro;
+
+= Taxa DI-Over, de ordem k, expressa ao dia, calculada com 8 (oito) casas decimais com arredondamento, apurada da seguinte forma:
+
+
+
+onde: 
+
+ = Taxa DI, de ordem k, divulgada pela B3 por meio de seu site, utilizada com 2 (duas) casas decimais; e
+
+Fator Spread= sobretaxa de juros fixos calculada com 9 (nove) casas decimais, com arredondamento, apurada conforme fórmula abaixo:
+
+
+
+onde:
+
+Spread = 1,3500;
+
+DP = número de Dias Úteis entre a Data de Início da Rentabilidade e a data atual, sendo 'DP' um número inteiro.
+
+Efetua-se o produto dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado.
+
+Se os fatores diários estiverem acumulados, considera-se o fator resultante 'Fator DI' com 8 (oito) casas decimais, com arredondamento.
+
+O fator resultante da expressão (Fator DI x Fator Spread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo.
+
+Observado o disposto no parágrafo abaixo, se, a qualquer tempo durante a vigência das Debêntures, não houver divulgação da Taxa DI, será aplicada a última Taxa DI disponível até o momento para cálculo da Remuneração, não sendo devidas quaisquer compensações entre a Emissora e o Debenturista quando da divulgação posterior da Taxa DI que seria aplicável.
+
+Caso a Taxa DI deixe de ser divulgada por prazo superior a 30 (trinta) dias, ou caso seja extinta, ou haja a impossibilidade legal de aplicação da Taxa DI para cálculo da Remuneração das Debêntures, o Agente Fiduciário deverá, no prazo máximo de até 5 (cinco) Dias Úteis a contar do final do prazo de 30 (trinta) dias acima mencionado ou do evento de extinção ou inaplicabilidade, conforme o caso, convocar AGD (conforme abaixo definido), na forma e nos prazos estipulados no artigo 124 da Lei das Sociedades por Ações e nesta Escritura de Emissão, conforme definidos na Cláusula 9 abaixo, a qual terá como objeto a deliberação pelos Debenturistas, de comum acordo com a Emissora, do novo parâmetro de Remuneração das Debêntures, parâmetro este que deverá preservar o valor real e os mesmos níveis de Remuneração. Caso não haja acordo sobre o novo parâmetro de Remuneração entre a Emissora e os Debenturistas representando, no mínimo, 2/3 (dois terços) das Debêntures em Circulação (conforme abaixo definido) em primeira convocação e 30% (trinta por cento) das Debêntures em Circulação em segunda convocação, a Emissora deverá resgatar a totalidade das Debêntures, no prazo máximo de 30 (trinta) dias contados da data de encerramento da respectiva AGD ou em prazo superior que venha a ser definido em comum acordo em referida assembleia, pelo seu Valor Nominal Unitário ou saldo do Valor Nominal Unitário, acrescido da Remuneração devida até a data do efetivo resgate, calculada pro rata temporis, a partir da Data de Início da Rentabilidade das Debêntures ou da Data de Pagamento da Remuneração imediatamente anterior, conforme o caso. As Debêntures resgatadas nos termos deste item serão canceladas pela Emissora. Nesta alternativa, para cálculo da Remuneração das Debêntures a serem resgatadas, para cada dia do período em que a ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente.
+
+Remuneração
+Sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, conforme o caso, incidirão juros remuneratórios correspondentes a 100% (cem por cento) da variação acumulada das taxas médias diárias dos DI – Depósitos Interfinanceiros de um dia, over extra grupo, expressa na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculada e divulgada diariamente pela B3 no informativo diário disponível em sua página na internet (http://www.b3.com.br) ('Taxa DI'), acrescida de uma sobretaxa de 1,70% (um inteiro e setenta centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração'), calculados de forma exponencial e cumulativa pro rata temporis, por dias úteis decorridos, desde a respectiva Primeira Data de Integralização ou a Data de Pagamento da Remuneração (conforme abaixo definida) imediatamente anterior, conforme o caso, até a data do efetivo pagamento.
+A Remuneração das Debêntures será calculada de acordo com a seguinte fórmula:
+J = VNe x (Fator Juros – 1)
+Onde:
+J = valor unitário da Remuneração relativa às Debêntures devida ao final de cada Período de Capitalização (conforme abaixo definido), calculado com 8 (oito) casas decimais sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, informado/calculado com 8 (oito) casas decimais, sem arredondamento; e
+FatorJuros = fator de juros composto pelo parâmetro de flutuação acrescido do spread, calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+Onde:
+
+FatorJuros = (FatorDI x FatorSpread)
+
+FatorDI = produtório das Taxas DIk, desde a Primeira Data de Integralização, inclusive, ou da Data de Pagamento da Remuneração (conforme abaixo definida) imediatamente anterior, inclusive, até a data de cálculo, exclusive, calculado com
+
+8 (oito) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+
+
+
+Onde:
+
+FatorDI  1 TDIk 
+k 1
+
+k = número de ordens das Taxas DI, variando de 1 (um) até nDI;
+nDI = número total de Taxas DI consideradas na apuração do produtório, sendo 'nDI' um número inteiro; e
+TDIk = Taxa DI, de ordem k, expressa ao dia, calculada com 8 (oito) casas decimais, com arredondamento, apurada da seguinte forma:
+
+
+
+
+
+Onde:
+
+
+TDIk
+
+  DI k
+ 100
+
+
+1
+
+
+ 252
+1	1
+
+
+DIk = Taxa DI divulgada pela B3, válida por 1 (um) Dia Útil, utilizada com 2 (duas) casas decimais.
+Fator Spread = sobretaxa de juros fixos calculada com 9 (nove) casas decimais, com arredondamento, calculado conforme fórmula abaixo:
+
+DP
+FatorSpread   spread  1 252
+
+ 100	
+Onde:
+spread = 1,7000; e
+DP = número de Dias Úteis entre a Primeira Data de Integralização ou a Data de Pagamento da Remuneração imediatamente anterior (inclusive), conforme o caso, e a data do cálculo (exclusive), sendo 'DP' um número inteiro.
+Observações:
+o fator resultante da expressão (1 + TDIk) é considerado com 16 (dezesseis) casas decimais, sem arredondamento;
+efetua-se o produtório dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado; e
+a Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo, salvo quando expressamente indicado de outra forma.
+Define-se 'Período de Capitalização' como sendo o intervalo de tempo que se inicia na respectiva Primeira Data de Integralização, no caso do primeiro Período de Capitalização (inclusive), ou na Data de Pagamento da Remuneração imediatamente anterior (inclusive), no caso dos demais Períodos de Capitalização, e termina na data prevista para o pagamento da Remuneração correspondente ao período em questão (exclusive). Cada Período de
+
+Capitalização sucede o anterior de forma contínua, até a respectiva Data de Vencimento.
+No caso de indisponibilidade temporária da Taxa DI na data de pagamento de qualquer obrigação pecuniária da Emissora relativa às Debêntures, inclusive a Remuneração, será aplicada, em sua substituição, a última Taxa DI divulgada oficialmente pelo número de dias necessários até a data do cálculo, não sendo devidas quaisquer compensações financeiras, tanto por parte da Emissora quanto por parte dos Debenturistas, quando da divulgação posterior da Taxa DI que seria aplicável.
+Na hipótese de extinção, limitação e/ou não divulgação da Taxa DI por mais de 10 (dez) Dias Úteis consecutivos após a data esperada para sua apuração e/ou divulgação ou no caso de impossibilidade de aplicação da Taxa DI à Remuneração das Debêntures por proibição legal ou judicial, o Agente Fiduciário deverá, nos termos da Cláusula 9 abaixo, em até 2 (dois) Dias Úteis contados: (i) do primeiro dia em que a Taxa DI não tenha sido divulgada pelo prazo superior a 10 (dez) Dias Úteis; ou (ii) do primeiro dia em que a Taxa DI não possa ser utilizada por proibição legal ou judicial, convocar Assembleia Geral de Debenturistas (conforme definida abaixo) para deliberar, em comum acordo com a Emissora e com os Debenturistas e observada a regulamentação aplicável e na Cláusula 9 abaixo, sobre o novo parâmetro de remuneração das Debêntures a ser aplicado, observadas as disposições da Cláusula 9 abaixo relativas aos quóruns para instalação e deliberação da Assembleia Geral de Debenturistas ('Taxa Substitutiva'). Até a deliberação da Taxa Substitutiva, a última Taxa DI divulgada oficialmente será utilizada na apuração do FatorDI quando do cálculo de quaisquer obrigações previstas nesta Escritura de Emissão, não sendo devidas quaisquer compensações entre a Emissora e os Debenturistas, quando da deliberação da Taxa Substitutiva.
+Caso, na Assembleia Geral de que trata a Cláusula 4.12.5 acima, não haja acordo sobre a Taxa Substitutiva entre a Emissora e os Debenturistas representando, no mínimo, a maioria das Debêntures em Circulação (conforme abaixo definidas), ou caso, ainda, a Assembleia Geral de Debenturistas não seja instalada em segunda convocação, a Emissora deverá resgatar antecipadamente a totalidade das Debêntures, no prazo de 20 (vinte) Dias Úteis contados da (i) data em que ocorrer a Assembleia Geral de Debenturistas; ou (ii) data em que a Assembleia Geral de Debenturistas deveria ter sido realizada, em caso de ausência de quórum de instalação em segunda convocação, nos termos da Cláusula 9.2 abaixo, ou (iii) Data de Vencimento, o que ocorrer primeiro, pelo Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, acrescido da Remuneração devida até a data do efetivo resgate, calculados pro rata temporis, a partir da Primeira Data de Integralização, ou Data de Pagamento da Remuneração imediatamente anterior, conforme o caso, sem pagamento de multa ou qualquer prêmio (ressalvado o disposto na Cláusula 4.20 abaixo, se for o caso). As Debêntures, uma vez resgatadas antecipadamente nos termos desta Cláusula, serão canceladas pela Emissora. Na hipótese de resgate antecipado das Debêntures nos termos desta Cláusula, para o cálculo da Remuneração, para cada dia do período em que ocorra a ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente.
+Remuneração
+Sobre o Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, conforme o caso, incidirão juros remuneratórios correspondentes a 100% (cem por cento) da variação acumulada das taxas médias diárias dos DI – Depósitos Interfinanceiros de um dia, over extra grupo, expressa na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculada e divulgada diariamente pela B3 no informativo diário disponível em sua página na internet (http://www.b3.com.br) ('Taxa DI'), acrescida de uma sobretaxa de 1,70% (um inteiro e setenta centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração'), calculados de forma exponencial e cumulativa pro rata temporis, por dias úteis decorridos, desde a respectiva Primeira Data de Integralização ou a Data de Pagamento da Remuneração (conforme abaixo definida) imediatamente anterior, conforme o caso, até a data do efetivo pagamento. 
+A Remuneração das Debêntures será calculada de acordo com a seguinte fórmula:
+J = VNe x (Fator Juros – 1)
+Onde:
+J = valor unitário da Remuneração relativa às Debêntures devida ao final de cada Período de Capitalização (conforme abaixo definido), calculado com 8 (oito) casas decimais sem arredondamento; 
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, informado/calculado com 8 (oito) casas decimais, sem arredondamento; e
+FatorJuros = fator de juros composto pelo parâmetro de flutuação acrescido do spread, calculado com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma: 
+
+Onde:
+FatorDI = produtório das Taxas DIk, desde a Primeira Data de Integralização, inclusive, ou da Data de Pagamento da Remuneração (conforme abaixo definida) imediatamente anterior, inclusive, até a data de cálculo, exclusive, calculado com 8 (oito) casas decimais, com arredondamento, apurado da seguinte forma:
+
+Onde:
+k = número de ordens das Taxas DI, variando de 1 (um) até nDI;
+nDI = número total de Taxas DI consideradas na apuração do produtório, sendo 'nDI' um número inteiro; e
+TDIk = Taxa DI, de ordem k, expressa ao dia, calculada com 8 (oito) casas decimais, com arredondamento, apurada da seguinte forma:
+
+Onde:
+DIk = Taxa DI divulgada pela B3, válida por 1 (um) Dia Útil, utilizada com 2 (duas) casas decimais.
+Fator Spread = sobretaxa de juros fixos calculada com 9 (nove) casas decimais, com arredondamento, calculado conforme fórmula abaixo:
+
+Onde:
+spread = 1,7000; e
+DP = número de Dias Úteis entre a Primeira Data de Integralização ou a Data de Pagamento da Remuneração imediatamente anterior (inclusive), conforme o caso, e a data do cálculo (exclusive), sendo 'DP' um número inteiro.
+Observações:
+o fator resultante da expressão (1 + TDIk) é considerado com 16 (dezesseis) casas decimais, sem arredondamento;
+efetua-se o produtório dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado; e
+a Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pelo órgão responsável pelo seu cálculo, salvo quando expressamente indicado de outra forma.
+Define-se 'Período de Capitalização' como sendo o intervalo de tempo que se inicia na respectiva Primeira Data de Integralização, no caso do primeiro Período de Capitalização (inclusive), ou na Data de Pagamento da Remuneração imediatamente anterior (inclusive), no caso dos demais Períodos de Capitalização, e termina na data prevista para o pagamento da Remuneração correspondente ao período em questão (exclusive). Cada Período de Capitalização sucede o anterior de forma contínua, até a respectiva Data de Vencimento.
+No caso de indisponibilidade temporária da Taxa DI na data de pagamento de qualquer obrigação pecuniária da Emissora relativa às Debêntures, inclusive a Remuneração, será aplicada, em sua substituição, a última Taxa DI divulgada oficialmente pelo número de dias necessários até a data do cálculo, não sendo devidas quaisquer compensações financeiras, tanto por parte da Emissora quanto por parte dos Debenturistas, quando da divulgação posterior da Taxa DI que seria aplicável.
+Na hipótese de extinção, limitação e/ou não divulgação da Taxa DI por mais de 10 (dez) Dias Úteis consecutivos após a data esperada para sua apuração e/ou divulgação ou no caso de impossibilidade de aplicação da Taxa DI à Remuneração das Debêntures por proibição legal ou judicial, o Agente Fiduciário deverá, nos termos da Cláusula 9 abaixo, em até 2 (dois) Dias Úteis contados: (i) do primeiro dia em que a Taxa DI não tenha sido divulgada pelo prazo superior a 10 (dez) Dias Úteis; ou (ii) do primeiro dia em que a Taxa DI não possa ser utilizada por proibição legal ou judicial, convocar Assembleia Geral de Debenturistas (conforme definida abaixo) para deliberar, em comum acordo com a Emissora e com os Debenturistas e observada a regulamentação aplicável e na Cláusula 9 abaixo, sobre o novo parâmetro de remuneração das Debêntures a ser aplicado, observadas as disposições da Cláusula 9 abaixo relativas aos quóruns para instalação e deliberação da Assembleia Geral de Debenturistas ('Taxa Substitutiva'). Até a deliberação da Taxa Substitutiva, a última Taxa DI divulgada oficialmente será utilizada na apuração do FatorDI quando do cálculo de quaisquer obrigações previstas nesta Escritura de Emissão, não sendo devidas quaisquer compensações entre a Emissora e os Debenturistas, quando da deliberação da Taxa Substitutiva.
+Caso, na Assembleia Geral de que trata a Cláusula 4.12.5 acima, não haja acordo sobre a Taxa Substitutiva entre a Emissora e os Debenturistas representando, no mínimo, a maioria das Debêntures em Circulação (conforme abaixo definidas), ou caso, ainda, a Assembleia Geral de Debenturistas não seja instalada em segunda convocação, a Emissora deverá resgatar antecipadamente a totalidade das Debêntures, no prazo de 20 (vinte) Dias Úteis contados da (i) data em que ocorrer a Assembleia Geral de Debenturistas; ou (ii) data em que a Assembleia Geral de Debenturistas deveria ter sido realizada, em caso de ausência de quórum de instalação em segunda convocação, nos termos da Cláusula 9.2 abaixo, ou (iii) Data de Vencimento, o que ocorrer primeiro, pelo Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, acrescido da Remuneração devida até a data do efetivo resgate, calculados pro rata temporis, a partir da Primeira Data de Integralização, ou Data de Pagamento da Remuneração imediatamente anterior, conforme o caso, sem pagamento de multa ou qualquer prêmio (ressalvado o disposto na Cláusula 4.20 abaixo, se for o caso). As Debêntures, uma vez resgatadas antecipadamente nos termos desta Cláusula, serão canceladas pela Emissora. Na hipótese de resgate antecipado das Debêntures nos termos desta Cláusula, para o cálculo da Remuneração, para cada dia do período em que ocorra a ausência de taxas, será utilizada a última Taxa DI divulgada oficialmente. 
+Remuneração 
+
+Remuneração das Debêntures da Primeira Série: As Debêntures da Primeira Série farão jus a remuneração equivalente à variação acumulada de 100% (cem por cento) das taxas médias diárias dos Depósitos Interfinanceiros - DI de um dia, over extra grupo, expressas na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas pela B3 S.A. – Brasil, Bolsa, Balcão, no informativo diário disponível em sua página na internet (www.b3.com.br) ('Taxa DI'), acrescida de um percentual (spread) de 2,00% (dois inteiros por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração das Debêntures da Primeira Série'). A Remuneração das Debêntures da Primeira Série será incidente sobre o Valor Nominal Unitário, ou saldo do Valor Nominal Unitário das Debêntures da Primeira Série, conforme o caso, e será calculada de forma exponencial e cumulativa pro rata temporis por dias úteis decorridos desde a primeira Data de Integralização das Debêntures da Primeira Série ou da data de pagamento da Remuneração das Debêntures da Primeira Série imediatamente anterior, conforme o caso, até a data do respectivo pagamento da Remuneração das Debêntures da Primeira Série, de acordo com a seguinte fórmula: [Nota Cescon Barrieu: Agente Fiduciário a confirmar fórmula abaixo.] 
+
+J = VNe x (Fator de Juros – 1)
+
+onde:
+
+
+
+
+
+
+onde: 
+
+
+
+
+'FatorSpread' corresponde à sobretaxa de juros fixos, calculada com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+onde: 
+
+'spread' é igual à 2,0000;
+
+'DP' é o número de Dias Úteis entre a primeira Data de Integralização das Debêntures da Primeira Série, ou data de pagamento da Remuneração das Debêntures da Primeira Série imediatamente anterior, e a data atual, sendo 'DP' um número inteiro.
+
+O cálculo da Remuneração das Debêntures da Primeira Série acima está sujeito às seguintes observações:
+
+O fator resultante da expressão (1 + TDIk) é considerado com 16 (dezesseis) casas decimais, sem arredondamento;
+
+Efetua-se o produtório dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado;
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pela B3 S.A. – Brasil, Bolsa, Balcão; 
+
+Uma vez os fatores estando acumulados, considera-se o fator resultante do produtório 'Fator DI' com 8 (oito) casas decimais, com arredondamento; e
+
+o fator resultante da expressão (FatorDI x FatorSpread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+Remuneração das Debêntures da Segunda Série: As Debêntures da Segunda Série farão jus a remuneração equivalente à variação acumulada de 100% (cem por cento) da Taxa DI, acrescida de um percentual (spread) de 2,60% (dois inteiros e sessenta centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração das Debêntures da Segunda Série' e, em conjunto com a Remuneração das Debêntures da Primeira Série, 'Remuneração'). A Remuneração das Debêntures da Segunda Série será incidente sobre o Valor Nominal Unitário, ou saldo do Valor Nominal Unitário das Debêntures da Segunda Série, conforme o caso, e será calculada de forma exponencial e cumulativa pro rata temporis por dias úteis decorridos desde a primeira Data de Integralização das Debêntures da Segunda Série ou da data de pagamento da Remuneração das Debêntures da Segunda Série imediatamente anterior, conforme o caso, até a data do respectivo pagamento da Remuneração das Debêntures da Segunda Série, de acordo com a seguinte fórmula: [Nota Cescon Barrieu: Agente Fiduciário a confirmar fórmula abaixo.]
+
+J = VNe x (Fator de Juros – 1)
+
+onde:
+
+
+
+
+
+
+onde: 
+
+
+
+
+'FatorSpread' corresponde à sobretaxa de juros fixos, calculada com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+onde: 
+
+'spread' é igual à 2,6000;
+
+'DP' é o número de Dias Úteis entre a primeira Data de Integralização das Debêntures da Segunda Série, ou data de pagamento da Remuneração das Debêntures da Segunda Série imediatamente anterior, e a data atual, sendo 'DP' um número inteiro.
+
+O cálculo da Remuneração das Debêntures da Segunda Série acima está sujeito às seguintes observações:
+
+O fator resultante da expressão (1 + TDIk) é considerado com 16 (dezesseis) casas decimais, sem arredondamento;
+
+Efetua-se o produtório dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado;
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pela B3 S.A. – Brasil, Bolsa, Balcão; 
+
+Uma vez os fatores estando acumulados, considera-se o fator resultante do produtório 'Fator DI' com 8 (oito) casas decimais, com arredondamento; e
+
+O fator resultante da expressão (FatorDI x FatorSpread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+Observado o quanto estabelecido na Cláusula abaixo, no caso de indisponibilidade temporária da Taxa DI, será utilizada, em sua substituição, a última Taxa DI divulgada até a data do cálculo, não sendo devidas quaisquer compensações financeiras, tanto por parte da Emissora quanto por parte dos Debenturistas, quando da divulgação posterior da Taxa DI que seria aplicável ('Indisponibilidade da Taxa DI').
+
+Na ausência de apuração e/ou divulgação da Taxa DI por prazo superior a 5 (cinco) Dias Úteis da data esperada para sua divulgação, ou, ainda, no caso de sua extinção por imposição legal ou determinação judicial, o Agente Fiduciário deverá convocar no primeiro Dia Útil subsequente ao término do prazo de 5 (cinco) Dias Úteis acima ou da data de sua extinção por imposição legal ou determinação judicial, assembleia geral de debenturistas ('Assembleia Geral de Debenturistas' ou 'AGD') para os Debenturistas definirem, de comum acordo com a Emissora, o parâmetro a ser aplicado. Até a deliberação desse parâmetro, serão utilizadas, para o cálculo do valor de quaisquer obrigações pecuniárias previstas nesta Escritura de Emissão, as fórmulas da Cláusula acima e na apuração de TDIk será utilizada a última Taxa DI divulgada oficialmente, não sendo devidas quaisquer compensações entre a Emissora e os Debenturistas, quando da divulgação posterior da Taxa DI. 
+
+Caso a Taxa DI venha a ser divulgada antes da realização da AGD, a referida assembleia não será mais realizada, e a Taxa DI, a partir da data de sua divulgação, passará a ser utilizada para o cálculo da Remuneração das Debêntures.
+
+Caso não haja acordo sobre o novo parâmetro a ser utilizado para fins de cálculo da Remuneração das Debêntures entre a Emissora e os Debenturistas representando, no mínimo, 75% (setenta e cinco por cento) das Debêntures em Circulação, em primeira convocação, e 2/3 (dois terços) das Debêntures em Circulação, em segunda convocação, a Emissora deverá resgatar a totalidade das Debêntures, no prazo de até 5 (cinco) Dias Úteis contados da data da realização da respectiva AGD, pelo seu Valor Nominal Unitário, ou saldo do Valor Nominal Unitário das Debêntures da respectiva Série, conforme o caso, acrescido da Remuneração das Debêntures devida até a data do efetivo resgate, calculadas pro rata temporis, a partir da primeira Data de Integralização das Debêntures, ou da última data de pagamento da Remuneração das Debêntures, conforme o caso. Neste caso, para cálculo da Remuneração das Debêntures com relação às Debêntures a serem resgatadas, será utilizado para a apuração de TDIk o valor da última Taxa DI divulgada oficialmente, observadas ainda as demais disposições previstas nesta Cláusula 4.6 e seguintes desta Escritura de Emissão para fins de cálculo da Remuneração das Debêntures.
+
+Para fins desta Escritura de Emissão, a expressão 'Dia(s) Útil(eis)' significa qualquer dia que não seja sábado, domingo ou feriado declarado nacional na República Federativa do Brasil.
+
+
+Amortização das Debêntures da Primeira Série: O saldo do Valor Nominal Unitário das Debêntures da Primeira Série será amortizado trimestralmente, sendo a primeira parcela devida em 19 de março de 2024 e a última na Data de Vencimento das Debêntures da Primeira Série, de acordo com os percentuais indicados na tabela abaixo, ressalvados os casos de vencimento antecipado ou resgate antecipado previstos nesta Escritura de Emissão: [Nota Cescon Barrieu: time Santander, gentileza preencher os percentuais abaixo com 4 casas decimais. Além disso, considerando o vencimento em 19/09/2025, entendemos que haverá amortização em 19/06/2025. Gentileza confirmar e ajustar o quadro abaixo conforme aplicável.]
+
+
+Amortização das Debêntures da Segunda Série: O saldo do Valor Nominal Unitário das Debêntures da Segunda Série será amortizado trimestralmente, sendo a primeira parcela devida em 19 de março de 2027 e a última na Data de Vencimento das Debêntures da Segunda Série, de acordo com os percentuais indicados na tabela abaixo, ressalvados os casos de vencimento antecipado ou resgate antecipado previstos nesta Escritura de Emissão: [Nota Cescon Barrieu: time Santander, gentileza preencher os percentuais abaixo com 4 casas decimais. Além disso, considerando o vencimento em 19/09/2028, entendemos que haverá amortização em 19/06/2028. Gentileza confirmar e ajustar o quadro abaixo conforme aplicável.]
+
+
+Data de Pagamento da Remuneração: A Remuneração das Debêntures será paga trimestralmente a partir da Data de Emissão, sempre no dia 19 (dezenove) dos meses de março, junho, setembro e dezembro de cada ano, ocorrendo o primeiro pagamento em 19 de dezembro de 2022 e o último na Data de Vencimento das Debêntures da Primeira Série e na Data de Vencimento das Debêntures da Segunda Série, conforme o caso, ressalvados os casos de vencimento antecipado e resgate antecipado previstos nesta Escritura de Emissão.
+
+Remuneração 
+
+Remuneração das Debêntures da Primeira Série: As Debêntures da Primeira Série farão jus a remuneração equivalente à variação acumulada de 100% (cem por cento) das taxas médias diárias dos Depósitos Interfinanceiros - DI de um dia, over extra grupo, expressas na forma percentual ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis, calculadas e divulgadas pela B3 S.A. – Brasil, Bolsa, Balcão, no informativo diário disponível em sua página na internet (www.b3.com.br) ('Taxa DI'), acrescida de um percentual (spread) de 2,00% (dois inteiros por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração das Debêntures da Primeira Série'). A Remuneração das Debêntures da Primeira Série será incidente sobre o Valor Nominal Unitário, ou saldo do Valor Nominal Unitário das Debêntures da Primeira Série, conforme o caso, e será calculada de forma exponencial e cumulativa pro rata temporis por dias úteis decorridos desde a primeira Data de Integralização das Debêntures da Primeira Série ou da data de pagamento da Remuneração das Debêntures da Primeira Série imediatamente anterior, conforme o caso, até a data do respectivo pagamento da Remuneração das Debêntures da Primeira Série, de acordo com a seguinte fórmula: [Nota Cescon Barrieu: Agente Fiduciário a confirmar fórmula abaixo.] 
+
+J = VNe x (Fator de Juros – 1)
+
+onde:
+
+
+
+
+
+
+onde: 
+
+
+
+
+'FatorSpread' corresponde à sobretaxa de juros fixos, calculada com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+onde: 
+
+'spread' é igual à 2,0000;
+
+'DP' é o número de Dias Úteis entre a primeira Data de Integralização das Debêntures da Primeira Série, ou data de pagamento da Remuneração das Debêntures da Primeira Série imediatamente anterior, e a data atual, sendo 'DP' um número inteiro.
+
+O cálculo da Remuneração das Debêntures da Primeira Série acima está sujeito às seguintes observações:
+
+O fator resultante da expressão (1 + TDIk) é considerado com 16 (dezesseis) casas decimais, sem arredondamento;
+
+Efetua-se o produtório dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado;
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pela B3 S.A. – Brasil, Bolsa, Balcão; 
+
+Uma vez os fatores estando acumulados, considera-se o fator resultante do produtório 'Fator DI' com 8 (oito) casas decimais, com arredondamento; e
+
+o fator resultante da expressão (FatorDI x FatorSpread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+Remuneração das Debêntures da Segunda Série: As Debêntures da Segunda Série farão jus a remuneração equivalente à variação acumulada de 100% (cem por cento) da Taxa DI, acrescida de um percentual (spread) de 2,60% (dois inteiros e sessenta centésimos por cento) ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis ('Remuneração das Debêntures da Segunda Série' e, em conjunto com a Remuneração das Debêntures da Primeira Série, 'Remuneração'). A Remuneração das Debêntures da Segunda Série será incidente sobre o Valor Nominal Unitário, ou saldo do Valor Nominal Unitário das Debêntures da Segunda Série, conforme o caso, e será calculada de forma exponencial e cumulativa pro rata temporis por dias úteis decorridos desde a primeira Data de Integralização das Debêntures da Segunda Série ou da data de pagamento da Remuneração das Debêntures da Segunda Série imediatamente anterior, conforme o caso, até a data do respectivo pagamento da Remuneração das Debêntures da Segunda Série, de acordo com a seguinte fórmula: [Nota Cescon Barrieu: Agente Fiduciário a confirmar fórmula abaixo.]
+
+J = VNe x (Fator de Juros – 1)
+
+onde:
+
+
+
+
+
+
+onde: 
+
+
+
+
+'FatorSpread' corresponde à sobretaxa de juros fixos, calculada com 9 (nove) casas decimais, com arredondamento, apurado da seguinte forma:
+
+
+onde: 
+
+'spread' é igual à 2,6000;
+
+'DP' é o número de Dias Úteis entre a primeira Data de Integralização das Debêntures da Segunda Série, ou data de pagamento da Remuneração das Debêntures da Segunda Série imediatamente anterior, e a data atual, sendo 'DP' um número inteiro.
+
+O cálculo da Remuneração das Debêntures da Segunda Série acima está sujeito às seguintes observações:
+
+O fator resultante da expressão (1 + TDIk) é considerado com 16 (dezesseis) casas decimais, sem arredondamento;
+
+Efetua-se o produtório dos fatores diários (1 + TDIk), sendo que a cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis) casas decimais, aplicando-se o próximo fator diário, e assim por diante até o último considerado;
+
+A Taxa DI deverá ser utilizada considerando idêntico número de casas decimais divulgado pela B3 S.A. – Brasil, Bolsa, Balcão; 
+
+Uma vez os fatores estando acumulados, considera-se o fator resultante do produtório 'Fator DI' com 8 (oito) casas decimais, com arredondamento; e
+
+O fator resultante da expressão (FatorDI x FatorSpread) é considerado com 9 (nove) casas decimais, com arredondamento.
+
+Observado o quanto estabelecido na Cláusula abaixo, no caso de indisponibilidade temporária da Taxa DI, será utilizada, em sua substituição, a última Taxa DI divulgada até a data do cálculo, não sendo devidas quaisquer compensações financeiras, tanto por parte da Emissora quanto por parte dos Debenturistas, quando da divulgação posterior da Taxa DI que seria aplicável ('Indisponibilidade da Taxa DI').
+
+Na ausência de apuração e/ou divulgação da Taxa DI por prazo superior a 5 (cinco) Dias Úteis da data esperada para sua divulgação, ou, ainda, no caso de sua extinção por imposição legal ou determinação judicial, o Agente Fiduciário deverá convocar no primeiro Dia Útil subsequente ao término do prazo de 5 (cinco) Dias Úteis acima ou da data de sua extinção por imposição legal ou determinação judicial, assembleia geral de debenturistas ('Assembleia Geral de Debenturistas' ou 'AGD') para os Debenturistas definirem, de comum acordo com a Emissora, o parâmetro a ser aplicado. Até a deliberação desse parâmetro, serão utilizadas, para o cálculo do valor de quaisquer obrigações pecuniárias previstas nesta Escritura de Emissão, as fórmulas da Cláusula acima e na apuração de TDIk será utilizada a última Taxa DI divulgada oficialmente, não sendo devidas quaisquer compensações entre a Emissora e os Debenturistas, quando da divulgação posterior da Taxa DI. 
+
+Caso a Taxa DI venha a ser divulgada antes da realização da AGD, a referida assembleia não será mais realizada, e a Taxa DI, a partir da data de sua divulgação, passará a ser utilizada para o cálculo da Remuneração das Debêntures.
+
+Caso não haja acordo sobre o novo parâmetro a ser utilizado para fins de cálculo da Remuneração das Debêntures entre a Emissora e os Debenturistas representando, no mínimo, 75% (setenta e cinco por cento) das Debêntures em Circulação, em primeira convocação, e 2/3 (dois terços) das Debêntures em Circulação, em segunda convocação, a Emissora deverá resgatar a totalidade das Debêntures, no prazo de até 5 (cinco) Dias Úteis contados da data da realização da respectiva AGD, pelo seu Valor Nominal Unitário, ou saldo do Valor Nominal Unitário das Debêntures da respectiva Série, conforme o caso, acrescido da Remuneração das Debêntures devida até a data do efetivo resgate, calculadas pro rata temporis, a partir da primeira Data de Integralização das Debêntures, ou da última data de pagamento da Remuneração das Debêntures, conforme o caso. Neste caso, para cálculo da Remuneração das Debêntures com relação às Debêntures a serem resgatadas, será utilizado para a apuração de TDIk o valor da última Taxa DI divulgada oficialmente, observadas ainda as demais disposições previstas nesta Cláusula 4.6 e seguintes desta Escritura de Emissão para fins de cálculo da Remuneração das Debêntures.
+
+Para fins desta Escritura de Emissão, a expressão 'Dia(s) Útil(eis)' significa qualquer dia que não seja sábado, domingo ou feriado declarado nacional na República Federativa do Brasil.
+
+
+Amortização das Debêntures da Primeira Série: O saldo do Valor Nominal Unitário das Debêntures da Primeira Série será amortizado trimestralmente, sendo a primeira parcela devida em 19 de março de 2024 e a última na Data de Vencimento das Debêntures da Primeira Série, de acordo com os percentuais indicados na tabela abaixo, ressalvados os casos de vencimento antecipado ou resgate antecipado previstos nesta Escritura de Emissão: [Nota Cescon Barrieu: time Santander, gentileza preencher os percentuais abaixo com 4 casas decimais. Além disso, considerando o vencimento em 19/09/2025, entendemos que haverá amortização em 19/06/2025. Gentileza confirmar e ajustar o quadro abaixo conforme aplicável.]
+
+
+Amortização das Debêntures da Segunda Série: O saldo do Valor Nominal Unitário das Debêntures da Segunda Série será amortizado trimestralmente, sendo a primeira parcela devida em 19 de março de 2027 e a última na Data de Vencimento das Debêntures da Segunda Série, de acordo com os percentuais indicados na tabela abaixo, ressalvados os casos de vencimento antecipado ou resgate antecipado previstos nesta Escritura de Emissão: [Nota Cescon Barrieu: time Santander, gentileza preencher os percentuais abaixo com 4 casas decimais. Além disso, considerando o vencimento em 19/09/2028, entendemos que haverá amortização em 19/06/2028. Gentileza confirmar e ajustar o quadro abaixo conforme aplicável.]
+
+
+Data de Pagamento da Remuneração: A Remuneração das Debêntures será paga trimestralmente a partir da Data de Emissão, sempre no dia 19 (dezenove) dos meses de março, junho, setembro e dezembro de cada ano, ocorrendo o primeiro pagamento em 19 de dezembro de 2022 e o último na Data de Vencimento das Debêntures da Primeira Série e na Data de Vencimento das Debêntures da Segunda Série, conforme o caso, ressalvados os casos de vencimento antecipado e resgate antecipado previstos nesta Escritura de Emissão.
+

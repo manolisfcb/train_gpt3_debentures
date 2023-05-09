@@ -1,0 +1,303 @@
+Amortização Extraordinária 
+
+Não será admitida a realização de amortização extraordinária das Debêntures. 
+
+Amortização Extraordinária 
+
+As Debêntures não estarão sujeitas à amortização extraordinária pela Emissora. 
+
+Amortização Extraordinária 
+
+Não será admitida a realização de amortização extraordinária das Debêntures. 
+
+Amortização Extraordinária 
+
+As Debêntures não estarão sujeitas à amortização extraordinária pela Emissora. 
+
+Amortização Extraordinária
+
+As Debêntures não estarão sujeitas a amortização extraordinária pela Emissora.
+
+
+Resgate Antecipado Facultativo. As Debêntures não estarão sujeitas a resgate antecipado facultativo pela Emissora, total ou parcial, salvo caso as Debêntures deixem de gozar do tratamento tributário previsto na Lei 12.431 por motivo não imputável à Emissora (e.g. revogação legal do benefício ou acréscimo de alíquota ou aplicação de Taxa Substituta que não atenda aos requisitos da Lei 12.431), conforme disposto na Cláusula 4.14.6 a seguir, hipótese em que a Emissora, conforme venha a ser permitido pelas regras expedidas pelo CMN e pela legislação e regulamentação aplicável, poderá realizar, a seu exclusivo critério, em qualquer dia 15 (quinze) de cada mês a partir da Data de Emissão (exclusive), o resgate antecipado facultativo da totalidade das Debêntures (sendo vedado o resgate antecipado facultativo parcial), com o consequente cancelamento das Debêntures ('Resgate Antecipado Facultativo').
+
+A Emissora deverá comunicar os Debenturistas por meio de publicação de comunicação dirigida aos Debenturistas, a ser amplamente divulgada nos termos da Cláusula 4.12, ou por meio de comunicado individual a ser encaminhado pela Emissora a cada um dos Debenturistas, com cópia para o Agente Fiduciário, a B3 e o Agente Liquidante e Escriturador, com, no mínimo, 5 (cinco) Dias Úteis de antecedência da data do evento, que deverá descrever os termos e condições do Resgate Antecipado Facultativo, incluindo: (i) data efetiva para o Resgate Antecipado Facultativo, que coincidirá com a data do pagamento do Valor do Resgate Antecipado Facultativo(conforme definido abaixo); (ii) o Valor do Resgate Antecipado Facultativo, conforme estabelecido abaixo; e (iii) demais informações necessárias à operacionalização do Resgate Antecipado Facultativo.
+
+O valor a ser pago em relação a cada uma das Debêntures objeto do Resgate Antecipado Facultativo será o maior entre ('Valor do Resgate Antecipado Facultativo'): (i) o Valor Nominal Unitário Atualizado acrescido (a) dos Juros Remuneratórios, calculada, pro rata temporis, desde a Primeira Data de Integralização ou a Data de Pagamento dos Juros Remuneratórios imediatamente anterior, conforme o caso, até a data do efetivo resgate (exclusive); (b) dos Encargos Moratórios, se houver; e (c) de quaisquer obrigações pecuniárias e outros acréscimos referentes às Debêntures; [ou (ii) o valor presente das parcelas remanescentes de pagamento de amortização do Valor Nominal Unitário Atualizado e dos Juros Remuneratórios, utilizando como taxa de desconto a taxa interna de retorno do Tesouro IPCA+ com Juros Semestrais (NTN-B), calculado conforme abaixo, e somado aos Encargos Moratórios, se houver, a quaisquer obrigações pecuniárias e a outros acréscimos referentes às Debêntures.
+
+Para fins do disposto no item '(ii)' da Cláusula 4.10.1.2. acima, deverá ser observada a seguinte fórmula:
+
+
+
+Onde:
+
+VP = somatório do valor presente das parcelas de pagamento das Debêntures;
+
+C = conforme definido na Cláusula 4.2.1 acima; 
+
+VNEk = valor unitário de cada um dos 'k' valores devidos das Debêntures, sendo o valor de cada parcela 'k' equivalente ao pagamento dos Juros Remuneratórios das Debêntures e/ou à amortização do Valor Nominal Unitário Atualizado, conforme o caso;
+
+n = número total de eventos de pagamento a serem realizados das Debêntures, sendo 'n' um número inteiro;
+
+nk = número de Dias Úteis entre a data do resgate das Debêntures em virtude da decretação de vencimento antecipado e a data de vencimento programada de cada parcela 'k' vincenda;
+
+FVPk = fator de valor presente, apurado conforme fórmula a seguir, calculado com 9 (nove) casas decimais, com arredondamento:
+
+
+
+TESOUROIPCA = Respectivamente para cada um dos 'k' valores devidos das Debêntures, taxa expressa ao ano, equivalente a 100% do cupom da Nota do Tesouro Nacional Série B ('NTN-B'), de prazo de vencimento equivalente ao prazo de cada uma das parcelas remanescentes de Juros Remuneratórios das Debêntures e/ou amortização das Debêntures. Caso não haja NTN-B de prazo de vencimento equivalente ao prazo de Juros Remuneratórios e/ou amortização das Debêntures de cada parcela remanescente, será utilizada a NTN-B com vencimento imediatamente anterior ou posterior a respectiva data de pagamento da parcela de Juros Remuneratórios das Debêntures e/ou amortização das Debêntures, sendo dentre elas a que tiver o menor cupom]. 
+
+O pagamento das Debêntures serem resgatadas antecipadamente, por meio do Resgate Antecipado Facultativo, será realizado pela Emissora (i) por meio dos procedimentos adotados pela B3 no caso das Debêntures que estejam custodiadas eletronicamente na B3 ou (ii) mediante depósito em contas correntes indicadas pelos Debenturistas, a ser realizado de acordo com os procedimentos adotados pelo Agente Liquidante e Escriturador, no caso das Debêntures que não estejam custodiadas conforme o item (i) acima.
+
+As partes desde já reconhecem e aceitam que, para todos os fins e efeitos, todo cálculo a ser realizado com o propósito de apurar o valor a ser pago em relação a cada uma das Debêntures objeto do Resgate Antecipado Facultativo, nos termos das Cláusulas 4.10.1.2 e 4.10.1.3 acima, não deverá considerar qualquer acréscimo relativo aos tributos que venham a ser devidos pelos Debenturistas em razão da perda do benefício fiscal conforme previsto na Cláusula 4.14.5 abaixo.
+
+Oferta de Resgate Antecipado. Conforme venha a ser permitido pelas regras expedidas pelo CMN e pela legislação e regulamentação aplicável, a Emissora poderá realizar, a seu exclusivo critério, oferta de resgate antecipado das Debêntures, com o consequente cancelamento das Debêntures resgatadas ('Oferta de Resgate Antecipado'). A Oferta de Resgate Antecipado será endereçada a todos os Debenturistas, sem distinção, assegurada a igualdade de condições a todos os Debenturistas para aceitar o resgate antecipado das Debêntures de que forem titulares, de acordo com os termos e condições previstos nas cláusulas abaixo.
+
+A Emissora realizará a Oferta de Resgate Antecipado por meio de publicação de comunicação dirigida aos Debenturistas, a ser amplamente divulgada nos termos da Cláusula 4.12, ou por meio de comunicado individual a ser encaminhado pela Emissora a cada um dos Debenturistas, com cópia para o Agente Fiduciário ('Edital de Oferta de Resgate Antecipado'), no qual deverá descrever os termos e condições da Oferta de Resgate Antecipado, incluindo: (i) o valor do prêmio de resgate antecipado a ser oferecido pela Emissora, se houver, e que não poderá ser negativo; (ii) o prazo e a forma para manifestação à Emissora dos Debenturistas que optarem pela adesão à Oferta de Resgate Antecipado, observado o disposto na Cláusula 4.10.2.2 abaixo; (iii) a data efetiva para o resgate antecipado das Debêntures e o pagamento das quantias devidas aos Debenturistas nos termos da Cláusula 4.10.2.5 abaixo; e (iv) as demais informações necessárias para a tomada de decisão pelos Debenturistas e para a operacionalização da Oferta de Resgate Antecipado. 
+
+Após a comunicação aos Debenturistas ou publicação do Edital de Oferta de Resgate Antecipado, os Debenturistas que optarem pela adesão à Oferta de Resgate Antecipado terão o prazo de 10 (dez) Dias Úteis para se manifestarem formalmente perante a Emissora, com cópia ao Agente Fiduciário e em conformidade com o Edital de Oferta de Resgate Antecipado.
+
+
+Caso o resgate antecipado das Debêntures seja efetivado, ele deverá ocorrer em uma única data para todas as Debêntures, na data prevista na comunicação aos Debenturistas ou no Edital de Oferta de Resgate Antecipado.
+
+A Emissora deverá: (i) na data de término do prazo de adesão à Oferta de Resgate Antecipado, confirmar ao Agente Fiduciário, que deverá informar os Debenturistas, se o resgate antecipado das Debêntures será efetivamente realizado; e (ii) com antecedência mínima de 3 (três) Dias Úteis da data do resgate antecipado, comunicar ao Agente Liquidante e Escriturador e à B3 a data do resgate antecipado.
+
+O valor a ser pago em relação a cada uma das Debêntures será equivalente ao Valor Nominal Unitário Atualizado acrescido (i) dos Juros Remuneratórios devidos até a data do efetivo resgate, calculados pro rata temporis, a partir da Primeira Data de Integralização ou da Data de Pagamento dos Juros Remuneratórios imediatamente anterior; e (ii) se for o caso, do prêmio de resgate indicado no Edital da Oferta de Resgate Antecipado, que caso exista não poderá ser negativo. 
+
+As Debêntures resgatadas no âmbito da Oferta de Resgate Antecipado serão obrigatoriamente canceladas.
+
+O resgate antecipado ocorrerá, conforme o caso, de acordo com: (i) os procedimentos estabelecidos pela B3, para as Debêntures que estiverem custodiadas eletronicamente na B3; ou (ii) os procedimentos adotados pelo Agente Liquidante e Escriturador, para as Debêntures que não estiverem custodiadas eletronicamente na B3. 
+
+Amortização Extraordinária
+
+As Debêntures não estarão sujeitas a amortização extraordinária pela Emissora.
+
+
+Resgate Antecipado Facultativo. As Debêntures não estarão sujeitas a resgate antecipado facultativo pela Emissora, total ou parcial, salvo caso as Debêntures deixem de gozar do tratamento tributário previsto na Lei 12.431 por motivo não imputável à Emissora (e.g. revogação legal do benefício ou acréscimo de alíquota ou aplicação de Taxa Substituta que não atenda aos requisitos da Lei 12.431), conforme disposto na Cláusula 4.14.6 a seguir, hipótese em que a Emissora, conforme venha a ser permitido pelas regras expedidas pelo CMN e pela legislação e regulamentação aplicável, poderá realizar, a seu exclusivo critério, em qualquer dia 15 (quinze) de cada mês a partir da Data de Emissão (exclusive), o resgate antecipado facultativo da totalidade das Debêntures (sendo vedado o resgate antecipado facultativo parcial), com o consequente cancelamento das Debêntures ('Resgate Antecipado Facultativo').
+
+A Emissora deverá comunicar os Debenturistas por meio de publicação de comunicação dirigida aos Debenturistas, a ser amplamente divulgada nos termos da Cláusula 4.12, ou por meio de comunicado individual a ser encaminhado pela Emissora a cada um dos Debenturistas, com cópia para o Agente Fiduciário, a B3 e o Agente Liquidante e Escriturador, com, no mínimo, 5 (cinco) Dias Úteis de antecedência da data do evento, que deverá descrever os termos e condições do Resgate Antecipado Facultativo, incluindo: (i) data efetiva para o Resgate Antecipado Facultativo, que coincidirá com a data do pagamento do Valor do Resgate Antecipado Facultativo(conforme definido abaixo); (ii) o Valor do Resgate Antecipado Facultativo, conforme estabelecido abaixo; e (iii) demais informações necessárias à operacionalização do Resgate Antecipado Facultativo.
+
+O valor a ser pago em relação a cada uma das Debêntures objeto do Resgate Antecipado Facultativo será o maior entre ('Valor do Resgate Antecipado Facultativo'): (i) o Valor Nominal Unitário Atualizado acrescido (a) dos Juros Remuneratórios, calculada, pro rata temporis, desde a Primeira Data de Integralização ou a Data de Pagamento dos Juros Remuneratórios imediatamente anterior, conforme o caso, até a data do efetivo resgate (exclusive); (b) dos Encargos Moratórios, se houver; e (c) de quaisquer obrigações pecuniárias e outros acréscimos referentes às Debêntures; ou (ii) o valor presente das parcelas remanescentes de pagamento de amortização do Valor Nominal Unitário Atualizado e dos Juros Remuneratórios, utilizando como taxa de desconto a taxa interna de retorno do Tesouro IPCA+ com Juros Semestrais (NTN-B), calculado conforme abaixo, e somado aos Encargos Moratórios, se houver, a quaisquer obrigações pecuniárias e a outros acréscimos referentes às Debêntures.
+
+Para fins do disposto no item '(ii)' da Cláusula 4.10.1.2. acima, deverá ser observada a seguinte fórmula:
+
+
+
+Onde:
+
+VP = somatório do valor presente das parcelas de pagamento das Debêntures;
+
+C = conforme definido na Cláusula 4.2.1 acima; 
+
+VNEk = valor unitário de cada um dos 'k' valores devidos das Debêntures, sendo o valor de cada parcela 'k' equivalente ao pagamento dos Juros Remuneratórios das Debêntures e/ou à amortização do Valor Nominal Unitário Atualizado, conforme o caso;
+
+n = número total de eventos de pagamento a serem realizados das Debêntures, sendo 'n' um número inteiro;
+
+nk = número de Dias Úteis entre a data do resgate das Debêntures em virtude da decretação de vencimento antecipado e a data de vencimento programada de cada parcela 'k' vincenda;
+
+FVPk = fator de valor presente, apurado conforme fórmula a seguir, calculado com 9 (nove) casas decimais, com arredondamento:
+
+
+
+TESOUROIPCA = Respectivamente para cada um dos 'k' valores devidos das Debêntures, taxa expressa ao ano, equivalente a 100% do cupom da Nota do Tesouro Nacional Série B ('NTN-B'), de prazo de vencimento equivalente ao prazo de cada uma das parcelas remanescentes de Juros Remuneratórios das Debêntures e/ou amortização das Debêntures. Caso não haja NTN-B de prazo de vencimento equivalente ao prazo de Juros Remuneratórios e/ou amortização das Debêntures de cada parcela remanescente, será utilizada a NTN-B com vencimento imediatamente anterior ou posterior a respectiva data de pagamento da parcela de Juros Remuneratórios das Debêntures e/ou amortização das Debêntures, sendo dentre elas a que tiver o menor cupom.
+
+O pagamento das Debêntures serem resgatadas antecipadamente, por meio do Resgate Antecipado Facultativo, será realizado pela Emissora (i) por meio dos procedimentos adotados pela B3 no caso das Debêntures que estejam custodiadas eletronicamente na B3 ou (ii) mediante depósito em contas correntes indicadas pelos Debenturistas, a ser realizado de acordo com os procedimentos adotados pelo Agente Liquidante e Escriturador, no caso das Debêntures que não estejam custodiadas conforme o item (i) acima.
+
+As partes desde já reconhecem e aceitam que, para todos os fins e efeitos, todo cálculo a ser realizado com o propósito de apurar o valor a ser pago em relação a cada uma das Debêntures objeto do Resgate Antecipado Facultativo, nos termos das Cláusulas 4.10.1.2 e 4.10.1.3 acima, não deverá considerar qualquer acréscimo relativo aos tributos que venham a ser devidos pelos Debenturistas em razão da perda do benefício fiscal conforme previsto na Cláusula 4.14.5 abaixo.
+
+Oferta de Resgate Antecipado. Conforme venha a ser permitido pelas regras expedidas pelo CMN e pela legislação e regulamentação aplicável, a Emissora poderá realizar, a seu exclusivo critério, oferta de resgate antecipado das Debêntures, com o consequente cancelamento das Debêntures resgatadas ('Oferta de Resgate Antecipado'). A Oferta de Resgate Antecipado será endereçada a todos os Debenturistas, sem distinção, assegurada a igualdade de condições a todos os Debenturistas para aceitar o resgate antecipado das Debêntures de que forem titulares, de acordo com os termos e condições previstos nas cláusulas abaixo.
+
+A Emissora realizará a Oferta de Resgate Antecipado por meio de publicação de comunicação dirigida aos Debenturistas, a ser amplamente divulgada nos termos da Cláusula 4.12, ou por meio de comunicado individual a ser encaminhado pela Emissora a cada um dos Debenturistas, com cópia para o Agente Fiduciário ('Edital de Oferta de Resgate Antecipado'), no qual deverá descrever os termos e condições da Oferta de Resgate Antecipado, incluindo: (i) o valor do prêmio de resgate antecipado a ser oferecido pela Emissora, se houver, e que não poderá ser negativo; (ii) o prazo e a forma para manifestação à Emissora dos Debenturistas que optarem pela adesão à Oferta de Resgate Antecipado, observado o disposto na Cláusula 4.10.2.2 abaixo; (iii) a data efetiva para o resgate antecipado das Debêntures e o pagamento das quantias devidas aos Debenturistas nos termos da Cláusula 4.10.2.5 abaixo; e (iv) as demais informações necessárias para a tomada de decisão pelos Debenturistas e para a operacionalização da Oferta de Resgate Antecipado. 
+
+Após a comunicação aos Debenturistas ou publicação do Edital de Oferta de Resgate Antecipado, os Debenturistas que optarem pela adesão à Oferta de Resgate Antecipado terão o prazo de 10 (dez) Dias Úteis para se manifestarem formalmente perante a Emissora, com cópia ao Agente Fiduciário e em conformidade com o Edital de Oferta de Resgate Antecipado.
+
+
+Caso o resgate antecipado das Debêntures seja efetivado, ele deverá ocorrer em uma única data para todas as Debêntures, na data prevista na comunicação aos Debenturistas ou no Edital de Oferta de Resgate Antecipado.
+
+A Emissora deverá: (i) na data de término do prazo de adesão à Oferta de Resgate Antecipado, confirmar ao Agente Fiduciário, que deverá informar os Debenturistas, se o resgate antecipado das Debêntures será efetivamente realizado; e (ii) com antecedência mínima de 3 (três) Dias Úteis da data do resgate antecipado, comunicar ao Agente Liquidante e Escriturador e à B3 a data do resgate antecipado.
+
+O valor a ser pago em relação a cada uma das Debêntures será equivalente ao Valor Nominal Unitário Atualizado acrescido (i) dos Juros Remuneratórios devidos até a data do efetivo resgate, calculados pro rata temporis, a partir da Primeira Data de Integralização ou da Data de Pagamento dos Juros Remuneratórios imediatamente anterior; e (ii) se for o caso, do prêmio de resgate indicado no Edital da Oferta de Resgate Antecipado, que caso exista não poderá ser negativo. 
+
+As Debêntures resgatadas no âmbito da Oferta de Resgate Antecipado serão obrigatoriamente canceladas.
+
+O resgate antecipado ocorrerá, conforme o caso, de acordo com: (i) os procedimentos estabelecidos pela B3, para as Debêntures que estiverem custodiadas eletronicamente na B3; ou (ii) os procedimentos adotados pelo Agente Liquidante e Escriturador, para as Debêntures que não estiverem custodiadas eletronicamente na B3. 
+
+Amortização Extraordinária
+
+As Debêntures não estarão sujeitas a amortização extraordinária pela Emissora.
+
+
+Resgate Antecipado Facultativo. As Debêntures não estarão sujeitas a resgate antecipado facultativo pela Emissora, total ou parcial, salvo caso as Debêntures deixem de gozar do tratamento tributário previsto na Lei 12.431 por motivo não imputável à Emissora (e.g. revogação legal do benefício ou acréscimo de alíquota ou aplicação de Taxa Substituta que não atenda aos requisitos da Lei 12.431), conforme disposto na Cláusula 4.14.6 a seguir, hipótese em que a Emissora, conforme venha a ser permitido pelas regras expedidas pelo CMN e pela legislação e regulamentação aplicável, poderá realizar, a seu exclusivo critério, em qualquer dia 15 (quinze) de cada mês a partir da Data de Emissão (exclusive), o resgate antecipado facultativo da totalidade das Debêntures (sendo vedado o resgate antecipado facultativo parcial), com o consequente cancelamento das Debêntures ('Resgate Antecipado Facultativo').
+
+A Emissora deverá comunicar os titulares das Debêntures por meio de publicação de comunicação dirigida aos titulares das Debêntures, a ser amplamente divulgada nos termos da Cláusula 4.12, ou por meio de comunicado individual a ser encaminhado pela Emissora a cada um dos titulares das Debêntures, com cópia para o Agente Fiduciário, a B3 e o Agente Liquidante e Escriturador, com, no mínimo, 5 (cinco) Dias Úteis de antecedência da data do evento, que deverá descrever os termos e condições do Resgate Antecipado Facultativo, incluindo: (i) data efetiva para o Resgate Antecipado Facultativo, que coincidirá com a data do pagamento do Valor do Resgate Antecipado Facultativo(conforme definido abaixo); (ii) o Valor do Resgate Antecipado Facultativo, conforme estabelecido abaixo; e (iii) demais informações necessárias à operacionalização do Resgate Antecipado Facultativo.
+
+O valor a ser pago em relação a cada uma das Debêntures objeto do Resgate Antecipado Facultativo será o maior entre ('Valor do Resgate Antecipado Facultativo'): (i) o Valor Nominal Unitário Atualizado acrescido (a) dos Juros Remuneratórios, calculada, pro rata temporis, desde a Primeira Data de Integralização ou a Data de Pagamento dos Juros Remuneratórios imediatamente anterior, conforme o caso, até a data do efetivo resgate (exclusive); (b) dos Encargos Moratórios, se houver; e (c) de quaisquer obrigações pecuniárias e outros acréscimos referentes às Debêntures; [ou (ii) o valor presente das parcelas remanescentes de pagamento de amortização do Valor Nominal Unitário Atualizado e dos Juros Remuneratórios, utilizando como taxa de desconto a taxa interna de retorno do Tesouro IPCA+ com Juros Semestrais (NTN-B), calculado conforme cláusula 5.7.1. abaixo, e somado aos Encargos Moratórios, se houver, a quaisquer obrigações pecuniárias e a outros acréscimos referentes às Debêntures.
+
+Para fins do disposto no item '(ii)' da Cláusula 4.10.1.2. acima, deverá ser observada a seguinte fórmula:
+
+
+
+Onde:
+
+VP = somatório do valor presente das parcelas de pagamento das Debêntures;
+
+VNEk = abaixo definido;
+
+FVPk = abaixo definido; 
+
+C = conforme definido na Cláusula 4.2.1 acima; 
+
+VNEk = valor unitário de cada um dos 'k' valores devidos das Debêntures, sendo o valor de cada parcela 'k' equivalente ao pagamento dos Juros Remuneratórios das Debêntures e/ou à amortização do Valor Nominal Unitário Atualizado, conforme o caso;
+
+n = número total de eventos de pagamento a serem realizados das Debêntures, sendo 'n' um número inteiro;
+
+nk = número de Dias Úteis entre a data do resgate das Debêntures em virtude da decretação de vencimento antecipado e a data de vencimento programada de cada parcela 'k' vincenda;
+
+FVPk = fator de valor presente, apurado conforme fórmula a seguir, calculado com 9 (nove) casas decimais, com arredondamento:
+
+
+
+TESOUROIPCA = Respectivamente para cada um dos 'k' valores devidos das Debêntures, taxa expressa ao ano, equivalente a 100% do cupom da Nota do Tesouro Nacional Série B ('NTN-B'), de prazo de vencimento equivalente ao prazo de cada uma das parcelas remanescentes de Juros Remuneratórios das Debêntures e/ou amortização das Debêntures. Caso não haja NTN-B de prazo de vencimento equivalente ao prazo de Juros Remuneratórios e/ou amortização das Debêntures de cada parcela remanescente, será utilizada a NTN-B com vencimento imediatamente anterior ou posterior a respectiva data de pagamento da parcela de Juros Remuneratórios das Debêntures e/ou amortização das Debêntures, sendo dentre elas a que tiver o menor cupom]. 
+
+O pagamento das Debêntures serem resgatadas antecipadamente, por meio do Resgate Antecipado Facultativo, será realizado pela Emissora (i) por meio dos procedimentos adotados pela B3 no caso das Debêntures que estejam custodiadas eletronicamente na B3 ou (ii) mediante depósito em contas correntes indicadas pelos titulares das Debêntures, a ser realizado de acordo com os procedimentos adotados pelo Agente Liquidante e Escriturador, no caso das Debêntures que não estejam custodiadas conforme o item (i) acima.
+
+As partes desde já reconhecem e aceitam que, para todos os fins e efeitos, todo cálculo a ser realizado com o propósito de apurar o valor a ser pago em relação a cada uma das Debêntures objeto do Resgate Antecipado Facultativo, nos termos das Cláusulas 4.10.1.2 e 4.10.1.3 acima, não deverá considerar qualquer acréscimo relativo aos tributos que venham a ser devidos pelos Debenturistas em razão da perda do benefício fiscal conforme previsto na Cláusula 4.14.5 abaixo. [Nota MMSO: Pendente de avaliação pelo SAN e Cia a respeito da Cláusula de Resgate Antecipado.]
+
+Oferta de Resgate Antecipado. Conforme venha a ser permitido pelas regras expedidas pelo CMN e pela legislação e regulamentação aplicável, a Emissora poderá realizar, a seu exclusivo critério, oferta de resgate antecipado da totalidade das Debêntures, com o consequente cancelamento das Debêntures resgatadas ('Oferta de Resgate Antecipado'). A Oferta de Resgate Antecipado será endereçada a todos os Debenturistas, sem distinção, assegurada a igualdade de condições a todos os Debenturistas para aceitar o resgate antecipado das Debêntures de que forem titulares, de acordo com os termos e condições previstos nas cláusulas abaixo.
+
+A Emissora realizará a Oferta de Resgate Antecipado por meio de publicação de comunicação dirigida aos titulares das Debêntures, a ser amplamente divulgada nos termos da Cláusula 4.12, ou por meio de comunicado individual a ser encaminhado pela Emissora a cada um dos titulares das Debêntures, com cópia para ('Edital de Oferta de Resgate Antecipado'), no qual deverá descrever os termos e condições da Oferta de Resgate Antecipado, incluindo: (i) o valor do prêmio de resgate antecipado a ser oferecido pela Emissora, se houver, e que não poderá ser negativo; (ii) o prazo e a forma para manifestação à Emissora dos Debenturistas que optarem pela adesão à Oferta de Resgate Antecipado, observado o disposto na Cláusula 4.10.2.2 abaixo; (iii) a data efetiva para o resgate antecipado das Debêntures e o pagamento das quantias devidas aos Debenturistas nos termos da Cláusula 4.10.2.6 abaixo; e (iv) as demais informações necessárias para a tomada de decisão pelos Debenturistas e para a operacionalização da Oferta de Resgate Antecipado. 
+
+Após a comunicação aos Debenturistas ou publicação do Edital de Oferta de Resgate Antecipado, os Debenturistas que optarem pela adesão à Oferta de Resgate Antecipado terão o prazo de 10 (dez) Dias Úteis para se manifestarem formalmente perante a Emissora, com cópia ao Agente Fiduciário e em conformidade com o Edital de Oferta de Resgate Antecipado.
+
+Mediante a adesão formal à Oferta de Resgate Antecipado por Debenturistas que detenham no mínimo [100% (cem por cento)] das Debêntures em Circulação, a totalidade das Debêntures deverá ser resgatada, sendo certo que não haverá resgate antecipado parcial das Debêntures. [Nota MMSO: Em discussão interna da Companhia sobre a possibilidade na CVM.]
+
+Caso o resgate antecipado das Debêntures seja efetivado, ele deverá ocorrer em uma única data para todas as Debêntures, na data prevista na comunicação aos Debenturistas ou no Edital de Oferta de Resgate Antecipado.
+
+A Emissora deverá: (i) na data de término do prazo de adesão à Oferta de Resgate Antecipado, confirmar ao Agente Fiduciário, que deverá informar os Debenturistas, se o resgate antecipado das Debêntures será efetivamente realizado; e (ii) com antecedência mínima de 3 (três) Dias Úteis da data do resgate antecipado, comunicar ao Escriturador, ao Agente Liquidante e Escriturador e à B3 a data do resgate antecipado.
+
+O valor a ser pago em relação a cada uma das Debêntures será equivalente ao Valor Nominal Unitário Atualizado acrescido (i) dos Juros Remuneratórios devidos até a data do efetivo resgate, calculados pro rata temporis, a partir da Primeira Data de Integralização ou da Data de Pagamento dos Juros Remuneratórios imediatamente anterior; e (ii) se for o caso, do prêmio de resgate indicado no Edital da Oferta de Resgate Antecipado, que caso exista não poderá ser negativo. 
+
+As Debêntures resgatadas no âmbito da Oferta de Resgate Antecipado serão obrigatoriamente canceladas.
+
+O resgate antecipado ocorrerá, conforme o caso, de acordo com: (i) os procedimentos estabelecidos pela B3, para as Debêntures que estiverem custodiadas eletronicamente na B3; ou (ii) os procedimentos adotados pelo Agente Liquidante e Escriturador, para as Debêntures que não estiverem custodiadas eletronicamente na B3. 
+
+Amortização Extraordinária 
+
+[Nota Cescon Barrieu: Possibilidade de amortização extraordinária sob avaliação das partes.]
+
+As Debêntures não estarão sujeitas à amortização extraordinária facultativa pela Emissora. 
+
+Amortização Extraordinária 
+
+[Nota Cescon Barrieu: Possibilidade de amortização extraordinária sob avaliação das partes.]
+
+As Debêntures não estarão sujeitas à amortização extraordinária facultativa pela Emissora. 
+
+Amortização Extraordinária
+
+As Debêntures não estarão sujeitas a amortização extraordinária pela Emissora.
+
+
+Resgate Antecipado Facultativo. As Debêntures não estarão sujeitas a resgate antecipado facultativo pela Emissora, total ou parcial, salvo caso as Debêntures deixem de gozar do tratamento tributário previsto na Lei 12.431 por motivo não imputável à Emissora (e.g. revogação legal do benefício ou acréscimo de alíquota ou aplicação de Taxa Substituta que não atenda aos requisitos da Lei 12.431), conforme disposto na Cláusula 4.14.6 a seguir, hipótese em que a Emissora, conforme venha a ser permitido pelas regras expedidas pelo CMN e pela legislação e regulamentação aplicável, poderá realizar, a seu exclusivo critério, em qualquer dia 15 (quinze) de cada mês a partir da Data de Emissão (exclusive), o resgate antecipado facultativo da totalidade das Debêntures (sendo vedado o resgate antecipado facultativo parcial), com o consequente cancelamento das Debêntures ('Resgate Antecipado Facultativo').
+
+A Emissora deverá comunicar os Debenturistas por meio de publicação de comunicação dirigida aos Debenturistas, a ser amplamente divulgada nos termos da Cláusula 4.12, ou por meio de comunicado individual a ser encaminhado pela Emissora a cada um dos Debenturistas, com cópia para o Agente Fiduciário, a B3 e o Agente Liquidante e Escriturador, com, no mínimo, 5 (cinco) Dias Úteis de antecedência da data do evento, que deverá descrever os termos e condições do Resgate Antecipado Facultativo, incluindo: (i) data efetiva para o Resgate Antecipado Facultativo, que coincidirá com a data do pagamento do Valor do Resgate Antecipado Facultativo(conforme definido abaixo); (ii) o Valor do Resgate Antecipado Facultativo, conforme estabelecido abaixo; e (iii) demais informações necessárias à operacionalização do Resgate Antecipado Facultativo.
+
+O valor a ser pago em relação a cada uma das Debêntures objeto do Resgate Antecipado Facultativo será o maior entre ('Valor do Resgate Antecipado Facultativo'): (i) o Valor Nominal Unitário Atualizado acrescido (a) dos Juros Remuneratórios, calculada, pro rata temporis, desde a Primeira Data de Integralização ou a Data de Pagamento dos Juros Remuneratórios imediatamente anterior, conforme o caso, até a data do efetivo resgate (exclusive); (b) dos Encargos Moratórios, se houver; e (c) de quaisquer obrigações pecuniárias e outros acréscimos referentes às Debêntures; ou (ii) o valor presente das parcelas remanescentes de pagamento de amortização do Valor Nominal Unitário Atualizado e dos Juros Remuneratórios, utilizando como taxa de desconto a taxa interna de retorno do Tesouro IPCA+ com Juros Semestrais (NTN-B), calculado conforme abaixo, e somado aos Encargos Moratórios, se houver, a quaisquer obrigações pecuniárias e a outros acréscimos referentes às Debêntures.
+
+Para fins do disposto no item '(ii)' da Cláusula 4.10.1.2. acima, deverá ser observada a seguinte fórmula:
+
+
+
+Onde:
+
+VP = somatório do valor presente das parcelas de pagamento das Debêntures;
+
+C = conforme definido na Cláusula 4.2.1 acima; 
+
+VNEk = valor unitário de cada um dos 'k' valores devidos das Debêntures, sendo o valor de cada parcela 'k' equivalente ao pagamento dos Juros Remuneratórios das Debêntures e/ou à amortização do Valor Nominal Unitário Atualizado, conforme o caso;
+
+n = número total de eventos de pagamento a serem realizados das Debêntures, sendo 'n' um número inteiro;
+
+nk = número de Dias Úteis entre a data do resgate das Debêntures em virtude da decretação de vencimento antecipado e a data de vencimento programada de cada parcela 'k' vincenda;
+
+FVPk = fator de valor presente, apurado conforme fórmula a seguir, calculado com 9 (nove) casas decimais, com arredondamento:
+
+
+
+TESOUROIPCA = Respectivamente para cada um dos 'k' valores devidos das Debêntures, taxa expressa ao ano, equivalente a 100% do cupom da Nota do Tesouro Nacional Série B ('NTN-B'), de prazo de vencimento equivalente ao prazo de cada uma das parcelas remanescentes de Juros Remuneratórios das Debêntures e/ou amortização das Debêntures. Caso não haja NTN-B de prazo de vencimento equivalente ao prazo de Juros Remuneratórios e/ou amortização das Debêntures de cada parcela remanescente, será utilizada a NTN-B com vencimento imediatamente anterior ou posterior a respectiva data de pagamento da parcela de Juros Remuneratórios das Debêntures e/ou amortização das Debêntures, sendo dentre elas a que tiver o menor cupom.
+
+O pagamento das Debêntures a serem resgatadas antecipadamente, por meio do Resgate Antecipado Facultativo, será realizado pela Emissora (i) por meio dos procedimentos adotados pela B3 no caso das Debêntures que estejam custodiadas eletronicamente na B3 ou (ii) mediante depósito em contas correntes indicadas pelos Debenturistas, a ser realizado de acordo com os procedimentos adotados pelo Agente Liquidante e Escriturador, no caso das Debêntures que não estejam custodiadas conforme o item (i) acima.
+
+As partes desde já reconhecem e aceitam que, para todos os fins e efeitos, todo cálculo a ser realizado com o propósito de apurar o valor a ser pago em relação a cada uma das Debêntures objeto do Resgate Antecipado Facultativo, nos termos das Cláusulas 4.10.1.2 e 4.10.1.3 acima, não deverá considerar qualquer acréscimo relativo aos tributos que venham a ser devidos pelos Debenturistas em razão da perda do benefício fiscal conforme previsto na Cláusula 4.14.5 abaixo.
+
+Oferta de Resgate Antecipado. Conforme venha a ser permitido pelas regras expedidas pelo CMN e pela legislação e regulamentação aplicável, a Emissora poderá realizar, a seu exclusivo critério, oferta de resgate antecipado das Debêntures, com o consequente cancelamento das Debêntures resgatadas ('Oferta de Resgate Antecipado'). A Oferta de Resgate Antecipado será endereçada a todos os Debenturistas, sem distinção, assegurada a igualdade de condições a todos os Debenturistas para aceitar o resgate antecipado das Debêntures de que forem titulares, de acordo com os termos e condições previstos nas cláusulas abaixo.
+
+A Emissora realizará a Oferta de Resgate Antecipado por meio de publicação de comunicação dirigida aos Debenturistas, a ser amplamente divulgada nos termos da Cláusula 4.12, ou por meio de comunicado individual a ser encaminhado pela Emissora a cada um dos Debenturistas, com cópia para o Agente Fiduciário ('Edital de Oferta de Resgate Antecipado'), no qual deverá descrever os termos e condições da Oferta de Resgate Antecipado, incluindo: (i) o valor do prêmio de resgate antecipado a ser oferecido pela Emissora, se houver, e que não poderá ser negativo; (ii) o prazo e a forma para manifestação à Emissora dos Debenturistas que optarem pela adesão à Oferta de Resgate Antecipado, observado o disposto na Cláusula 4.10.2.2 abaixo; (iii) a data efetiva para o resgate antecipado das Debêntures e o pagamento das quantias devidas aos Debenturistas nos termos da Cláusula 4.10.2.5 abaixo; e (iv) as demais informações necessárias para a tomada de decisão pelos Debenturistas e para a operacionalização da Oferta de Resgate Antecipado. 
+
+Após a comunicação aos Debenturistas ou publicação do Edital de Oferta de Resgate Antecipado, os Debenturistas que optarem pela adesão à Oferta de Resgate Antecipado terão o prazo de 10 (dez) Dias Úteis para se manifestarem formalmente perante a Emissora, com cópia ao Agente Fiduciário e em conformidade com o Edital de Oferta de Resgate Antecipado.
+
+
+Caso o resgate antecipado das Debêntures seja efetivado, ele deverá ocorrer em uma única data para todas as Debêntures, na data prevista na comunicação aos Debenturistas ou no Edital de Oferta de Resgate Antecipado.
+
+A Emissora deverá: (i) na data de término do prazo de adesão à Oferta de Resgate Antecipado, confirmar ao Agente Fiduciário, que deverá informar os Debenturistas, se o resgate antecipado das Debêntures será efetivamente realizado; e (ii) com antecedência mínima de 3 (três) Dias Úteis da data do resgate antecipado, comunicar ao Agente Liquidante e Escriturador e à B3 a data do resgate antecipado.
+
+O valor a ser pago em relação a cada uma das Debêntures será equivalente ao Valor Nominal Unitário Atualizado acrescido (i) dos Juros Remuneratórios devidos até a data do efetivo resgate, calculados pro rata temporis, a partir da Primeira Data de Integralização ou da Data de Pagamento dos Juros Remuneratórios imediatamente anterior; e (ii) se for o caso, do prêmio de resgate indicado no Edital da Oferta de Resgate Antecipado, que caso exista não poderá ser negativo. 
+
+As Debêntures resgatadas no âmbito da Oferta de Resgate Antecipado serão obrigatoriamente canceladas.
+
+O resgate antecipado ocorrerá, conforme o caso, de acordo com: (i) os procedimentos estabelecidos pela B3, para as Debêntures que estiverem custodiadas eletronicamente na B3; ou (ii) os procedimentos adotados pelo Agente Liquidante e Escriturador, para as Debêntures que não estiverem custodiadas eletronicamente na B3. 
+
+Amortização Extraordinária
+
+As Debêntures não estarão sujeitas a amortização extraordinária pela Emissora.
+
+
+Resgate Antecipado Facultativo. As Debêntures não estarão sujeitas a resgate antecipado facultativo pela Emissora, total ou parcial, salvo caso as Debêntures deixem de gozar do tratamento tributário previsto na Lei 12.431 por motivo não imputável à Emissora (e.g. revogação legal do benefício ou acréscimo de alíquota ou aplicação de Taxa Substituta que não atenda aos requisitos da Lei 12.431), conforme disposto na Cláusula 4.14.6 a seguir, hipótese em que a Emissora, conforme venha a ser permitido pelas regras expedidas pelo CMN e pela legislação e regulamentação aplicável, poderá realizar, a seu exclusivo critério, em qualquer dia 15 (quinze) de cada mês a partir da Data de Emissão (exclusive), o resgate antecipado facultativo da totalidade das Debêntures (sendo vedado o resgate antecipado facultativo parcial), com o consequente cancelamento das Debêntures ('Resgate Antecipado Facultativo').
+
+A Emissora deverá comunicar os Debenturistas por meio de publicação de comunicação dirigida aos Debenturistas, a ser amplamente divulgada nos termos da Cláusula 4.12, ou por meio de comunicado individual a ser encaminhado pela Emissora a cada um dos Debenturistas, com cópia para o Agente Fiduciário, a B3 e o Agente Liquidante e Escriturador, com, no mínimo, 5 (cinco) Dias Úteis de antecedência da data do evento, que deverá descrever os termos e condições do Resgate Antecipado Facultativo, incluindo: (i) data efetiva para o Resgate Antecipado Facultativo, que coincidirá com a data do pagamento do Valor do Resgate Antecipado Facultativo(conforme definido abaixo); (ii) o Valor do Resgate Antecipado Facultativo, conforme estabelecido abaixo; e (iii) demais informações necessárias à operacionalização do Resgate Antecipado Facultativo.
+
+O valor a ser pago em relação a cada uma das Debêntures objeto do Resgate Antecipado Facultativo será o maior entre ('Valor do Resgate Antecipado Facultativo'): (i) o Valor Nominal Unitário Atualizado acrescido (a) dos Juros Remuneratórios, calculada, pro rata temporis, desde a Primeira Data de Integralização ou a Data de Pagamento dos Juros Remuneratórios imediatamente anterior, conforme o caso, até a data do efetivo resgate (exclusive); (b) dos Encargos Moratórios, se houver; e (c) de quaisquer obrigações pecuniárias e outros acréscimos referentes às Debêntures; [ou (ii) o valor presente das parcelas remanescentes de pagamento de amortização do Valor Nominal Unitário Atualizado e dos Juros Remuneratórios, utilizando como taxa de desconto a taxa interna de retorno do Tesouro IPCA+ com Juros Semestrais (NTN-B), calculado conforme abaixo, e somado aos Encargos Moratórios, se houver, a quaisquer obrigações pecuniárias e a outros acréscimos referentes às Debêntures.
+
+Para fins do disposto no item '(ii)' da Cláusula 4.10.1.2. acima, deverá ser observada a seguinte fórmula:
+
+
+
+Onde:
+
+VP = somatório do valor presente das parcelas de pagamento das Debêntures;
+
+C = conforme definido na Cláusula 4.2.1 acima; 
+
+VNEk = valor unitário de cada um dos 'k' valores devidos das Debêntures, sendo o valor de cada parcela 'k' equivalente ao pagamento dos Juros Remuneratórios das Debêntures e/ou à amortização do Valor Nominal Unitário Atualizado, conforme o caso;
+
+n = número total de eventos de pagamento a serem realizados das Debêntures, sendo 'n' um número inteiro;
+
+nk = número de Dias Úteis entre a data do resgate das Debêntures em virtude da decretação de vencimento antecipado e a data de vencimento programada de cada parcela 'k' vincenda;
+
+FVPk = fator de valor presente, apurado conforme fórmula a seguir, calculado com 9 (nove) casas decimais, com arredondamento:
+
+
+
+TESOUROIPCA = Respectivamente para cada um dos 'k' valores devidos das Debêntures, taxa expressa ao ano, equivalente a 100% do cupom da Nota do Tesouro Nacional Série B ('NTN-B'), de prazo de vencimento equivalente ao prazo de cada uma das parcelas remanescentes de Juros Remuneratórios das Debêntures e/ou amortização das Debêntures. Caso não haja NTN-B de prazo de vencimento equivalente ao prazo de Juros Remuneratórios e/ou amortização das Debêntures de cada parcela remanescente, será utilizada a NTN-B com vencimento imediatamente anterior ou posterior a respectiva data de pagamento da parcela de Juros Remuneratórios das Debêntures e/ou amortização das Debêntures, sendo dentre elas a que tiver o menor cupom]. 
+
+O pagamento das Debêntures serem resgatadas antecipadamente, por meio do Resgate Antecipado Facultativo, será realizado pela Emissora (i) por meio dos procedimentos adotados pela B3 no caso das Debêntures que estejam custodiadas eletronicamente na B3 ou (ii) mediante depósito em contas correntes indicadas pelos Debenturistas, a ser realizado de acordo com os procedimentos adotados pelo Agente Liquidante e Escriturador, no caso das Debêntures que não estejam custodiadas conforme o item (i) acima.
+
+As partes desde já reconhecem e aceitam que, para todos os fins e efeitos, todo cálculo a ser realizado com o propósito de apurar o valor a ser pago em relação a cada uma das Debêntures objeto do Resgate Antecipado Facultativo, nos termos das Cláusulas 4.10.1.2 e 4.10.1.3 acima, não deverá considerar qualquer acréscimo relativo aos tributos que venham a ser devidos pelos Debenturistas em razão da perda do benefício fiscal conforme previsto na Cláusula 4.14.5 abaixo.
+
+Oferta de Resgate Antecipado. Conforme venha a ser permitido pelas regras expedidas pelo CMN e pela legislação e regulamentação aplicável, a Emissora poderá realizar, a seu exclusivo critério, oferta de resgate antecipado das Debêntures, com o consequente cancelamento das Debêntures resgatadas ('Oferta de Resgate Antecipado'). A Oferta de Resgate Antecipado será endereçada a todos os Debenturistas, sem distinção, assegurada a igualdade de condições a todos os Debenturistas para aceitar o resgate antecipado das Debêntures de que forem titulares, de acordo com os termos e condições previstos nas cláusulas abaixo.
+
+A Emissora realizará a Oferta de Resgate Antecipado por meio de publicação de comunicação dirigida aos Debenturistas, a ser amplamente divulgada nos termos da Cláusula 4.12, ou por meio de comunicado individual a ser encaminhado pela Emissora a cada um dos Debenturistas, com cópia para o Agente Fiduciário ('Edital de Oferta de Resgate Antecipado'), no qual deverá descrever os termos e condições da Oferta de Resgate Antecipado, incluindo: (i) o valor do prêmio de resgate antecipado a ser oferecido pela Emissora, se houver, e que não poderá ser negativo; (ii) o prazo e a forma para manifestação à Emissora dos Debenturistas que optarem pela adesão à Oferta de Resgate Antecipado, observado o disposto na Cláusula 4.10.2.2 abaixo; (iii) a data efetiva para o resgate antecipado das Debêntures e o pagamento das quantias devidas aos Debenturistas nos termos da Cláusula 4.10.2.5 abaixo; e (iv) as demais informações necessárias para a tomada de decisão pelos Debenturistas e para a operacionalização da Oferta de Resgate Antecipado. 
+
+Após a comunicação aos Debenturistas ou publicação do Edital de Oferta de Resgate Antecipado, os Debenturistas que optarem pela adesão à Oferta de Resgate Antecipado terão o prazo de 10 (dez) Dias Úteis para se manifestarem formalmente perante a Emissora, com cópia ao Agente Fiduciário e em conformidade com o Edital de Oferta de Resgate Antecipado.
+
+
+Caso o resgate antecipado das Debêntures seja efetivado, ele deverá ocorrer em uma única data para todas as Debêntures, na data prevista na comunicação aos Debenturistas ou no Edital de Oferta de Resgate Antecipado.
+
+A Emissora deverá: (i) na data de término do prazo de adesão à Oferta de Resgate Antecipado, confirmar ao Agente Fiduciário, que deverá informar os Debenturistas, se o resgate antecipado das Debêntures será efetivamente realizado; e (ii) com antecedência mínima de 3 (três) Dias Úteis da data do resgate antecipado, comunicar ao Agente Liquidante e Escriturador e à B3 a data do resgate antecipado.
+
+O valor a ser pago em relação a cada uma das Debêntures será equivalente ao Valor Nominal Unitário Atualizado acrescido (i) dos Juros Remuneratórios devidos até a data do efetivo resgate, calculados pro rata temporis, a partir da Primeira Data de Integralização ou da Data de Pagamento dos Juros Remuneratórios imediatamente anterior; e (ii) se for o caso, do prêmio de resgate indicado no Edital da Oferta de Resgate Antecipado, que caso exista não poderá ser negativo. 
+
+As Debêntures resgatadas no âmbito da Oferta de Resgate Antecipado serão obrigatoriamente canceladas.
+
+O resgate antecipado ocorrerá, conforme o caso, de acordo com: (i) os procedimentos estabelecidos pela B3, para as Debêntures que estiverem custodiadas eletronicamente na B3; ou (ii) os procedimentos adotados pelo Agente Liquidante e Escriturador, para as Debêntures que não estiverem custodiadas eletronicamente na B3. 
+

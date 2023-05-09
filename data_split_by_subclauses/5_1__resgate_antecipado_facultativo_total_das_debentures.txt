@@ -1,0 +1,18 @@
+5.1.	Resgate Antecipado Facultativo Total das Debêntures 
+
+5.1.1.	Sujeito ao atendimento das condições abaixo, a Companhia poderá, a seu exclusivo critério, realizar, a partir, exclusive, da Data de Emissão, e com aviso prévio aos Debenturistas (por meio de publicação de anúncio nos termos previstos nesta Escritura ou de comunicação individual, a critério da Emissora), ao Agente Fiduciário, ao Escriturador, ao Agente de Liquidação e à B3, com, no mínimo, 3 (três) Dias Úteis de antecedência à data do evento, o resgate antecipado da totalidade das Debêntures, sendo vedado o resgate parcial, mediante o pagamento do respectivo valor de resgate antecipado calculado da seguinte forma ('Resgate Antecipado Facultativo'): 
+
+(i) por ocasião do Resgate Antecipado Facultativo das Debêntures, os Debenturistas farão jus ao pagamento (a) do Valor Nominal Unitário das Debêntures ou do saldo do Valor Nominal Unitário das Debêntures, conforme o caso, acrescido (b) dos Juros Remuneratórios calculados pro rata temporis por Dias Úteis decorridos, desde a respectiva última data de pagamento dos Juros Remuneratórios até a data do efetivo pagamento do Resgate Antecipado Facultativo, acrescido de (c) um prêmio de acordo a fórmula abaixo, e acrescido (d) dos Encargos Moratórios devidos e não pagos até a data do referido resgate, se for o caso:
+
+Fórmula:
+
+PUprêmio = Prêmio * (Prazo Remanescente/252) * PUdebênture
+
+Onde:
+
+PUdebênture = Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, acrescido dos Juros Remuneratórios calculados pro rata temporis desde a data de pagamento dos Juros Remuneratórios imediatamente anterior até a data do efetivo pagamento do Resgate Antecipado ('Data do Resgate Antecipado Facultativo'), acrescido de Encargo Moratórios, se aplicável, devidos e não pagos até a Data do Resgate Antecipado Facultativo; 
+
+Prêmio = 0,50% (cinquenta centésimos por cento); e
+
+Prazo Remanescente = quantidade de Dias Úteis, contados da Data do Resgate Antecipado Facultativo até a Data de Vencimento das Debêntures.
+

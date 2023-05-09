@@ -4,6 +4,7 @@ import docx
 import pandas as pd
 import os
 import unicodedata
+from tqdm import tqdm
 def para_text_extract(files):
     
     '''
@@ -65,13 +66,17 @@ for texto in documentos:
     #Criar um loop para salvar cada clausula em um arquivo txt7
     flag = False
     for i in range(len(df)):
-        if df['estrutura'][i] == 'clausula':
+        if df['estrutura'][i] == 'subclausula':
             flag = True
             nome_clausula = unicodedata.normalize('NFKD',df['texto'][i].strip().lower()).encode('ASCII', 'ignore').decode('ASCII')
-            f = open(f"data_split_by_clausese/{nome_clausula}.txt", "a+")
+            if len(nome_clausula) > 50:
+                continue
+            for char in [' ', '.', ',', '(', ')', '/', '\\', ':', ';', '?', '!', '\'', '\"', '\n', '\t']:
+                nome_clausula = nome_clausula.replace(char, '_')
+            f = open(f"data_split_by_subclauses/{nome_clausula}.txt", "a+")
             f.write(df['texto'][i] + "\n")
         
-        if df['estrutura'][i] != 'clausula' and flag == True:
+        if df['estrutura'][i] != 'subclausula' and flag == True:
             f.write(df['texto'][i] + "\n")
         else:
             pass
