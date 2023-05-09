@@ -14,22 +14,18 @@ Descumprimento, pela Emissora, de qualquer obrigação pecuniária devida aos De
 
 Se for verificada a invalidade ou nulidade quanto à emissão das Debêntures ou inexequibilidade desta Escritura de Emissão ou de qualquer Contrato de Garantia, conforme o caso;
 
- [Nota: Hipótese realocada para evento de vencimento não automático]
-
 Caso ocorra (a) a dissolução, extinção ou a liquidação da Emissora e/ou de qualquer Controlada Relevante; (b) a decretação de falência da Emissora e/ou suas Controladas; (c) o pedido de autofalência formulado pela Emissora e/ou suas Controladas; (d) pedido de falência formulado por terceiros em face da Emissora e/ou suas Controladas e que não sejam devidamente solucionados, por meio de pagamento ou depósito, suspensão dos efeitos da declaração de falência, ou por outro meio, nos prazos legais aplicáveis; (e) a apresentação de pedido, por parte da Emissora e/ou suas Controladas Relevantes, de plano de recuperação extrajudicial ou qualquer outra modalidade de concurso de credores prevista em lei específica, a qualquer credor ou classe de credores independentemente de ter sido requerida ou obtida homologação judicial; ou (f) o ingresso pela Emissora e/ou suas Controladas em juízo com requerimento de recuperação judicial, independentemente do deferimento do respectivo pedido; 
 
 Declaração de vencimento antecipado de qualquer obrigação financeira da Emissora ou de qualquer Controlada Relevante perante terceiros, decorrente de captação de recursos nos mercados monetário, financeiro, de crédito de câmbio ou de capitais, no Brasil ou no exterior, cujo valor, individual ou agregado, seja igual ou superior a [R$50.000.000,00 (cinquenta milhões de reais)] ou seu equivalente em outras moedas; [Nota MM: Valor do Threshold sob validação] [Nota: Threshold sob validação dos Coordenadores] 
 
 Transformação da Emissora de sociedade por ações em qualquer outro tipo societário, nos termos dos artigos 220 a 222 da Lei das Sociedades por Ações;
  
- [Nota: Hipótese realocada para evento de vencimento não automático. Sob validação dos Coordenadores]
 Cessão, promessa de cessão ou qualquer forma de transferência ou promessa de transferência a terceiros, no todo ou em parte, pela Emissora, dos seus respectivos direitos e das suas respectivas obrigações assumidas nesta Escritura de Emissão e/ou nos Contratos de Garantia; 
 
 Não utilização dos recursos decorrentes da Emissão exclusivamente conforme descrito na Cláusula 5 desta Escritura de Emissão; 
 
 Criação pela Emissora, sem a aprovação prévia dos Debenturistas convocados em Assembleia Geral de Debenturistas, de penhor, cessão, alienação fiduciária ou quaisquer outros ônus ou gravames sobre os seus direitos creditórios relativos a qualquer um dos Contratos Data Centers, exceto pelos ônus criados pelos Contratos de Garantia; ou
 
-[Nota MM: Abrangência do negative pledge em discussão]
 
 Questionamento judicial acerca da legalidade, validade ou exequibilidade desta Escritura de Emissão, dos Contratos de Garantia, ou de qualquer uma de suas disposições por parte da Emissora e/ou de suas Afiliadas. [Nota: Questionamento realizado por terceiros realocado para evento de vencimento não automático]
 
@@ -46,10 +42,8 @@ Inadimplemento, pela Emissora e/ou suas Controladas Relevantes, de qualquer obri
 (i) Se qualquer Autoridade Governamental (a) tome qualquer ação no sentido de criar alguma norma ou legislação que impeça a Emissora de exercer suas atividades de modo a causar um Efeito Adverso Relevante ou (b) sequestre, desaproprie, nacionalize, exproprie ou de qualquer modo adquira compulsoriamente qualquer parte substancial dos ativos ou ações de emissão da Emissora; (ii) se houver quaisquer alterações em qualquer um dos Contratos Data Centers que afete de forma relevante e adversa a capacidade da Emissora de cumprir com suas obrigações nos termos desta Escritura de Emissão; (iii) caso uma ou mais autorizações governamentais que afetem uma parte dos ativos da Emissora que represente mais de 10% (dez por cento) da receita líquida da Emissora, com base em suas Demonstrações Financeiras Anuais mais recentes, sejam revogadas, canceladas, suspensas, modificadas, negadas ou deixem de estar em pleno vigor e efeito, ou uma ação seja proposta para revogar, cancelar, suspender, modificar ou negar qualquer autorização governamental, sem que essa circunstância seja remediada no prazo de 15 (quinze) dias; (iv) caso uma parte dos ativos da Emissora (a) que represente mais de 10% (dez por cento) da receita líquida da Emissora, com base em suas Demonstrações Financeiras Anuais mais recentes, ou (b) cuja destruição ou perda tenha causado ou possa razoavelmente esperar que cause um Efeito Adverso Relevante, seja total ou parcialmente destruída ou perdida, e a Emissora deixe de iniciar reparos, reconstrução e/ou substituição de tais ativos no prazo de 30 (trinta) dias contados da data dessa destruição ou perda ou de concluir esses reparos, reconstrução e/ou substituição dentro de 90 (noventa) dias contados da data dessa destruição ou perda;
 
 Proferimento de decisão arbitral, administrativa ou judicial para a qual a Emissora e/ou Controlada Relevante não tenha obtido efeito suspensivo no prazo legal, por juízo, câmara ou órgão competente contra a Emissora e/ou qualquer Controlada Relevante, que condene a Emissora e/ou a Controlada Relevante ao pagamento de valor, individual ou agregado, igual ou superior a [R$50.000.000,00 (cinquenta milhões de reais)], ou o equivalente em outras moedas; 
-[Nota MM: threshold sob validação.]
 
 Protesto de títulos contra a Emissora e/ou qualquer Controlada Relevante, em valor, individual ou agregado, igual ou superior a [R$50.000.000,00 (cinquenta milhões de reais)], ou o equivalente em outras moedas, exceto se a Emissora e/ou a Controlada Relevante provar, no prazo de até 15 (quinze) Dias Úteis contados da data de recebimento da notificação do protesto: (i) que referido protesto foi inapropriadamente efetuado, decorreu de erro ou má-fé de terceiros ou foi sustado ou cancelado; ou (ii) que a Emissora e/ou a Controlada Relevante prestaram garantias em juízo, as quais deverão ser aceitas pelo poder judiciário; 
-[Nota MM: threshold sob validação.]
 
 Questionamento judicial acerca da legalidade, validade ou exequibilidade desta Escritura de Emissão, dos Contratos de Garantia, ou de qualquer uma de suas disposições por parte de quaisquer terceiros que não sejam Afiliadas da Emissora;
 
@@ -81,7 +75,6 @@ Existência de decisão judicial ou decisão administrativa que condene a Emisso
 
 Existência de decisão judicial que condene a Emissora, suas Controladas Relevantes, seus funcionários ou representantes, desde que agindo em nome e em benefício da Emissora, por atos que importem em violação à legislação que trata do combate à discriminação de raça ou gênero, ao trabalho infantil, ao trabalho análogo à escravidão, à prática de assédio moral ou sexual, incentivo à prostituição ou a crimes contra o meio ambiente previstos na Legislação Socioambiental, incluindo, mas não se limitando, nas disposições da legislação pertinente à Política Nacional do Meio Ambiente e as Resoluções da CONAMA – Conselho Nacional do Meio Ambiente e às demais legislações e regulamentações supletivas em vigor (neste caso, desde que tais crimes contra o meio ambiente sejam diretamente relacionados às atividades desenvolvidas pela Emissora e) conforme definidos no Capítulo V da Lei 9.605, de 12 de fevereiro de 1998, conforme alterada; 
 
- [Nota: Hipótese já abarcada pelo item (t) acima]
 Inscrição da Emissora, suas coligadas (conforme definição de coligada prevista no artigo 243 da Lei das Sociedades por Ações), seus administradores, empregados, agentes e fornecedores no cadastro de empregadores que tenham mantido trabalhadores em condições análogas à escravidão, instituído pela Portaria Interministerial nº 4, de 11 de maio de 2016, do Ministério do Trabalho e Emprego e a Secretaria de Direitos Humanos ('Portaria Interministerial nº 4'), ou outro registro oficial que eventualmente venha a substitui-la; 
 
 caso a Emissora não esteja cumprindo com qualquer dos Índices Financeiros previstos na presente Escritura de Emissão e realize a contratação de Endividamento Adicional pela Emissora ou por qualquer Controlada Relevante; 
@@ -94,7 +87,6 @@ Caso qualquer lei aplicável venha considerar inválidas ou inexequíveis quaisq
 
 Caso qualquer Agência Governamental (i) tome qualquer ação no sentido de criar qualquer norma ou legislação que, direta ou indiretamente, impeça a Emissora de efetuar as suas atividades de modo a causar um Efeito Adverso Relevante ou (ii) congele, desaproprie, nacionalize, tome por domínio iminente, ou, de qualquer forma, adquira compulsoriamente qualquer parte substancial dos ativos ou ações de emissão da Emissora;
 
- [Nota: Hipótese já abarcado pelo item 'l' acima]
 Caso (i) os Debenturistas deixem de ser titulares das Garantias; ou (ii) os Contratos de Garantia sejam rescindidos ou deixem de estar em vigor ou prover direitos, poderes e privilégios criados por tais instrumentos por qualquer razão; ou (iii) os Contratos de Garantia não sejam formalizados no prazo estabelecido nos respectivos instrumentos; ou
 
 
@@ -134,14 +126,12 @@ Declaração de vencimento antecipado de qualquer obrigação financeira da Emis
 
 Transformação da Emissora de sociedade por ações em qualquer outro tipo societário, nos termos dos artigos 220 a 222 da Lei das Sociedades por Ações;
  
- [Nota: Hipótese realocada para evento de vencimento não automático. Sob validação dos Coordenadores]
 Cessão, promessa de cessão ou qualquer forma de transferência ou promessa de transferência a terceiros, no todo ou em parte, pela Emissora, dos seus respectivos direitos e das suas respectivas obrigações assumidas nesta Escritura de Emissão e/ou nos Contratos de Garantia; 
 
 Não utilização dos recursos decorrentes da Emissão exclusivamente conforme descrito na Cláusula 5 desta Escritura de Emissão; 
 
 Criação pela Emissora, sem a aprovação prévia dos Debenturistas convocados em Assembleia Geral de Debenturistas, de penhor, cessão, alienação fiduciária ou quaisquer outros ônus ou gravames sobre os seus direitos creditórios relativos a qualquer um dos Contratos Data Centers, exceto pelos ônus criados pelos Contratos de Garantia; ou
 
-[Nota MM: Abrangência do negative pledge em discussão]
 
 Questionamento judicial acerca da legalidade, validade ou exequibilidade desta Escritura de Emissão, dos Contratos de Garantia, ou de qualquer uma de suas disposições por parte da Emissora e/ou de suas Afiliadas. [Nota: Questionamento realizado por terceiros realocado para evento de vencimento não automático]
 
@@ -158,10 +148,8 @@ Inadimplemento, pela Emissora e/ou suas Controladas Relevantes, de qualquer obri
 (i) Se qualquer Autoridade Governamental (a) tome qualquer ação no sentido de criar alguma norma ou legislação que impeça a Emissora de exercer suas atividades de modo a causar um Efeito Adverso Relevante ou (b) sequestre, desaproprie, nacionalize, exproprie ou de qualquer modo adquira compulsoriamente qualquer parte substancial dos ativos ou ações de emissão da Emissora; (ii) se houver quaisquer alterações em qualquer um dos Contratos Data Centers que afete de forma relevante e adversa a capacidade da Emissora de cumprir com suas obrigações nos termos desta Escritura de Emissão; (iii) caso uma ou mais autorizações governamentais que afetem uma parte dos ativos da Emissora que represente mais de 10% (dez por cento) da receita líquida da Emissora, com base em suas Demonstrações Financeiras Anuais mais recentes, sejam revogadas, canceladas, suspensas, modificadas, negadas ou deixem de estar em pleno vigor e efeito, ou uma ação seja proposta para revogar, cancelar, suspender, modificar ou negar qualquer autorização governamental, sem que essa circunstância seja remediada no prazo de 15 (quinze) dias; (iv) caso uma parte dos ativos da Emissora (a) que represente mais de 10% (dez por cento) da receita líquida da Emissora, com base em suas Demonstrações Financeiras Anuais mais recentes, ou (b) cuja destruição ou perda tenha causado ou possa razoavelmente esperar que cause um Efeito Adverso Relevante, seja total ou parcialmente destruída ou perdida, e a Emissora deixe de iniciar reparos, reconstrução e/ou substituição de tais ativos no prazo de 30 (trinta) dias contados da data dessa destruição ou perda ou de concluir esses reparos, reconstrução e/ou substituição dentro de 90 (noventa) dias contados da data dessa destruição ou perda;
 
 Proferimento de decisão arbitral, administrativa ou judicial para a qual a Emissora e/ou Controlada Relevante não tenha obtido efeito suspensivo no prazo legal, por juízo, câmara ou órgão competente contra a Emissora e/ou qualquer Controlada Relevante, que condene a Emissora e/ou a Controlada Relevante ao pagamento de valor, individual ou agregado, igual ou superior a [R$50.000.000,00 (cinquenta milhões de reais)], ou o equivalente em outras moedas; 
-[Nota MM: threshold sob validação.]
 
 Protesto de títulos contra a Emissora e/ou qualquer Controlada Relevante, em valor, individual ou agregado, igual ou superior a [R$50.000.000,00 (cinquenta milhões de reais)], ou o equivalente em outras moedas, exceto se a Emissora e/ou a Controlada Relevante provar, no prazo de até 15 (quinze) Dias Úteis contados da data de recebimento da notificação do protesto: (i) que referido protesto foi inapropriadamente efetuado, decorreu de erro ou má-fé de terceiros ou foi sustado ou cancelado; ou (ii) que a Emissora e/ou a Controlada Relevante prestaram garantias em juízo, as quais deverão ser aceitas pelo poder judiciário; 
-[Nota MM: threshold sob validação.]
 
 Questionamento judicial acerca da legalidade, validade ou exequibilidade desta Escritura de Emissão, dos Contratos de Garantia, ou de qualquer uma de suas disposições por parte de quaisquer terceiros que não sejam Afiliadas da Emissora;
 
@@ -193,7 +181,6 @@ Existência de decisão judicial ou decisão administrativa que condene a Emisso
 
 Existência de decisão judicial que condene a Emissora, suas Controladas Relevantes, seus funcionários ou representantes, desde que agindo em nome e em benefício da Emissora, por atos que importem em violação à legislação que trata do combate à discriminação de raça ou gênero, ao trabalho infantil, ao trabalho análogo à escravidão, à prática de assédio moral ou sexual, incentivo à prostituição ou a crimes contra o meio ambiente previstos na Legislação Socioambiental, incluindo, mas não se limitando, nas disposições da legislação pertinente à Política Nacional do Meio Ambiente e as Resoluções da CONAMA – Conselho Nacional do Meio Ambiente e às demais legislações e regulamentações supletivas em vigor (neste caso, desde que tais crimes contra o meio ambiente sejam diretamente relacionados às atividades desenvolvidas pela Emissora e) conforme definidos no Capítulo V da Lei 9.605, de 12 de fevereiro de 1998, conforme alterada; 
 
- [Nota: Hipótese já abarcada pelo item (t) acima]
 Inscrição da Emissora, suas coligadas (conforme definição de coligada prevista no artigo 243 da Lei das Sociedades por Ações), seus administradores, empregados, agentes e fornecedores no cadastro de empregadores que tenham mantido trabalhadores em condições análogas à escravidão, instituído pela Portaria Interministerial nº 4, de 11 de maio de 2016, do Ministério do Trabalho e Emprego e a Secretaria de Direitos Humanos ('Portaria Interministerial nº 4'), ou outro registro oficial que eventualmente venha a substitui-la; 
 
 caso a Emissora não esteja cumprindo com qualquer dos Índices Financeiros previstos na presente Escritura de Emissão e realize a contratação de Endividamento Adicional pela Emissora ou por qualquer Controlada Relevante; 
@@ -206,7 +193,6 @@ Caso qualquer lei aplicável venha considerar inválidas ou inexequíveis quaisq
 
 Caso qualquer Agência Governamental (i) tome qualquer ação no sentido de criar qualquer norma ou legislação que, direta ou indiretamente, impeça a Emissora de efetuar as suas atividades de modo a causar um Efeito Adverso Relevante ou (ii) congele, desaproprie, nacionalize, tome por domínio iminente, ou, de qualquer forma, adquira compulsoriamente qualquer parte substancial dos ativos ou ações de emissão da Emissora;
 
- [Nota: Hipótese já abarcado pelo item 'l' acima]
 Caso (i) os Debenturistas deixem de ser titulares das Garantias; ou (ii) os Contratos de Garantia sejam rescindidos ou deixem de estar em vigor ou prover direitos, poderes e privilégios criados por tais instrumentos por qualquer razão; ou (iii) os Contratos de Garantia não sejam formalizados no prazo estabelecido nos respectivos instrumentos; ou
 
 
