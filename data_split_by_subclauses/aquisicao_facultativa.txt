@@ -1,64 +1,8 @@
 Aquisição Facultativa
 
  A Emissora poderá, a qualquer tempo, adquirir Debêntures desde que observe o disposto no artigo 55, parágrafo 3°, da Lei das Sociedades por Ações, nos artigos 13 e 15 da Instrução CVM 476, na Instrução da CVM n° 620, de 17 de março de 2020 ('Instrução CVM 620') e demais regras expedidas pela CVM, e ainda, condicionado ao aceite do respectivo Debenturista vendedor, devendo tal fato, se assim exigido pelas disposições legais e regulamentares aplicáveis, constar do relatório da administração e das demonstrações financeiras da Emissora. As Debêntures adquiridas pela Emissora poderão, a critério da Emissora, ser canceladas, permanecer em tesouraria ou ser novamente colocadas no mercado, observadas as restrições impostas pela Instrução CVM 476 e pela Instrução CVM 620. As Debêntures adquiridas pela Emissora para permanência em tesouraria nos termos desta Cláusula, se e quando recolocadas no mercado, farão jus à Remuneração aplicável às demais Debêntures.
+Aquisição Facultativa. A Emissora poderá, a qualquer momento, adquirir Debêntures, desde que observe o disposto no artigo 55, parágrafo 3º, e incisos I e II, da Lei das Sociedades por Ações, artigos 13 e 15 da Instrução CVM 476, e na regulamentação aplicável da CVM, condicionando ao aceite do respectivo Debenturista vendedor: (a) por valor igual ou inferior ao Valor Nominal Unitário ou ao saldo do Valor Nominal Unitário, conforme o caso, acrescido dos Juros Remuneratórios e, se for o caso, os Encargos Moratórios devidos, devendo o fato constar no relatório da administração da Emissora e nas demonstrações financeiras da Emissora; ou (b) por valor superior ao Valor Nominal Unitário ou do saldo do Valor Nominal Unitário, conforme o caso, desde que observe as regras expedidas pela CVM e aquelas previstas na Instrução CVM 476. As Debêntures adquiridas pela Emissora poderão, a critério da Emissora, ser canceladas, permanecer em tesouraria, ou serem colocadas novamente no mercado. As Debêntures adquiridas pela Emissora para permanência em tesouraria nos termos desta Cláusula, se e quando recolocadas no mercado, farão jus aos mesmos Juros Remuneratórios aplicáveis às demais Debêntures. Não haverá o pagamento de nenhum tipo de prêmio pela aquisição facultativa das Debêntures pela Emissora.
 
-VENCIMENTO ANTECIPADO 
-
-Observado o disposto nas Cláusulas 7.1.1, os Debenturistas, representados pelo Agente Fiduciário, terão o direito de declarar antecipadamente vencidas todas as obrigações objeto da Escritura de Emissão e exigir o imediato pagamento pela Emissora do Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, acrescido da Remuneração, calculada pro rata temporis a partir da Data de Integralização ou da última Data de Pagamento da Remuneração da respectiva série (conforme o caso) até a data do efetivo pagamento, e dos Encargos Moratórios, se houver ('Vencimento Antecipado'), na ocorrência de quaisquer dos eventos previstos na Cláusula 7.1.1 abaixo ('Eventos de Inadimplemento'): 
-
-A ocorrência de quaisquer dos Eventos de Inadimplemento indicados abaixo, e que não sejam sanados no prazo de cura de 05 (cinco) Dias Úteis acarretará o Vencimento Antecipado automático das Debêntures. Nesta hipótese, o Agente Fiduciário deverá declarar vencidas, independentemente de aviso, notificação ou interpelação judicial ou extrajudicial ou qualquer consulta aos Debenturistas, todas as obrigações decorrentes das Debêntures e exigir o pagamento do que for devido:
-
-inadimplemento de obrigação pecuniária relativa às Debêntures;
-
-vencimento antecipado de quaisquer dívidas da Emissora;
-
-pedido/decretação de falência, recuperação judicial ou extrajudicial ou eventos análogos envolvendo a Emissora;
-
-pedido de liquidação, dissolução ou extinção da Emissora;
-
-transformação do tipo societário da Emissora;
-
-alteração do objeto social da Emissora;
-
-inadimplemento de obrigação não pecuniária relativa às Debêntures;
-
-alteração do atual controle acionário da Emissora;
-
-inadimplemento de outras dívidas da Emissora;
-
-reorganização societária que possa comprometer o cumprimento das obrigações pecuniárias estabelecidas nesta Escritura;
-
-cessão das obrigações da Emissora decorrentes desta Escritura a terceiros;
-
-alienação ou oneração de ativos da Emissora (conforme o caso);
-
-redução de capital da Emissora, observado a Lei das Sociedades por Ações;
-
-protesto de títulos contra a Emissora (conforme o caso);
-
-descumprimento de decisão ou sentença judicial, administrativa e/ou arbitral pela Emissora;
-
-não obtenção, não renovação, cancelamento, revogação ou suspensão das autorizações, concessões, alvarás e/ou licenças necessárias para a atividade da Emissora (conforme o caso);
-
-caso a Emissora esteja inadimplente em relação a qualquer obrigação pecuniária prevista nesta Escritura, e efetue pagamento de dividendos ou distribuição de juros sobre capital próprio acima do dividendo mínimo obrigatório (conforme o caso);
-
-falsidade ou incorreção das declarações ou garantias prestadas pela Emissora nos documentos da Oferta (conforme o caso);
-
-destinação dos recursos da Emissão de forma diversa à prevista na Escritura de Emissão; e
-
-atuação em desconformidade com as disposições da Lei nº 12.846, de 01 de agosto de 2013 ou qualquer outra legislação que seja aplicável.
-
-Na ocorrência dos eventos listados na Cláusula 7.1.1, o Agente Fiduciário deverá convocar, em até 1 (um) Dia Útil contado da data em que tomar conhecimento do referido evento, uma Assembleia Geral de Debenturistas, para deliberar sobre a não declaração de Vencimento Antecipado das obrigações decorrentes das Debêntures.
-
-Na Assembleia Geral de Debenturistas mencionada na Cláusula 7.1.1 acima, que será instalada de acordo com os procedimentos previstos nesta Escritura de Emissão, os Debenturistas poderão optar, por deliberação de Titulares que representem, no mínimo, 80% (oitenta por cento) mais 1 (uma) das Debêntures em Circulação, por não declarar antecipadamente vencidas as Debêntures. 
-
-Na hipótese (i) de não instalação da Assembleia Geral de Debenturistas mencionada na Cláusula 7.1.2 acima por falta de quórum em segunda convocação; ou (ii) de não ser aprovado o exercício da faculdade de não declarar o Vencimento Antecipado das Debêntures, prevista acima, o Agente Fiduciário deverá, imediatamente, declarar o Vencimento Antecipado das Debêntures.
-
-Em caso do vencimento antecipado, declarado pelo Agente Fiduciário, das obrigações decorrentes das Debêntures, a Emissora, obriga-se a resgatar a totalidade das Debêntures, com o seu consequente cancelamento, pelo Valor Nominal Unitário acrescido da Remuneração, calculada pro rata temporis, desde a Data de Integralização ou da última Data de Pagamento da Remuneração da respectiva série, o que ocorrer por último, até a data do efetivo resgate, sem prejuízo do pagamento dos Encargos Moratórios, quando for o caso, e de quaisquer outros valores eventualmente devidos pela Emissora nos termos desta Escritura de Emissão, em até 05 (cinco) Dias Úteis contados da data em que for declarado o vencimento antecipado das obrigações decorrentes das Debêntures, mediante comunicação por escrito a ser enviada pelo Agente Fiduciário à Emissora, sob pena de, em não o fazendo, ficar obrigada, ainda, ao pagamento dos Encargos Moratórios.
-
-Em caso de declaração do Vencimento Antecipado automático ou não automático das Debêntures, o Agente Fiduciário deverá enviar em até 1 (um) Dia Útil, carta protocolada à Emissora, com cópia à B3, informando tal evento, e a Emissora deverá, em até 3 (três) Dias Úteis a contar do envio da notificação enviada pelo Agente Fiduciário sobre a ocorrência do Vencimento Antecipado, efetuar o pagamento do Valor Nominal Unitário ou do saldo do Valor Nominal Unitário das Debêntures, conforme aplicável, acrescido da respectiva Remuneração devida e não paga, calculada nos termos da Cláusula 5.12 acima, bem como de quaisquer outros valores eventualmente devidos pela Emissora nos termos desta Escritura de Emissão incluindo, mas não se limitando, aos Encargos Moratórios, se aplicáveis.
-
-A B3 e o Agente de Liquidação e Escriturador deverão ser imediatamente comunicados, por meio de correspondência encaminhada pelo Agente Fiduciário, da declaração do Vencimento Antecipado e realização do pagamento das Debêntures.
 
 DAS OBRIGAÇÕES ADICIONAIS DA EMISSORA
 

@@ -178,3 +178,6 @@ Decadência dos Direitos aos Acréscimos
 
 O não comparecimento do Debenturista para receber o valor correspondente a quaisquer das obrigações pecuniárias devidas pela Emissora nas datas previstas nesta Escritura de Emissão, ou em comunicado publicado pela Emissora, não lhe dará direito ao recebimento da Atualização Monetária, Juros Remuneratórios ou Encargos Moratórios no período relativo ao atraso no recebimento, sendo-lhe, todavia, assegurados os direitos adquiridos até a data do respectivo vencimento.
 
+
+Decadência de Direitos sobre Acréscimos. O não comparecimento do Debenturista para receber o valor correspondente a quaisquer das obrigações pecuniárias nas datas previstas nesta Escritura de Emissão não lhe dá direito ao recebimento dos Juros Remuneratórios e/ou Encargos Moratórios correspondentes ao período relativo ao atraso no recebimento, sendo-lhe, todavia, assegurados os direitos adquiridos até a data do respectivo vencimento ou pagamento, no caso de impontualidade no pagamento.
+

@@ -46,3 +46,26 @@ negociação no mercado secundário por meio do CETIP21 – Títulos e Valores M
 
 2.5.3. O prazo de 90 (noventa) dias para restrição de negociação das Debêntures referido acima não será aplicável ao Coordenador Líder (conforme abaixo definido) para as Debêntures que tenham sido subscritas e integralizadas em razão do exercício da garantia firme de colocação, nos termos do Contrato de Distribuição (conforme abaixo definido), observado o disposto no inciso II do artigo 13 da Instrução CVM 476, desde que sejam observados os requisitos estabelecidos no parágrafo único do artigo 13 da Instrução CVM 476
 
+2.6.	Depósito para Distribuição e Negociação 
+
+2.6.1. 	As Debêntures serão devidamente depositadas para:
+
+distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos ('MDA'), administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Segmento Balcão B3 ('B3'), sendo a distribuição liquidada financeiramente por meio da B3; e
+
+negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3. 
+
+2.6.2. Não obstante o descrito na Cláusula 2.6.1 acima, as Debêntures somente poderão ser subscritas e integralizadas por Investidores Profissionais e negociadas depois de decorridos 90 (noventa) dias contados de cada subscrição ou aquisição inicial pelos Investidores Profissionais, conforme disposto no artigo 13 da Instrução CVM 476, salvo as exceções nele previstas, na hipótese do lote objeto de garantia firme de colocação pelo Coordenador Líder indicado no momento da subscrição, observados, na negociação subsequente, os limites e condições previstos nos artigos 2º e 3º da Instrução CVM 476 e, em todos os casos, observado o cumprimento, pela Emissora, do artigo 17 da Instrução CVM 476, observado ainda o disposto no caput do artigo 15 da Instrução CVM 476 em relação à negociação das Debêntures entre Investidores Qualificados, bem como as exceções estabelecidas em seus parágrafos 1º e 2º, conforme aplicáveis, sendo que a negociação das Debêntures deverá sempre respeitar as disposições legais e regulamentares aplicáveis. 
+
+
+2.6.	Depósito para Distribuição e Negociação 
+
+2.6.1. 	As Debêntures serão devidamente depositadas para:
+
+distribuição no mercado primário por meio do MDA – Módulo de Distribuição de Ativos ('MDA'), administrado e operacionalizado pela B3 S.A. – Brasil, Bolsa, Balcão – Segmento Balcão B3 ('B3'), sendo a distribuição liquidada financeiramente por meio da B3; e
+
+negociação no mercado secundário por meio do CETIP21 – Títulos e Valores Mobiliários ('CETIP21'), administrado e operacionalizado pela B3, sendo as negociações liquidadas financeiramente e as Debêntures custodiadas eletronicamente na B3. 
+
+2.6.2. Não obstante o descrito na Cláusula 2.6.1 acima, as Debêntures somente poderão ser subscritas e integralizadas por Investidores Profissionais e negociadas depois de decorridos 90 (noventa) dias contados de cada subscrição ou aquisição inicial pelos Investidores Profissionais, conforme disposto no artigo 13 da Instrução CVM 476, salvo as exceções nele previstas, na hipótese do lote objeto de garantia firme de colocação pelo Coordenador Líder indicado no momento da subscrição, observados, na negociação subsequente, os limites e condições previstos nos artigos 2º e 3º da Instrução CVM 476 e, em todos os casos, observado o cumprimento, pela Emissora, do artigo 17 da Instrução CVM 476, observado ainda o disposto no caput do artigo 15 da Instrução CVM 476 em relação à negociação das Debêntures entre Investidores Qualificados, bem como as exceções estabelecidas em seus parágrafos 1º e 2º, conforme aplicáveis, sendo que a negociação das Debêntures deverá sempre respeitar as disposições legais e regulamentares aplicáveis. 
+
+
+

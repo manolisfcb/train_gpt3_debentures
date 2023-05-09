@@ -1,6 +1,7 @@
 Valor Nominal Unitário
 
 O valor nominal unitário das Debêntures será de R$1.000,00 (um mil reais), na respectiva Data de Emissão (conforme abaixo definida) ('Valor Nominal Unitário'). Não haverá qualquer incidência de correção monetária ou juros sobre o Valor Nominal Unitário entre a presente data e a efetiva Data de Emissão das Debêntures.
+Valor Nominal Unitário: O valor nominal unitário das Debêntures na sua Data de Emissão será de R$ 1.000,00 (mil reais) ('Valor Nominal Unitário').
 
 Valor Nominal Unitário 
 O valor nominal unitário das Debêntures, na Data de Emissão, será de R$1.000,00 (mil reais) ('Valor Nominal Unitário').

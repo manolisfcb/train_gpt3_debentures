@@ -646,3 +646,4 @@ onde:
 taxa = taxa de juros informada com 4 (quatro) casas decimais, conforme definida nos termos da Cláusula 5.16.1 acima; e
 DP = Número de Dias Úteis entre a primeira Data de Integralização ou a última Data de Pagamento da Remuneração, e a data atual, sendo 'DP' um número inteiro.
 Considera-se período de capitalização o período compreendido entre a primeira Data de Integralização (inclusive) até a Data de Pagamento da Remuneração (exclusive) ou o período compreendido entre a Data de Pagamento da Remuneração anterior (inclusive) e a próxima Data de Pagamento da Remuneração (exclusive).
+Remuneração das Debêntures: A remuneração das Debêntures será a seguinte:

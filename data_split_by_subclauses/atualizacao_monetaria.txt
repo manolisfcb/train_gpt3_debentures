@@ -52,3 +52,347 @@ Caso o IPCA venha a ser divulgado antes da realização da Assembleia Geral de D
 Caso a Taxa Substitutiva venha a acarretar a perda do benefício gerado pelo tratamento tributário previsto na Lei 12.431 ou caso não haja acordo sobre a Taxa Substitutiva entre a Companhia e os Debenturistas representando, no mínimo, metade mais uma das Debêntures em Circulação, em primeira convocação ou, em segunda convocação, qualquer número de Debenturistas ou quórum mínimo exigido pela regulamentação em vigor, o que for maior, ou, ainda, caso não seja verificado quórum de instalação em segunda convocação, ou de quórum de deliberação, a Companhia deverá (i) caso seja legalmente permitido à Companhia realizar o resgate antecipado das Debêntures, nos termos das disposições legais e regulamentares aplicáveis, inclusive em virtude da regulamentação, pelo CMN, da possibilidade de resgate prevista no artigo 1º, parágrafo 1º, inciso II, combinado com o artigo 2º, parágrafo 1º, da Lei 12.431, resgatar antecipadamente a totalidade das Debêntures em Circulação, sem multa ou prêmio de qualquer natureza, no prazo de 30 (trinta) dias contados da data da realização da respectiva Assembleia Geral de Debenturistas, ou da data em que deveria ter sido realizada a respectiva assembleia geral de Debenturistas, pelo seu Valor Nominal Unitário Atualizado, acrescido da Remuneração das Debêntures devida calculada pro rata temporis desde a Data de Início da Rentabilidade ou Data de Pagamento da Remuneração das Debêntures imediatamente anterior, conforme o caso, até a data do efetivo pagamento; ou (ii) caso não seja legalmente permitida a realização do resgate antecipado das Debêntures, nos termos da Lei 12.431, da Resolução CMN 4.751, bem como as regras que vierem a ser expedidas pelo CMN e as demais regulamentações aplicáveis, resgatar a totalidade das Debêntures em Circulação com o consequente cancelamento de tais Debêntures no prazo de até 30 (trinta) dias contados da data em que se torne legalmente permitido à Companhia realizar o resgate antecipado das Debêntures, nos termos da Lei 12.431, da Resolução CMN 4.751, bem como as regras que vierem a ser expedidas pelo CMN e as demais regulamentações aplicáveis, ou ainda na Data de Vencimento, o que ocorrer primeiro. Para cálculo da Remuneração das Debêntures aplicável às Debêntures a serem resgatadas e, consequentemente, canceladas, para cada dia do Período de Ausência do IPCA será utilizada as projeções ANBIMA para o IPCA, coletadas junto ao Comitê de Acompanhamento Macroeconômico da ANBIMA. Caso não seja legalmente permitido à Companhia realizar o resgate antecipado das Debêntures, nos termos das disposições legais e regulamentares aplicáveis, inclusive em virtude da não regulamentação, pelo CMN, da possibilidade de resgate prevista no artigo 1º, parágrafo 1º, inciso II, combinado com o artigo 2º, parágrafo 1º, da Lei 12.431, quando do cálculo de quaisquer obrigações pecuniárias relativas às Debêntures previstas nesta Escritura de Emissão, será utilizado, para a apuração do IPCA, o mesmo índice que vier a ser utilizado pelo Banco Central do Brasil para o acompanhamento dos objetivos estabelecidos no sistema de metas de inflação para o balizamento da política monetária do Brasil até que o resgate antecipado passe a ser legalmente permitido, aplicando-se, então, o disposto acima. [Nota Mattos Filho: ajustado conforme precedente de Lojas Americanas]
 Atualização Monetária
 O Valor Nominal Unitário das Debêntures não será atualizado monetariamente. 
+
+ATUALIZAÇÃO MONETÁRIA. 
+O Valor Nominal Unitário das Debêntures não será atualizado monetariamente.
+ATUALIZAÇÃO MONETÁRIA. 
+O Valor Nominal Unitário das Debêntures não será atualizado monetariamente.
+ATUALIZAÇÃO MONETÁRIA. 
+O Valor Nominal Unitário das Debêntures não será atualizado monetariamente.
+ATUALIZAÇÃO MONETÁRIA. 
+O Valor Nominal Unitário das Debêntures não será atualizado monetariamente.
+Atualização Monetária: o Valor Nominal Unitário das Debêntures não será atualizado monetariamente.
+
+Atualização Monetária das Debêntures
+
+Não haverá atualização monetária do Valor Nominal Unitário ou do saldo do Valor Nominal Unitário, conforme o caso. 
+
+Atualização Monetária das Debêntures
+O Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, será atualizado monetariamente pela variação do Índice Nacional de Preços ao Consumidor Amplo ('IPCA'), calculado e divulgado mensalmente pelo Instituto Brasileiro de Geografia e Estatística ('IBGE'), desde a primeira Data de Integralização (conforme abaixo definida), até a data de seu efetivo pagamento ('Atualização Monetária'), sendo o produto da Atualização Monetária automaticamente incorporado ao Valor Nominal Unitário ou ao saldo do Valor Nominal Unitário das Debêntures, conforme o caso ('Valor Nominal Unitário Atualizado'). A Atualização Monetária será calculada de acordo com a seguinte fórmula: 
+
+onde:
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+C = Fator acumulado das variações mensais do IPCA, calculado com 8 (oito) casas decimais, sem arredondamento, apurado da seguinte forma:
+
+onde:
+n =	Número total de índices considerados na atualização monetária, sendo 'n' um número inteiro;
+NIk = Valor do número-índice do IPCA do mês anterior ao mês de atualização, divulgado no Mês de Atualização (conforme abaixo definido), caso a atualização seja em data anterior ou na própria Data de Aniversário das Debêntures, após a Data de Aniversário respectiva, o 'NIk' corresponderá ao valor do número índice do IPCA do Mês de Atualização;
+NIk-1 = Valor do número-índice do IPCA do mês anterior ao mês 'k';
+dup = Número de Dias Úteis entre a primeira Data de Integralização (ou a última Data de Aniversário das Debêntures) e a data de cálculo, limitado ao número total de Dias Úteis de vigência do número-índice do IPCA, sendo 'dup' um número inteiro; e
+dut = Número de Dias Úteis contidos entre a última Data de Aniversário das Debêntures, e a próxima Data de Aniversário das Debêntures, sendo 'dut' um número inteiro.
+Observações:
+O número-índice do IPCA deverá ser utilizado considerando-se idêntico número de casas decimais daquele divulgado pelo IBGE;
+A aplicação do IPCA incidirá no menor período permitido pela legislação em vigor sem necessidade de ajuste à Escritura de Emissão ou qualquer outra formalidade;
+Considera-se como 'Data de Aniversário' todo dia 15 de cada mês. Considera-se como mês de atualização, o período mensal compreendido entre duas datas de aniversário consecutivas ('Mês de Atualização'); 
+O fator resultante da expressão (NIk /NIk-1)^(dup/dut) é considerado com 8 (oito) casas decimais, sem arredondamento; e
+O produtório é executado a partir do fator mais recente, acrescentando-se, em seguida, os mais remotos. Os resultados intermediários são calculados com 16 (dezesseis) casas decimais, sem arredondamento.
+Atualização Monetária das Debêntures
+O Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, será atualizado monetariamente pela variação do Índice Nacional de Preços ao Consumidor Amplo ('IPCA'), calculado e divulgado mensalmente pelo Instituto Brasileiro de Geografia e Estatística ('IBGE'), desde a primeira Data de Integralização (conforme abaixo definida), até a data de seu efetivo pagamento ('Atualização Monetária'), sendo o produto da Atualização Monetária automaticamente incorporado ao Valor Nominal Unitário ou ao saldo do Valor Nominal Unitário das Debêntures, conforme o caso ('Valor Nominal Unitário Atualizado'). A Atualização Monetária será calculada de acordo com a seguinte fórmula: 
+
+onde:
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+C = Fator acumulado das variações mensais do IPCA, calculado com 8 (oito) casas decimais, sem arredondamento, apurado da seguinte forma:
+
+onde:
+n =	Número total de índices considerados na atualização monetária, sendo 'n' um número inteiro;
+NIk = Valor do número-índice do IPCA do mês anterior ao mês de atualização, divulgado no Mês de Atualização (conforme abaixo definido), caso a atualização seja em data anterior ou na própria Data de Aniversário das Debêntures, após a Data de Aniversário respectiva, o 'NIk' corresponderá ao valor do número índice do IPCA do Mês de Atualização;
+NIk-1 = Valor do número-índice do IPCA do mês anterior ao mês 'k';
+dup = Número de Dias Úteis entre a primeira Data de Integralização (ou a última Data de Aniversário das Debêntures) e a data de cálculo, limitado ao número total de Dias Úteis de vigência do número-índice do IPCA, sendo 'dup' um número inteiro; e
+dut = Número de Dias Úteis contidos entre a última Data de Aniversário das Debêntures, e a próxima Data de Aniversário das Debêntures, sendo 'dut' um número inteiro.
+Observações:
+O número-índice do IPCA deverá ser utilizado considerando-se idêntico número de casas decimais daquele divulgado pelo IBGE;
+A aplicação do IPCA incidirá no menor período permitido pela legislação em vigor sem necessidade de ajuste à Escritura de Emissão ou qualquer outra formalidade;
+Considera-se como 'Data de Aniversário' todo dia 15 de cada mês. Considera-se como mês de atualização, o período mensal compreendido entre duas datas de aniversário consecutivas ('Mês de Atualização'); 
+O fator resultante da expressão (NIk /NIk-1)^(dup/dut) é considerado com 8 (oito) casas decimais, sem arredondamento; e
+O produtório é executado a partir do fator mais recente, acrescentando-se, em seguida, os mais remotos. Os resultados intermediários são calculados com 16 (dezesseis) casas decimais, sem arredondamento.
+Atualização Monetária das Debêntures 
+O Valor Nominal Unitário das Debêntures não será atualizado monetariamente.
+Atualização Monetária das Debêntures 
+
+O Valor Nominal Unitário das Debêntures não será atualizado monetariamente por qualquer índice.
+
+Atualização Monetária das Debêntures 
+
+O Valor Nominal Unitário das Debêntures não será corrigido ou atualizado monetariamente por qualquer índice.
+
+Atualização Monetária das Debêntures
+O Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, será atualizado monetariamente pela variação do Índice Nacional de Preços ao Consumidor Amplo ('IPCA'), calculado e divulgado mensalmente pelo Instituto Brasileiro de Geografia e Estatística ('IBGE'), desde a primeira Data de Integralização (conforme abaixo definida), até a data de seu efetivo pagamento ('Atualização Monetária'), sendo o produto da Atualização Monetária automaticamente incorporado ao Valor Nominal Unitário ou ao saldo do Valor Nominal Unitário das Debêntures, conforme o caso ('Valor Nominal Unitário Atualizado'). A Atualização Monetária será calculada de acordo com a seguinte fórmula: 
+
+onde:
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+C = Fator acumulado das variações mensais do IPCA, calculado com 8 (oito) casas decimais, sem arredondamento, apurado da seguinte forma:
+
+onde:
+n =	Número total de índices considerados na atualização monetária, sendo 'n' um número inteiro;
+NIk = Valor do número-índice do IPCA do mês anterior ao mês de atualização, divulgado no Mês de Atualização (conforme abaixo definido), caso a atualização seja em data anterior ou na própria Data de Aniversário das Debêntures, após a Data de Aniversário respectiva, o 'NIk' corresponderá ao valor do número índice do IPCA do Mês de Atualização;
+NIk-1 = Valor do número-índice do IPCA do mês anterior ao mês 'k';
+dup = Número de Dias Úteis entre a primeira Data de Integralização (ou a última Data de Aniversário das Debêntures) e a data de cálculo, limitado ao número total de Dias Úteis de vigência do número-índice do IPCA, sendo 'dup' um número inteiro; e
+dut = Número de Dias Úteis contidos entre a última Data de Aniversário das Debêntures, e a próxima Data de Aniversário das Debêntures, sendo 'dut' um número inteiro.
+Observações:
+O número-índice do IPCA deverá ser utilizado considerando-se idêntico número de casas decimais daquele divulgado pelo IBGE;
+A aplicação do IPCA incidirá no menor período permitido pela legislação em vigor sem necessidade de ajuste à Escritura de Emissão ou qualquer outra formalidade;
+Considera-se como 'Data de Aniversário' todo dia 15 de cada mês. Considera-se como mês de atualização, o período mensal compreendido entre duas datas de aniversário consecutivas ('Mês de Atualização'); 
+O fator resultante da expressão (NIk /NIk-1)^(dup/dut) é considerado com 8 (oito) casas decimais, sem arredondamento; e
+O produtório é executado a partir do fator mais recente, acrescentando-se, em seguida, os mais remotos. Os resultados intermediários são calculados com 16 (dezesseis) casas decimais, sem arredondamento.
+Atualização Monetária das Debêntures
+
+O Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures não será atualizado monetariamente. [Nota Machado Meyer: a ordem e a redação foram atualizadas conforme o Guia de Padronização da ANBIMA.]
+
+Atualização Monetária das Debêntures
+
+O Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures não será atualizado monetariamente. [Nota Machado Meyer: a ordem e a redação foram atualizadas conforme o Guia de Padronização da ANBIMA.]
+
+Atualização Monetária das Debêntures
+O Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, será atualizado monetariamente pela variação do Índice Nacional de Preços ao Consumidor Amplo ('IPCA'), calculado e divulgado mensalmente pelo Instituto Brasileiro de Geografia e Estatística ('IBGE'), desde a primeira Data de Integralização (conforme abaixo definida), até a data de seu efetivo pagamento ('Atualização Monetária'), sendo o produto da Atualização Monetária automaticamente incorporado ao Valor Nominal Unitário ou ao saldo do Valor Nominal Unitário das Debêntures, conforme o caso ('Valor Nominal Unitário Atualizado'). A Atualização Monetária será calculada de acordo com a seguinte fórmula: 
+
+onde:
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+C = Fator acumulado das variações mensais do IPCA, calculado com 8 (oito) casas decimais, sem arredondamento, apurado da seguinte forma:
+
+onde:
+n =	Número total de índices considerados na atualização monetária, sendo 'n' um número inteiro;
+NIk = Valor do número-índice do IPCA do mês anterior ao mês de atualização, divulgado no Mês de Atualização (conforme abaixo definido), caso a atualização seja em data anterior ou na própria Data de Aniversário das Debêntures, após a Data de Aniversário respectiva, o 'NIk' corresponderá ao valor do número índice do IPCA do Mês de Atualização;
+NIk-1 = Valor do número-índice do IPCA do mês anterior ao mês 'k';
+dup = Número de Dias Úteis entre a primeira Data de Integralização (ou a última Data de Aniversário das Debêntures) e a data de cálculo, limitado ao número total de Dias Úteis de vigência do número-índice do IPCA, sendo 'dup' um número inteiro; e
+dut = Número de Dias Úteis contidos entre a última Data de Aniversário das Debêntures, e a próxima Data de Aniversário das Debêntures, sendo 'dut' um número inteiro.
+Observações:
+O número-índice do IPCA deverá ser utilizado considerando-se idêntico número de casas decimais daquele divulgado pelo IBGE;
+A aplicação do IPCA incidirá no menor período permitido pela legislação em vigor sem necessidade de ajuste à Escritura de Emissão ou qualquer outra formalidade;
+Considera-se como 'Data de Aniversário' todo dia 15 de cada mês. Considera-se como mês de atualização, o período mensal compreendido entre duas datas de aniversário consecutivas ('Mês de Atualização'); 
+O fator resultante da expressão (NIk /NIk-1)^(dup/dut) é considerado com 8 (oito) casas decimais, sem arredondamento; e
+O produtório é executado a partir do fator mais recente, acrescentando-se, em seguida, os mais remotos. Os resultados intermediários são calculados com 16 (dezesseis) casas decimais, sem arredondamento.
+Atualização Monetária das Debêntures
+O Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, será atualizado monetariamente pela variação do Índice Nacional de Preços ao Consumidor Amplo ('IPCA'), calculado e divulgado mensalmente pelo Instituto Brasileiro de Geografia e Estatística ('IBGE'), desde a primeira Data de Integralização (conforme abaixo definida), até a data de seu efetivo pagamento ('Atualização Monetária'), sendo o produto da Atualização Monetária automaticamente incorporado ao Valor Nominal Unitário ou ao saldo do Valor Nominal Unitário das Debêntures, conforme o caso ('Valor Nominal Unitário Atualizado'). A Atualização Monetária será calculada de acordo com a seguinte fórmula: 
+
+onde:
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+C = Fator acumulado das variações mensais do IPCA, calculado com 8 (oito) casas decimais, sem arredondamento, apurado da seguinte forma:
+
+onde:
+n =	Número total de índices considerados na atualização monetária, sendo 'n' um número inteiro;
+NIk = Valor do número-índice do IPCA do mês anterior ao mês de atualização, divulgado no Mês de Atualização (conforme abaixo definido), caso a atualização seja em data anterior ou na própria Data de Aniversário das Debêntures, após a Data de Aniversário respectiva, o 'NIk' corresponderá ao valor do número índice do IPCA do Mês de Atualização;
+NIk-1 = Valor do número-índice do IPCA do mês anterior ao mês 'k';
+dup = Número de Dias Úteis entre a primeira Data de Integralização (ou a última Data de Aniversário das Debêntures) e a data de cálculo, limitado ao número total de Dias Úteis de vigência do número-índice do IPCA, sendo 'dup' um número inteiro; e
+dut = Número de Dias Úteis contidos entre a última Data de Aniversário das Debêntures, e a próxima Data de Aniversário das Debêntures, sendo 'dut' um número inteiro.
+Observações:
+O número-índice do IPCA deverá ser utilizado considerando-se idêntico número de casas decimais daquele divulgado pelo IBGE;
+A aplicação do IPCA incidirá no menor período permitido pela legislação em vigor sem necessidade de ajuste à Escritura de Emissão ou qualquer outra formalidade;
+Considera-se como 'Data de Aniversário' todo dia 15 de cada mês. Considera-se como mês de atualização, o período mensal compreendido entre duas datas de aniversário consecutivas ('Mês de Atualização'); 
+O fator resultante da expressão (NIk /NIk-1)^(dup/dut) é considerado com 8 (oito) casas decimais, sem arredondamento; e
+O produtório é executado a partir do fator mais recente, acrescentando-se, em seguida, os mais remotos. Os resultados intermediários são calculados com 16 (dezesseis) casas decimais, sem arredondamento.
+Atualização Monetária das Debêntures
+O Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, será atualizado monetariamente pela variação do Índice Nacional de Preços ao Consumidor Amplo ('IPCA'), calculado e divulgado mensalmente pelo Instituto Brasileiro de Geografia e Estatística ('IBGE'), desde a primeira Data de Integralização (conforme abaixo definida), até a data de seu efetivo pagamento ('Atualização Monetária'), sendo o produto da Atualização Monetária automaticamente incorporado ao Valor Nominal Unitário ou ao saldo do Valor Nominal Unitário das Debêntures, conforme o caso ('Valor Nominal Unitário Atualizado'). A Atualização Monetária será calculada de acordo com a seguinte fórmula: 
+
+onde:
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+C = Fator acumulado das variações mensais do IPCA, calculado com 8 (oito) casas decimais, sem arredondamento, apurado da seguinte forma:
+
+onde:
+n =	Número total de índices considerados na atualização monetária, sendo 'n' um número inteiro;
+NIk = Valor do número-índice do IPCA do mês anterior ao mês de atualização, divulgado no Mês de Atualização (conforme abaixo definido), caso a atualização seja em data anterior ou na própria Data de Aniversário das Debêntures, após a Data de Aniversário respectiva, o 'NIk' corresponderá ao valor do número índice do IPCA do Mês de Atualização;
+NIk-1 = Valor do número-índice do IPCA do mês anterior ao mês 'k';
+dup = Número de Dias Úteis entre a primeira Data de Integralização (ou a última Data de Aniversário das Debêntures) e a data de cálculo, limitado ao número total de Dias Úteis de vigência do número-índice do IPCA, sendo 'dup' um número inteiro; e
+dut = Número de Dias Úteis contidos entre a última Data de Aniversário das Debêntures, e a próxima Data de Aniversário das Debêntures, sendo 'dut' um número inteiro.
+Observações:
+O número-índice do IPCA deverá ser utilizado considerando-se idêntico número de casas decimais daquele divulgado pelo IBGE;
+A aplicação do IPCA incidirá no menor período permitido pela legislação em vigor sem necessidade de ajuste à Escritura de Emissão ou qualquer outra formalidade;
+Considera-se como 'Data de Aniversário' todo dia 15 de cada mês. Considera-se como mês de atualização, o período mensal compreendido entre duas datas de aniversário consecutivas ('Mês de Atualização'); 
+O fator resultante da expressão (NIk /NIk-1)^(dup/dut) é considerado com 8 (oito) casas decimais, sem arredondamento; e
+O produtório é executado a partir do fator mais recente, acrescentando-se, em seguida, os mais remotos. Os resultados intermediários são calculados com 16 (dezesseis) casas decimais, sem arredondamento.
+Atualização Monetária das Debêntures
+O Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, será atualizado monetariamente pela variação do Índice Nacional de Preços ao Consumidor Amplo ('IPCA'), calculado e divulgado mensalmente pelo Instituto Brasileiro de Geografia e Estatística ('IBGE'), desde a primeira Data de Integralização (conforme abaixo definida), até a data de seu efetivo pagamento ('Atualização Monetária'), sendo o produto da Atualização Monetária automaticamente incorporado ao Valor Nominal Unitário ou ao saldo do Valor Nominal Unitário das Debêntures, conforme o caso ('Valor Nominal Unitário Atualizado'). A Atualização Monetária será calculada de acordo com a seguinte fórmula: 
+
+onde:
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+C = Fator acumulado das variações mensais do IPCA, calculado com 8 (oito) casas decimais, sem arredondamento, apurado da seguinte forma:
+
+onde:
+n =	Número total de índices considerados na atualização monetária, sendo 'n' um número inteiro;
+NIk = Valor do número-índice do IPCA do mês anterior ao mês de atualização, divulgado no Mês de Atualização (conforme abaixo definido), caso a atualização seja em data anterior ou na própria Data de Aniversário das Debêntures, após a Data de Aniversário respectiva, o 'NIk' corresponderá ao valor do número índice do IPCA do Mês de Atualização;
+NIk-1 = Valor do número-índice do IPCA do mês anterior ao mês 'k';
+dup = Número de Dias Úteis entre a primeira Data de Integralização (ou a última Data de Aniversário das Debêntures) e a data de cálculo, limitado ao número total de Dias Úteis de vigência do número-índice do IPCA, sendo 'dup' um número inteiro; e
+dut = Número de Dias Úteis contidos entre a última Data de Aniversário das Debêntures, e a próxima Data de Aniversário das Debêntures, sendo 'dut' um número inteiro.
+Observações:
+O número-índice do IPCA deverá ser utilizado considerando-se idêntico número de casas decimais daquele divulgado pelo IBGE;
+A aplicação do IPCA incidirá no menor período permitido pela legislação em vigor sem necessidade de ajuste à Escritura de Emissão ou qualquer outra formalidade;
+Considera-se como 'Data de Aniversário' todo dia 15 de cada mês. Considera-se como mês de atualização, o período mensal compreendido entre duas datas de aniversário consecutivas ('Mês de Atualização'); 
+O fator resultante da expressão (NIk /NIk-1)^(dup/dut) é considerado com 8 (oito) casas decimais, sem arredondamento; e
+O produtório é executado a partir do fator mais recente, acrescentando-se, em seguida, os mais remotos. Os resultados intermediários são calculados com 16 (dezesseis) casas decimais, sem arredondamento.
+Atualização Monetária das Debêntures
+
+Não haverá atualização monetária do Valor Nominal Unitário ou do saldo do Valor Nominal Unitário, conforme o caso. 
+
+Atualização Monetária das Debêntures
+O Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, será atualizado monetariamente pela variação do Índice Nacional de Preços ao Consumidor Amplo ('IPCA'), calculado e divulgado mensalmente pelo Instituto Brasileiro de Geografia e Estatística ('IBGE'), desde a primeira Data de Integralização (conforme abaixo definida), até a data de seu efetivo pagamento ('Atualização Monetária'), sendo o produto da Atualização Monetária automaticamente incorporado ao Valor Nominal Unitário ou ao saldo do Valor Nominal Unitário das Debêntures, conforme o caso ('Valor Nominal Unitário Atualizado'). A Atualização Monetária será calculada de acordo com a seguinte fórmula: 
+
+onde:
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+C = Fator acumulado das variações mensais do IPCA, calculado com 8 (oito) casas decimais, sem arredondamento, apurado da seguinte forma:
+
+onde:
+n =	Número total de índices considerados na atualização monetária, sendo 'n' um número inteiro;
+NIk = Valor do número-índice do IPCA do mês anterior ao mês de atualização, divulgado no Mês de Atualização (conforme abaixo definido), caso a atualização seja em data anterior ou na própria Data de Aniversário das Debêntures, após a Data de Aniversário respectiva, o 'NIk' corresponderá ao valor do número índice do IPCA do Mês de Atualização;
+NIk-1 = Valor do número-índice do IPCA do mês anterior ao mês 'k';
+dup = Número de Dias Úteis entre a primeira Data de Integralização (ou a última Data de Aniversário das Debêntures) e a data de cálculo, limitado ao número total de Dias Úteis de vigência do número-índice do IPCA, sendo 'dup' um número inteiro; e
+dut = Número de Dias Úteis contidos entre a última Data de Aniversário das Debêntures, e a próxima Data de Aniversário das Debêntures, sendo 'dut' um número inteiro.
+Observações:
+O número-índice do IPCA deverá ser utilizado considerando-se idêntico número de casas decimais daquele divulgado pelo IBGE;
+A aplicação do IPCA incidirá no menor período permitido pela legislação em vigor sem necessidade de ajuste à Escritura de Emissão ou qualquer outra formalidade;
+Considera-se como 'Data de Aniversário' todo dia 15 de cada mês. Considera-se como mês de atualização, o período mensal compreendido entre duas datas de aniversário consecutivas ('Mês de Atualização'); 
+O fator resultante da expressão (NIk /NIk-1)^(dup/dut) é considerado com 8 (oito) casas decimais, sem arredondamento; e
+O produtório é executado a partir do fator mais recente, acrescentando-se, em seguida, os mais remotos. Os resultados intermediários são calculados com 16 (dezesseis) casas decimais, sem arredondamento.
+Atualização Monetária das Debêntures
+O Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, será atualizado monetariamente pela variação do Índice Nacional de Preços ao Consumidor Amplo ('IPCA'), calculado e divulgado mensalmente pelo Instituto Brasileiro de Geografia e Estatística ('IBGE'), desde a primeira Data de Integralização (conforme abaixo definida), até a data de seu efetivo pagamento ('Atualização Monetária'), sendo o produto da Atualização Monetária automaticamente incorporado ao Valor Nominal Unitário ou ao saldo do Valor Nominal Unitário das Debêntures, conforme o caso ('Valor Nominal Unitário Atualizado'). A Atualização Monetária será calculada de acordo com a seguinte fórmula: 
+
+onde:
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+C = Fator acumulado das variações mensais do IPCA, calculado com 8 (oito) casas decimais, sem arredondamento, apurado da seguinte forma:
+
+onde:
+n =	Número total de índices considerados na atualização monetária, sendo 'n' um número inteiro;
+NIk = Valor do número-índice do IPCA do mês anterior ao mês de atualização, divulgado no Mês de Atualização (conforme abaixo definido), caso a atualização seja em data anterior ou na própria Data de Aniversário das Debêntures, após a Data de Aniversário respectiva, o 'NIk' corresponderá ao valor do número índice do IPCA do Mês de Atualização;
+NIk-1 = Valor do número-índice do IPCA do mês anterior ao mês 'k';
+dup = Número de Dias Úteis entre a primeira Data de Integralização (ou a última Data de Aniversário das Debêntures) e a data de cálculo, limitado ao número total de Dias Úteis de vigência do número-índice do IPCA, sendo 'dup' um número inteiro; e
+dut = Número de Dias Úteis contidos entre a última Data de Aniversário das Debêntures, e a próxima Data de Aniversário das Debêntures, sendo 'dut' um número inteiro.
+Observações:
+O número-índice do IPCA deverá ser utilizado considerando-se idêntico número de casas decimais daquele divulgado pelo IBGE;
+A aplicação do IPCA incidirá no menor período permitido pela legislação em vigor sem necessidade de ajuste à Escritura de Emissão ou qualquer outra formalidade;
+Considera-se como 'Data de Aniversário' todo dia 15 de cada mês. Considera-se como mês de atualização, o período mensal compreendido entre duas datas de aniversário consecutivas ('Mês de Atualização'); 
+O fator resultante da expressão (NIk /NIk-1)^(dup/dut) é considerado com 8 (oito) casas decimais, sem arredondamento; e
+O produtório é executado a partir do fator mais recente, acrescentando-se, em seguida, os mais remotos. Os resultados intermediários são calculados com 16 (dezesseis) casas decimais, sem arredondamento.
+Atualização Monetária das Debêntures 
+O Valor Nominal Unitário das Debêntures não será atualizado monetariamente.
+Atualização Monetária das Debêntures 
+
+O Valor Nominal Unitário das Debêntures não será atualizado monetariamente por qualquer índice.
+
+Atualização Monetária das Debêntures 
+
+O Valor Nominal Unitário das Debêntures não será corrigido ou atualizado monetariamente por qualquer índice.
+
+Atualização Monetária das Debêntures
+O Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, será atualizado monetariamente pela variação do Índice Nacional de Preços ao Consumidor Amplo ('IPCA'), calculado e divulgado mensalmente pelo Instituto Brasileiro de Geografia e Estatística ('IBGE'), desde a primeira Data de Integralização (conforme abaixo definida), até a data de seu efetivo pagamento ('Atualização Monetária'), sendo o produto da Atualização Monetária automaticamente incorporado ao Valor Nominal Unitário ou ao saldo do Valor Nominal Unitário das Debêntures, conforme o caso ('Valor Nominal Unitário Atualizado'). A Atualização Monetária será calculada de acordo com a seguinte fórmula: 
+
+onde:
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+C = Fator acumulado das variações mensais do IPCA, calculado com 8 (oito) casas decimais, sem arredondamento, apurado da seguinte forma:
+
+onde:
+n =	Número total de índices considerados na atualização monetária, sendo 'n' um número inteiro;
+NIk = Valor do número-índice do IPCA do mês anterior ao mês de atualização, divulgado no Mês de Atualização (conforme abaixo definido), caso a atualização seja em data anterior ou na própria Data de Aniversário das Debêntures, após a Data de Aniversário respectiva, o 'NIk' corresponderá ao valor do número índice do IPCA do Mês de Atualização;
+NIk-1 = Valor do número-índice do IPCA do mês anterior ao mês 'k';
+dup = Número de Dias Úteis entre a primeira Data de Integralização (ou a última Data de Aniversário das Debêntures) e a data de cálculo, limitado ao número total de Dias Úteis de vigência do número-índice do IPCA, sendo 'dup' um número inteiro; e
+dut = Número de Dias Úteis contidos entre a última Data de Aniversário das Debêntures, e a próxima Data de Aniversário das Debêntures, sendo 'dut' um número inteiro.
+Observações:
+O número-índice do IPCA deverá ser utilizado considerando-se idêntico número de casas decimais daquele divulgado pelo IBGE;
+A aplicação do IPCA incidirá no menor período permitido pela legislação em vigor sem necessidade de ajuste à Escritura de Emissão ou qualquer outra formalidade;
+Considera-se como 'Data de Aniversário' todo dia 15 de cada mês. Considera-se como mês de atualização, o período mensal compreendido entre duas datas de aniversário consecutivas ('Mês de Atualização'); 
+O fator resultante da expressão (NIk /NIk-1)^(dup/dut) é considerado com 8 (oito) casas decimais, sem arredondamento; e
+O produtório é executado a partir do fator mais recente, acrescentando-se, em seguida, os mais remotos. Os resultados intermediários são calculados com 16 (dezesseis) casas decimais, sem arredondamento.
+Atualização Monetária das Debêntures
+
+O Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures não será atualizado monetariamente. [Nota Machado Meyer: a ordem e a redação foram atualizadas conforme o Guia de Padronização da ANBIMA.]
+
+Atualização Monetária das Debêntures
+
+O Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures não será atualizado monetariamente. [Nota Machado Meyer: a ordem e a redação foram atualizadas conforme o Guia de Padronização da ANBIMA.]
+
+Atualização Monetária das Debêntures
+O Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, será atualizado monetariamente pela variação do Índice Nacional de Preços ao Consumidor Amplo ('IPCA'), calculado e divulgado mensalmente pelo Instituto Brasileiro de Geografia e Estatística ('IBGE'), desde a primeira Data de Integralização (conforme abaixo definida), até a data de seu efetivo pagamento ('Atualização Monetária'), sendo o produto da Atualização Monetária automaticamente incorporado ao Valor Nominal Unitário ou ao saldo do Valor Nominal Unitário das Debêntures, conforme o caso ('Valor Nominal Unitário Atualizado'). A Atualização Monetária será calculada de acordo com a seguinte fórmula: 
+
+onde:
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+C = Fator acumulado das variações mensais do IPCA, calculado com 8 (oito) casas decimais, sem arredondamento, apurado da seguinte forma:
+
+onde:
+n =	Número total de índices considerados na atualização monetária, sendo 'n' um número inteiro;
+NIk = Valor do número-índice do IPCA do mês anterior ao mês de atualização, divulgado no Mês de Atualização (conforme abaixo definido), caso a atualização seja em data anterior ou na própria Data de Aniversário das Debêntures, após a Data de Aniversário respectiva, o 'NIk' corresponderá ao valor do número índice do IPCA do Mês de Atualização;
+NIk-1 = Valor do número-índice do IPCA do mês anterior ao mês 'k';
+dup = Número de Dias Úteis entre a primeira Data de Integralização (ou a última Data de Aniversário das Debêntures) e a data de cálculo, limitado ao número total de Dias Úteis de vigência do número-índice do IPCA, sendo 'dup' um número inteiro; e
+dut = Número de Dias Úteis contidos entre a última Data de Aniversário das Debêntures, e a próxima Data de Aniversário das Debêntures, sendo 'dut' um número inteiro.
+Observações:
+O número-índice do IPCA deverá ser utilizado considerando-se idêntico número de casas decimais daquele divulgado pelo IBGE;
+A aplicação do IPCA incidirá no menor período permitido pela legislação em vigor sem necessidade de ajuste à Escritura de Emissão ou qualquer outra formalidade;
+Considera-se como 'Data de Aniversário' todo dia 15 de cada mês. Considera-se como mês de atualização, o período mensal compreendido entre duas datas de aniversário consecutivas ('Mês de Atualização'); 
+O fator resultante da expressão (NIk /NIk-1)^(dup/dut) é considerado com 8 (oito) casas decimais, sem arredondamento; e
+O produtório é executado a partir do fator mais recente, acrescentando-se, em seguida, os mais remotos. Os resultados intermediários são calculados com 16 (dezesseis) casas decimais, sem arredondamento.
+Atualização Monetária das Debêntures
+O Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, será atualizado monetariamente pela variação do Índice Nacional de Preços ao Consumidor Amplo ('IPCA'), calculado e divulgado mensalmente pelo Instituto Brasileiro de Geografia e Estatística ('IBGE'), desde a primeira Data de Integralização (conforme abaixo definida), até a data de seu efetivo pagamento ('Atualização Monetária'), sendo o produto da Atualização Monetária automaticamente incorporado ao Valor Nominal Unitário ou ao saldo do Valor Nominal Unitário das Debêntures, conforme o caso ('Valor Nominal Unitário Atualizado'). A Atualização Monetária será calculada de acordo com a seguinte fórmula: 
+
+onde:
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+C = Fator acumulado das variações mensais do IPCA, calculado com 8 (oito) casas decimais, sem arredondamento, apurado da seguinte forma:
+
+onde:
+n =	Número total de índices considerados na atualização monetária, sendo 'n' um número inteiro;
+NIk = Valor do número-índice do IPCA do mês anterior ao mês de atualização, divulgado no Mês de Atualização (conforme abaixo definido), caso a atualização seja em data anterior ou na própria Data de Aniversário das Debêntures, após a Data de Aniversário respectiva, o 'NIk' corresponderá ao valor do número índice do IPCA do Mês de Atualização;
+NIk-1 = Valor do número-índice do IPCA do mês anterior ao mês 'k';
+dup = Número de Dias Úteis entre a primeira Data de Integralização (ou a última Data de Aniversário das Debêntures) e a data de cálculo, limitado ao número total de Dias Úteis de vigência do número-índice do IPCA, sendo 'dup' um número inteiro; e
+dut = Número de Dias Úteis contidos entre a última Data de Aniversário das Debêntures, e a próxima Data de Aniversário das Debêntures, sendo 'dut' um número inteiro.
+Observações:
+O número-índice do IPCA deverá ser utilizado considerando-se idêntico número de casas decimais daquele divulgado pelo IBGE;
+A aplicação do IPCA incidirá no menor período permitido pela legislação em vigor sem necessidade de ajuste à Escritura de Emissão ou qualquer outra formalidade;
+Considera-se como 'Data de Aniversário' todo dia 15 de cada mês. Considera-se como mês de atualização, o período mensal compreendido entre duas datas de aniversário consecutivas ('Mês de Atualização'); 
+O fator resultante da expressão (NIk /NIk-1)^(dup/dut) é considerado com 8 (oito) casas decimais, sem arredondamento; e
+O produtório é executado a partir do fator mais recente, acrescentando-se, em seguida, os mais remotos. Os resultados intermediários são calculados com 16 (dezesseis) casas decimais, sem arredondamento.
+Atualização Monetária das Debêntures
+O Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, será atualizado monetariamente pela variação do Índice Nacional de Preços ao Consumidor Amplo ('IPCA'), calculado e divulgado mensalmente pelo Instituto Brasileiro de Geografia e Estatística ('IBGE'), desde a primeira Data de Integralização (conforme abaixo definida), até a data de seu efetivo pagamento ('Atualização Monetária'), sendo o produto da Atualização Monetária automaticamente incorporado ao Valor Nominal Unitário ou ao saldo do Valor Nominal Unitário das Debêntures, conforme o caso ('Valor Nominal Unitário Atualizado'). A Atualização Monetária será calculada de acordo com a seguinte fórmula: 
+
+onde:
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+C = Fator acumulado das variações mensais do IPCA, calculado com 8 (oito) casas decimais, sem arredondamento, apurado da seguinte forma:
+
+onde:
+n =	Número total de índices considerados na atualização monetária, sendo 'n' um número inteiro;
+NIk = Valor do número-índice do IPCA do mês anterior ao mês de atualização, divulgado no Mês de Atualização (conforme abaixo definido), caso a atualização seja em data anterior ou na própria Data de Aniversário das Debêntures, após a Data de Aniversário respectiva, o 'NIk' corresponderá ao valor do número índice do IPCA do Mês de Atualização;
+NIk-1 = Valor do número-índice do IPCA do mês anterior ao mês 'k';
+dup = Número de Dias Úteis entre a primeira Data de Integralização (ou a última Data de Aniversário das Debêntures) e a data de cálculo, limitado ao número total de Dias Úteis de vigência do número-índice do IPCA, sendo 'dup' um número inteiro; e
+dut = Número de Dias Úteis contidos entre a última Data de Aniversário das Debêntures, e a próxima Data de Aniversário das Debêntures, sendo 'dut' um número inteiro.
+Observações:
+O número-índice do IPCA deverá ser utilizado considerando-se idêntico número de casas decimais daquele divulgado pelo IBGE;
+A aplicação do IPCA incidirá no menor período permitido pela legislação em vigor sem necessidade de ajuste à Escritura de Emissão ou qualquer outra formalidade;
+Considera-se como 'Data de Aniversário' todo dia 15 de cada mês. Considera-se como mês de atualização, o período mensal compreendido entre duas datas de aniversário consecutivas ('Mês de Atualização'); 
+O fator resultante da expressão (NIk /NIk-1)^(dup/dut) é considerado com 8 (oito) casas decimais, sem arredondamento; e
+O produtório é executado a partir do fator mais recente, acrescentando-se, em seguida, os mais remotos. Os resultados intermediários são calculados com 16 (dezesseis) casas decimais, sem arredondamento.
+Atualização Monetária das Debêntures
+O Valor Nominal Unitário ou o saldo do Valor Nominal Unitário das Debêntures, conforme o caso, será atualizado monetariamente pela variação do Índice Nacional de Preços ao Consumidor Amplo ('IPCA'), calculado e divulgado mensalmente pelo Instituto Brasileiro de Geografia e Estatística ('IBGE'), desde a primeira Data de Integralização (conforme abaixo definida), até a data de seu efetivo pagamento ('Atualização Monetária'), sendo o produto da Atualização Monetária automaticamente incorporado ao Valor Nominal Unitário ou ao saldo do Valor Nominal Unitário das Debêntures, conforme o caso ('Valor Nominal Unitário Atualizado'). A Atualização Monetária será calculada de acordo com a seguinte fórmula: 
+
+onde:
+VNa = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas decimais, sem arredondamento;
+VNe = Valor Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures, informado/calculado com 8 (oito) casas decimais, sem arredondamento;
+C = Fator acumulado das variações mensais do IPCA, calculado com 8 (oito) casas decimais, sem arredondamento, apurado da seguinte forma:
+
+onde:
+n =	Número total de índices considerados na atualização monetária, sendo 'n' um número inteiro;
+NIk = Valor do número-índice do IPCA do mês anterior ao mês de atualização, divulgado no Mês de Atualização (conforme abaixo definido), caso a atualização seja em data anterior ou na própria Data de Aniversário das Debêntures, após a Data de Aniversário respectiva, o 'NIk' corresponderá ao valor do número índice do IPCA do Mês de Atualização;
+NIk-1 = Valor do número-índice do IPCA do mês anterior ao mês 'k';
+dup = Número de Dias Úteis entre a primeira Data de Integralização (ou a última Data de Aniversário das Debêntures) e a data de cálculo, limitado ao número total de Dias Úteis de vigência do número-índice do IPCA, sendo 'dup' um número inteiro; e
+dut = Número de Dias Úteis contidos entre a última Data de Aniversário das Debêntures, e a próxima Data de Aniversário das Debêntures, sendo 'dut' um número inteiro.
+Observações:
+O número-índice do IPCA deverá ser utilizado considerando-se idêntico número de casas decimais daquele divulgado pelo IBGE;
+A aplicação do IPCA incidirá no menor período permitido pela legislação em vigor sem necessidade de ajuste à Escritura de Emissão ou qualquer outra formalidade;
+Considera-se como 'Data de Aniversário' todo dia 15 de cada mês. Considera-se como mês de atualização, o período mensal compreendido entre duas datas de aniversário consecutivas ('Mês de Atualização'); 
+O fator resultante da expressão (NIk /NIk-1)^(dup/dut) é considerado com 8 (oito) casas decimais, sem arredondamento; e
+O produtório é executado a partir do fator mais recente, acrescentando-se, em seguida, os mais remotos. Os resultados intermediários são calculados com 16 (dezesseis) casas decimais, sem arredondamento.
+
+Atualização Monetária e Remuneração das Debêntures
+O Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, não será atualizado monetariamente.
+Atualização Monetária e Remuneração das Debêntures
+O Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, não será atualizado monetariamente. 
+Atualização Monetária e Remuneração das Debêntures
+O Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, não será atualizado monetariamente.
+Atualização Monetária e Remuneração das Debêntures
+O Valor Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o caso, não será atualizado monetariamente. 

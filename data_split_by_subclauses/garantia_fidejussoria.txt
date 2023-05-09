@@ -211,6 +211,3 @@ A Amortização Extraordinária Facultativa deverá ser limitada a 98% (noventa 
 Na Comunicação de Amortização Extraordinária Facultativa deverá constar: (a) a data e o procedimento da Amortização Extraordinária Facultativa, observada a legislação pertinente, bem como os termos e condições estabelecidos nesta Escritura de Emissão; (b) menção à parcela do Valor Nominal Unitário ou do saldo do Valor Nominal Unitário, conforme o caso, que será amortizado nos termos desta Cláusula; (c) o Valor da Amortização Extraordinária Facultativa; e (d) as demais informações consideradas relevantes pela Emissora para conhecimento dos titulares de Debêntures.
 
 5.4.4	O pagamento decorrente da Amortização Extraordinária Facultativa será realizado por meio da B3, com relação às Debêntures que estejam custodiadas eletronicamente na B3, ou por meio do Escriturador, com relação às Debêntures que não estejam custodiadas eletronicamente na B3.
-
-VENCIMENTO ANTECIPADO
-
