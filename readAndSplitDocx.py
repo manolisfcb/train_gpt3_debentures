@@ -5,7 +5,7 @@ import pandas as pd
 import os
 import unicodedata
 def para_text_extract(files):
-
+    
     '''
         Extrai docs, parágrafos docx e textos separados em parágrafos docx e '\n'
     '''

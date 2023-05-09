@@ -14,6 +14,7 @@ for table in document.tables:
                 df[i][j] = cell.text
     tables.append(pd.DataFrame(df))
 
+print(tables[1].to_json(orient='records'))
 parrafos = []
 for parrafo in document.paragraphs:
     parrafos.append(parrafo.text)
@@ -23,11 +24,15 @@ i_tabla = 0
 i_parrafo = 0
 for elemento in lista_tags:
     if elemento == '<CT_Tbl':
-        print(tables[i_tabla])
+        #print(tables[i_tabla])
         i_tabla+=1
+        if i_tabla == 2:
+            break
     elif str(elemento).split(' ')[0] == '<CT_P':
-        print(document.paragraphs[i_parrafo].text)
+        #print(document.paragraphs[i_parrafo].text)
         i_parrafo+=1
         
     else:
-        print(str(elemento))
+        pass
+        #print(str(elemento))
+
