@@ -350,3 +350,34 @@ A Amortização Extraordinária Facultativa deverá ser limitada a 98% (noventa 
 Na Comunicação de Amortização Extraordinária Facultativa deverá constar: (a) a data e o procedimento da Amortização Extraordinária Facultativa, observada a legislação pertinente, bem como os termos e condições estabelecidos nesta Escritura de Emissão; (b) menção à parcela do Valor Nominal Unitário ou do saldo do Valor Nominal Unitário, conforme o caso, que será amortizado nos termos desta Cláusula; (c) o Valor da Amortização Extraordinária Facultativa; e (d) as demais informações consideradas relevantes pela Emissora para conhecimento dos titulares de Debêntures.
 
 5.4.4	O pagamento decorrente da Amortização Extraordinária Facultativa será realizado por meio da B3, com relação às Debêntures que estejam custodiadas eletronicamente na B3, ou por meio do Escriturador, com relação às Debêntures que não estejam custodiadas eletronicamente na B3.
+
+4.17.	Garantia Fidejussória
+
+4..17.1	A Interveniente Garantidora, neste ato, em caráter irrevogável e irretratável, garante e se responsabiliza, na qualidade de fiadora, devedora solidária e principal pagadora, junto à Emissora, pelo fiel e pontual cumprimento das Obrigações Garantidas ('Fiança' e, em conjunto com a Alienação Fiduciária de Ações, as 'Garantias'), nos termos do artigo 818 da Lei nº 10.406, de 10 de janeiro de 2002, conforme alterada ('Código Civil'), renunciando expressamente aos benefícios dos artigos 301, 333, parágrafo único, 364, 366, 368, 821, 824, 827, 834, 835, 837, 838 e 839 do Código Civil, e dos artigos 130, 131 e 794 da Lei nº 13.105, de 16 de março de 2015, conforme alterada ('Código de Processo Civil'). 
+
+4.17.2	As Obrigações Garantidas deverão ser pagas pela Interveniente Garantidora no prazo de 2 (dois) Dias Úteis contados do recebimento de notificação por escrito, enviada pelo Agente Fiduciário à Emissora e à Interveniente Garantidora, informando a falta de pagamento, por parte da Emissora, na respectiva data de vencimento, de qualquer valor referente às Obrigações Garantidas. Tal notificação deverá ser enviada pelo Agente Fiduciário em até 1 (um) Dia Útil, respeitados os prazos de cura previstos nesta Escritura, após a verificação da ausência de pagamento.
+
+4.17.3	Todos e quaisquer pagamentos realizados em relação à Fiança serão efetuados fora do âmbito da B3, livres e líquidos, sem a dedução de quaisquer tributos, impostos, taxas, contribuições de qualquer natureza, encargos ou retenções, presentes ou futuros, bem como de quaisquer juros, multas ou demais exigibilidades fiscais, devendo a Interveniente Garantidora pagar as quantias adicionais que sejam necessárias para que os Debenturistas recebam, após tais deduções, recolhimentos ou pagamentos, uma quantia equivalente à que teria sido recebida se tais deduções, recolhimentos ou pagamentos não fossem aplicáveis. 
+
+4.17.4	A Fiança é prestada em caráter irrevogável e irretratável, entrando em vigor na presente data e assim permanecendo até o pagamento total, pela Emissora ou pela Interveniente Garantidora, das Obrigações Garantidas, permanecendo válida e plenamente eficaz, inclusive, em caso de aditamentos, alterações e quaisquer outras modificações das condições fixadas na Escritura e nos demais documentos da Emissão.
+
+4.17.5	A Fiança poderá ser excutida e exigida pelo Agente Fiduciário e/ou pelos Debenturistas quantas vezes for necessário até a integral e efetiva liquidação das Obrigações Garantidas.
+
+4.17.6	Fica desde já certo e ajustado que a inobservância, pelo Agente Fiduciário, dos prazos para execução de quaisquer garantias constituídas em favor dos Debenturistas desta Emissão não ensejará, sob hipótese alguma, perda de qualquer direito ou faculdade aqui prevista.
+
+
+
+4.17.	Garantia Fidejussória
+
+4..17.1	A Interveniente Garantidora, neste ato, em caráter irrevogável e irretratável, garante e se responsabiliza, na qualidade de fiadora, devedora solidária e principal pagadora, junto à Emissora, pelo fiel e pontual cumprimento das Obrigações Garantidas ('Fiança' e, em conjunto com a Alienação Fiduciária de Ações, as 'Garantias'), nos termos do artigo 818 da Lei nº 10.406, de 10 de janeiro de 2002, conforme alterada ('Código Civil'), renunciando expressamente aos benefícios dos artigos 301, 333, parágrafo único, 364, 366, 368, 821, 824, 827, 834, 835, 837, 838 e 839 do Código Civil, e dos artigos 130, 131 e 794 da Lei nº 13.105, de 16 de março de 2015, conforme alterada ('Código de Processo Civil'). 
+
+4.17.2	As Obrigações Garantidas deverão ser pagas pela Interveniente Garantidora no prazo de 2 (dois) Dias Úteis contados do recebimento de notificação por escrito, enviada pelo Agente Fiduciário à Emissora e à Interveniente Garantidora, informando a falta de pagamento, por parte da Emissora, na respectiva data de vencimento, de qualquer valor referente às Obrigações Garantidas. Tal notificação deverá ser enviada pelo Agente Fiduciário em até 1 (um) Dia Útil, respeitados os prazos de cura previstos nesta Escritura, após a verificação da ausência de pagamento.
+
+4.17.3	Todos e quaisquer pagamentos realizados em relação à Fiança serão efetuados fora do âmbito da B3, livres e líquidos, sem a dedução de quaisquer tributos, impostos, taxas, contribuições de qualquer natureza, encargos ou retenções, presentes ou futuros, bem como de quaisquer juros, multas ou demais exigibilidades fiscais, devendo a Interveniente Garantidora pagar as quantias adicionais que sejam necessárias para que os Debenturistas recebam, após tais deduções, recolhimentos ou pagamentos, uma quantia equivalente à que teria sido recebida se tais deduções, recolhimentos ou pagamentos não fossem aplicáveis. 
+
+4.17.4	A Fiança é prestada em caráter irrevogável e irretratável, entrando em vigor na presente data e assim permanecendo até o pagamento total, pela Emissora ou pela Interveniente Garantidora, das Obrigações Garantidas, permanecendo válida e plenamente eficaz, inclusive, em caso de aditamentos, alterações e quaisquer outras modificações das condições fixadas na Escritura e nos demais documentos da Emissão.
+
+4.17.5	A Fiança poderá ser excutida e exigida pelo Agente Fiduciário e/ou pelos Debenturistas quantas vezes for necessário até a integral e efetiva liquidação das Obrigações Garantidas.
+
+4.17.6	Fica desde já certo e ajustado que a inobservância, pelo Agente Fiduciário, dos prazos para execução de quaisquer garantias constituídas em favor dos Debenturistas desta Emissão não ensejará, sob hipótese alguma, perda de qualquer direito ou faculdade aqui prevista.
+

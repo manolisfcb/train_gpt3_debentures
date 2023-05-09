@@ -170,3 +170,47 @@ Objeto Social da Companhia
 
 O objeto social da Emissora é (i) locação de equipamentos e cessão de infraestrutura em data center (hosting e colocation), incluindo locação de cage com um ou mais racks de energia com fornecimento de energia para os clientes instalarem seus equipamentos; (ii) a prestação dos seguintes serviços: (1) anti-DDoS, que consiste em proteção contra ataques do tipo Denial of Service, os quais podem indisponibilizar ou degradar os ambientes de clientes localizados dentro dos data centers por meio da sobrecarga de conexões de dados; (2) firewall virtual compartilhado, que consiste em camada de proteção configurada na borda de internet, cuja finalidade é restringir acessos externos indesejado ao ambiente dos clientes; (3) banda ou conexão com a internet, que pode ou não exigir a alocação de endereços de IP aos clientes; (4) golden jumper, que consiste de conexão do cabo de UTP ou fibra (única ou multimodal) entre os dispositivos do cliente e os pontos de conexão dos operadores de telecomunicações que foram contratados pelo cliente; (5) cross conexão, que consiste de cabos de fibra óptica ou UTP que se conectam aos dispositivos do cliente instalados dentro do data center; (6) remote hand, que consiste na realização de procedimentos em ambientes dos clientes alocados nos data centers; (7) LAN to LAN, que consiste em serviço de conectividade, cuja finalidade é interligar, por meio da rede, diferentes data centers da Companhia; e (8) business continuity servisse (BCS), que consiste na alocação de estações de trabalho, dedicadas ou compartilhadas, para fornecer o acesso aos ambientes hospedados nos data centers a colaboradores essenciais de clientes que estão em situação de contingência, desastre ou falha crítica; e (iii) participar, direta ou indiretamente, no capital social de outras empresas no Brasil ou no exterior, na qualidade de acionista, cotista ou detentora de quaisquer outros valores mobiliários, quer sejam conversíveis em participação societária ou não. 
 
+3.8.	Objeto Social da Emissora
+
+3.8.1.	De acordo com o estatuto social da Emissora atualmente em vigor, o objeto social da Companhia compreende: (a) a participação e desenvolvimento, diretamente ou por meio de joint venture (parceria), consórcio ou qualquer outra sociedade em cujo capital social a Companhia tenha participação, de ativos de energia renovável, incluindo, mas não se limitando a, pequenas centrais hidrelétricas (PCH) e parques eólicos (CGE); (b) a participação em outras sociedades; (c) a comercialização de energia elétrica, bem como a prática de atividades acessórias à comercialização de energia; e (d) atividades acessórias necessárias ao cumprimento do objeto social da Companhia. [Nota MM: A ser confirmado no âmbito da DD.]
+
+
+3.8.	Objeto Social da Emissora
+
+3.8.1.	De acordo com o estatuto social da Emissora atualmente em vigor, o objeto social da Companhia compreende: (a) a participação e desenvolvimento, diretamente ou por meio de joint venture (parceria), consórcio ou qualquer outra sociedade em cujo capital social a Companhia tenha participação, de ativos de energia renovável, incluindo, mas não se limitando a, pequenas centrais hidrelétricas (PCH) e parques eólicos (CGE); (b) a participação em outras sociedades; (c) a comercialização de energia elétrica, bem como a prática de atividades acessórias à comercialização de energia; e (d) atividades acessórias necessárias ao cumprimento do objeto social da Companhia. 
+
+
+3.8.	Objeto Social da Emissora
+
+3.8.1.	De acordo com o estatuto social da Emissora atualmente em vigor, o objeto social da Companhia compreende: participação e desenvolvimento, diretamente ou por meio de joint venture (parceria), consórcio ou qualquer outra sociedade em cujo capital social a Emissora tenha participação, de ativos de energia renovável, incluindo, mas não se limitando a, pequenas centrais hidrelétricas (PCH), parques eólicos (CGE) e usinas termelétricas movidas a biomassa (UTE); participação em outras sociedades; comercialização de energia elétrica, bem como a prática de atividades acessórias à comercialização de energia; e atividades acessórias necessárias ao cumprimento do objeto social da Emissora.
+
+Caracterização como Debêntures Verdes
+
+As Debêntures serão caracterizadas como 'debêntures verdes', com base em: (i) parecer independente de segunda opinião ('Parecer') emitido pela consultoria especializada Resultante ESG ('Consultoria Especializada'), com base nas diretrizes dos Green Bond Principles; (ii) reporte anual, pela Emissora, durante a vigência das Debêntures, dos benefícios auferidos pelas atividades da Emissora e do monitoramento da destinação de recursos, conforme indicadores definidos no Parecer; e (iii) marcação nos sistemas da B3 – Segmento Cetip UTVM como título verde, com base em requerimentos desta. 
+
+O Parecer emitido pela Consultoria Especializada e todos os compromissos formais exigidos pela Consultoria Especializada serão disponibilizados na íntegra na página da rede mundial de computadores da Emissora (www.omegaenergia.com.br), bem como será enviada uma cópia eletrônica (pdf) ao Agente Fiduciário, em conjunto com os demais documentos da Oferta, e para a B3.
+
+No prazo de até 1 (um) ano a contar da data de liquidação das Debêntures e da emissão do Parecer, a Consultoria Especializada deverá atualizar o Parecer, mediante a emissão de um relatório de monitoramento do uso dos recursos, o qual também será disponibilizado ao mercado, à B3 e ao Agente Fiduciário de acordo com esta cláusula. 
+
+
+
+3.8.	Objeto Social da Emissora
+
+3.8.1.	De acordo com o estatuto social da Emissora atualmente em vigor, o objeto social da Companhia compreende: (a) a participação e desenvolvimento, diretamente ou por meio de joint venture (parceria), consórcio ou qualquer outra sociedade em cujo capital social a Companhia tenha participação, de ativos de energia renovável, incluindo, mas não se limitando a, pequenas centrais hidrelétricas (PCH) e parques eólicos (CGE); (b) a participação em outras sociedades; (c) a comercialização de energia elétrica, bem como a prática de atividades acessórias à comercialização de energia; e (d) atividades acessórias necessárias ao cumprimento do objeto social da Companhia. [Nota MM: A ser confirmado no âmbito da DD.]
+
+3.8.	Objeto Social da Emissora
+
+3.8.1.	De acordo com o estatuto social da Emissora atualmente em vigor, o objeto social da Companhia compreende: (a) a participação e desenvolvimento, diretamente ou por meio de joint venture (parceria), consórcio ou qualquer outra sociedade em cujo capital social a Companhia tenha participação, de ativos de energia renovável, incluindo, mas não se limitando a, pequenas centrais hidrelétricas (PCH) e parques eólicos (CGE); (b) a participação em outras sociedades; (c) a comercialização de energia elétrica, bem como a prática de atividades acessórias à comercialização de energia; e (d) atividades acessórias necessárias ao cumprimento do objeto social da Companhia. 
+
+
+3.8.	Objeto Social da Emissora
+
+3.8.1.	De acordo com o estatuto social da Emissora atualmente em vigor, o objeto social da Companhia compreende: participação e desenvolvimento, diretamente ou por meio de joint venture (parceria), consórcio ou qualquer outra sociedade em cujo capital social a Emissora tenha participação, de ativos de energia renovável, incluindo, mas não se limitando a, pequenas centrais hidrelétricas (PCH), parques eólicos (CGE) e usinas termelétricas movidas a biomassa (UTE); participação em outras sociedades; comercialização de energia elétrica, bem como a prática de atividades acessórias à comercialização de energia; e atividades acessórias necessárias ao cumprimento do objeto social da Emissora.
+
+Caracterização como Debêntures Verdes
+
+As Debêntures serão caracterizadas como 'debêntures verdes', com base em: (i) parecer independente de segunda opinião ('Parecer') emitido pela consultoria especializada Resultante ESG ('Consultoria Especializada'), com base nas diretrizes dos Green Bond Principles; (ii) reporte anual, pela Emissora, durante a vigência das Debêntures, dos benefícios auferidos pelas atividades da Emissora e do monitoramento da destinação de recursos, conforme indicadores definidos no Parecer; e (iii) marcação nos sistemas da B3 – Segmento Cetip UTVM como título verde, com base em requerimentos desta. 
+
+O Parecer emitido pela Consultoria Especializada e todos os compromissos formais exigidos pela Consultoria Especializada serão disponibilizados na íntegra na página da rede mundial de computadores da Emissora (www.omegaenergia.com.br), bem como será enviada uma cópia eletrônica (pdf) ao Agente Fiduciário, em conjunto com os demais documentos da Oferta, e para a B3.
+
+No prazo de até 1 (um) ano a contar da data de liquidação das Debêntures e da emissão do Parecer, a Consultoria Especializada deverá atualizar o Parecer, mediante a emissão de um relatório de monitoramento do uso dos recursos, o qual também será disponibilizado ao mercado, à B3 e ao Agente Fiduciário de acordo com esta cláusula. 
