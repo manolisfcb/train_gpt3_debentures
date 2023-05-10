@@ -116,3 +116,130 @@
 'MDA' significa MDA – Módulo de Distribuição de Ativos, administrado e operacionalizado pela B3.
 'Obrigações Garantidas' possuem seu significado definido na Cláusula 7.6.
 'Oferta Restrita' tem seu significado previsto na Cláusula 2.1.
+'Preço de Subscrição' tem o significado previsto na Cláusula 6.9.
+'Procedimento de Bookbuilding' tem o significado previsto na Cláusula 6.8 abaixo. 
+'Remuneração' tem o significado previsto na Cláusula 7.9.
+'Reorganização Societária Permitida' significa qualquer cisão, fusão, incorporação (inclusive incorporação de ações), ou qualquer outra forma de reorganização societária envolvendo a Emissora ou quaisquer de suas Afiliadas, incluindo aquisição, associação, parceria, consórcio, combinação de negócios ou joint venture, desde que, por consequência, a Emissora (ou a sociedade que a suceda) permaneça com seu controle acionário disperso, sem um Acionista Controlador ou bloco de controle definido. [Nota LDR: sob validação do IBBA.]
+'Resolução CVM 17' significa a Resolução da CVM nº 17, de 09 de fevereiro de 2021.
+'Resolução CVM 30' significa a Resolução da CVM nº 30, de 11 de maio de 2021.
+'Resolução CVM 44' significa a Resolução da CVM nº 44, de 23 de agosto de 2021, conforme alterada pela Resolução CVM 60.
+'Resolução CVM 60' significa a Resolução da CVM nº 60, de 23 de dezembro de 2021.
+'Sociedade Sob Controle Comum' significa, com relação a qualquer pessoa, qualquer sociedade sob Controle comum com tal pessoa.
+'Valor Nominal Unitário' tem o significado previsto na Cláusula 6.4 abaixo.
+'Preço de Subscrição' possui o significado estabelecido na Cláusula 5.10.1. desta Escritura de Emissão.
+
+'Remuneração das Debêntures' possui o significado estabelecido na Cláusula 5.12.2. desta Escritura de Emissão.
+
+'Remuneração das Debêntures de Primeira Série' possui o significado estabelecido na Cláusula 5.12.1. desta Escritura de Emissão.
+
+'Remuneração das Debêntures de Segunda Série' possui o significado estabelecido na Cláusula 5.12.2. desta Escritura de Emissão.
+
+'Resgate Antecipado Facultativo Total' possui o significado estabelecido na Cláusula 6.1.1. desta Escritura de Emissão.
+
+'Resgate Antecipado Total Obrigatório' possui o significado estabelecido na Cláusula 6.3.1. desta Escritura de Emissão.
+
+'Resolução CVM 17' significa a Resolução CVM Nº 17, de 9 de fevereiro de 2021.
+
+'Resolução CVM nº 30' significa a Resolução CVM nº 30, de 11 de maio de 2021, conforme alterada.
+
+'Resolução CVM nº 44' significa a Resolução CVM nº 44, de 23 de agosto de 2021, conforme alterada.
+
+'Sobretaxa' possui o significado estabelecido na Cláusula 5.12.1. desta Escritura de Emissão.
+
+'Taxa DI' possui o significado estabelecido na Cláusula 5.12.1. desta Escritura de Emissão.
+
+'Valor de Amortização Extraordinária Obrigatória' possui o significado estabelecido na Cláusula 6.3.2. desta Escritura de Emissão.
+
+'Valor de Resgate Antecipado Facultativo Total' possui o significado estabelecido na Cláusula 6.1.1.1. desta Escritura de Emissão.
+
+'Valor de Resgate Antecipado Total Obrigatório' possui o significado estabelecido na Cláusula 6.3.2. desta Escritura de Emissão.
+
+'Valor Nominal Unitário' possui o significado estabelecido na Cláusula 5.8.1. desta Escritura de Emissão.
+
+'Vencimento Antecipado' possui o significado estabelecido na Cláusula 7.1. desta Escritura de Emissão.
+
+'Violação OFAC' significa a citação, direta ou indireta, sob qualquer forma, da Emissora, dos Fiadores e das Sócias ou de qualquer Pessoa que detenha participação societária direta ou indireta nas mesmas.
+
+'Oferta de Resgate Antecipado' tem o significado previsto na Cláusula 8.3.
+'Ônus' significa qualquer ônus, gravame, hipoteca, penhor, alienação/cessão fiduciária, usufruto, fideicomisso, direito de garantia, security interest, arrendamento, encargo, promessa de venda, opção de compra, direito de preferência, bloqueio, arrolamento, arresto sequestro ou penhora, judicial ou extrajudicial, voluntário ou involuntário, ou outro ato que tenha o efeito prático similar a qualquer das expressões acima. 
+'Parte' tem o significado previsto no preâmbulo.
+'Data de Pagamento da Remuneração' tem o significado estabelecido na Cláusula 5.13.1. desta Escritura de Emissão.
+
+'Data de Vencimento' tem o significado estabelecido na Cláusula 5.7.1. desta Escritura de Emissão.
+
+'Data de Vencimento das Debêntures de Primeira Série' tem o significado estabelecido na Cláusula 5.7.1. desta Escritura de Emissão.
+
+'Data de Vencimento das Debêntures de Segunda Série' tem o significado estabelecido na Cláusula 5.7.1. desta Escritura de Emissão.
+
+'Data do Resgate Antecipado Facultativo Total' possui o significado estabelecido na Cláusula 6.1.1.2. desta Escritura de Emissão.
+
+'Data do Resgate Antecipado Total Obrigatório' possui o significado estabelecido na Cláusula 6.3.2.1. desta Escritura de Emissão.
+
+'Debêntures' possui o significado estabelecido na Cláusula 3.4.1. desta Escritura de Emissão.
+
+'Debêntures em circulação' possui o significado estabelecido na Cláusula 10.14 desta Escritura de Emissão.
+
+'Debêntures da Primeira Série' possui o significado estabelecido na Cláusula 3.4.1. desta Escritura de Emissão.
+
+'Debêntures da Segunda Série' possui o significado estabelecido na Cláusula 3.4.1. desta Escritura de Emissão.
+
+'Debenturistas' possui significado que lhe é atribuído no preâmbulo desta Escritura de Emissão.
+
+'Demonstrações Financeiras' significa o balanço patrimonial não auditado da Emissora, e as demonstrações consolidadas do resultado ou operações relacionadas, patrimônio líquido e a demonstração das origens e aplicações de recursos para o período aplicável.
+
+'Dia Útil' significa qualquer dia exceto sábados, domingos e dias nos quais os bancos comerciais são autorizados ou obrigados a permanecer fechados na Cidade de São Paulo, Estado de São Paulo.
+
+'Dividendos' significa qualquer distribuição de dividendos, lucros e juros sobre capital próprio ou qualquer distribuição de recursos em relação ao capital social da Emissora (incluindo por meio de recompra, resgate ou retirada do respectivo capital social).
+
+'Emissão' possui o significado estabelecido na Cláusula 2.1. desta Escritura de Emissão.
+
+'Emissora' possui o significado que lhe é atribuído no preâmbulo desta Escritura de Emissão.
+
+'Encargos Moratórios' possui o significado estabelecido na Cláusula 5.17.1. desta Escritura de Emissão.
+
+'Escritura de Emissão' possui o significado que lhe é atribuído no preâmbulo desta Escritura de Emissão.
+
+'Escriturador' possui o significado estabelecido na Cláusula 3.6.1. desta Escritura de Emissão.
+
+'Evento de Ausência da Taxa DI' possui o significado estabelecido na Cláusula 5.12.6. desta Escritura de Emissão.
+
+'Eventos de Inadimplemento' possui o significado estabelecido na Cláusula 7.1 desta Escritura de Emissão.
+
+'Instrução CVM 476' significa a Instrução da CVM nº 476 de 16 de janeiro de 2009, conforme alterada. 
+
+'Instrução CVM 620' significa a Instrução da CVM nº 620 de 17 de março de 2020, conforme alterada.
+
+'Investidores Profissionais' possui o significado estabelecido na Cláusula 2.1.5.3. desta Escritura de Emissão.
+
+'Investidores Qualificados' possui o significado estabelecido na Cláusula 2.1.5.3. desta Escritura de Emissão.
+
+'Jornal da Emissora' possui o significado estabelecido na Cláusula 2.1.1.1. desta Escritura de Emissão.
+
+'JUCESP' possui o significado que lhe é atribuído no preâmbulo desta Escritura de Emissão.
+
+'Lei das Sociedades por Ações' significa a Lei n.º 6.404, de 15 de dezembro de 1976, conforme alterada.
+
+'Lei do Mercado de Valores Mobiliários' significa a Lei n.º 6.385, de 7 de dezembro de 1976, conforme alterada.
+
+'Lei' significa as Leis Ambientais, as Leis Anticorrupção, as Leis Antiterrorismo e de Sanções Comerciais e Econômicas, as Leis e todas e quaisquer leis, decretos, portarias e regulamentos, ordens, mandados e medidas liminares de qualquer Autoridade Governamental.
+
+'Leis Anticorrupção' significa o Decreto-Lei n.º 2.848/1940, a Lei nº 12.846, de 1º de agosto de 2013 ('Lei nº 12.846'), o Decreto nº 8.420/15 e desde que aplicável, a US Foreign Corrupt Practices Act of 1977, a Lei nº 9613, de 03 de março de 1998, bem como quaisquer leis de prevenção à lavagem de dinheiro ou anticorrupção aplicáveis em todas as jurisdições onde a Emissora, os Fiadores e as Sócias conduzem seus negócios, incluindo tanto as regras e regulamentações ali previstas como também quaisquer regras, regulamentações ou orientações correlatas ou afins, emitidas, administradas ou impostas por qualquer Autoridade Governamental ou autoridade regulatória principalmente com relação a atos praticados por seus conselheiros, diretores ou funcionários (em conjunto, as 'Leis Anticorrupção').
+
+'Leis Antiterrorismo e de Sanções Comerciais e Econômicas' significa as Leis relacionadas a sanções econômicas ou comerciais, terrorismo ou lavagem de dinheiro, incluindo o Decreto Executivo (Executive Order) nº 13224, o Decreto Patriótico (U.S. Patriot Act), os decretos emitidos pelo Escritório de Controle de Ativos Estrangeiros (Office of Foreign Assets Control – OFAC), a Lei de Comércio com o Inimigo (Trading with the Enemy Act, 12 U.S.C. § 95), a Lei de Poderes Econômicos para Emergências Internacionais (International Emergency Economic Powers Act, 50 U.S.C. § 17011707), a Lei de Controle de Lavagem de Dinheiro de 1986 (Money Laundering Control Act 1986), a Lei de Sigilo Bancário de 1970 (Bank Secrecy Act 1970) dos Estados Unidos da América, bem como as Leis aplicáveis da União Europeia (incluindo aquelas editadas em relação à política externa e de segurança comum prevista no tratado constitutivo da União Europeia), da Organização das Nações Unidas – ONU (ou qualquer de seus órgãos ou entidades legislativas) e de quaisquer jurisdições em que a Emissora tenha atividades ou de onde os recursos utilizados para pagamento de suas obrigações sejam originados.
+
+'MDA' significa o Módulo de Distribuição de Ativos - MDA.
+
+'Mudança Adversa Relevante' significa (1) qualquer efeito adverso e relevante na capacidade econômico-financeira da Emissora, e/ou (2) o pedido de recuperação judicial, extrajudicial ou falência da Emissora. 
+
+'Obrigações Financeiras' possui o significado estabelecido na Cláusula 8.1.(s) desta Escritura de Emissão.
+
+'Oferta Restrita' possui o significado estabelecido na Cláusula 2.1. desta Escritura de Emissão.
+
+'Parte' ou 'Partes' possui o significado que lhe é atribuído no preâmbulo desta Escritura de Emissão.
+
+'Período de Capitalização' possui o significado estabelecido na Cláusula 5.12.4. desta Escritura de Emissão. 
+
+'Pessoa' significa qualquer pessoa física, sociedade em comandita, companhia, sociedade limitada, sociedade anônima, trust, associação sem personalidade jurídica, joint venture ou outra pessoa jurídica, ou um governo ou qualquer subdivisão política ou agência deste.
+
+'Plano de Distribuição' possui o significado estabelecido na Cláusula 3.5.2. desta Escritura de Emissão.
+
