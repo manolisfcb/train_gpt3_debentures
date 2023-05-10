@@ -1,0 +1,2658 @@
+Pelo presente instrumento particular, as partes abaixo qualificadas:
+
+(1) GRUPO FARTURA DE HORTIFRUT S.A., sociedade por ações, com registro
+    de companhia aberta categoria “A” perante a Comissão de Valores
+    Mobiliários (“CVM”), com sede na Rua Comendador Aladino Selmi,
+    nº 2.502, Galpão 05, Bairro Parque Cidade, CEP 13069-036, na cidade
+    de Campinas, Estado de São Paulo, inscrita no Cadastro Nacional da
+    Pessoa Jurídica do Ministério da Economia (“CNPJ”) sob o
+    nº 04.972.092/0001-22, com seus atos constitutivos arquivados na
+    Junta Comercial do Estado de São Paulo (“JUCESP”) sob o
+    NIRE 35.300.509.668, neste ato representada na forma de seus
+    documentos constitutivos (“Emissora”); e
+
+(2) ECO SECURITIZADORA DE DIREITOS CREDITÓRIOS DO AGRONEGÓCIO S.A.,
+    sociedade por ações, com sede na Avenida Pedroso de Morais, nº
+    1.553, 3º andar, conjunto 32, CEP 05419-001, na Cidade de São Paulo,
+    Estado de São Paulo, inscrita no CNPJ sob o nº 10.753.164/0001-43,
+    devidamente registrada perante a CVM sob o nº 20.818, com seus atos
+    constitutivos arquivados na JUCESP sob o NIRE nº 35.300.367.308,
+    neste ato representada na forma do seu estatuto social
+    (“Securitizadora” e/ou “Debenturista”).
+
+CONSIDERANDO QUE:
+
+(A) no âmbito de suas atividades, a Emissora tem interesse em emitir
+    debêntures simples, não conversíveis em ações, em série única, de
+    sua 3ª (terceira) emissão, da espécie quirografária, para colocação
+    privada, nos termos desta Escritura (conforme abaixo definida), a
+    serem subscritas e integralizadas de forma privada pela Debenturista
+    (respectivamente, “Emissão” e “Debêntures”);
+
+(B) a emissão das Debêntures insere-se no contexto de uma operação de
+    securitização de recebíveis do agronegócio, que resultará na emissão
+    de certificados de recebíveis do agronegócio da série única da 142ª
+    emissão da Securitizadora (“CRA”), em volume proporcional à
+    quantidade de Debêntures emitida, nos termos da Instrução CVM 600
+    (conforme abaixo definido), aos quais os Créditos do Agronegócio
+    serão vinculados como lastro, na forma a ser prevista no “Termo de
+    Securitização de Direitos Creditórios do Agronegócio, em Série
+    Única, da 142ª Emissão de Certificados de Recebíveis do Agronegócio
+    da Eco Securitizadora de Direitos Creditórios do Agronegócio S.A.,
+    Lastreados em Créditos do Agronegócio devidos pelo Grupo Fartura
+    Hortifrut S.A.”, a ser firmado entre a Securitizadora e a OLIVEIRA
+    TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,
+    instituição financeira, com sede na Rua Joaquim Floriano, 1.052, 13º
+    andar, Itaim Bibi, Cidade de São Paulo, Estado de São Paulo,
+    inscrita no CNPJ/ME sob o nº 36.113.876/0004-34 (“Termo de
+    Securitização” e “Agente Fiduciário dos CRA”, respectivamente), de
+    modo que as Debêntures ficarão vinculadas aos CRA e seu respectivo
+    patrimônio separado (“Operação de Securitização”);
+
+(C) após a subscrição e integralização das Debêntures, que está
+    condicionada à integralização dos CRA, a Debenturista será credora
+    de todas as obrigações, principais e acessórias, devidas pela
+    Emissora no âmbito das Debêntures, as quais representam direitos
+    creditórios do agronegócio (“Créditos do Agronegócio”), nos termos
+    do §1º, do artigo 23, da Lei nº 11.076, de 30 de dezembro de 2004,
+    conforme alterada (“Lei 11.076”) e do artigo 3º da Instrução da CVM
+    nº 600, de 1º de agosto de 2018, conforme alterada (“Instrução CVM
+    600”);
+
+(D) o Agente Fiduciário dos CRA, a ser contratado por meio do Termo de
+    Securitização, acompanhará a destinação dos recursos captados com a
+    presente Emissão, nos termos da Cláusula 3.5 abaixo, em atenção ao
+    que estabelece o §8º do artigo 3º da Instrução CVM 600, devendo ser
+    utilizados pela Emissora exclusivamente para produção,
+    comercialização, beneficiamento e/ou industrialização de produtos
+    agropecuários; e
+
+(E) os CRA serão distribuídos por meio de oferta pública com esforços
+    restritos de distribuição, em regime de garantia firme de colocação,
+    sem registro perante a CVM, nos termos da Instrução da CVM nº 476,
+    de 16 de janeiro de 2009, conforme alterada (“Oferta Restrita” e
+    “Instrução CVM 476”, respectivamente), e serão destinados a
+    investidores profissionais, conforme definidos nos artigos 11 e 13
+    da Resolução CVM n° 30, de 12 de maio de 2021 (conforme subscrevam e
+    integralizem os CRA no âmbito da Oferta Restrita, os “Titulares de
+    CRA”);
+
+RESOLVEM, em regular forma de direito, celebrar o presente “Instrumento
+Particular de Escritura da 3^(a) (Terceira) Emissão de Debêntures
+Simples, Não Conversíveis em Ações, da Espécie Quirografária, em Série
+Única, para Colocação Privada, do Grupo Fartura de Hortifrut S.A.”
+(“Escritura”), observadas as cláusulas, condições e características
+abaixo:
+
+1.  AUTORIZAÇÃO
+
+    1.  A Emissão é realizada e a presente Escritura é celebrada com
+        base nas deliberações tomadas pela Reunião do Conselho de
+        Administração da Emissora, realizada em 16 de dezembro de 2021
+        (“RCA da Emissora”), cuja ata será arquivada perante a JUCESP
+        conforme indicado na Cláusula 1.1.1 abaixo e na qual foi
+        deliberada: (i) a aprovação da emissão das Debêntures e a
+        realização da Emissão e da Oferta Restrita, bem como de seus
+        termos e condições; e (ii) a autorização à diretoria da
+        Companhia para adotar todas e quaisquer medidas e celebrar todos
+        os documentos necessários à Emissão, tudo em conformidade com o
+        disposto no artigo 59 da Lei nº 6.404, de 15 de dezembro de
+        1976, conforme alterada (“Lei das Sociedades por Ações”).
+
+2.  REQUISITOS DA EMISSÃO
+
+A Emissão será feita com observância dos seguintes requisitos:
+
+1.  Arquivamento e Publicação do Ato Societário
+
+    1.  A ata da RCA da Emissora será protocolada na JUCESP no prazo de
+        até 5 (cinco) Dias Úteis contados da data de sua realização e
+        publicada, após o arquivamento, no (i) Diário Oficial do Estado
+        de São Paulo; e (ii) no jornal “Correio Popular” (“Jornais de
+        Publicação”), em atendimento ao disposto no inciso I do artigo
+        62 e 289 da Lei das Sociedades por Ações.
+
+    2.  Após a realização do registro mencionado na Cláusula 1.1.1
+        acima, deverá ser entregue ao Debenturista com cópia ao Agente
+        Fiduciário dos CRA 1 (uma) via eletrônica (.pdf) do respectivo
+        documento contendo a chancela digital devidamente registrado na
+        JUCESP no prazo de até 5 (cinco) Dias Úteis contados da data do
+        registro, assim como a cópia das publicações dos Jornais de
+        Publicação no prazo de até 5 (cinco) Dias Úteis contados da data
+        de publicação.
+
+    3.  Os atos societários da Emissora que eventualmente venham a ser
+        realizados no âmbito da presente Emissão, após o registro desta
+        Escritura, serão igualmente arquivados na JUCESP e, conforme o
+        caso, publicados pela Emissora nos Jornais de Publicação,
+        conforme legislação em vigor.
+
+2.  Arquivamento da Escritura
+
+    1.  Esta Escritura e eventuais aditamentos serão protocolados para
+        registro na JUCESP em até 5 (cinco) Dias Úteis contados da data
+        da respectiva assinatura da Escritura ou aditamentos, de acordo
+        com o inciso II e o parágrafo 3º do artigo 62 da Lei das
+        Sociedades por Ações.
+
+    2.  Após a realização do registro mencionado na Cláusula 2.2.1
+        acima, deverá ser entregue ao Debenturista com cópia ao Agente
+        Fiduciário dos CRA 1 (uma) via eletrônica (.pdf) do respectivo
+        documento contendo a chancela digital devidamente registrado na
+        JUCESP no prazo de até 5 (cinco) Dias Úteis contados da data do
+        registro.
+
+    3.  Qualquer aditamento à presente Escritura deverá ser celebrado
+        pelas Partes, após aprovação em assembleia geral de Titulares de
+        CRA (“Assembleia Geral de Titulares de CRA”), excetuadas as
+        hipóteses previstas na presente Escritura e no Termo de
+        Securitização, e posteriormente arquivados na JUCESP, nos termos
+        desta Escritura.
+
+3.  Registro para Distribuição, Negociação, Custódia Eletrônica e
+    Liquidação
+
+    1.  As Debêntures não serão registradas para distribuição no mercado
+        primário, negociação no mercado secundário, custódia eletrônica
+        ou liquidação em qualquer mercado organizado.
+
+4.  Inexigibilidade de Registro na CVM e na Associação Brasileira das
+    Entidades dos Mercados Financeiro e de Capitais (“ANBIMA”)
+
+    1.  A Emissão não será objeto de registro perante a CVM ou perante a
+        ANBIMA, uma vez que as Debêntures serão objeto de colocação
+        privada, sem (a) a intermediação de instituições integrantes do
+        sistema de distribuição de valores mobiliários; ou (b) qualquer
+        esforço de venda perante investidores indeterminados.
+
+3.  CARACTERÍSTICAS DA EMISSÃO
+
+    1.  Objeto Social da Emissora
+
+        1.  A Emissora tem por objeto social: (i) o comércio varejista
+            de hortifrutigranjeiros; (ii) importação e exportação; (iii)
+            comércio atacadista de frutas, verduras, raízes, tubérculos,
+            hortaliças e legumes frescos; (iv) comércio atacadista de
+            bebidas não especificadas anteriormente; (v) comércio
+            atacadista de bolsas, malas e artigos de viagem; (vi)
+            comércio atacadista de aparelhos eletrônicos de uso pessoal
+            e domésticos; (vii) comércio atacadista de aparelhos de
+            escritório e papelaria; (viii) comércio atacadista de
+            embalagens; (ix) comércio varejista de plantas e flores
+            naturais; (x) cantinas – serviços de alimentação
+            privativos; (xi) transporte rodoviário de carga, exceto
+            produtos perigosos e mudanças, intermunicipal, interestadual
+            e internacional; (xii) transporte rodoviário de carga,
+            exceto produtos perigosos e mudanças, municipal; (xiii)
+            outras atividades de publicidade não especificadas
+            anteriormente; (xiv) comércio atacadista de outros
+            equipamentos e artigos de uso pessoal e doméstico não
+            especificados anteriormente; (xv) atividades de limpeza não
+            especificadas anteriormente; (xvi) promoção de
+            vendas; (xvii) comércio atacadista especializado em outros
+            produtos alimentícios não especificados
+            anteriormente; (xviii) comércio varejista de mercadorias em
+            geral, com predominância de produtos alimentícios –
+            supermercados; (xix) comércio atacadista de carnes bovinas e
+            suínas e derivados; (xx) comércio atacadista de pescados e
+            frutos do mar; (xxi) comércio varejista de carnes e
+            açougues; (xxii) comércio atacadista de aves abatidas e
+            derivados; (xxiii) comércio atacadista de carnes e derivados
+            de outros animais; (xxiv) restaurantes e similares; (xxv)
+            estacionamento de veículos; (xxvi) comércio varejista de
+            mercadorias em geral, com predominância de produtos
+            alimentícios – minimercados, mercearia e armazéns; (xxvii)
+            fornecimento de alimentos preparados preponderantemente para
+            consumo domiciliar; (xxviii) fabricação de produtos de
+            padaria e confeitaria com predominância de produção
+            própria; (xxix) lanchonetes, casas de chá, de sucos e
+            similares; (xxx) padaria e confeitaria com predominância de
+            revenda; (xxxi) peixaria; (xxxii) reparação de artigos do
+            mobiliário; (xxxiii) construção de edifícios; (xxxiv)
+            instalação e manutenção elétrica; (xxxv) manutenção e
+            reparação de máquinas-ferramenta; (xxxvi) participação no
+            capital social de outras sociedades, nacionais ou
+            estrangeiras, na qualidade de acionista, sócia ou quotista,
+            em caráter permanente ou temporário, como controladora ou
+            minoritária; (xxxvii) serviço de carga e descarga; (xxxviii)
+            serviços combinados de escritório e apoio
+            administrativo; (xxxix) fabricação de conservas de frutas e
+            fabricação de biscoitos e bolachas; e (xl) fabricação de
+            produtos derivados de cacau e de chocolates, e fabricação de
+            frutas cristalizadas, balas e semelhantes.
+
+    2.  Número da Emissão
+
+        1.  Esta é a 3ª (terceira) emissão de debêntures da Emissora.
+
+    3.  Número de Séries
+
+        1.  A Emissão será realizada em série única.
+
+    4.  Valor Total da Emissão
+
+        1.  O valor total da Emissão é de R$100.000.000,00 (cem milhões
+            de reais), na Data de Emissão (conforme abaixo definida)
+            (“Valor Total da Emissão”).
+
+    5.  Destinação dos Recursos
+
+        1.  Os recursos líquidos advindos desta Emissão (“Recursos”)
+            serão destinados integral e exclusivamente para a aquisição,
+            pela Emissora, no curso ordinário de seus negócios, de
+            produtos agropecuários produzidos (i) por produtores rurais,
+            que são seus fornecedores diretos; ou (ii) pelos produtores
+            rurais cooperados de cooperativas que são suas fornecedoras
+            diretas (“Fornecedores”), observado que, para fins de
+            cumprimento do disposto nos parágrafos 7º e 8º do artigo 3º
+            da Instrução CVM 600, a vinculação da Emissora aos
+            Fornecedores ocorrerá por meio da comercialização dos
+            produtos agropecuários fabricados por produtores rurais,
+            adquiridos diretamente de tais produtores ou suas
+            cooperativas, na qualidade de Fornecedores da Devedora, por
+            meio de contratos celebrados entre a Emissora e os
+            Fornecedores, em montantes e prazos compatíveis com os da
+            emissão dos CRA, conforme cronograma indicativo da
+            destinação dos recursos obtidos por meio da Emissão descrito
+            no Anexo V desta Escritura (“Destinação de Recursos”).
+
+        2.  Para fins de assegurar a Destinação dos Recursos, nos termos
+            da Lei 11.076 e da Instrução CVM 600, a Devedora declara,
+            neste ato, que validou a condição de “produtor rural” ou
+            “cooperativa” de todos os Fornecedores da Emissora que
+            atuarão no âmbito da Destinação dos Recursos, cuja relação
+            exaustiva se encontra no Anexo III desta Escritura: (i) por
+            meio de consulta ao site da Receita Federal do Brasil e do
+            Sistema Integrado de Informações sobre Operações
+            Interestaduais com Mercadorias e Serviços (“SINTEGRA”); e/ou
+            (ii) que a condição de “produtor rural” ou “cooperativa” se
+            dá em função da atividade de produção rural desenvolvida
+            pelos produtores rurais que são fornecedores diretos da
+            Devedora ou cooperados das cooperativas fornecedoras da
+            Devedora.
+
+            1.  A totalidade dos Recursos captados por meio da presente
+                Emissão deverá seguir a Destinação de Recursos, até a
+                Data de Vencimento dos CRA, a ser definida no Termo de
+                Securitização.
+
+            2.  O Agente Fiduciário dos CRA deverá verificar, ao longo
+                do prazo de duração dos CRA, no mínimo semestralmente, o
+                efetivo direcionamento, pela Emissora, de todo o
+                montante obtido com a Emissão de acordo com os termos
+                previstos nesta Cláusula, devendo o Agente Fiduciário
+                dos CRA, nesse caso, se comprometer a envidar seus
+                melhores esforços para obter a documentação necessária a
+                fim de proceder com a verificação da Destinação dos
+                Recursos.
+
+        3.  Para fins do cumprimento da obrigação de verificação da
+            Destinação dos Recursos pelo Agente Fiduciário dos CRA, a
+            Emissora deverá prestar contas ao Agente Fiduciário dos CRA,
+            com cópia para a Debenturista, sobre a Destinação dos
+            Recursos e seu status, exclusivamente por meio de relatório,
+            conforme modelo constante no Anexo IV desta Escritura
+            (“Relatório”): (i) a ser encaminhado em até 30 dias após o
+            término de cada semestre social, devidamente assinado pelos
+            representantes legais da Emissora, até a Data de Vencimento
+            dos CRA ou até que seja destinada a totalidade dos Recursos
+            captados por meio da presente Emissão, o que ocorrer
+            primeiro, acompanhado das respectivas notas fiscais
+            mencionadas em cada Relatório (“Notas Fiscais”) e seus
+            arquivos XML de autenticação das Notas Fiscais (“Documentos
+            Comprobatórios da Destinação”); e (ii) sempre que solicitado
+            por escrito por Autoridades (conforme abaixo definido), pela
+            Debenturista ou pelo Agente Fiduciário dos CRA, para fins de
+            atendimento a Normas (conforme abaixo definido) e exigências
+            de órgãos reguladores e fiscalizadores, a Emissora deverá
+            apresentar, incluindo, mas não se limitando, cópia dos
+            demais documentos comprobatórios das respectivas relações
+            comerciais entre a Emissora e os Fornecedores, incluindo,
+            mas não se limitando, a contratos, pedidos de compra, notas
+            promissórias e quaisquer outros documentos que comprovem a
+            relação comercial entre a Emissora e os Fornecedores da
+            Emissora (“Documentos dos Fornecedores”), nos termos da
+            respectiva solicitação da Autoridade, da Debenturista ou do
+            Agente Fiduciário dos CRA, em até 5 (cinco) Dias Úteis do
+            recebimento de referida solicitação, ou em prazo menor, se
+            assim solicitado por qualquer Autoridade ou determinado por
+            Norma. O Agente Fiduciário dos CRA se compromete a envidar
+            os melhores esforços para obter a documentação necessária,
+            conforme prevista na presente Cláusula, a fim de proceder
+            com a verificação da destinação de recursos da Emissão.
+
+            1.  Em caso de vencimento antecipado das Debêntures, fica
+                certo e ajustado que as obrigações da Emissora, e
+                eventualmente do Agente Fiduciário, com relação à
+                destinação de recursos, perdurarão até a Data de
+                Vencimento original dos CRA ou até que a destinação da
+                totalidade dos recursos seja efetivada, o que ocorrer
+                primeiro, nos termos previstos no item 3.5.3 acima.
+
+            2.  Compreende-se por “Autoridade”: qualquer pessoa natural,
+                pessoa jurídica (de direito público ou privado),
+                entidade ou órgão (“Pessoa”):
+
+(i) vinculada(o), direta ou indiretamente, no Brasil, ao Poder Público,
+    incluindo, sem limitação, entes representantes dos Poderes
+    Judiciário, Legislativo e/ou Executivo, entidades da administração
+    pública direta ou indireta, autarquias e outras Pessoas de direito
+    público, e/ou
+
+(ii) que administre ou esteja vinculada(o) a mercados regulamentados de
+     valores mobiliários, entidades autorreguladoras e outras Pessoas
+     com poder normativo, fiscalizador e/ou punitivo, no Brasil.
+
+     1.  Compreende-se por “Norma”: qualquer lei, decreto, medida
+         provisória, regulamento, norma administrativa, ofício, carta,
+         resolução, instrução, circular e/ou qualquer tipo de
+         determinação, na forma de qualquer outro instrumento ou
+         regulamentação, de órgãos ou entidades governamentais,
+         autarquias, tribunais ou qualquer outra Autoridade, que crie
+         direitos e/ou obrigações que vincule as Partes.
+
+     2.  Caberá à Emissora a verificação e análise da veracidade dos
+         documentos encaminhados, atestando, inclusive, que estes não
+         foram objeto de fraude ou adulteração. A Securitizadora e o
+         Agente Fiduciário dos CRA, no âmbito da Operação de
+         Securitização, não serão responsáveis por verificar a validade
+         e veracidade das informações técnicas e financeiras constantes
+         dos Relatórios e dos Documentos Comprobatórios da Destinação de
+         Recursos apresentados pela Emissora, nos termos do item 3.5.3
+         acima, ou, ainda, em qualquer outro documento que lhe seja
+         enviado com o fim de complementar, esclarecer, retificar ou
+         ratificar as informações dos referidos Relatórios. Sem prejuízo
+         do dever de diligência, a Securitizadora e o Agente Fiduciário
+         dos CRA assumirão que as informações e os documentos
+         mencionados no item 3.5.3 acima, encaminhados pela Emissora ou
+         por terceiros, a seu pedido, são verídicos e não foram objeto
+         de fraude ou adulteração.
+
+     3.  O Agente Fiduciário dos CRA deverá verificar a Destinação de
+         Recursos, na forma do item 3.5.3 acima, exclusivamente a partir
+         dos Documentos dos Fornecedores e dos Relatórios.
+
+     1.  Uma vez atingido o valor da Destinação dos Recursos das
+         Debêntures, que será verificado pelo Agente Fiduciário dos CRA
+         nos termos da do item 3.5.3 desta Escritura, a Emissora ficará
+         desobrigada com relação às comprovações de que trata a o item
+         3.5.3 acima, exceto se em razão de determinação de Autoridades
+         ou atendimento a Normas for necessária qualquer comprovação
+         adicional.
+
+     1.  Vinculação aos CRA
+
+         1.  Os Créditos do Agronegócio representados pelas Debêntures
+             serão vinculados aos CRA objeto da série única da 142ª
+             emissão da Securitizadora, conforme o Termo de
+             Securitização, a serem emitidos e distribuídos por meio da
+             Oferta Restrita, nos termos da Instrução CVM 476 e da
+             Instrução CVM 600.
+
+         2.  Em vista da vinculação mencionada acima, a Emissora tem
+             ciência e concorda que, em razão do regime fiduciário a ser
+             instituído pela Securitizadora, na forma do artigo 9º da
+             Lei nº 9.514, de 20 de novembro de 1997, conforme alterada,
+             todos e quaisquer recursos devidos à Securitizadora, em
+             decorrência de sua titularidade das Debêntures, estarão
+             expressamente vinculados aos pagamentos a serem realizados
+             aos Titulares de CRA e não estarão sujeitos a qualquer tipo
+             de compensação com obrigações da Debenturista.
+
+         3.  Por força da vinculação dos Créditos do Agronegócio
+             representados pelas Debêntures aos CRA, fica desde já
+             estabelecido que a Securitizadora, exceto se previsto de
+             forma contrária nesta Escritura e/ou no Termo de
+             Securitização, deverá manifestar-se, em qualquer Assembleia
+             Geral de Debenturistas convocada para deliberar sobre
+             quaisquer assuntos relativos às Debêntures, conforme
+             orientação deliberada pelos Titulares de CRA, após a
+             realização de uma Assembleia Geral de Titulares de CRA.
+
+4.  CARACTERÍSTICAS DAS DEBÊNTURES
+
+    1.  Características Básicas
+
+        1.  Valor Nominal Unitário. O valor nominal unitário das
+            Debêntures, na Data de Emissão (conforme abaixo definida),
+            será de R$1.000,00 (mil reais) (“Valor Nominal Unitário”),
+            na Data de Emissão (conforme abaixo definida).
+
+        2.  Quantidade de Debêntures. Serão emitidas 100.000 (cem mil)
+            Debêntures.
+
+        3.  Data de Emissão. Para todos os efeitos, a data de emissão
+            das Debêntures será 21 de dezembro de 2021 (“Data de
+            Emissão”).
+
+        4.  Data de Vencimento. A data de vencimento das Debêntures será
+            em 13 de dezembro de 2027 (“Data de Vencimento”),
+            ressalvadas as hipóteses de vencimento ou resgate antecipado
+            das Debêntures, nos termos desta Escritura.
+
+        5.  Forma das Debêntures. As Debêntures serão emitidas na forma
+            escritural, não havendo emissão de certificados
+            representativos de debêntures.
+
+        6.  Colocação. As Debêntures serão objeto de colocação privada,
+            sem intermediação de instituições integrantes do sistema de
+            distribuição de valores mobiliários e/ou qualquer esforço de
+            venda perante investidores, por meio da assinatura desta
+            Escritura pela Debenturista. A integralização das Debêntures
+            pela Securitizadora é condicionada à subscrição e
+            integralização dos CRA.
+
+        7.  Subscrição. As Debêntures serão subscritas pela
+            Debenturista, em uma única data, por meio da assinatura de
+            boletim de subscrição, conforme modelo constante no Anexo II
+            (“Boletim de Subscrição”), com o consequente registro no
+            Livro de Registro de Debêntures da Emissora. A Emissora
+            compromete-se a enviar à Debenturista e ao Custodiante
+            (conforme definido no Termo de Securitização), em até 30
+            (trinta) dias corridos contados da data de subscrição, uma
+            via original e registrada da presente Escritura e do Boletim
+            de Subscrição das Debêntures, para fins de custódia e uma
+            cópia autenticada do Livro de Registro de Debêntures da
+            Emissora contendo a transferência das Debêntures à
+            Debenturista.
+
+        8.  Conversibilidade. As Debêntures serão simples e não
+            conversíveis em ações de emissão da Emissora.
+
+        9.  Espécie. As Debêntures serão da espécie quirografária.
+
+    2.  Atualização do Valor Nominal Unitário e Remuneração das
+        Debêntures
+
+        1.  Atualização do Valor Nominal Unitário. As Debêntures terão o
+            Valor Nominal Unitário ou o saldo do Valor Nominal Unitário,
+            conforme o caso, atualizado monetariamente mensalmente a
+            partir da Primeira Data de Integralização até a integral
+            liquidação das Debêntures, pela variação do Índice Nacional
+            de Preços ao Consumidor Amplo (“IPCA”), divulgado pelo
+            Instituto Brasileiro de Geografia e Estatística (“IBGE”),
+            calculada de forma exponencial e cumulativa pro rata
+            temporis por Dias Úteis, sendo que o produto da atualização
+            monetária das Debêntures será incorporado automaticamente ao
+            Valor Nominal Unitário ou ao saldo do Valor Nominal
+            Unitário, conforme o caso (“Valor Nominal Unitário
+            Atualizado”), segundo a seguinte fórmula (“Atualização
+            Monetária”):
+
+VN_(a) = VN_(e) × C, onde:
+
+VN_(a) = Valor Nominal Unitário Atualizado, calculado com 8 (oito) casas
+decimais, sem arredondamento;
+
+VN_(e) = Valor Nominal Unitário das Debêntures ou saldo do Valor Nominal
+Unitário das Debêntures na última data de amortização ou incorporação de
+juros, se houver, o que ocorrer por último, calculado/informado com 8
+(oito) casas decimais, sem arredondamento;
+
+C = Fator da variação acumulada do IPCA, calculado com 8 (oito) casas
+decimais, sem arredondamento, apurado da seguinte forma:
+
+$C = \left( \frac{{NI}_{k}}{{NI}_{k - 1}} \right)^{\frac{dup}{dut}}$,
+onde:
+
+k = número de ordem de NI_(k), variando de 1 até n;
+
+NIk = valor do número-índice do IPCA do mês anterior ao mês de
+atualização, caso a atualização seja em data anterior ou na própria Data
+de Aniversário dos CRA. Após a Data de Aniversário dos CRA, ‘NIk’
+corresponderá ao valor do número-índice do mês de atualização;
+
+NI_(k-1)= valor do número-índice do IPCA divulgado no mês anterior ao
+mês ”k”;
+
+dup = número de Dias Úteis entre a primeira Data de Integralização ou
+última Data de Aniversário (conforme abaixo definido), conforme o caso,
+e a data de cálculo, sendo “dup” um número inteiro. Exclusivamente no
+primeiro Período de Capitalização (conforme abaixo definido), “dup” será
+acrescido de 2 (dois) Dias Úteis; e
+
+dut = número de Dias Úteis entre a última Data de Aniversário,
+inclusive, e a próxima Data de Aniversário das Debêntures, exclusive,
+sendo “dut” um número inteiro. Para primeira Data de Aniversário, “dut”
+será igual a 21 (vinte e um) Dia(s) Útil(eis).
+
+Sendo que:
+
+(i) o número-índice do IPCA deverá ser utilizado considerando-se
+    idêntico número de casas decimais daquele divulgado pelo IBGE;
+
+(ii) a aplicação do IPCA incidirá no menor período permitido pela
+     legislação em vigor;
+
+(iii) para fins de cálculo considera-se como data de aniversário, todo
+      segundo Dia Útil anterior à data de aniversário dos CRA (“Data de
+      Aniversário”);
+
+(iv) o fator resultante da expressão
+     $\left( \frac{{NI}_{k}}{{NI}_{k - 1}} \right)^{\frac{dup}{dut}}$ é
+     considerado com 8 (oito) casas decimais, sem arredondamento;
+
+(v) caso o número índice do IPCA a ser utilizado não tenha sido
+    divulgado até a data de cálculo, deverá ser utilizado o último
+    número índice divulgado pelo IBGE;
+
+(vi) o produtório é executado a partir do fator mais recente,
+     acrescentando–se, em seguida, os mais remotos. Os resultados
+     intermediários são calculados com 16 (dezesseis) casas decimais,
+     sem arredondamento.
+
+     1.  Remuneração das Debêntures. Sobre o Valor Nominal Unitário
+         Atualizado das Debêntures incidirão juros remuneratórios, a
+         serem definidos de acordo com o procedimento de coleta de
+         intenções de investimento a ser conduzido pelo Coordenador
+         Líder no âmbito da Oferta Restrita, nos termos dos parágrafos
+         1º e 2º do artigo 23 e do artigo 44 da Instrução CVM 400, de 29
+         de dezembro de 2003, conforme alterada (“Procedimento de
+         Bookbuilding”) e, em qualquer caso, limitado ao maior valor
+         entre: (a) ao Tesouro IPCA + com Juros Semestrais, atual
+         denominação da antiga Nota do Tesouro Nacional Série B – NTN–B,
+         com vencimento em 2025, baseada na cotação indicativa divulgada
+         pela ANBIMA em sua página na internet
+         (http://www.anbima.com.br), a ser apurada no Dia Útil
+         imediatamente anterior à data de realização do Procedimento de
+         Bookbuilding, acrescida exponencialmente de um spread
+         equivalente a 1,20% (um inteiro e vinte centésimos por cento)
+         ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis;
+         ou (b) a 6,50% (seis inteiros e cinquenta centésimos por cento)
+         ao ano, base 252 (duzentos e cinquenta e dois) Dias Úteis,
+         calculados de forma exponencial e cumulativa pro rata temporis
+         por Dias Úteis decorridos, desde a primeira Data de
+         Integralização dos CRA ou a Data de Pagamento da Remuneração
+         (conforme abaixo definido) imediatamente anterior, conforme o
+         caso, até a data do efetivo pagamento (“Remuneração”).
+
+         1.  A Remuneração será calculada de acordo com a fórmula
+             abaixo:
+
+J = VNa x (Fator Juros – 1), onde:
+
+J = Valor unitário dos juros acumulados no final de cada Período de
+Capitalização (conforme abaixo definido), calculado com 8 (oito) casas
+decimais, sem arredondamento;
+
+VNa = conforme definido acima; e
+
+Fator de Juros = Fator de juros, calculado com 9 (nove) casas decimais,
+com arredondamento, apurado da seguinte forma:
+
+$Fator\ Juros\  = \ \left( \frac{Spread}{100} + 1 \right)^{\frac{DP}{252}}$,
+onde:
+
+Spread = valor nominal, em quatro casas demais, ser definido no
+procedimento de Bookbuilding (informado com 4 (quatro) casas decimais);
+e
+
+DP = número de Dias Úteis entre a primeira Data de Integralização ou
+última data de pagamento, conforme o caso, e a data de cálculo, sendo
+“DP” um número inteiro. Exclusivamente no primeiro Período de
+Capitalização, “DP” será acrescido de 2 (dois) Dias Úteis.
+
+Observação: Considera–se “Período de Capitalização”, o período que se
+inicia: (a) no caso do primeiro Período de Capitalização, a partir da
+Primeira Data da Integralização (inclusive) e termina na respectiva
+primeira Data de Pagamento da Remuneração (exclusive); e (b) no caso dos
+demais Períodos de Capitalização na respectiva Data de Pagamento da
+Remuneração imediatamente anterior (inclusive), e termina na Data de
+Pagamento da Remuneração imediatamente subsequente (exclusive), conforme
+o caso. Cada Período de Capitalização sucede o anterior sem solução de
+continuidade, até a Data de Vencimento, ou a data do resgate ou de
+vencimento antecipado das Debêntures, conforme o caso.
+
+2.  A taxa final aplicável à Remuneração a ser definida em Procedimento
+    de Bookbuilding será formalizada por meio de aditamento à presente
+    Escritura, ficando desde já as Partes autorizadas e obrigadas a
+    celebrar tal aditamento, sem a necessidade de deliberação societária
+    adicional da Emissora, do Debenturista ou aprovação em assembleia
+    geral dos Titulares de CRA.
+
+2.  A Remuneração será paga trimestralmente, nos meses de março, junho,
+    setembro e dezembro de cada ano, conforme previsto no fluxograma de
+    pagamentos das Debêntures anexo a esta Escritura na forma do Anexo I
+    (sendo cada data ali prevista, uma “Data de Pagamento”), sendo o
+    primeiro pagamento em 11 de março de 2022.
+
+1.  Indisponibilidade, Impossibilidade de Aplicação ou Extinção do IPCA
+
+    1.  Caso o IPCA não esteja disponível quando da apuração da
+        atualização monetária das Debêntures e/ou na hipótese de
+        extinção e/ou não divulgação do IPCA por mais de 10 (dez) Dias
+        Úteis consecutivos após a data esperada para sua apuração e/ou
+        divulgação, ou no caso de impossibilidade legal de aplicação do
+        IPCA às Debêntures ou aos CRA, conforme o caso, por proibição
+        legal ou judicial, será utilizado, em sua substituição, o seu
+        substituto legal. Na hipótese de: (i) não haver um substituto
+        legal para o IPCA; ou (ii) havendo substituto legal para o IPCA,
+        na hipótese de extinção, limitação e/ou não divulgação do
+        substituto legal para o IPCA por mais de 10 (dez) Dias Úteis
+        após a data esperada para sua apuração e/ou divulgação, ou no
+        caso de impossibilidade de aplicação do substituto legal para o
+        IPCA às Debêntures ou aos CRA, conforme o caso, por proibição
+        legal ou judicial, a Debenturista deverá, no prazo de até 5
+        (cinco) Dias Úteis contados do término do prazo de 10 (dez) Dias
+        Úteis da data de extinção do substituto legal do IPCA ou da data
+        da proibição legal ou judicial, conforme o caso, convocar
+        assembleia geral de Titulares de CRA para que deliberem, em
+        comum acordo com a Securitizadora, sobre o novo parâmetro de
+        atualização monetária das Debêntures a ser aplicado, que deverá
+        ser aquele que reflita parâmetros utilizados em operações
+        similares existentes à época. Até a deliberação desse novo
+        parâmetro para o cálculo da atualização monetária das
+        Debêntures, quando do cálculo da atualização monetária das
+        Debêntures e/ou de quaisquer obrigações pecuniárias relativas às
+        Debêntures previstas nesta Escritura de Emissão, conforme o
+        caso, será utilizada a última variação disponível do IPCA
+        divulgada oficialmente, não sendo devidas quaisquer compensações
+        financeiras, multas ou penalidades entre a Emissora e a
+        Debenturista quando da deliberação do novo parâmetro de
+        atualização monetária.
+
+    2.  Caso o IPCA ou o substituto legal para o IPCA, conforme o caso,
+        voltem a ser divulgados antes da realização da assembleia geral
+        de Titulares de CRA prevista na Cláusula 4.3.1 acima, ressalvada
+        a hipótese de sua extinção ou inaplicabilidade por disposição
+        legal ou determinação judicial, referida assembleia geral de
+        Titulares de CRA não será realizada, e o respectivo índice, a
+        partir do retorno de sua divulgação, voltará a ser utilizado
+        para o cálculo da atualização monetária das Debêntures e/ou de
+        quaisquer obrigações pecuniárias relativas às Debêntures
+        previstas nesta Escritura de Emissão, conforme o caso.
+
+    3.  Caso, na assembleia geral de Titulares de CRA prevista na
+        Cláusula 4.3.1 acima, não haja acordo sobre a nova atualização
+        monetária das Debêntures entre a Emissora e a Debenturista, ou
+        em caso de não instalação em segunda convocação, ou em caso de
+        instalação em segunda convocação em que não haja quórum
+        suficiente, a Emissora deverá resgatar a totalidade das
+        Debêntures, com seu consequente cancelamento, conforme
+        procedimento descrito na Cláusula 4.14 abaixo, utilizando-se a
+        última variação disponível do IPCA divulgada oficialmente.
+
+2.  Amortização das Debêntures. A amortização do saldo do Valor Nominal
+    Unitário Atualizado das Debêntures (“Amortização”) será realizada
+    trimestralmente, sendo a primeira Data de Pagamento da Amortização
+    em 13 de dezembro de 2023, conforme cronograma e percentuais
+    indicados na tabela indicada no Anexo I desta Escritura.
+
+3.  Repactuação Programada. As Debêntures não serão objeto de
+    repactuação programada.
+
+4.  Prazo e Forma de Integralização das Debêntures.
+
+    1.  As Debêntures serão integralizadas à vista, em moeda corrente
+        nacional, em cada data de integralização dos CRA (sendo qualquer
+        data em que ocorrer uma integralização de Debêntures uma “Data
+        de Integralização”): (i) na primeira Data de Integralização
+        (“Primeira Data de Integralização”), pelo seu Valor Nominal
+        Unitário; e (ii) nas demais Datas de Integralização posteriores
+        à Primeira Data de Integralização, pelo seu Valor Nominal
+        Unitário Atualizado, acrescido da Remuneração, calculada pro
+        rata temporis desde a Primeira Data de Integralização
+        (inclusive) até a respectiva Data de Integralização (exclusive)
+        (“Preço de Integralização”), por meio de Transferência
+        Eletrônica Disponível (“TED”) ou outra forma de transferência
+        eletrônica de recursos financeiros. O Preço de Integralização
+        será composto pelo valor total de integralização dos CRA e será
+        pago em cada uma das Datas de Integralização, conforme
+        estabelecido na presente Escritura.
+
+5.  O Debenturista, por meio da assinatura da presente Escritura,
+    subscreve, de forma irrevogável e irretratável, a totalidade das
+    Debêntures ora emitidas. Não obstante, a integralização das
+    Debêntures pelo Debenturista é condicionada à subscrição e
+    integralização dos CRA.
+
+6.  O Debenturista, neste ato, declara: (i) estar de acordo com a
+    integralidade dos termos e condições desta Escritura; (ii) ter
+    ciência de que as Debêntures serão objeto de colocação privada e não
+    serão registradas para distribuição no mercado primário, negociação
+    no mercado secundário, custódia eletrônica ou liquidação em qualquer
+    mercado organizado; e (iii) ter ciência de que a Emissão se insere
+    no contexto da Securitização.
+
+7.  Fica, desde já, certo e ajustado que o pagamento do Preço de
+    Integralização será realizado pelo Debenturista, da seguinte forma:
+
+i.  em cada Data de Integralização subsequente à Primeira Data de
+    Integralização, a respectiva proporção referente às comissões
+    devidas ao coordenador líder da Oferta (“Coordenador Líder”) e,
+    exclusivamente na Primeira Data de Integralização, aos assessores
+    legais da Oferta, nos termos do contrato de distribuição da Oferta,
+    celebrado entre a Emissora e o Coordenador Líder, com interveniência
+    e anuência da Securitizadora (“Contrato de Distribuição”), será
+    retido pela Securitizadora;
+
+ii. na primeira Data de Integralização, o montante de R$ 150.000,00
+    (cento e cinquenta mil reais), será retido pela Securitizadora, por
+    conta e ordem da Emissora, para fins (a) de pagamento das despesas
+    da Oferta descritas na tabela constante do Anexo VI da presente
+    Escritura, no montante de R$ 55.000,00 (cinquenta e cinco mil
+    reais), (“Despesas Flat”); e (b) o excedente, para a constituição de
+    um fundo de despesas da Oferta, conforme previsto no Termo de
+    Securitização (“Fundo de Despesas”). Caso o montante do Fundo de
+    Despesas fique igual ou inferior à R$ 70.000,00 (setenta mil reais)
+    (“Valor Mínimo do Fundo de Despesas”), o mesmo deverá ser recomposto
+    ao Valor Mínimo do Fundo de Despesas pela Emissora, mediante
+    transferência para a Conta Fundo de Despesas, dos valores
+    necessários à sua recomposição em até 5 (cinco) Dias Úteis do
+    recebimento da notificação neste sentido enviada pela
+    Securitizadora. Os recursos depositados no Fundo de Despesas serão
+    aplicados nos Investimentos Permitidos (conforme abaixo definido) e
+    os recursos oriundos dos rendimentos auferidos com tais
+    investimentos integrarão o Fundo de Despesas (conforme definido no
+    Termo de Securitização) dos CRA. Após o pagamento da última parcela
+    de remuneração e amortização dos CRA, conforme o caso, e cumpridas
+    integralmente as obrigações dos CRA, conforme estipulados no Termo
+    de Securitização, a Securitizadora deverá, em até 5 (cinco) Dias
+    Úteis contados da data de quitação integral dos CRA, liberar
+    eventual saldo remanescente do Fundo de Despesas à Emissora, em
+    conta a ser indicada por esta. Os valores decorrentes do Fundo de
+    Despesas, enquanto retidos na Conta do Fundo de Despesas (conforme
+    definido no Termo de Securitização), deverão ser aplicados pela
+    Securitizadora em títulos públicos federais, operações
+    compromissadas com lastro em títulos públicos federais ou em
+    Certificados de Depósito Bancários – CDBs de bancos de primeira
+    linha, cujo rating nacional emitido por Standard & Poor's Ratings do
+    Brasil Ltda., Fitch Ratings Brasil Ltda. ou Moody's América Latina
+    Ltda. seja igual ou superior ao rating soberano, nos termos da
+    regulamentação específica e, em todos os casos, com liquidez diária
+    (“Investimentos Permitidos”);
+
+iii. o saldo do Preço de Integralização, já descontado dos montantes
+     indicados nos itens “i”, “ii” e “iii” acima, serão desembolsados à
+     Emissora, mediante crédito na conta corrente nº 10006-6, de
+     titularidade da Emissora, junto à agência nº 1619 do Itaú Unibanco
+     Holding S.A. (341) (“Conta de Livre Movimento”).
+
+     1.  Os pagamentos referentes à integralização das Debêntures serão
+         realizados em moeda corrente nacional, mediante Transferência
+         Eletrônica Disponível – TED, pela Securitizadora em favor da
+         Emissora, a qual receberá os referidos valores na Conta de
+         Livre Movimento, observado o disposto no item 4.9 “iii” acima.
+
+     2.  Observadas os itens 4.9 e 4.10 acima, o pagamento do preço de
+         integralização das Debêntures será realizado desde que a
+         integralização dos CRA ocorra até as 16:00 horas (inclusive),
+         considerando o horário local da cidade de São Paulo, estado de
+         São Paulo, ou no Dia Útil (abaixo definido) imediatamente
+         posterior, caso tal liquidação financeira ocorra a partir de
+         16:00 horas (exclusive), sem a incidência de quaisquer
+         encargos, penalidades, tributos ou correção monetária.
+
+     3.  O comprovante de transferência do Preço de Integralização ou de
+         sua retenção na Conta do Patrimônio Separado, descontadas as
+         Despesas Flat e os valores necessários à constituição do Fundo
+         de Despesas, servirá como a mais ampla, geral, irrestrita e
+         irrevogável quitação da Emissora ao Debenturista em relação ao
+         pagamento do Preço de Integralização, independentemente de
+         qualquer outra formalidade.
+
+     4.  Aquisição Facultativa
+
+         1.  A Emissora, na presente Escritura de Emissão, renuncia
+             expressamente à faculdade prevista no artigo 55, §3º, da
+             Lei das Sociedades por Ações e na Instrução CVM 620, de 17
+             de março de 2020, conforme alterada, sendo vedada a
+             aquisição facultativa das Debêntures pela Emissora.
+
+     5.  Resgate Antecipado Total Obrigatório
+
+         1.  A Emissora deverá realizar o resgate antecipado total
+             obrigatório das Debêntures, caso, nos termos da Cláusula
+             4.3.1 acima, não haja acordo sobre a nova atualização
+             monetária das Debêntures entre a Securitizadora e os
+             Titulares de CRA, ou em caso de não instalação em segunda
+             convocação, ou em caso de instalação em segunda convocação
+             em que não haja quórum suficiente (“Resgate Antecipado
+             Total Obrigatório”).
+
+         2.  Na ocorrência do evento acima, a Debenturista deverá
+             comunicar a Emissora para que realize o Resgate Antecipado
+             Total Obrigatório no prazo de até 10 (dez) dias da data de
+             recebimento da referida comunicação.
+
+         3.  O Resgate Antecipado Total Obrigatório deverá ocorrer
+             mediante o pagamento, pela Emissora, do Valor Nominal
+             Unitário Atualizado ou do saldo do Valor Nominal Unitário
+             Atualizado das Debêntures, acrescido da remuneração das
+             Debêntures, calculada pro rata temporis, desde a primeira
+             Data de Integralização dos CRA ou a última Data de
+             Pagamento da Remuneração, conforme o caso, até a data do
+             efetivo pagamento, sem qualquer prêmio ou penalidade de
+             qualquer natureza, caso em que, quando do cálculo da
+             atualização monetária das Debêntures e/ou de quaisquer
+             obrigações pecuniárias relativas às Debêntures previstas
+             nesta Escritura de Emissão, conforme o caso, será
+             utilizado, para o cálculo da variação correspondente ao
+             último IPCA divulgado oficialmente.
+
+         4.  As Debêntures objeto de Resgate Antecipado Total
+             Obrigatório serão obrigatoriamente canceladas pela
+             Emissora.
+
+     6.  Condições de Pagamento
+
+         1.  Local e Horário de Pagamento. Os pagamentos a que fizer jus
+             o titular das Debêntures, serão efetuados pela Emissora
+             mediante depósito na conta do patrimônio separado do CRA
+             (“Patrimônio Separado”), mantida em nome da Securitizadora,
+             para fins de pagamento das Debêntures, na Conta
+             Centralizadora (abaixo definida).
+
+             1.  Os pagamentos relativos às Debêntures a serem feitos
+                 pela Emissora deverão ser realizados na conta corrente
+                 nº 5258-2, na agência nº 3396 do Banco Bradesco
+                 S.A. (237) (“Conta Centralizadora”).
+
+         2.  Prorrogação dos Prazos. Considerar-se-ão prorrogados os
+             prazos referentes ao pagamento de qualquer obrigação
+             prevista e decorrente desta Escritura de Emissão, se o
+             vencimento coincidir com feriado declarado nacional, sábado
+             ou domingo, sem nenhum acréscimo aos valores a serem pagos.
+
+         3.  Dia Útil. Para todos os fins desta Escritura, considera-se
+             “Dia Útil” (ou “Dias Úteis”) todo dia que não seja sábado,
+             domingo ou feriado declarado nacional na República
+             Federativa do Brasil.
+
+         4.  Encargos Moratórios. Sem prejuízo da Remuneração, ocorrendo
+             impontualidade no pagamento pela Emissora de qualquer
+             quantia devida aos Debenturistas, os débitos em atraso
+             vencidos e não pagos pela Emissora, incluindo, sem
+             limitação, o pagamento da Remuneração que continuará a
+             incidir sobre os débitos em atraso, devida nos termos desta
+             Escritura de Emissão, ficarão sujeitos, independentemente
+             de aviso, notificação ou interpelação judicial ou
+             extrajudicial, (i) a multa convencional, irredutível e não
+             compensatória, de 2% (dois por cento) e (ii) a juros
+             moratórios à razão de 1% (um por cento) ao mês, calculados
+             pro rata temporis desde a data da inadimplência até a data
+             do efetivo pagamento, ambos incidentes sobre o valor do
+             débito em atraso (“Encargos Moratórios”).
+
+     7.  Liquidez e Estabilização. Não será constituído fundo de
+         manutenção de liquidez ou firmado contrato de garantia de
+         liquidez ou estabilização de preço para as Debêntures.
+
+     8.  Fundo de Amortização. Não será constituído fundo de amortização
+         para a presente Emissão.
+
+5.  VENCIMENTO ANTECIPADO
+
+    1.  Eventos de Vencimento Antecipado. As Debêntures e todas as
+        obrigações constantes desta Escritura de Emissão poderão ser
+        consideradas antecipadamente vencidas, tornando-se imediatamente
+        exigível da Emissora o pagamento do Valor Nominal Unitário ou do
+        saldo do Valor Nominal Unitário Atualizado das Debêntures,
+        conforme o caso, acrescido da Remuneração, calculada pro rata
+        temporis, desde a primeira Data de Integralização, ou a última
+        Data de Pagamento da Remuneração, conforme o caso, até a data do
+        seu efetivo pagamento, sem prejuízo, quando for o caso, da
+        cobrança dos Encargos Moratórios e de quaisquer outros valores
+        eventualmente devidos pela Emissora (“Montante Devido
+        Antecipadamente”), na ocorrência das hipóteses descritas nos
+        itens 5.1.1 e 5.1.2 abaixo, observados os eventuais prazos de
+        cura, quando aplicáveis (“Eventos de Vencimento Antecipado”).
+
+        1.  A ocorrência de quaisquer dos eventos indicados neste item
+            5.1.1 acarretará o vencimento antecipado automático das
+            Debêntures, independentemente de qualquer aviso
+            extrajudicial, interpelação judicial, notificação prévia à
+            Emissora ou consulta à Debenturista (“Eventos de Vencimento
+            Antecipado Automático”):
+
+(a) (i) decretação de falência da Emissora por juiz competente; (ii)
+    pedido de autofalência formulado pela Emissora; (iii) pedido de
+    falência da Emissora formulado por terceiros e não elidido no prazo
+    legal; (iv) pedido de recuperação judicial ou extrajudicial da
+    Emissora, independentemente do deferimento do processamento da
+    recuperação ou de sua concessão por juiz competente; e (v)
+    liquidação, dissolução ou extinção da Emissora, exceto se resultante
+    de uma Operação Permitida (conforme abaixo definido);
+
+(a) descumprimento, pela Emissora, de quaisquer obrigações pecuniárias
+    relativas às Debêntures, principais ou acessórias, previstas nesta
+    Escritura de Emissão ou em qualquer outro documento relacionado às
+    Debêntures, não sanada no prazo de 2 (dois) Dias Úteis contados do
+    seu vencimento;
+
+(b) não cumprimento, pela Emissora e/ou pelas suas sociedades
+    controladas, conforme definição de controle prevista no artigo 116
+    da Lei das Sociedades por Ações (“Controladas”), de qualquer decisão
+    ou sentença judicial exequível ou decisão arbitral e/ou
+    administrativa definitiva, todas de natureza condenatória, que não
+    estejam sujeitas a recurso com efeito suspensivo contra a Emissora
+    e/ou contra as Controladas, cujo valor total, individual ou
+    agregado, seja igual ou superior a R$5.000.000,00 (cinco milhões de
+    reais), ou o equivalente em outras moedas;
+
+(c) vencimento antecipado de quaisquer obrigações pecuniárias da
+    Emissora e/ou das Controladas, no mercado financeiro ou de capitais,
+    local ou internacional, cujo valor individual ou agregado seja igual
+    ou superior a R$5.000.000,00 (cinco milhões de reais), ou o
+    equivalente em outras moedas;
+
+(d) questionamento judicial, pela Emissora, bem como por qualquer das
+    Controladas, desta Escritura de Emissão e/ou do Termo de
+    Securitização e/ou de qualquer documento da Oferta Restrita (e/ou de
+    qualquer de suas disposições);
+
+(e) alteração no controle acionário, direto ou indireto, da Emissora,
+    conforme definido artigo 116, da Lei das Sociedades por Ações,
+    exceto em caso de realização de uma Operação Permitida pela
+    Emissora;
+
+(f) transferência, promessa de transferência ou qualquer forma de cessão
+    ou promessa de cessão a terceiros, no todo ou em parte, pela
+    Emissora, de qualquer de suas obrigações nos termos desta Escritura
+    de Emissão e/ou em quaisquer dos documentos firmados no âmbito da
+    Operação de Securitização, exceto se no âmbito de uma Operação
+    Permitida;
+
+(g) se for verificada a invalidade, nulidade ou inexequibilidade desta
+    Escritura e/ou do Termo de Securitização e/ou de qualquer documento
+    da Oferta Restrita (e/ou de quaisquer de suas disposições);
+
+(h) distribuição e/ou pagamento, pela Emissora, de dividendos, juros
+    sobre o capital próprio ou quaisquer outras distribuições de lucros
+    aos acionistas da Emissora, caso a Emissora esteja em mora e/ou em
+    descumprimento com quaisquer das obrigações pecuniárias assumidas no
+    âmbito da Emissão;
+
+(i) realização de redução do capital social da Emissora, após a Data de
+    Emissão, sem a anuência prévia e expressa da Debenturista, conforme
+    deliberado em assembleia geral de titulares de CRA representando 2/3
+    (dois terços) dos CRA em circulação, exceto: (i) a redução de
+    capital para absorção de prejuízos, nos termos do artigo 173 da Lei
+    das Sociedades por Ações; e/ou (ii) se resultante de uma Operação
+    Permitida; e
+
+(j) transformação da Emissora, de forma que deixe de ser uma sociedade
+    por ações, nos termos dos artigos 220 a 222 da Lei das Sociedades
+    por Ações.
+
+    1.  Para fins da alínea (a) do item 5.1.1 acima e da alínea (m) do
+        item 5.1.2 abaixo, será considerado como decretação de falência
+        e como recuperação judicial ou extrajudicial, qualquer
+        procedimento judicial ou extrajudicial análogo previsto na
+        legislação que venha a substituir ou complementar a atual
+        legislação aplicável a falências, recuperação judicial e
+        extrajudicial, conforme definido, em ambos os casos, na Lei nº
+        11.101, de 09 de fevereiro de 2005, conforme alterada.
+
+    1.  Eventos de Vencimento Antecipado Não Automático. Na ocorrência
+        de quaisquer dos eventos indicados nesta Cláusula não sanados no
+        prazo de cura, quando aplicável, a Debenturista e/ou o Agente
+        Fiduciário dos CRA deverá convocar assembleia geral de titulares
+        de CRA, nos termos previstos no Termo de Securitização, para
+        deliberar sobre a não declaração de vencimento antecipado das
+        Debêntures e, consequentemente, dos CRA, observado o disposto
+        nos itens abaixo (“Eventos de Vencimento Antecipado Não
+        Automático”):
+
+(a) protesto de títulos contra a Emissora, ainda que na condição de
+    garantidora, cujo valor individual ou agregado devido e não pago
+    seja igual ou superior a R$ 5.000.000,00 (cinco milhões de reais) ou
+    o equivalente em outras moedas, salvo se, no prazo de até 5 (cinco)
+    Dias Úteis contados da data do protesto, a Emissora tenha
+    comprovado (i) que tal protesto foi sustado e/ou cancelado; (ii) que
+    tal protesto teve sua exigibilidade suspensa por decisão judicial;
+    ou (iii) que o título protestado tenha sido devidamente quitado;
+
+(k) inadimplemento de qualquer obrigação pecuniária da Emissora e/ou de
+    empresas controladas pela Emissora, no mercado financeiro ou de
+    capitais, local ou internacional, cujo valor individual ou agregado
+    seja igual ou superior à R$5.000.000,00 (cinco milhões de reais), ou
+    o equivalente em outras moedas, exceto se sanado no prazo de até 10
+    (dez) Dias Úteis ou observado eventual prazo de cura existente no
+    contrato da respectiva dívida ou obrigação;
+
+(l) descumprimento pela Emissora de qualquer obrigação não pecuniária
+    assumida nesta Escritura de Emissão e/ou em outros Documentos da
+    Operação, não sanada no prazo de cura específico ou no prazo máximo
+    de 10 (dez) Dias Úteis contados da data do recebimento pela Emissora
+    de notificação a ser obrigatoriamente enviada pela Debenturista, com
+    cópia ao Agente Fiduciário dos CRA ou da data em que a Emissora
+    tenha tomado ciência do referido descumprimento, o que ocorrer
+    primeiro;
+
+(m) incorporação (inclusive, incorporação de ações), fusão ou cisão da
+    Emissora, salvo (a) se, nos termos do artigo 231 da Lei das
+    Sociedades por Ações: (i) tal alteração societária for aprovada
+    previamente pela Debenturista, conforme deliberado em assembleia
+    geral de Titulares de CRA representando 2/3 (dois terços) dos CRA em
+    circulação; ou (ii) se for garantido aos Titulares de CRA o direito
+    de resgate pelo prazo de 6 (seis) meses, a contar da data da
+    publicação das atas das assembleias relativas à operação dos CRA de
+    que forem titulares; ou (b) se tratar de uma Operação Permitida;
+
+    Para os fins desta Escritura, uma “Operação Permitida”, significa
+    qualquer operação (i) de incorporação (inclusive da Emissora),
+    fusão, cisão, transformação ou qualquer outra forma de reorganização
+    societária entre a Emissora e uma sociedade coligada, controlada,
+    controladora ou integrante do mesmo grupo econômico da Emissora;
+    ou (ii) que decorra da diluição societária dos atuais acionistas
+    controladores da Emissora em razão de aumento de capital ou
+    alienação de ações no âmbito de uma oferta pública inicial de
+    distribuição primária e/ou secundária de ações de emissão da
+    Emissora, em qualquer caso, desde que o controle da Emissora seja
+    mantido pelo Sr. Carlos Roberto Alves.
+
+(n) caso a atividade principal da Emissora deixe de ser a que consta de
+    seu Estatuto Social na Data de Emissão, conforme disposto na
+    Cláusula 3.1 acima;
+
+(o) não manutenção, pela Emissora, do índice obtido da divisão da Dívida
+    Líquida (conforme abaixo definida) pelo EBITDA (conforme abaixo
+    definido) igual ou inferior a 2,5 (dois inteiros e cinquenta
+    centésimos), apurado anualmente pela Debenturista, em até 20 (vinte)
+    dias contados do recebimento dos documentos previstos na cláusula
+    7.1 “i” d abaixo, tendo por base as demonstrações financeiras anuais
+    consolidadas da Emissora, referentes aos exercícios sociais findos
+    em 31 de dezembro de cada ano e entregues pela Emissora à
+    Securitizadora, nos termos desta Escritura, em até 90 (noventa) dias
+    corridos após o encerramento do exercício social, junto com a
+    memória de cálculo, sendo a primeira apuração com base nas
+    demonstrações financeiras referentes ao exercício fiscal encerrado
+    em 2021 (“Índice Financeiro”), sendo que:
+
+    “Dívida Líquida” significa o valor calculado em bases consolidadas
+    na Emissora igual (i) à soma dos passivos junto a instituições
+    financeiras, das operações de leasing operacional e financeiro, dos
+    títulos e valores mobiliários representativos de dívida emitidos;
+    diminuído (ii) das disponibilidades (caixa e equivalentes de caixa);
+    e
+
+    “EBITDA” significa o lucro consolidado relativo aos 12 (doze)
+    últimos meses, antes de juros, impostos, depreciação e amortização,
+    não permitindo-se ajustes de efeito não recorrente (despesas, custos
+    e/ou receitas). Serão desconsiderados para efeito de cálculo do
+    presente item, todos os efeitos do Pronunciamento Técnico CPC 06
+    (R2) – Operações de Arrendamento Mercantil (“IRFS 16”).
+
+(p) suspensão da negociação ou do registro da negociação dos CRA junto à
+    B3, não sanado no prazo máximo de 10 (dez) Dias Úteis;
+
+(q) não renovação, não obtenção, cancelamento, revogação, cassação ou
+    suspensão das licenças ambientais essenciais ao exercício das
+    atividades da Emissora, conforme exigidas pela legislação e
+    regulamentação aplicáveis às suas atividades, exceto pelas licenças
+    cuja não renovação, não obtenção, cancelamento, revogação, cassação
+    ou suspensão ou que estejam em processo de renovação ou àquelas que
+    encontram-se em discussão na esfera judicial e/ou administrativa
+    cuja aplicabilidade ou exigibilidade esteja suspensa;
+
+(r) existência de sentença judicial exequível ou decisão administrativa,
+    ambas de natureza condenatória, contra Emissora por danos ao meio
+    ambiente, desde que não sujeitas a recurso com efeito suspensivo;
+
+(s) existência de sentença judicial exequível ou decisão administrativa,
+    ambas de natureza condenatória, contra a Emissora por crimes contra
+    o meio ambiente, trabalho infantil, trabalho análogo ao escravo ou
+    proveito criminoso da prostituição;
+
+(t) a inobservância das leis trabalhistas e ambientais em vigor, em
+    especial, mas não se limitando, à legislação e regulamentação
+    relacionadas à saúde e segurança ocupacional e ao meio ambiente, bem
+    como, se a Emissora incentivar, de qualquer forma, a prostituição ou
+    utilizar em suas atividades mão-de-obra infantil ou em condição
+    análoga à de escravo, ou, caso caracterizem assédio moral ou sexual,
+    desde que decorrentes de ação coletiva (“Legislação
+    Socioambiental”);
+
+(u) qualquer ato que importe (a) alienação ou oneração de bens e
+    direitos, tais como cessão, venda, alienação, transferência,
+    permuta, conferência ao capital, instituição de usufruto ou
+    fideicomisso, endosso, desconto ou qualquer outra forma de
+    transferência ou disposição, inclusive por meio de redução de
+    capital social, constituição de qualquer ônus (assim definido como
+    hipoteca, penhor, alienação fiduciária, cessão fiduciária, usufruto,
+    fideicomisso, encargo, gravame, ônus, arresto, sequestro ou penhora,
+    judicial ou extrajudicial, voluntário ou involuntário, ou outro ato
+    que tenha o efeito prático similar a qualquer das expressões acima
+    (“Ônus”) de bens da Emissora; ou (b) alienação, pela Emissora, de
+    ativos operacionais de sua propriedade, cujo valor, individual ou
+    agregado, seja igual ou superior a R$5.000.000,00 (cinco milhões de
+    reais), ou o equivalente em outras moedas (no caso do item “b”, de
+    acordo com informações constantes nas últimas demonstrações
+    financeiras consolidadas ou revisadas da Emissora disponíveis),
+    ressalvada: (i) a constituição de Ônus por meio de ato governamental
+    ou judicial em que a Emissora esteja, discutindo judicialmente e/ou
+    administrativamente a sua aplicabilidade ou validade, conforme o
+    caso, havendo ou não efeito suspensivo; e/ou (ii) a constituição de
+    garantias no âmbito de financiamentos para produção e aquisição de
+    máquinas e equipamentos da Emissora com recursos provenientes do
+    BNDES – Banco Nacional de Desenvolvimento Econômico e Social e/ou
+    operações com fins similares junto a quaisquer outros bancos de
+    fomento e/ou desenvolvimento ou outras entidades com os mesmos fins,
+    incluindo, dentre outros, operações com recursos provenientes do FCO
+    – Fundo Constitucional de Financiamento do Centro-Oeste;
+
+(v) descumprimento das normas aplicáveis que versam sobre atos de
+    corrupção e atos lesivos contra a administração pública, incluindo,
+    mas não se limitando a, às normas previstas no Decreto-Lei n.º
+    2.848/1940, na Lei nº 12.529, de 30 de novembro de 2011, conforme
+    alterada, na Lei nº 9.613, de 3 de março de 1998, conforme alterada,
+    na Lei nº 12.846, de 1º de agosto de 2013, conforme alterada, do
+    Decreto nº 8.420, de 18 de março de 2015, e, quando aplicáveis, no
+    US Foreign Corrupt Practices Act (FCPA) e no UK Bribery Act
+    (“Legislação Anticorrupção”) pela Emissora, suas controladas,
+    funcionários e administradores, estes últimos desde que atuando em
+    nome e benefício da Emissora; e
+
+(w) caso as declarações ou garantias aqui prestadas, pela Emissora nesta
+    Escritura de Emissão e/ou nos demais Documentos da Operação,
+    conforme aplicável, sejam ou se mostrem imprecisas, inconsistentes,
+    falsas ou incorretas; e
+
+(x) ocorrência de qualquer evento ou situação que possa causar alteração
+    substancial nas condições financeiras, econômicas e/ou societárias
+    da Emissora que (i) impossibilite ou dificulte de forma relevante o
+    cumprimento, pela Emissora, de suas obrigações decorrentes desta
+    Escritura de Emissão e das Debêntures; ou (ii) faça com que as
+    demonstrações ou informações financeiras publicadas pela Emissora
+    não mais reflitam a real condição econômica e financeira da
+    Emissora; ou (iii) implique o descumprimento pela Emissora de
+    quaisquer termos e condições de qualquer dos Documentos da Operação
+    (“Efeito Adverso Relevante”).
+
+    1.  Para os fins desta Escritura de Emissão, “Documentos da
+        Operação” significam, quando referidos em conjunto, (i) o Termo
+        de Securitização; (ii) esta Escritura de Emissão; (iii) os
+        Documentos Comprobatórios; (iv) o Contrato de Distribuição; (v)
+        o Boletim de Subscrição das Debêntures pela Securitizadora; (vi)
+        o Contrato de Custódia; (vii) a Declaração de Investidor
+        Profissional, nos termos da Instrução CVM 476; (viii) o boletim
+        de subscrição dos CRA, se houver; e (ix) os demais instrumentos
+        celebrados com prestadores de serviço contratados no âmbito da
+        Oferta Restrita.
+
+    1.  Na ocorrência de qualquer Evento de Vencimento Antecipado Não
+        Automático, a Debenturista e/ou o Agente Fiduciário dos CRA
+        deverá convocar Assembleia Geral de Titulares de CRA, no prazo
+        de 2 (dois) Dias Úteis a contar da data em que tomar ciência do
+        Evento de Vencimento Antecipado Não Automático ou for assim
+        informado pela Debenturista ou pela Emissora, para deliberar
+        sobre a eventual não decretação de vencimento antecipado das
+        Debêntures e, consequentemente, dos CRA.
+
+    2.  Na Assembleia Geral de Titulares de CRA mencionada no Cláusula
+        5.2 acima, que será instalada de acordo com os procedimentos e
+        quórum previstos no Termo de Securitização, os Titulares de CRA
+        poderão optar por não declarar antecipadamente vencidas as
+        Debêntures e, consequentemente, os CRA.
+
+        1.  A não instalação da referida Assembleia Geral de Titulares
+            de CRA e a não deliberação, ambas por falta de quórum, em
+            segunda convocação, deverá ser interpretada pela
+            Debenturista e pelo Agente Fiduciário dos CRA como uma opção
+            dos Titulares de CRA em declarar antecipadamente vencidas as
+            Debêntures e, consequentemente, os CRA.
+
+        2.  Em caso (i) de ocorrência de um Evento de Vencimento
+            Antecipado Automático; ou (ii) de declaração de vencimento
+            antecipado das Debêntures por conta da ocorrência de
+            qualquer Evento de Vencimento Antecipado Não Automático, a
+            Emissora obriga-se a efetuar o pagamento do Montante Devido
+            Antecipadamente, em até 5 (cinco) Dias Úteis da ocorrência
+            ou decretação, conforme o caso, do vencimento antecipado das
+            Debêntures, a ser comunicada pela Debenturista e/ou pelo
+            Agente Fiduciário dos CRA por meio de carta protocolizada ou
+            encaminhada com aviso de recebimento no endereço constante
+            da Cláusula 9 desta Escritura de Emissão ou por e-mail.
+
+    3.  Regras Comuns
+
+        1.  A ocorrência de qualquer dos eventos descritos nos itens
+            5.1.1 e 5.1.2 deverá ser comunicada pela Emissora à
+            Debenturista e ao Agente Fiduciário dos CRA, no prazo de até
+            2 (dois) Dias Úteis da data em que a Emissora tomar
+            conhecimento. O descumprimento desse dever de informar pela
+            Emissora não impedirá o exercício de poderes, faculdades e
+            pretensões previstos nesta Escritura e no Termo de
+            Securitização, pela Debenturista, pelo Agente Fiduciário dos
+            CRA, caso esteja administrando o Patrimônio Separado, ou
+            pelos Titulares de CRA, inclusive o de declarar o vencimento
+            antecipado das Debêntures e, consequentemente, dos CRA.
+
+6.  ASSEMBLEIA GERAL
+
+    1.  Nos termos do artigo 71 da Lei das Sociedades por Ações, os
+        titulares das Debêntures poderão, a qualquer tempo, reunir-se em
+        assembleia geral (“Assembleia Geral de Debenturistas”), a fim de
+        deliberar sobre matéria de seu interesse, aplicando-se, no que
+        couber, o disposto na Lei das Sociedades por Ações.
+
+    2.  A Assembleia Geral de Debenturistas será realizada (i) na sede
+        da Emissora presencialmente; (ii) de modo exclusivamente
+        digital; ou (iii) de modo parcialmente digital, observados os
+        procedimentos previstos na Instrução CVM nº 625, de 14 de maio
+        de 2020 (“Instrução CVM nº 625”).
+
+    3.  A Assembleia Geral de Debenturistas poderá ser convocada:
+        (a) pela Emissora; (b) pelo Agente Fiduciário dos CRA; ou
+        (c) pelos titulares de Debêntures que representem 10% (dez por
+        cento), no mínimo, das Debêntures em Circulação, observado que,
+        em caso de Assembleia Geral de Debenturistas realizada de modo
+        exclusivamente ou parcialmente digital, o anúncio de convocação
+        deverá indicar as informações previstas na Instrução CVM nº 625.
+
+    4.  Por força da vinculação dos Créditos do Agronegócio
+        representados pelas Debêntures aos CRA, fica desde já
+        estabelecido que, uma vez realizada a convocação de uma
+        Assembleia Geral de Debenturistas, a Securitizadora deverá, até
+        2 (dois) Dias Úteis, solicitar a convocação de uma Assembleia
+        Geral de Titulares de CRA, aplicando-se o disposto no Termo de
+        Securitização.
+
+    5.  A Assembleia Geral de Debenturistas se instalará, nos termos do
+        parágrafo 3º do artigo 71 da Lei das Sociedades por Ações, em
+        primeira convocação, com a presença de titulares de Debêntures
+        que representem, no mínimo, metade, das Debêntures em Circulação
+        em primeira convocação e, em segunda convocação, com qualquer
+        número.
+
+        1.  Compreende-se por “Debêntures em Circulação”, para fins de
+            constituição de quórum, todas as Debêntures subscritas e
+            integralizadas e não resgatadas, excluídas as Debêntures de
+            que a Emissora eventualmente seja titular ou possua em
+            tesouraria, ou que sejam de titularidade de empresas ligadas
+            à Emissora, ou de fundos de investimento administrados por
+            empresas ligadas à Emissora, assim entendidas empresas que
+            sejam subsidiárias, coligadas, controladas, direta ou
+            indiretamente, empresas sob controle comum ou qualquer de
+            seus diretores, conselheiros, acionistas, bem como seus
+            cônjuges, companheiros, ascendentes, descendentes e
+            colaterais até o 2º (segundo) grau.
+
+        2.  Independentemente das formalidades legais previstas, será
+            considerada regular a Assembleia Geral de Debenturistas a
+            que comparecerem todos os titulares das Debêntures em
+            Circulação.
+
+    6.  Fica assegurado à Emissora o direito de comparecer e
+        manifestar-se em todas as Assembleias Gerais de Debenturistas e
+        Assembleias Gerais de Titulares de CRA, ressalvado que, em caso
+        de reuniões de Titulares de CRA para discussão de assuntos
+        específicos a serem tratados em referidas Assembleias Gerais de
+        Debenturistas e Assembleias Gerais de Titulares de CRA, a
+        presença de Emissora dependerá de prévia autorização dos
+        Titulares de CRA. Sem prejuízo do aqui disposto, os Titulares de
+        CRA poderão, nas Assembleias Gerais de Titulares de CRA,
+        reunir-se privativamente para analisar e discutir assuntos de
+        interesse dos Titulares de CRA.
+
+    7.  A presidência da Assembleia Geral de Debenturistas caberá ao
+        titular das Debêntures eleito pelos titulares das Debêntures,
+        conforme o caso, na própria Assembleia Geral de Debenturistas,
+        por maioria de votos dos presentes, ou àquele designado pela
+        CVM.
+
+    8.  As deliberações da Assembleia Geral de Debenturistas serão
+        tomadas pela Debenturista, enquanto titular de Debêntures, e
+        deverão observar o disposto no Termo de Securitização e o que
+        vier a ser deliberado pelos Titulares de CRA. Em caso de
+        Assembleia Geral de Debenturistas realizada de modo
+        exclusivamente ou parcialmente digital, serão considerados
+        presentes os titulares de Debêntures que, conforme aplicável (i)
+        compareçam ao local em que a Assembleia Geral de Debenturistas
+        for realizada ou que nela se faça representar; (ii) cujo voto a
+        distância previamente apresentado tenha sido considerado válido;
+        e/ou (iii) que tenha registrado sua presença no sistema
+        eletrônico de participação a distância a ser disponibilizado
+        pela Emissora ou pelo Agente Fiduciário dos CRA.
+
+    9.  Nas deliberações da Assembleia Geral de Debenturistas, a cada
+        Debênture em Circulação caberá um voto, sendo admitida a
+        constituição de mandatários, titulares de Debêntures ou não.
+
+    10. As deliberações da Assembleia Geral de Debenturistas serão
+        tomadas pela maioria dos presentes, observado que, enquanto a
+        Debenturista for titular de Debêntures, as disposições do Termo
+        de Securitização e o que vier a ser deliberado pelos Titulares
+        de CRA deverão ser por ela observados ao proferir seu voto nas
+        Assembleias Gerais de Debenturistas.
+
+    11. As deliberações tomadas pelos titulares de Debêntures em
+        Assembleia Geral de Debenturistas no âmbito de sua competência
+        legal, observados os quóruns estabelecidos nesta Escritura,
+        serão existentes, válidas e eficazes perante a Emissora e
+        obrigarão a todos os titulares das Debêntures em Circulação
+        independentemente de terem comparecido à Assembleia Geral de
+        Debenturistas ou do voto proferido na respectiva Assembleia
+        Geral de Debenturistas.
+
+    12. Enquanto a Securitizadora for titular de Debêntures, na
+        qualidade de emissora dos CRA, as disposições do Termo de
+        Securitização e o que vier a ser deliberado pelos Titulares de
+        CRA deverão ser por ela observados ao proferir seu voto nas
+        Assembleias Gerais de Debenturistas.
+
+7.  OBRIGAÇÕES ADICIONAIS DA EMISSORA
+
+    1.  A Emissora adicionalmente se obriga a:
+
+(i) fornecer à Debenturista, com cópia para o Agente Fiduciário dos CRA:
+
+(a) no prazo máximo de 2 (dois) Dias Úteis, contados do recebimento de
+    solicitação neste sentido, qualquer informação relevante que lhe
+    venha a ser solicitada ou, ainda, de interesse da Debenturista;
+
+(y) no prazo de 2 (dois) Dias Úteis contados do recebimento de
+    solicitação escrita enviada pela Debenturista ou pelo Agente
+    Fiduciário dos CRA, demonstrar, por meio do envio da documentação
+    solicitada à Debenturista ou ao Agente Fiduciário dos CRA, o
+    cumprimento de obrigações previstas nesta Escritura de Emissão,
+    sendo certo que a Emissora poderá responder em nome destes, conforme
+    aplicável;
+
+(z) 1 (uma) via eletrônica (pdf) arquivada das assembleias gerais de
+    debenturistas, contendo a chancela digital de registro na JUCESP;
+
+(a) no prazo de 90 (noventa) dias contados da data de encerramento de
+    seu exercício social, ou em até 3 (três) Dias Úteis contados de sua
+    divulgação, o que ocorrer primeiro, (i) cópia de suas demonstrações
+    financeiras auditadas completas relativas ao respectivo exercício
+    social encerrado, acompanhadas de parecer dos auditores
+    independentes e declaração firmada por representantes legais da
+    Emissora, na forma de seu estatuto social e da memória de cálculo
+    dos Índices Financeiros elaborada pela Emitente contendo todas as
+    rubricas necessárias à verificação dos Índices Financeiros,
+    atestando (1) que permanecem válidas as disposições contidas nesta
+    Escritura; (2) a não ocorrência de qualquer Evento de Vencimento
+    Antecipado e a inexistência de descumprimento de obrigações da
+    Emissora perante os Debenturistas; e (3) que não foram praticados
+    atos em desacordo com seu estatuto social;
+
+(b) atas de assembleias gerais e reuniões do conselho de administração
+    da Emissora que alterem as condições das Debêntures e os termos da
+    presente Escritura de Emissão, no prazo de 5 (cinco) Dias Úteis
+    contados da data em que forem (ou devessem ter sido) publicados ou,
+    se não forem publicados, da data em que forem realizados;
+
+(c) no prazo de até (1) 1 (um) Dia Útil contado da data da ocorrência
+    descumprimentos de natureza pecuniária e/ou de qualquer Evento de
+    Vencimento Antecipado, informações a respeito de referidos eventos;
+    e (2) 5 (cinco) Dias Úteis contados da ocorrência para
+    descumprimentos de natureza não pecuniária ou nos prazos de cura
+    específicos, conforme o caso, contados da data da ciência pela
+    Emissora do descumprimento;
+
+(d) no prazo de até 2 (dois) Dias Úteis contados da data de recebimento,
+    cópia de qualquer correspondência ou notificação, judicial ou
+    extrajudicial, recebida pela Emissora, relacionada, direta ou
+    indiretamente (1) a qualquer inadimplemento, pela Emissora, de
+    qualquer obrigação prevista nesta Escritura; e/ou (2) a um Evento de
+    Vencimento Antecipado;
+
+(e) no prazo de até 2 (dois) Dias Úteis contados da data de ciência,
+    informações a respeito da ocorrência de qualquer evento ou situação
+    que possa causar um Efeito Adverso Relevante na Emissora; e
+
+(f) em até 30 (trinta) dias contados da solicitação pelo Debenturista,
+    enviar o organograma de seu grupo societário, o qual deverá conter,
+    inclusive, suas controladoras, as controladas e as sociedades
+    integrantes do bloco de controle da Emissora, conforme aplicável,
+    assim como os atos societários e os dados financeiros da Emissora, e
+    prestar todas as informações, que venham a ser solicitados pela
+    Debenturista.
+
+(i) atender de forma eficiente às solicitações da Debenturista e enviar
+    todos os demais documentos e informações que a Emissora, nos termos
+    e condições previstos nesta Escritura de Emissão, se comprometeu a
+    enviar à Debenturista e/ou ao Agente Fiduciário dos CRA;
+
+(ii) manter, em adequado funcionamento, um órgão para atender, de forma
+     eficiente, a Debenturista, ou contratar instituições financeiras
+     autorizadas para a prestação desse serviço;
+
+(iii) convocar, nos termos desta Escritura, assembleia geral de
+      debenturistas para deliberar sobre qualquer das matérias que,
+      direta ou indiretamente, se relacione com a Emissão;
+
+(iv) cumprir todas as determinações emanadas da CVM que lhe forem
+     aplicáveis, inclusive mediante envio de documentos, prestando,
+     ainda, as informações que lhe forem solicitadas;
+
+(v) não realizar operações fora do seu objeto social, observadas as
+    disposições estatutárias, legais e regulamentares em vigor;
+
+(vi) não praticar qualquer ato em desacordo com o seu estatuto social,
+     com esta Escritura de Emissão e/ou com qualquer outro documento
+     relacionado à Oferta Restrita, em especial os que possam, direta ou
+     indiretamente comprometer o pontual e integral cumprimento das
+     obrigações assumidas perante a Debenturista;
+
+(vii) cumprir todas as leis, regras, regulamentos e ordens aplicáveis,
+      inclusive ambientais, exceto por aquelas questionadas nas esferas
+      administrativa ou judicial cujos efeitos estejam suspensos ou cujo
+      descumprimento não impacte de forma adversa no cumprimento das
+      obrigações desta Escritura de Emissão;
+
+(viii) contratar e manter contratados, às suas expensas, durante o prazo
+       de vigência das Debêntures, os prestadores de serviços inerentes
+       às obrigações previstas nesta Escritura e no Termo de
+       Securitização, incluindo o Debenturista, o escriturador e o banco
+       liquidante dos CRA, banco depositário, o Agente Fiduciário dos
+       CRA e o ambiente para registro dos CRA perante a B3;
+
+(ix) efetuar o pagamento de todas as despesas comprovadas pela
+     Debenturista que venham a ser necessárias para proteger os direitos
+     e interesses dos Titulares de CRA ou para realizar seus créditos,
+     inclusive honorários advocatícios e outras despesas e custos
+     incorridos em virtude da cobrança de qualquer quantia devida à
+     Debenturista nos termos desta Escritura de Emissão e dos demais
+     Documentos da Operação e desde que haja ocorrido algum
+     inadimplemento da Emissora que motivasse a referida cobrança;
+
+(x) manter em dia o pagamento de tributos, exceto por aqueles que (i)
+    estejam sendo contestados judicial ou administrativamente; (ii) o
+    pagamento seja efetuado no prazo de até 20 (vinte) Dias Úteis
+    contados da data em que a Emissora tome ciência do respectivo
+    tributo vencido;
+
+(xi) aplicar os Recursos exclusivamente de acordo com a Destinação dos
+     Recursos, nos termos previstos acima, bem como cumprir todas as
+     obrigações relacionadas à comprovação de referida destinação;
+
+(xii) manter os CRA depositados para negociação no mercado secundário
+      perante o CETIP21, arcando com os respectivos custos;
+
+(xiii) comparecer, por meio de seus representantes, às assembleias
+       gerais de debenturistas, sempre que solicitado;
+
+(xiv) garantir que qualquer das declarações prestadas pela Emissora no
+      âmbito da Oferta Restrita não são, na data em que foram prestadas,
+      incorretas, em qualquer aspecto relevante, falsas ou enganosas,
+      sendo certo que a Emissora se compromete a informar eventual
+      inconsistência ao Agente Fiduciário dos CRA e à Debenturista, em
+      até 5 (cinco) Dias Úteis contados da data em que tal
+      inconsistência for identificada;
+
+(xv) caso ocorra desapropriação, confisco ou qualquer outra medida de
+     qualquer entidade governamental de qualquer jurisdição que resulte
+     na perda pela Emissora da propriedade e/ou da posse direta ou
+     indireta da totalidade ou parte substancial de seus ativos e/ou
+     propriedades, tomar as medidas judiciais cabíveis e/ou comprovar
+     que o patrimônio não será substancialmente afetado;
+
+(xvi) utilizar os recursos obtidos com a Emissão nos termos do item
+      3.5.1 acima e exclusivamente em atividades lícitas e em
+      conformidade com as leis, regulamentos e normas relativas à
+      proteção ao meio ambiente, ao direito do trabalho, segurança e
+      saúde ocupacional, além de outras normas que lhe sejam aplicáveis
+      em função de suas atividades. Adicionalmente, a Emissora se
+      obriga, durante a vigência deste título, a:
+
+(a) cumprir integralmente as leis, regulamentos e demais normas
+    ambientais e relativas ao direito do trabalho, segurança e saúde
+    ocupacional, bem como obter todos os documentos (laudos, estudos,
+    relatórios, licenças etc.) exigidos pela legislação e necessários
+    para o exercício regular e seguro de suas atividades, exceto por
+    aquelas questionadas nas esferas administrativa e judicial cujos
+    efeitos estejam suspensos, apresentando à Debenturista e ao Agente
+    Fiduciário dos CRA, sempre que por estes razoavelmente solicitado,
+    as informações e documentos que comprovem a conformidade legal de
+    suas atividades e o cumprimento das obrigações assumidas nesta
+    Cláusula, no prazo de até 15 (quinze) Dias Úteis contado da
+    respectiva solicitação, ou em prazo regulamentar inferior
+    eventualmente requerido à Debenturista ou ao Agente Fiduciário dos
+    CRA por Autoridade competente;
+
+(b) envidar os melhores esforços para que seus clientes, prestadores de
+    serviço e fornecedores adotem as melhores práticas de proteção ao
+    meio ambiente e relativas à segurança e saúde do trabalho, inclusive
+    no tocante a não utilização de trabalho infantil ou análogo ao
+    escravo, se possível mediante condição contratual específica, quando
+    aplicável;
+
+(c) comunicar à Securitizadora e ao Agente Fiduciário dos CRA, em até 5
+    (cinco) Dias Úteis da data em que a Emissora tomar conhecimento,
+    acerca de eventual autuação pelos órgãos responsáveis pela
+    fiscalização de normas ambientais e trabalhistas no que tange a
+    saúde e segurança ocupacional, que possa impactar de forma adversa o
+    cumprimento das obrigações pecuniárias assumidas pela Emissora no
+    âmbito da Emissão, trabalho em condições análogas a escravo e
+    trabalho infantil, bem como sobre a revogação, cancelamento ou não
+    obtenção de autorizações ou licenças relevantes e necessárias para o
+    seu funcionamento;
+
+(d) manter a Debenturista, o Agente Fiduciário dos CRA indenes contra
+    qualquer responsabilidade por danos ambientais ou autuações de
+    natureza trabalhista ou relativas à saúde e segurança ocupacional,
+    obrigando-se a ressarci-los de quaisquer quantias que venham a
+    comprovadamente desembolsar em função de condenações ou autuações
+    nas quais a autoridade entenda estar relacionada à utilização dos
+    recursos financeiros decorrentes deste título; e
+
+(e) monitorar suas atividades de forma a identificar e mitigar os
+    impactos ambientais não antevistos no momento da celebração desta
+    Escritura de Emissão.
+
+(xvii) preparar suas demonstrações financeiras de encerramento de
+       exercício e, se for o caso, demonstrações consolidadas, em
+       conformidade com a Lei das Sociedades por Ações e com as regras
+       emitidas pela CVM;
+
+(xviii) submeter, na forma da lei, suas demonstrações financeiras à
+        auditoria por auditor registrado na CVM;
+
+(xix) observar as disposições da Resolução CVM nº 44, de 23 de agosto de
+      2021 (“Resolução CVM 44”), no tocante ao dever de sigilo e
+      vedações à negociação;
+
+(xx) divulgar a ocorrência de fato relevante, conforme definido pelo
+     art. 2º da Resolução CVM 44; e
+
+(xxi) fornecer todas as informações solicitadas pela CVM e pela B3.
+
+      1.  Todas as obrigações de envio de documentos e informações serão
+          consideradas cumpridas quando comprovado pela Emissora, a
+          entrega de tais documentos e informações por meio da
+          apresentação do protocolo de recebimento assinado por
+          representante da Debenturista e/ou do Agente Fiduciário dos
+          CRA, conforme aplicável, ou comprovante de leitura de mensagem
+          eletrônica encaminhada para o(s) endereço(s) eletrônico(s)
+          indicado(s) na Cláusula 9 abaixo, dos documentos e informações
+          solicitados. Para fins de clareza, as Partes estabelecem,
+          ainda, que, desde que as informações e documentos tenham sido
+          entregues na forma, no prazo e com conteúdo estabelecido na
+          presente Escritura de Emissão e/ou na solicitação encaminhada
+          pela Debenturista e/ou pelo Agente Fiduciário dos CRA,
+          conforme o caso, eventual necessidade de complementação,
+          modificação ou ajuste em informações e documentos fornecidos
+          pela Emissora decorrentes de análise realizada pela
+          Debenturista e/ou pelo Agente Fiduciário dos CRA, conforme o
+          caso, sobre os mencionados documentos e informações, não
+          poderá ser interpretada como descumprimento de obrigações não
+          pecuniárias por parte da Emissora. Neste sentido, caso a
+          Debenturista e/ou o Agente Fiduciário dos CRA entenda
+          necessário realizar qualquer complementação, modificação ou
+          ajuste nos documentos e informações fornecidos pela Emissora,
+          deverá notificá-los neste sentido por escrito, para que a
+          Emissora, no prazo de 5 (cinco) Dias Úteis do recebimento da
+          notificação, providencie o ajuste, complementação ou
+          modificação solicitados. Em caso de silêncio ou recusa
+          injustificada por parte da Emissora após o recebimento da
+          notificação aqui referida, bem como em caso de não entrega das
+          informações e documentos na forma, no prazo e com conteúdo
+          estabelecido na presente Escritura e/ou na solicitação
+          encaminhada pela Debenturista e/ou pelo Agente Fiduciário dos
+          CRA, estes estarão automaticamente constituídos em mora de sua
+          obrigação não pecuniária de prestação de informações.
+
+      2.  Em razão da vinculação dos Créditos do Agronegócio
+          representados pelas Debêntures aos CRA, nos termos do item 3.6
+          acima, as seguintes despesas serão de responsabilidade do
+          Patrimônio Separado dos CRA, por meio do Fundo de Despesas,
+          conforme indicadas no Anexo VI à presente Escritura de Emissão
+          (“Despesas de Estruturação”), observado o item 4.9 acima:
+
+(i) comissões de estruturação, emissão, coordenação e colocação dos CRA,
+    por ocasião de sua distribuição pública com esforços restritos, e
+    demais valores devidos nos termos dos Documentos da Operação,
+    conforme definido do Termo de Securitização;
+
+(xxii) honorários e demais verbas e despesas iniciais devidos ao
+       Coordenador Líder, ao Agente Fiduciário dos CRA, ao Custodiante,
+       aos advogados, consultores, inclusive auditores independentes,
+       incorridos em razão da análise e/ou elaboração dos Documentos da
+       Operação, de processo de diligência legal e financeira, bem como
+       da emissão de opinião legal relacionada à Emissão;
+
+(xxiii) despesas com o pagamento de taxas, emolumentos para registro dos
+        CRA perante a B3; e
+
+(xxiv) honorários referentes a emissão dos CRA devido à Emissora,
+       conforme previsto no Termo de Securitização, pagos na Data de
+       Integralização.
+
+       1.  As seguintes Despesas Recorrentes serão de responsabilidade
+           do Patrimônio Separado, por meio do Fundo de Despesas,
+           conforme indicadas no Anexo VI à presente Escritura de
+           Emissão (“Despesas Recorrentes”), observado o item 4.9 acima:
+
+(i) reconhecimento das firmas, registro de quaisquer dos Documentos da
+    Operação em cartório, bem como impressão, expedição e publicação dos
+    relatórios e informações periódicas previstas no Termo de
+    Securitização bem como na legislação aplicável;
+
+(iii) despesas inerentes à expedição de eventual(ais) correspondência(s)
+      de interesse dos Titulares de CRA;
+
+(iv) despesas inerentes à realização da Assembleia Geral de Titulares de
+     CRA;
+
+(v) despesas com o pagamento de taxas, emolumentos para manutenção dos
+    CRA perante a B3;
+
+(vi) despesas com as contas correntes vinculadas à Emissão;
+
+(vii) despesas com a contratação de auditor independente para avaliação
+      das demonstrações financeiras do Patrimônio Separado e dos
+      informes mensais relativos à presente Emissão;
+
+(viii) despesas com o pagamento da remuneração dos prestadores de
+       serviços da emissão;
+
+(ix) despesas com o pagamento da remuneração da Debenturista prevista no
+     Termo de Securitização;
+
+(x) despesas com transporte de documentos;
+
+(xi) despesas com a realização das demonstrações contábeis do Patrimônio
+     Separado e elaboração e divulgação dos relatórios mensais; e
+
+(xii) quaisquer outros honorários, custos e despesas previstos de modo
+      esparso nesta Escritura de Emissão.
+
+      1.  São de responsabilidade da Emissora, por meio da utilização
+          dos recursos próprios:
+
+(i) registro desta Escritura, bem como de eventuais aditamentos na
+    JUCESP;
+
+(xiii) taxas, impostos ou contribuições federais, municipais ou
+       autárquicas, que recaiam sobre os bens, direitos e obrigações do
+       Patrimônio Separado;
+
+(xiv) multas eventualmente aplicadas por órgão reguladores e demais
+      entidades, desde que não seja por culpa exclusiva da Debenturista
+      ou dos prestadores de serviços da emissão;
+
+(xv) eventuais despesas, depósitos e custas judiciais decorrentes da
+     sucumbência em ações judiciais ajuizadas com a finalidade de
+     resguardar os interesses dos Titulares dos CRA e a realização dos
+     Créditos do Agronegócio integrantes do Patrimônio Separado;
+
+(xvi) honorários de advogados, custas e despesas correlatas (incluindo
+      verbas de sucumbência) incorridas pela Emissora e/ou pelo Agente
+      Fiduciário dos CRA na defesa de eventuais processos
+      administrativos e/ou judiciais propostos contra o Patrimônio
+      Separado; e
+
+(xvii) eventuais despesas com terceiros especialistas, advogados,
+       auditores ou fiscais relacionados com procedimentos
+       extrajudiciais, incorridas para resguardar os interesses dos
+       Titulares dos CRA e realização dos Créditos do Agronegócio
+       integrantes do Patrimônio Separado bem como os custos inerentes à
+       liquidação dos CRA.
+
+       1.  A Debenturista poderá valer-se dos recursos do Fundo de
+           Despesas ou do Patrimônio Separado para pagamento das
+           despesas elencadas no item 7.3 e subitens acima, caso não
+           haja recursos no Fundo de Despesas ou quando não arcada
+           diretamente pela Emissora, conforme o caso, ocasião em que a
+           Emissora deverá reembolsar o Fundo de Despesas ou o
+           Patrimônio Separado no montante equivalente ao valor
+           utilizado para pagamento das referidas despesas em até 3
+           (três) dias contados do envio, pela Debenturista, do
+           comprovante de pagamento de referidas despesas.
+
+       2.  Nas operações de securitização em que a constituição do
+           lastro se der pela correta destinação de recursos pela
+           Devedora, em razão das obrigações legais impostas ao Agente
+           Fiduciário dos CRA, em caso de possibilidade de resgate ou
+           vencimento antecipado do título, permanecem exigíveis as
+           obrigações da Devedora e do Agente Fiduciário dos CRA até o
+           vencimento original dos CRA ou até que a destinação da
+           totalidade dos recursos decorrentes da emissão seja efetivada
+           e comprovada. Desta forma fica contratado e desde já ajustado
+           que a Devedora assumirá a integral responsabilidade
+           financeira pelos honorários do Agente Fiduciário dos CRA até
+           a integral comprovação da destinação dos recursos.
+
+8.  DECLARAÇÕES DA EMISSORA
+
+    1.  A Emissora declara, nesta data, à Debenturista que:
+
+(a) é uma sociedade por ações, de capital aberto, devidamente
+    organizada, constituída e existente de acordo com as leis
+    brasileiras;
+
+(b) está devidamente autorizada a celebrar esta Escritura de Emissão e a
+    cumprir com todas as obrigações nesta previstas, tendo sido
+    satisfeitos todos os requisitos legais e estatutários necessários
+    para tanto, exceto com relação (i) ao registro da ata da RCA da
+    Emissora, assim como desta Escritura de Emissão na JUCESP; e (ii) o
+    depósito dos CRA na B3;
+
+(c) os representantes legais que assinam esta Escritura de Emissão têm
+    poderes estatutários e/ou delegados para assumir, em seu nome, as
+    obrigações aqui estabelecidas e, sendo mandatários, tiveram os
+    poderes legitimamente outorgados, estando os respectivos mandatos em
+    pleno vigor e efeito;
+
+(d) a celebração da presente Escritura de Emissão e o cumprimento de
+    suas obrigações principais e acessórias não infringem qualquer
+    disposição legal aplicável à Emissora, qualquer contrato ou
+    instrumento do qual a Emissora seja parte, bem como qualquer ordem,
+    decisão ou sentença judicial, administrativa ou arbitrai que afete a
+    Emissora, nem resultarão em (i) vencimento antecipado de qualquer
+    obrigação estabelecida em qualquer destes contratos ou instrumentos;
+    ou (ii) rescisão de qualquer desses contratos ou instrumentos;
+
+(e) tem todas as autorizações e licenças essenciais para as suas
+    atividades, exigidas pelas autoridades federais, estaduais e
+    municipais essenciais para o exercício de suas atividades, sendo
+    todas elas válidas, exceto por aquelas que estejam em discussão na
+    esfera judicial e/ou administrativa cuja exigibilidade ou
+    aplicabilidade esteja suspensa;
+
+(f) as demonstrações financeiras da Emissora representam corretamente a
+    posição financeira da Emissora naquelas datas e foram devidamente
+    elaboradas em conformidade com as práticas contábeis geralmente
+    aceitas no Brasil;
+
+(g) exceto pelas contingências informadas nas demonstrações financeiras
+    da Emissora, não é, nesta data, de conhecimento da Emissora, a
+    existência de qualquer ação judicial, procedimento administrativo ou
+    arbitral, inquérito ou outro tipo de investigação governamental que
+    possa vir a causar Efeito Adverso Relevante (conforme abaixo
+    definido) na Emissora, em suas condições financeiras ou em suas
+    atividades, prejudicando sua capacidade de cumprir com as obrigações
+    pecuniárias assumidas no âmbito da Emissão;
+
+(h) as informações e declarações contidas nesta Escritura de Emissão em
+    relação à Emissora e à Oferta Restrita, conforme o caso, são
+    verdadeiras, consistentes, corretas e suficientes;
+
+(i) não omitiu qualquer fato, de qualquer natureza, que seja de seu
+    conhecimento e que possa resultar em alteração substancial na
+    situação econômico-financeira e nos resultados operacionais da
+    Emissora em prejuízo da Debenturista;
+
+(j) que seja do conhecimento da Emissora, não há qualquer ligação entre
+    a Emissora, a Debenturista e/ou o Agente Fiduciário dos CRA que
+    impeça a Debenturista e/ou o Agente Fiduciário dos CRA de exercer
+    plenamente suas funções com relação à Emissão;
+
+(k) esta Escritura de Emissão constitui obrigação legal, válida, eficaz
+    e vinculativa da Emissora, exequível de acordo com os seus termos e
+    condições, com força de título executivo extrajudicial nos termos do
+    artigo 784 do Código de Processo Civil;
+
+(l) suas demonstrações financeiras relativas aos exercícios financeiros
+    encerrados em 31 de dezembro de 2019, 31 de dezembro de 2020, bem
+    como as informações financeiras trimestrais de 31 de março de 2021,
+    de 30 de junho de 2021 e de 30 de setembro de 2021, representam
+    corretamente sua posição patrimonial e financeira nas datas a que se
+    referem e foram devidamente elaboradas em conformidade com os
+    princípios contábeis vigentes nos períodos a que se referem, os
+    quais foram aplicados de maneira consistente nos períodos
+    envolvidos;
+
+(m) não houve qualquer evento que implique Efeito Adverso Relevante na
+    situação financeira e nos resultados operacionais em questão, não
+    houve qualquer operação envolvendo a Emissora, fora do curso normal
+    de seus negócios e que seja relevante para a Emissora, e não houve
+    aumento substancial do endividamento da Emissora;
+
+(n) tem plena ciência e concorda integralmente com a forma de divulgação
+    e apuração do IPCA, e que a forma de cálculo da Remuneração foi
+    acordada por livre vontade da Emissora, em observância ao princípio
+    da boa-fé;
+
+(o) a Emissora, por si, seus sócios ou acionistas controladores e
+    funcionários, declara, neste ato, estar ciente dos termos das leis e
+    normativos que dispõem sobre atos lesivos contra a administração
+    pública e aplicáveis à presente Escritura de Emissão, em especial a
+    Lei n° 12.846 e compromete-se a abster-se de qualquer atividade que
+    constitua uma violação às disposições contidas nesta legislação. A
+    Emissora, declara, ainda, que envida os melhores esforços para que
+    seus eventuais subcontratados se comprometam a observar o aqui
+    disposto, devendo a Emissora, ainda, dar conhecimento pleno de tais
+    normas a todos os seus profissionais que venham a se relacionar com
+    ela, previamente ao início de sua atuação no âmbito desta Escritura
+    de Emissão;
+
+(p) a Emissora declara, de forma irrevogável e irretratável, que cumpre
+    e faz cumprir, bem como suas Controladas, acionistas, funcionários
+    ou eventuais subcontratados, as normas aplicáveis que versam sobre
+    atos de corrupção e atos lesivos contra a administração pública, na
+    forma da Lei 12.846, na medida em que (i) mantém políticas e
+    procedimentos internos que asseguram integral cumprimento de tais
+    normas; (ii) dá pleno conhecimento de tais normas a todos os
+    profissionais que venham a se relacionar com a Emissora; (iii)
+    abstém-se de praticar atos de corrupção e de agir de forma lesiva à
+    administração pública, nacional e estrangeira, no seu interesse ou
+    para seu benefício, exclusivo ou não; (iv) caso tenha conhecimento
+    de qualquer ato ou fato que viole aludidas normas, comunicará
+    prontamente a Debenturista, o Agente Fiduciário dos CRA e o
+    Coordenador Líder, que poderão tomar todas as providências que
+    entenderem necessárias; e (v) realizará os pagamentos devidos no
+    âmbito deste instrumento exclusivamente por meio de transferência
+    bancária; e
+
+(q) a Emissora declara que cumpre integralmente a legislação ambiental e
+    trabalhista em vigor (incluindo, mas não se limitando, as normas
+    relativas à saúde e segurança do trabalho aplicáveis à Emissora),
+    exceto por aquelas (i) questionadas nas esferas administrativa e
+    judicial; e/ou (ii) cujo não cumprimento não advenha de dolo ou
+    má-fé da Emissora e, caso tenha havido qualquer notificação de
+    autoridade competente em razão do não cumprimento, a Emissora,
+    conforme o caso, tenha tomado todas as medidas para remediar o
+    referido não cumprimento, na forma acordada com a respectiva
+    autoridade competente, adotando as medidas e ações preventivas ou
+    reparatórias, destinadas a evitar e corrigir eventuais danos ao meio
+    ambiente e a seus trabalhadores decorrentes das atividades descritas
+    em seu objeto social, declarando, adicionalmente, que não se utiliza
+    de trabalho infantil ou análogo à escravidão no âmbito de suas
+    atividades. A Emissora declara que envida os seus melhores esforços
+    para realizar todas as diligências exigidas para suas atividades
+    econômicas, preservando o meio ambiente e atendendo às determinações
+    dos Órgãos Municipais, Estaduais e Federais que, subsidiariamente,
+    venham a legislar ou regulamentar as normas ambientais em vigor.
+
+    1.  Caso a Emissora tome conhecimento que quaisquer das declarações
+        aqui prestadas tornaram-se total ou parcialmente inverídicas,
+        incompletas ou incorretas na data em que forem prestadas, a
+        Emissora se compromete a notificar a Debenturista e o Agente
+        Fiduciário dos CRA em até 5 (cinco) Dias Úteis da data de sua
+        ciência acerca da referida inveracidade, incompletude ou
+        incorreção, sendo certo que o conhecimento de tal fato
+        independerá de manifestação por parte da Debenturista ou do
+        Agente Fiduciário dos CRA.
+
+    2.  A Emissora se obriga, de forma irrevogável e irretratável, a
+        indenizar a Debenturista por todos e quaisquer prejuízos, danos,
+        perdas, custos e/ou despesas (incluindo custas judiciais e
+        honorários advocatícios) incorridos e comprovados por meio de
+        decisão administrativa ou judicial, que a Securitizadora tiver
+        de incorrer para a defesa de seus direitos e interesses ou nos
+        direitos e interesses dos Titulares dos CRA, incluindo mas não
+        se limitando, aos casos de constatação de inveracidade,
+        incorreção, insuficiência ou omissão, das declarações prestadas
+        pela Emissora.
+
+9.  COMUNICAÇÕES
+
+    1.  As comunicações a serem enviadas por qualquer das partes nos
+        termos desta Escritura deverão ser encaminhadas para os
+        seguintes endereços:
+
+(i) para a Emissora:
+
+GRUPO FARTURA DE HORTIFRUT S.A.
+Avenida Comendador Aladino Selmi, nº 2.502, galpão 05
+Bairro Parque da Cidade, CEP 13069-036
+Campinas – SP
+At.: Departamento Financeiro e Departamento Jurídico
+Telefone: 55 (19) (19) 3746-7010
+E-mail: comex@redeoba.com.br e juridico@redeoba.com.br
+
+(xxv) para a Securitizadora:
+
+ECO SECURITIZADORA DE DIREITOS CREDITÓRIOS DO AGRONEGÓCIO S.A.
+Avenida Pedroso de Morais, nº 1.553, 3º andar, conjunto 32,
+
+CEP 05419-001, São Paulo – SP
+At.: Cristian de Almeida Fumagalli
+Telefone: +55 (11) 3811-4959
+E-mail: controleoperacional@ecoagro.agr.br
+
+1.  As comunicações serão consideradas entregues quando enviadas aos
+    endereços acima sob protocolo ou com “aviso de recebimento”, ou,
+    quando enviadas por correio eletrônico, na data da confirmação de
+    recebimento eletrônico.
+
+2.  A mudança de qualquer dos endereços acima deverá ser comunicada às
+    outras Partes pela Parte que tiver seu endereço alterado, sob pena
+    de serem consideradas entregues as comunicações enviadas aos
+    endereços anteriormente indicados.
+
+10. PAGAMENTO DE TRIBUTOS
+
+    1.  Os tributos incidentes sobre a Emissão e as Debêntures deverão
+        ser integralmente pagos pela Emissora, incluindo, sem limitação,
+        todos os custos de tributação incidentes sobre quaisquer
+        pagamentos devidos à Debenturista, na qualidade de titular das
+        Debêntures em decorrência desta Escritura. Neste sentido,
+        referidos pagamentos deverão ser acrescidos dos valores atuais e
+        futuros correspondentes a quaisquer tributos que sobre eles
+        incidam, venham a incidir ou sejam entendidos como devidos. Da
+        mesma forma, caso, por força de Norma ou determinação de
+        Autoridade, a Emissora tiver que reter ou deduzir, de quaisquer
+        pagamentos feitos exclusivamente no âmbito das Debêntures,
+        quaisquer tributos e/ou taxas, a Emissora deverá acrescer a tais
+        pagamentos valores adicionais de modo que a Debenturista, na
+        qualidade de titular das Debêntures, receba sempre os mesmos
+        valores que seriam por ela recebidos caso nenhuma retenção ou
+        dedução fosse realizada (“Gross Up”). Para tanto, a Emissora
+        desde já reconhece ser pecuniária a obrigação aqui prevista, e
+        declara serem líquidos, certos e exigíveis todos e quaisquer
+        valores que vierem a ser apresentados contra si, pela
+        Debenturista, na qualidade de titular das Debêntures,
+        pertinentes a esses tributos e, nos termos desta Escritura, os
+        quais deverão ser liquidados, pela Emissora, por ocasião da sua
+        apresentação pela Debenturista.
+
+    2.  A Emissora não será responsável pelo pagamento de quaisquer
+        tributos que venham a incidir sobre o pagamento de rendimentos
+        pela Debenturista aos Titulares de CRA e/ou que de qualquer
+        outra forma incidam sobre os Titulares de CRA em virtude de seu
+        investimento nos CRA, exceto caso tais tributos sejam cobrados
+        exclusivamente em virtude da falta de comprovação, pela
+        Emissora, da aplicação dos Recursos na forma estabelecida na
+        Cláusula 3.5 acima, ou qualquer outro ato ou omissão imputado à
+        Emissora, inclusive em virtude de vencimento antecipado dos CRA,
+        hipótese em que tais tributos serão arcados integralmente pela
+        Emissora.
+
+    3.  Os rendimentos gerados por aplicação em CRA por pessoas físicas
+        estão atualmente isentos de imposto de renda, por força do
+        artigo 3º, inciso IV, da Lei nº 11.033, de 21 de dezembro de
+        2004, conforme alterada, isenção essa que pode sofrer alterações
+        ao longo do tempo. A Emissora não será responsável pela
+        realização de qualquer pagamento adicional à Debenturista ou aos
+        Titulares de CRA em razão de qualquer alteração na legislação
+        tributária ou na tributação aplicável aos CRA, conforme descrito
+        acima.
+
+11. DISPOSIÇÕES GERAIS
+
+    1.  Não se presume a renúncia a qualquer dos direitos decorrentes
+        desta Escritura. Desta forma, nenhum atraso, omissão ou
+        liberalidade no exercício de qualquer direito ou faculdade que
+        caiba à Debenturista em razão de qualquer inadimplemento da
+        Emissora prejudicará o exercício de tal direito ou faculdade, ou
+        será interpretado como renúncia ao mesmo, nem constituirá
+        novação ou precedente no tocante a qualquer outro inadimplemento
+        ou atraso.
+
+    2.  Esta Escritura é firmada em caráter irrevogável e irretratável,
+        salvo na hipótese de não preenchimento dos requisitos
+        relacionados na Cláusula 2 acima, obrigando as partes por si e
+        seus sucessores.
+
+    3.  Caso qualquer das disposições ora aprovadas venha a ser julgada
+        ilegal, inválida ou ineficaz, prevalecerão todas as demais
+        disposições não afetadas por tal julgamento, comprometendo-se as
+        partes, em boa-fé, a substituírem a disposição afetada por outra
+        que, na medida do possível, produza o mesmo efeito.
+
+    4.  Esta Escritura constitui o único e integral acordo entre as
+        Partes, com relação ao objeto nela previsto.
+
+    5.  As palavras e os termos constantes desta Escritura, aqui não
+        expressamente definidos, grafados em português ou em qualquer
+        língua estrangeira, bem como quaisquer outros de linguagem
+        técnica e/ou financeira, que, eventualmente, durante a vigência
+        da presente Escritura, no cumprimento de direitos e obrigações
+        assumidos por ambas as partes, sejam utilizados para identificar
+        a prática de quaisquer atos ou fatos, deverão ser compreendidos
+        e interpretados em consonância com os usos, costumes e práticas
+        do mercado de capitais brasileiro.
+
+    6.  As Partes declaram, mútua e expressamente, que a presente
+        Escritura foi celebrada respeitando-se os princípios de
+        probidade e de boa-fé, por livre, consciente e firme
+        manifestação de vontade das Partes e em perfeita relação de
+        equidade.
+
+    7.  Esta Escritura e as Debêntures constituem títulos executivos
+        extrajudiciais nos termos do artigo 784 Código de Processo
+        Civil, reconhecendo as partes, desde já, que independentemente
+        de quaisquer outras medidas cabíveis, as obrigações assumidas
+        nos termos desta Escritura comportam execução específica,
+        submetendo-se às disposições dos artigos 815 e seguintes do
+        Código de Processo Civil, sem prejuízo do direito de declarar o
+        vencimento antecipado das Debêntures nos termos desta Escritura.
+
+    8.  As Partes concordam que a presente Escritura, poderá ser
+        alterada, sem a necessidade de qualquer aprovação dos Titulares
+        de CRA, desde que a referida alteração não prejudique a
+        validade, exigibilidade ou exequibilidade das Debêntures, sempre
+        que e somente quando (i) decorrer exclusivamente da necessidade
+        de atendimento a exigências expressas da CVM e da B3, de
+        adequação a normas legais ou regulamentares, bem como de
+        demandas das entidades administradoras de mercados organizados
+        ou de entidades autorreguladoras; (ii) for necessária em virtude
+        da atualização dos dados cadastrais das Partes; (iii) decorrer
+        de alterações a quaisquer Documentos da Operação já
+        expressamente permitidas nos termos do(s) respectivo(s)
+        documento(s); (iv) envolver redução da remuneração dos
+        prestadores de serviço descritos no Termo de Securitização; e
+        (v) decorrer de correção de erro formal e desde que a alteração
+        não acarrete qualquer alteração na remuneração e no fluxo de
+        pagamentos dos CRA.
+
+    9.  Os pagamentos referentes às Debêntures e a quaisquer outros
+        valores eventualmente devidos pela Emissora nos termos desta
+        Escritura não serão passíveis de compensação com eventuais
+        créditos da Debenturista e o não pagamento dos valores devidos
+        no prazo acordado poderá ser cobrado pela Debenturista e
+        eventuais sucessores e cessionários pela via executiva, nos
+        termos dos artigos 784 e 785 do Código de Processo Civil.
+
+    10. As Partes reconhecem a forma de contratação por meios
+        eletrônicos, digitais e informáticos como válida e plenamente
+        eficaz, constituindo título executivo extrajudicial para todos
+        os fins de direito, ainda que seja estabelecida com assinatura
+        eletrônica ou certificação fora dos padrões ICP-BRASIL, conforme
+        disposto pelo art. 10 e seus parágrafos da Medida Provisória nº
+        2.200/2001 em vigor no Brasil. Portanto, essa Escritura de
+        Emissão pode ser firmada pelos referidos meios. As Partes
+        reiteram, ainda, por meio da assinatura digital da presente
+        Escritura de Emissão, a veracidade, validade e eficácia da
+        totalidade das declarações prestadas nesta Escritura de Emissão.
+
+12. LEI E FORO
+
+    1.  A presente Escritura reger-se-á pelas leis brasileiras.
+
+    2.  Fica eleito o Foro da cidade de São Paulo, Estado de São Paulo,
+        para dirimir quaisquer dúvidas ou controvérsias oriundas desta
+        Escritura, com renúncia a qualquer outro, por mais privilegiado
+        que seja.
+
+E por estarem assim justas e contratadas, as partes firmam a presente
+Escritura, de forma digital, na presença de 2 (duas) testemunhas.
+
+São Paulo, 16 de dezembro de 2021.
+
+(assinaturas nas próximas páginas)
+
+(Página de assinaturas 1/2 do Instrumento Particular de Escritura da
+3^(a) (Terceira) Emissão de Debêntures Simples, Não Conversíveis em
+Ações, da Espécie Quirografária, em Série Única, para Colocação Privada,
+do Grupo Fartura de Hortifrut S.A., firmado entre o Grupo Fartura de
+Hortifrut S.A. e a Eco Securitizadora de Direitos Creditórios do
+Agronegócio S.A.)
+
+GRUPO FARTURA DE HORTIFRUT S.A.
+(Emissora)
+
+  -------------------------------------------------------------------------------
+  _____________________________________   _____________________________________
+  Por:                                    Por:
+  Cargo:                                  Cargo:
+  --------------------------------------- ---------------------------------------
+
+  -------------------------------------------------------------------------------
+
+(Página de assinaturas 2/2 do Instrumento Particular de Escritura da 3a
+(Terceira) Emissão de Debêntures Simples, Não Conversíveis em Ações, da
+Espécie Quirografária, em Série Única, para Colocação Privada, do Grupo
+Fartura de Hortifrut S.A., firmado entre o Grupo Fartura de Hortifrut
+S.A. e a Eco Securitizadora de Direitos Creditórios do Agronegócio S.A.)
+
+ECO SECURITIZADORA DE DIREITOS CREDITÓRIOS DO AGRONEGÓCIO S.A.
+(Securitizadora e Debenturista)
+
+  -------------------------------------------------------------------------------
+  _____________________________________   _____________________________________
+  Por:                                    Por:
+  Cargo:                                  Cargo:
+  --------------------------------------- ---------------------------------------
+
+  -------------------------------------------------------------------------------
+
+TESTEMUNHAS
+
+  -----------------------------------------------------------------------------
+  ____________________________________   ____________________________________
+  Nome:                                  Nome:
+  RG:                                    RG:
+  CPF/ME:                                CPF/ME:
+  -------------------------------------- --------------------------------------
+
+  -----------------------------------------------------------------------------
+
+Este anexo é parte integrante do Instrumento Particular de Escritura da
+3ª (Terceira) Emissão de Debêntures Simples, Não Conversíveis em Ações,
+da Espécie Quirografária, em Série Única, para Colocação Privada, do
+Grupo Fartura de Hortifrut S.A., firmado entre o Grupo Fartura de
+Hortifrut S.A., a Eco Securitizadora de Direitos Creditórios do
+Agronegócio S.A. e Oliveira Trust Distribuidora de Títulos e Valores
+Mobiliários Ltda.
+
+ANEXO I
+
+CRONOGRAMA DE PAGAMENTO DE AMORTIZAÇÃO E REMUNERAÇÃO DAS DEBÊNTURES
+
+  ------------------------------------------------------------------------
+  Nº da        Data               Tai            Pagamento de Juros
+  Parcela                                        
+  ------------ ------------------ -------------- -------------------------
+  1            11/03/2022         0,0000%        SIM
+
+  2            13/06/2022         0,0000%        SIM
+
+  3            13/09/2022         0,0000%        SIM
+
+  4            13/12/2022         0,0000%        SIM
+
+  5            13/03/2023         0,0000%        SIM
+
+  6            13/06/2023         0,0000%        SIM
+
+  7            13/09/2023         0,0000%        SIM
+
+  8            13/12/2023         5,8824%        SIM
+
+  9            13/03/2024         6,2500%        SIM
+
+  10           13/06/2024         6,6667%        SIM
+
+  11           12/09/2024         7,1429%        SIM
+
+  12           12/12/2024         7,6923%        SIM
+
+  13           13/03/2025         8,3333%        SIM
+
+  14           12/06/2025         9,0909%        SIM
+
+  15           11/09/2025         10,0000%       SIM
+
+  16           11/12/2025         11,1111%       SIM
+
+  17           12/03/2026         12,5000%       SIM
+
+  18           11/06/2026         14,2857%       SIM
+
+  19           11/09/2026         16,6667%       SIM
+
+  20           11/12/2026         20,0000%       SIM
+
+  21           11/03/2027         25,0000%       SIM
+
+  22           11/06/2027         33,3333%       SIM
+
+  23           13/09/2027         50,0000%       SIM
+
+  24           Data de Vencimento 100,0000%      SIM
+  ------------------------------------------------------------------------
+
+Este anexo é parte integrante do Instrumento Particular de Escritura da
+3ª (Terceira) Emissão de Debêntures Simples, Não Conversíveis em Ações,
+da Espécie Quirografária, em Série Única, para Colocação Privada, do
+Grupo Fartura de Hortifrut S.A., firmado entre o Grupo Fartura de
+Hortifrut S.A., a Eco Securitizadora de Direitos Creditórios do
+Agronegócio S.A. e Oliveira Trust Distribuidora de Títulos e Valores
+Mobiliários Ltda.
+
+ANEXO II
+
+MODELO DE BOLETIM DE SUBSCRIÇÃO
+
+[TABLE]
+
+Este anexo é parte integrante do Instrumento Particular de Escritura da
+3ª (Terceira) Emissão de Debêntures Simples, Não Conversíveis em Ações,
+da Espécie Quirografária, em Série Única, para Colocação Privada, do
+Grupo Fartura de Hortifrut S.A., firmado entre o Grupo Fartura de
+Hortifrut S.A., a Eco Securitizadora de Direitos Creditórios do
+Agronegócio S.A. e Oliveira Trust Distribuidora de Títulos e Valores
+Mobiliários Ltda.
+
+ANEXO III
+
+RELAÇÃO DOS FORNECEDORES DA EMISSORA
+
++-------+---------+------+--------------------+---------+-----------+
+| NOME  | CNPJ    | CNAE | CNAE SECUNDÁRIAS   | PRAZO   | VALOR DO  |
+| E     |         | P    |                    | DO      | CONTRATO  |
+| MPRES |         | RINC |                    | C       |           |
+| ARIAL |         | IPAL |                    | ONTRATO |           |
++=======+=========+======+====================+=========+===========+
+| BAL   | 12.0    | 10.1 | 10.13-9-01 -       | 30 de   | no        |
+| BINOS | 52.144/ | 1-2- | Fabricação de      | d       | mínimo,   |
+| A     | 0001-70 | 01 - | produtos de carne  | ezembro | R$        |
+| GROIN |         | F    | 10.12-1-03 -       | de 2027 | 100.0     |
+| DUSTR |         | rigo | Frigorífico -      |         | 00.000,00 |
+| IAL - |         | rífi | abate de suínos    |         | (cem      |
+| E     |         | co - | 10.11-2-03 -       |         | milhões   |
+| IRELI |         | a    | Frigorífico -      |         |           |
+|       |         | bate | abate de ovinos e  |         | de        |
+|       |         | de   | caprinos           |         | reais),   |
+|       |         | bov  | 46.34-6-99 -       |         | e, no     |
+|       |         | inos | Comércio           |         | máximo,   |
+|       |         |      | atacadista de      |         | de R$     |
+|       |         |      | carnes e derivados |         | 150.0     |
+|       |         |      | de outros animais  |         | 00.000,00 |
+|       |         |      | 46.34-6-01 -       |         | (cento e  |
+|       |         |      | Comércio           |         | cinquenta |
+|       |         |      | atacadista de      |         | milhões   |
+|       |         |      | carnes bovinas e   |         | de reais) |
+|       |         |      | suínas e derivados |         |           |
+|       |         |      | 47.22-9-01 -       |         |           |
+|       |         |      | Comércio varejista |         |           |
+|       |         |      | de carnes -        |         |           |
+|       |         |      | açougues           |         |           |
+|       |         |      | 01.51-2-01 -       |         |           |
+|       |         |      | Criação de bovinos |         |           |
+|       |         |      | para corte         |         |           |
+|       |         |      | 01.53-9-01 -       |         |           |
+|       |         |      | Criação de         |         |           |
+|       |         |      | caprinos           |         |           |
+|       |         |      | 01.54-7-00 -       |         |           |
+|       |         |      | Criação de suínos  |         |           |
+|       |         |      | 01.53-9-02 -       |         |           |
+|       |         |      | Criação de ovinos, |         |           |
+|       |         |      | inclusive para     |         |           |
+|       |         |      | produção de lã     |         |           |
+|       |         |      | 01.52-1-02 -       |         |           |
+|       |         |      | Criação de equinos |         |           |
++-------+---------+------+--------------------+---------+-----------+
+
+OS PRODUTORES RURAIS OU COOPERATIVAS ABAIXO PODERÃO FAZER PARTE DA
+DESTINAÇÃO DOS RECURSOS, INDEPENDENTEMENTE DE ASSEMBLEIA GERAL DOS
+TITULARES DE CRA, TÃO LOGO SEJAM FIRMADOS OS CONTRATOS ENTRE A EMISSORA
+E OS PRODUTORES RURAIS OU COOPERATIVAS ABAIXO, SENDO CERTO QUE O
+PRODUTOR RURAL DEFINIDO NA LINHA SUPERIOR ATENDE AO REQUISITO DA EMISSÃO
+EM MONTANTES E PRAZOS COMPATÍVEIS COM OS DA EMISSÃO DOS CRA:
+
+  ------------------------------------------------------------------------------------------------------
+  NOME           CNPJ                 CNAE PRINCIPAL    CNAE SECUNDÁRIAS
+  EMPRESARIAL                                           
+  -------------- -------------------- ----------------- ------------------------------------------------
+  ITAUEIRA       07.231.103/0008/88   01.19-9-07 -      01.19-9-01 - Cultivo de abacaxi
+  AGROPECUÁRIA                        Cultivo de melão  01.19-9-08 - Cultivo de melancia
+  S.A.                                                  01.21-1-01 - Horticultura, exceto morango
+                                                        01.32-6-00 - Cultivo de uva
+                                                        01.33-4-03 - Cultivo de caju
+                                                        01.51-2-01 - Criação de bovinos para corte
+                                                        01.59-8-01 - Apicultura
+                                                        01.61-0-99 - Atividades de apoio à agricultura
+                                                        não especificadas anteriormente
+                                                        01.62-8-99 - Atividades de apoio à pecuária não
+                                                        especificadas anteriormente
+                                                        02.10-1-99 - Produção de produtos
+                                                        não-madeireiros não especificados anteriormente
+                                                        em florestas plantadas
+                                                        10.31-7-00 - Fabricação de conservas de frutas
+                                                        10.33-3-01 - Fabricação de sucos concentrados de
+                                                        frutas, hortaliças e legumes
+                                                        10.33-3-02 - Fabricação de sucos de frutas,
+                                                        hortaliças e legumes, exceto concentrados
+                                                        46.23-1-08 - Comércio atacadista de
+                                                        matérias-primas agrícolas com atividade de
+                                                        fracionamento e acondicionamento associada
+                                                        46.33-8-01 - Comércio atacadista de frutas,
+                                                        verduras, raízes, tubérculos, hortaliças e
+                                                        legumes frescos
+                                                        46.37-1-99 - Comércio atacadista especializado
+                                                        em outros produtos alimentícios não
+                                                        especificados anteriormente
+                                                        47.23-7-00 - Comércio varejista de bebidas
+                                                        74.90-1-03 - Serviços de agronomia e de
+                                                        consultoria às atividades agrícolas e pecuárias
+                                                        82.99-7-99 - Outras atividades de serviços
+                                                        prestados principalmente às empresas não
+                                                        especificadas anteriormente
+                                                        85.99-6-99 - Outras atividades de ensino não
+                                                        especificadas anteriormente
+
+  ITAUEIRA       07.231.103/0004-54   46.33-8-01 -      01.19-9-01 - Cultivo de abacaxi
+  AGROPECUÁRIA                        Comércio          01.19-9-07 - Cultivo de melão
+  S.A.                                atacadista de     01.19-9-08 - Cultivo de melancia
+                                      frutas, verduras, 01.21-1-01 - Horticultura, exceto morango
+                                      raízes,           01.32-6-00 - Cultivo de uva
+                                      tubérculos,       01.33-4-03 - Cultivo de caju
+                                      hortaliças e      01.51-2-01 - Criação de bovinos para corte
+                                      legumes frescos   01.59-8-01 - Apicultura
+                                                        01.61-0-99 - Atividades de apoio à agricultura
+                                                        não especificadas anteriormente
+                                                        01.62-8-99 - Atividades de apoio à pecuária não
+                                                        especificadas anteriormente
+                                                        02.10-1-99 - Produção de produtos
+                                                        não-madeireiros não especificados anteriormente
+                                                        em florestas plantadas
+                                                        03.21-3-02 - Criação de camarões em água salgada
+                                                        e salobra
+                                                        03.22-1-01 - Criação de peixes em água doce
+                                                        03.22-1-02 - Criação de camarões em água doce
+                                                        03.22-1-07 - Atividades de apoio à aquicultura
+                                                        em água doce
+                                                        10.20-1-01 - Preservação de peixes, crustáceos e
+                                                        moluscos
+                                                        10.31-7-00 - Fabricação de conservas de frutas
+                                                        10.33-3-01 - Fabricação de sucos concentrados de
+                                                        frutas, hortaliças e legumes
+                                                        10.33-3-02 - Fabricação de sucos de frutas,
+                                                        hortaliças e legumes, exceto concentrados
+                                                        46.23-1-08 - Comércio atacadista de
+                                                        matérias-primas agrícolas com atividade de
+                                                        fracionamento e acondicionamento associada
+
+  ITAUEIRA       07.231.103/0012-64   01.19-9-07 -      01.19-9-01 - Cultivo de abacaxi
+  AGROPECUÁRIA                        Cultivo de melão  01.19-9-08 - Cultivo de melancia
+  S.A.                                                  01.21-1-01 - Horticultura, exceto morango
+                                                        01.32-6-00 - Cultivo de uva
+                                                        01.51-2-01 - Criação de bovinos para corte
+                                                        01.59-8-01 - Apicultura
+                                                        01.61-0-99 - Atividades de apoio à agricultura
+                                                        não especificadas anteriormente
+                                                        01.62-8-99 - Atividades de apoio à pecuária não
+                                                        especificadas anteriormente
+                                                        02.10-1-99 - Produção de produtos
+                                                        não-madeireiros não especificados anteriormente
+                                                        em florestas plantadas
+                                                        10.20-1-01 - Preservação de peixes, crustáceos e
+                                                        moluscos
+                                                        10.31-7-00 - Fabricação de conservas de frutas
+                                                        10.33-3-01 - Fabricação de sucos concentrados de
+                                                        frutas, hortaliças e legumes
+                                                        10.33-3-02 - Fabricação de sucos de frutas,
+                                                        hortaliças e legumes, exceto concentrados
+                                                        46.32-0-03 - Comércio atacadista de cereais e
+                                                        leguminosas beneficiados, farinhas, amidos e
+                                                        féculas, com atividade de fracionamento e
+                                                        acondicionamento associada
+                                                        46.33-8-01 - Comércio atacadista de frutas,
+                                                        verduras, raízes, tubérculos, hortaliças e
+                                                        legumes frescos
+                                                        46.37-1-99 - Comércio atacadista especializado
+                                                        em outros produtos alimentícios não
+                                                        especificados anteriormente
+                                                        47.23-7-00 - Comércio varejista de bebidas
+                                                        74.90-1-03 - Serviços de agronomia e de
+                                                        consultoria às atividades agrícolas e pecuárias
+                                                        82.99-7-99 - Outras atividades de serviços
+                                                        prestados principalmente às empresas não
+                                                        especificadas anteriormente
+                                                        85.99-6-99 - Outras atividades de ensino não
+                                                        especificadas anteriormente
+
+  FRUTACC        09.688.164/0001-28   46.33-8-01 -      47.24-5-00 - Comércio varejista de
+  COMERCIO E                          Comércio          hortifrutigranjeiros
+  DISTRIBUICAO                        atacadista de     49.30-2-02 - Transporte rodoviário de carga,
+  DE FRUTAS LTDA                      frutas, verduras, exceto produtos perigosos e mudanças,
+                                      raízes,           intermunicipal, interestadual e internacional
+                                      tubérculos,       01.19-9-08 - Cultivo de melancia
+                                      hortaliças e      01.19-9-01 - Cultivo de abacaxi
+                                      legumes frescos   01.19-9-07 - Cultivo de melão
+                                                        01.19-9-99 - Cultivo de outras plantas de
+                                                        lavoura temporária não especificadas
+                                                        anteriormente
+                                                        01.11-3-02 - Cultivo de milho
+                                                        01.15-6-00 - Cultivo de soja
+                                                        01.11-3-01 - Cultivo de arroz
+
+  COOPERATIVA    86.675.642/0001-06   46.23-1-99 -      46.21-4-00 - Comércio atacadista de café em grão
+  AGROPECUARIA                        Comércio          46.32-0-01 - Comércio atacadista de cereais e
+  DO ALTO                             atacadista de     leguminosas beneficiados
+  PARANAIBA                           matérias-primas   46.22-2-00 - Comércio atacadista de soja
+                                      agrícolas não     46.33-8-01 - Comércio atacadista de frutas,
+                                      especificadas     verduras, raízes, tubérculos, hortaliças e
+                                      anteriormente     legumes frescos
+                                                        46.83-4-00 - Comércio atacadista de defensivos
+                                                        agrícolas, adubos, fertilizantes e corretivos do
+                                                        solo
+                                                        46.37-1-01 - Comércio atacadista de café
+                                                        torrado, moído e solúvel
+                                                        10.81-3-02 - Torrefação e moagem de café
+                                                        52.11-7-01 - Armazéns gerais - emissão de
+                                                        warrant
+                                                        01.63-6-00 - Atividades de pós-colheita
+                                                        10.81-3-01 - Beneficiamento de café
+                                                        33.14-7-11 - Manutenção e reparação de máquinas
+                                                        e equipamentos para agricultura e pecuária
+                                                        74.90-1-03 - Serviços de agronomia e de
+                                                        consultoria às atividades agrícolas e pecuárias
+                                                        72.10-0-00 - Pesquisa e desenvolvimento
+                                                        experimental em ciências físicas e naturais
+                                                        10.69-4-00 - Moagem e fabricação de produtos de
+                                                        origem vegetal não especificados anteriormente
+
+  COOPERATIVA    83.310.441/0075-53   46.34-6-01 -      46.31-1-00 - Comércio atacadista de leite e
+  CENTRAL AURORA                      Comércio          laticínios
+  ALIMENTOS                           atacadista de     46.34-6-02 - Comércio atacadista de aves
+                                      carnes bovinas e  abatidas e derivados
+                                      suínas e          46.34-6-03 - Comércio atacadista de pescados e
+                                      derivados         frutos do mar
+                                                        46.37-1-05 - Comércio atacadista de massas
+                                                        alimentícias
+                                                        46.37-1-99 - Comércio atacadista especializado
+                                                        em outros produtos alimentícios não
+                                                        especificados anteriormente
+
+  COOPERATIVA    83.310.441/0083-63   46.34-6-01 -      46.31-1-00 - Comércio atacadista de leite e
+  CENTRAL AURORA                      Comércio          laticínios
+  ALIMENTOS                           atacadista de     46.34-6-02 - Comércio atacadista de aves
+                                      carnes bovinas e  abatidas e derivados
+                                      suínas e          46.34-6-03 - Comércio atacadista de pescados e
+                                      derivados         frutos do mar
+                                                        46.37-1-05 - Comércio atacadista de massas
+                                                        alimentícias
+                                                        46.37-1-99 - Comércio atacadista especializado
+                                                        em outros produtos alimentícios não
+                                                        especificados anteriormente
+
+  COOPERATIVA    83.310.441/0004-60   46.34-6-01 -      46.31-1-00 - Comércio atacadista de leite e
+  CENTRAL AURORA                      Comércio          laticínios
+  ALIMENTOS                           atacadista de     46.34-6-02 - Comércio atacadista de aves
+                                      carnes bovinas e  abatidas e derivados
+                                      suínas e          46.34-6-03 - Comércio atacadista de pescados e
+                                      derivados         frutos do mar
+                                                        46.37-1-05 - Comércio atacadista de massas
+                                                        alimentícias
+                                                        46.37-1-99 - Comércio atacadista especializado
+                                                        em outros produtos alimentícios não
+                                                        especificados anteriormente
+  ------------------------------------------------------------------------------------------------------
+
+Este anexo é parte integrante do Instrumento Particular de Escritura da
+3ª (Terceira) Emissão de Debêntures Simples, Não Conversíveis em Ações,
+da Espécie Quirografária, em Série Única, para Colocação Privada, do
+Grupo Fartura de Hortifrut S.A., firmado entre o Grupo Fartura de
+Hortifrut S.A., a Eco Securitizadora de Direitos Creditórios do
+Agronegócio S.A. e Oliveira Trust Distribuidora de Títulos e Valores
+Mobiliários Ltda.
+
+ANEXO IV
+
+MODELO DE RELATÓRIO
+
++-----------------------------------------------------------------------+
+| RELATÓRIO ACERCA DA APLICAÇÃO DOS RECURSOS DA EMISSÃO                 |
+|                                                                       |
+| Referente: 3ª (TERCEIRA) EMISSÃO DE DEBÊNTURES SIMPLES, NÃO           |
+| CONVERSÍVEIS EM AÇÕES, DA ESPÉCIE QUIROGRAFÁRIA, EM SÉRIE ÚNICA, PARA |
+| COLOCAÇÃO PRIVADA, DO GRUPO FARTURA DE HORTIFRUT S.A, LASTRO DA SÉRIE |
+| ÚNICA DA 142ª Emissão DE CERTIFICADOS DE RECEBÍVEIS DO AGRONEGÓCIO DA |
+| ECO SECURITIZADORA DE DIREITOS CREDITÓRIOS DO AGRONEGÓCIO S.A.        |
+|                                                                       |
+| Período de: [●] a [●].                                                |
+|                                                                       |
+| GRUPO FARTURA DE HORTIFRUT S.A., sociedade por ações de capital       |
+| aberto, com sede na Avenida Comendador Aladino Selmi, nº 2.502,       |
+| Galpão 05, Parque da Cidade, CEP 13069-036, na cidade de Campinas,    |
+| Estado de São Paulo, inscrita no Cadastro Nacional da Pessoa Jurídica |
+| do Ministério da Economia sob o nº 04.972.092/0001-22, com seus atos  |
+| constitutivos arquivados na Junta Comercial do Estado de São Paulo    |
+| sob o NIRE 35.300.509.668, vem por meio do presente, de forma         |
+| irrevogável e irretratável, em cumprimento ao disposto na Cláusula    |
+| 3.5.3 do “Instrumento Particular de Escritura da 3^(a) (Terceira)     |
+| Emissão de Debêntures Simples, Não Conversíveis em Ações, da Espécie  |
+| Quirografária, em Série Única, para Colocação Privada, do Grupo       |
+| Fartura de Hortifrut S.A.” (“Debêntures”) vinculadas aos Certificados |
+| de Recebíveis do Agronegócio, da série única da 142ª Emissão da Eco   |
+| Securitizadora de Direitos Creditórios do Agronegócio S.A., DECLARAR  |
+| que (a) os recursos recebidos em virtude da emissão das Debêntures    |
+| foram destinados, no período de [●] a [●], para os produtores rurais, |
+| pessoas físicas ou jurídicas, e/ou suas cooperativas, conforme        |
+| descritos na tabela abaixo, nos termos dos comprovantes de destinação |
+| dos recursos anexos ao presente relatório; e (b) as informações e os  |
+| eventuais documentos apresentados são verídicos e representam o       |
+| direcionamento dos recursos obtidos por meio da emissão das           |
+| Debêntures.                                                           |
+|                                                                       |
+| +------------+--------+-------+-----+-------+---------+---------+     |
+| | Produtor   | CPF /  | N     | D   | Perce | Per     | Valor   |     |
+| | Rural/C    | CNPJ   | úmero | ata | ntual | centual | Gasto   |     |
+| | ooperativa |        | Nota  | N   | do    | do      |         |     |
+| |            |        | F     | ota | Re    |         |         |     |
+| |            |        | iscal | Fis | curso | Recurso |         |     |
+| |            |        |       | cal | Est   | Ut      |         |     |
+| |            |        |       |     | imado | ilizado |         |     |
+| +============+========+=======+=====+=======+=========+=========+     |
+| | [•]        | [•]    | [•]   | [•] | [•]%  | [•]%    | R$ [•]  |     |
+| +------------+--------+-------+-----+-------+---------+---------+     |
+| | [•]        | [•]    | [•]   | [•] | [•]%  |         | R$ [•]  |     |
+| +------------+--------+-------+-----+-------+---------+---------+     |
+| | [•]        | [•]    | [•]   | [•] | [•]%  | [•]%    | R$ [•]  |     |
+| +------------+--------+-------+-----+-------+---------+---------+     |
+| | [•]        | [•]    | [•]   | [•] | [•]%  | [•]%    | R$ [•]  |     |
+| +------------+--------+-------+-----+-------+---------+---------+     |
+| | Valor      |        |       |     | [•]%  | [•]%    | R$ [•]  |     |
+| | utilizado  |        |       |     |       |         |         |     |
+| | no         |        |       |     |       |         |         |     |
+| | semestre   |        |       |     |       |         |         |     |
+| +------------+--------+-------+-----+-------+---------+---------+     |
+| | Valor      |        |       |     | [•]%  | [•]%    | R$ [•]  |     |
+| | Devido     |        |       |     |       |         |         |     |
+| +------------+--------+-------+-----+-------+---------+---------+     |
+|                                                                       |
+| São Paulo, [•] de [•] de 20[•].                                       |
+|                                                                       |
+|   ------------------------------------------------------------------  |
+|   GRUPO FARTURA DE HORTIFRUT S.A.                                     |
+|   ------------------------------------------------------------------  |
+|   Nome: Nome:                                                         |
+|                                                                       |
+|   Cargo: Cargo:                                                       |
+|   ------------------------------------------------------------------  |
++=======================================================================+
++-----------------------------------------------------------------------+
+
+Este anexo é parte integrante do Instrumento Particular de Escritura da
+3ª (Terceira) Emissão de Debêntures Simples, Não Conversíveis em Ações,
+da Espécie Quirografária, em Série Única, para Colocação Privada, do
+Grupo Fartura de Hortifrut S.A., firmado entre o Grupo Fartura de
+Hortifrut S.A., a Eco Securitizadora de Direitos Creditórios do
+Agronegócio S.A. e Oliveira Trust Distribuidora de Títulos e Valores
+Mobiliários Ltda.
+
+ANEXO V
+
+CRONOGRAMA INDICATIVO DA DESTINAÇÃO DE RECURSOS
+
+  -----------------------------------------------------------------------
+  PERÍODO                     ESTIMATIVA DE ALOCAÇÃO DE RECURSOS (R$)
+  --------------------------- -------------------------------------------
+  1º Semestre 2022            R$18 MM
+
+  2º Semestre 2022            R$18 MM
+
+  1º Semestre 2023            R$18 MM
+
+  2º Semestre 2023            R$18 MM
+
+  1º Semestre 2024            R$18 MM
+
+  2º Semestre 2024            R$10 MM
+
+  Total                       R$100 MM
+  -----------------------------------------------------------------------
+
+Este cronograma é indicativo e não vinculante, sendo que, caso
+necessário, considerando a dinâmica comercial do setor no qual atua, a
+Emissora poderá destinar os recursos provenientes da integralização das
+Debêntures em datas diversas das previstas neste Cronograma Indicativo,
+observada a obrigação desta de realizar a integral Destinação dos
+Recursos até a Data de Vencimento dos CRA ou até que a Emissora comprove
+a aplicação da totalidade dos recursos obtidos com a Emissão, o que
+ocorrer primeiro.
+
+Por se tratar de cronograma tentativo e indicativo, se, por qualquer
+motivo, ocorrer qualquer atraso ou antecipação do Cronograma Indicativo:
+(i) não será necessário notificar o Agente Fiduciário dos CRA, bem como
+tampouco aditar esta Escritura ou quaisquer outros documentos da
+Emissão; e (ii) não será configurada qualquer hipótese de vencimento
+antecipado ou resgate antecipado das Debêntures, desde que a Emissora
+realize a integral Destinação de Recursos até a Data de Vencimento dos
+CRA. Fica facultado à Emissora adquirir montantes de produtos
+agropecuários dos produtores rurais ou cooperativas superiores aos
+volumes que serão utilizados para realização da Destinação de Recursos
+no âmbito desta Emissão, tendo em vista a sua demanda sazonal por
+produtos agropecuários.
+
+O Cronograma Indicativo da Destinação dos Recursos pela Emissora é feito
+com base na sua capacidade de aplicação dos Recursos dado (i) o
+histórico de recursos por ela aplicados nas atividades, no âmbito da
+indústria e comércio de carnes, em especial por meio do emprego dos
+recursos em investimentos, custos e despesas relacionados com a
+produção, processamento, industrialização, comercialização, compra,
+venda, importação, exportação, distribuição e/ou beneficiamento de (a)
+produtos agropecuários, produtos e subprodutos derivados dos mesmos,
+quer em estado natural, quer manufaturados, quer manipulados de qualquer
+forma ou maneira, e (b) produtos agropecuários em geral, frescos ou
+preparados, transformados ou não, para os mercados brasileiro e
+estrangeiro (“Produtos Agropecuários”); e (ii) a projeção dos recursos a
+serem investidos em tais atividades foi feita conforme tabela prevista
+acima.
+
+Este anexo é parte integrante do Instrumento Particular de Escritura da
+3ª (Terceira) Emissão de Debêntures Simples, Não Conversíveis em Ações,
+da Espécie Quirografária, em Série Única, para Colocação Privada, do
+Grupo Fartura de Hortifrut S.A., firmado entre o Grupo Fartura de
+Hortifrut S.A., a Eco Securitizadora de Direitos Creditórios do
+Agronegócio S.A. e Oliveira Trust Distribuidora de Títulos e Valores
+Mobiliários Ltda.
+
+ANEXO VI
+
+DESPESAS
+
+  ------------------------------------------------------------------------------
+  Prestador        Função             Periodicidade   Valor Líquido  % Anual
+                                                                     sobre
+                                                                     Volume da
+                                                                     Emissão
+  ---------------- ------------------ --------------- -------------- -----------
+  Banco Votorantim Coordenador Líder  Flat            Conforme o     N/A
+  S.A.                                                Contrato de    
+                                                      Distribuição   
+
+  Eco              Emissão            Flat            R$ 25.000,00   0,028%
+  Securitizadora                                                     
+  de Direitos                                                        
+  Creditórios do                                                     
+  Agronegócio S.A.                                                   
+
+  Lobo de Rizzo –  Assessor Legal     Flat            Conforme o     N/A
+  Sociedade de                                        Contrato de    
+  Advogados                                           Distribuição   
+
+  ID SERVIÇOS      Escriturador       Flat            R$ 6.000,00    0,007%
+  FINANCEIROS                                                        
+  LTDA.                                                              
+
+  Oliveira Trust   Implantação Agente Flat            R$ 4.000,00    0,005%
+  Distribuidora de Fiduciário                                        
+  Títulos e                                                          
+  Valores                                                            
+  Mobiliários S.A.                                                   
+
+  Oliveira Trust   Agente Fiduciário  Trimestral      R$ 4.250,00    0,19%
+  Distribuidora de                                                   
+  Títulos e                                                          
+  Valores                                                            
+  Mobiliários S.A.                                                   
+
+  Eco              Taxa de Gestão     Anual           R$ 24.000,00   0,027%
+  Securitizadora                                                     
+  de Direitos                                                        
+  Creditórios do                                                     
+  Agronegócio                                                        
+  S.A..                                                              
+
+  Grant Thornton   Auditor            Anual           R$ 4.300,00    0,005%
+  Auditores        Independente da                                   
+  Independentes    Securitizadora                                    
+
+  ID SERVIÇOS      Custodiante        Anual           R$ 9.600,00    0,009%
+  FINANCEIROS                                                        
+  LTDA.                                                              
+
+  B3               Câmara de custódia Flat            R$ 26.000,00   0,026%
+                   e Liquidação                                      
+  ------------------------------------------------------------------------------
+
+OBS.: OS VALORES ACIMA SERÃO ACRESCIDOS DE GROSS UP.

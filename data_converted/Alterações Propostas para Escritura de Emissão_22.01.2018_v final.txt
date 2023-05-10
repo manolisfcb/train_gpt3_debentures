@@ -1,0 +1,157 @@
++------+------------------------------+--------------------------------+
+| CLÁU | REDAÇÃO ORIGINAL             | REDAÇÃO PROPOSTA               |
+| SULA |                              |                                |
++======+==============================+================================+
+| 6    | Caso a Emissora e/ou         | Caso a Emissora e/ou           |
+| .1.1 | Garantidoras diretamente, ou | Garantidoras diretamente, ou   |
+| (c)  | através de prepostos ou      | através de prepostos ou        |
+|      | mandatários, deixarem de     | mandatários, tenham deixado de |
+|      | prestar informações que, se  | prestar informações sobre a    |
+|      | fossem do conhecimento dos   | companhia relativos a fatos    |
+|      | Debenturistas, poderiam      | anteriores à emissão que, se   |
+|      | alterar seus julgamentos     | fossem do conhecimento dos     |
+|      | e/ou avaliações              | Debenturistas, poderiam        |
+|      |                              | alterar seus julgamentos e/ou  |
+|      |                              | avaliações                     |
++------+------------------------------+--------------------------------+
+| 6    | cessão, venda, alienação     | sem prejuízo do disposto na    |
+| .1.2 | e/ou qualquer forma de       | Cláusula 6.1.2 (i) abaixo,     |
+| (d)  | transferência de ativo(s),   | cessão, venda, alienação e/ou  |
+|      | pela Emissora e/ou pelas     | qualquer forma de              |
+|      | Garantidoras, por qualquer   | transferência de ativo(s),     |
+|      | meio, de forma gratuita ou   | pela Emissora e/ou pelas       |
+|      | onerosa                      | Garantidoras, por qualquer     |
+|      |                              | meio, de forma gratuita ou     |
+|      |                              | onerosa, exceto por (i)        |
+|      |                              | operações de venda de estoque  |
+|      |                              | realizadas no curso normal das |
+|      |                              | atividades da Emissora; ou     |
+|      |                              | (ii) venda de ativos           |
+|      |                              | obsoletos, que para fins deste |
+|      |                              | item correspondem a ativos que |
+|      |                              | tenham no mínimo 80% (oitenta  |
+|      |                              | por cento) de seu valor        |
+|      |                              | depreciado; ou (iii) operações |
+|      |                              | de venda da planta industrial  |
+|      |                              | da Emissora situada na cidade  |
+|      |                              | de Paulista, Estado de         |
+|      |                              | Pernambuco, incluindo o imóvel |
+|      |                              | no qual está situada referida  |
+|      |                              | planta, bem como todos seus    |
+|      |                              | equipamentos e ativos          |
+|      |                              | relacionados; ou (iv) venda de |
+|      |                              | um ou mais ativos de qualquer  |
+|      |                              | natureza, em uma ou mais       |
+|      |                              | operações, em valor individual |
+|      |                              | ou agregado de até             |
+|      |                              | R$5.000.000,00 (cinco milhões  |
+|      |                              | de reais) ou seu equivalente   |
+|      |                              | em outras moedas;              |
++------+------------------------------+--------------------------------+
+| 6    | prestação de garantias reais | prestação de garantias reais   |
+| .1.2 | e/ou fidejussórias a         | e/ou fidejussórias a           |
+| (i)  | terceiros, contração de      | terceiros, contração de        |
+|      | endividamento e/ou a         | endividamento e/ou a           |
+|      | constituição de qualquer     | constituição de qualquer       |
+|      | espécie de ônus ou gravame   | espécie de ônus ou gravame     |
+|      | sobre quaisquer dos bens ou  | sobre quaisquer dos bens ou    |
+|      | direitos da Emissora e/ou    | direitos da Emissora e/ou das  |
+|      | das Garantidoras sem prévia  | Garantidoras sem prévia        |
+|      | aprovação dos Debenturistas  | aprovação dos Debenturistas    |
+|      | reunidos em Assembleia Geral | reunidos em Assembleia Geral   |
+|      | de debenturistas, exceto (i) | de debenturistas, exceto (1)   |
+|      | contratação de operações de  | (i) contratação de operações   |
+|      | crédito agrícola com penhor  | de crédito agrícola com penhor |
+|      | de algodão; ou (ii)          | de algodão; ou (ii)            |
+|      | contratação de operações com | contratação de operações com   |
+|      | o Banco Nacional de          | (x) o Banco Nacional de        |
+|      | Desenvolvimento Econômico e  | Desenvolvimento Econômico e    |
+|      | Social (“BNDES”) e/ou        | Social (“BNDES”) e/ou          |
+|      | contratação de               | contratação de financiamentos  |
+|      | financiamentos para          | para investimentos com outros  |
+|      | investimentos com outros     | bancos de desenvolvimento      |
+|      | bancos de desenvolvimento    | nacional ou internacional e/ou |
+|      | nacional ou internacional ou | (y) com outras instituições    |
+|      | (iii) prestação de garantia  | financeiras desde que os       |
+|      | no âmbito de processos       | recursos de tais operações     |
+|      | judiciais, dívidas fiscais   | sejam destinados para          |
+|      | e/ou trabalhistas            | aquisição de novos             |
+|      |                              | equipamentos e/ou              |
+|      |                              | investimentos em aumento de    |
+|      |                              | produção; e/ou (iii)           |
+|      |                              | contratação de quaisquer       |
+|      |                              | financiamentos, com ou sem     |
+|      |                              | garantias (reais ou            |
+|      |                              | fidejussórias) desde que não   |
+|      |                              | seja aumentado o endividamento |
+|      |                              | líquido da Emissora no         |
+|      |                              | encerramento do exercício      |
+|      |                              | social em comparação ao        |
+|      |                              | exercício social imediatamente |
+|      |                              | anterior (“Financiamentos      |
+|      |                              | Permitidos”); e/ou (2)(~~v~~i) |
+|      |                              | prestação de garantia no       |
+|      |                              | âmbito de processos judiciais, |
+|      |                              | dívidas fiscais e/ou           |
+|      |                              | trabalhistas; ou (ii)          |
+|      |                              | constituição de garantias      |
+|      |                              | (reais ou fidejussórias) para  |
+|      |                              | os Financiamentos Permitidos.  |
++------+------------------------------+--------------------------------+
+| 6    | não manutenção, pela         | não manutenção, pela Emissora, |
+| .1.2 | Emissora, do índice          | do índice financeiro indicado  |
+| (k)  | financeiro indicado a        | a seguir, o qual deverá ser    |
+|      | seguir, o qual deverá ser    | apurado anualmente, sendo a    |
+|      | apurado anualmente, sendo a  | primeira apuração com base nas |
+|      | primeira apuração com base   | informações financeiras do     |
+|      | nas informações financeiras  | exercício social findo em 31   |
+|      | do exercício social findo em | de dezembro de 2017;           |
+|      | 31 de dezembro de 2017;      |                                |
+|      |                              | -   relação entre a Dívida     |
+|      | -   relação entre a Dívida   |     Líquida e o EBITDA         |
+|      |     Líquida e o EBITDA,      |     Ajustado, calculada com    |
+|      |     calculada com base nos   |     base nos demonstrativos    |
+|      |     demonstrativos           |     financeiros anuais         |
+|      |     financeiros anuais       |     auditados e consolidados   |
+|      |     auditados e consolidados |     da Santista Participações  |
+|      |     da Santista              |     S.A., que não poderá ser   |
+|      |     Participações S.A., que  |     superior a 3,50 (três      |
+|      |     não poderá ser superior  |     inteiros e cinquenta       |
+|      |     a 3,50 (três inteiros e  |     décimos) vezes.            |
+|      |     cinquenta décimos)       |                                |
+|      |     vezes.                   | Para os fins da presente       |
+|      |                              | Escritura de Emissão,          |
+|      | Para os fins da presente     | considera-se:                  |
+|      | Escritura de Emissão,        |                                |
+|      | considera-se:                | “Dívida Líquida”, a soma de    |
+|      |                              | Financiamentos de Curto Prazo, |
+|      | “Dívida Líquida”, a soma de  | Duplicatas Descontadas,        |
+|      | Financiamentos de Curto      | Debêntures de Curto Prazo,     |
+|      | Prazo, Duplicatas            | Financiamentos de Longo Prazo  |
+|      | Descontadas, Debêntures de   | e Debêntures de Longo Prazo,   |
+|      | Curto Prazo, Financiamentos  | menos o resultado da soma de   |
+|      | de Longo Prazo e Debêntures  | disponibilidade em caixa e     |
+|      | de Longo Prazo, menos o      | saldos de aplicações           |
+|      | resultado da soma de         | financeiras da Emissora; e     |
+|      | disponibilidade em caixa e   |                                |
+|      | saldos de aplicações         | “EBITDA Ajustado”, o lucro ou  |
+|      | financeiras da Emissora; e   | prejuízo líquido, acrescido da |
+|      |                              | contribuição social e imposto  |
+|      | “EBITDA”, o lucro ou         | de renda, equivalência         |
+|      | prejuízo líquido, acrescido  | patrimonial, resultados        |
+|      | da contribuição social e     | financeiros, depreciação e     |
+|      | imposto de renda,            | amortização da Companhia em    |
+|      | equivalência patrimonial,    | bases consolidadas, relativo   |
+|      | resultados financeiros,      | aos últimos 12 (doze) meses,   |
+|      | depreciação e amortização da | desconsiderando: (i) ganhos ou |
+|      | Companhia em bases           | perda na venda de ativos não   |
+|      | consolidadas, relativo aos   | operacionais, (ii) provisão de |
+|      | últimos 12 (doze) meses.     | perdas por não recuperação de  |
+|      |                              | ativos, e (iii) despesas com   |
+|      |                              | reestruturações, assim         |
+|      |                              | entendidas como despesas em    |
+|      |                              | relação a incorporação de      |
+|      |                              | empresas, encerramento de      |
+|      |                              | unidades fabris e/ou           |
+|      |                              | terceirização de áreas.        |
++------+------------------------------+--------------------------------+

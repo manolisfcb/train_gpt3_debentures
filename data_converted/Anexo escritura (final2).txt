@@ -1,0 +1,867 @@
+INSTRUMENTO PARTICULAR DE ESCRITURA DE EMISSÃO DE CÉDULA DE CRÉDITO
+IMOBILIÁRIO, COM GARANTIA FIDEJUSSÓRIA, SOB A FORMA ESCRITURAL
+
+celebrado entre
+
+PROJETO IMOBILIÁRIO CARLOS GOMES SPE 68 LTDA.,
+
+na qualidade de Emissora,
+
+CFL PARTICIPAÇÕES E INCORPORAÇÕES LTDA.,
+
+FABIANO BOCORNY CORRÊA, e
+
+LUCIANO BOCORNY CORRÊA,
+
+na qualidade de Fiadores,
+
+e
+
+OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,
+
+na qualidade de Instituição Custodiante.
+
+10 DE SETEMBRO DE 2011
+
+INSTRUMENTO PARTICULAR DE ESCRITURA DE EMISSÃO DE CÉDULA DE CRÉDITO
+IMOBILIÁRIO, COM GARANTIA FIDEJUSSÓRIA, SOB A FORMA ESCRITURAL
+
+Pelo presente instrumento particular, firmado nos termos do art. 38 da
+Lei nº 9.514/1997, com a redação que lhe foi dada pelo art. 53 da Lei nº
+11.076/2004, e do art. 18, §4º, da Lei n.º 10.931/2004:
+
+PROJETO IMOBILIÁRIO CARLOS GOMES SPE 68 LTDA., com sede na Cidade de
+Porto Alegre, Estado do Rio Grande do Sul, na Avenida Nilo Peçanha, nº
+2.825, 10º andar, conjunto 1008, CEP 91330-001, inscrita sob CNPJ nº
+08.814.868/0001-37, neste ato representada na forma de seu Contrato
+Social, por seus representantes legais ao final assinados (adiante
+designada simplesmente como “Emissora”);
+
+CFL PARTICIPAÇÕES E INCORPORAÇÕES LTDA., sociedade com sede na Cidade de
+Porto Alegre, Estado do Rio Grande do Sul, na Avenida Nilo Peçanha,
+2.825, 10º andar, cj. 1.008, Bairro Três Figueiras, CEP 91330-001,
+inscrita no CNPJ/MF sob o nº 08.117.803/00001-32, neste ato representada
+na forma de seu Contrato Social, por seus representantes legais ao final
+assinados (adiante designada simplesmente como “CFL”);
+
+FABIANO BOCORNY CORRÊA, brasileiro, solteiro, maior, administrador de
+empresas, inscrito no CPF/MF sob o nº 696.261.030-00, portador da Cédula
+de Identidade RG nº 6018725322-SSP/RS, residente e domiciliado na Cidade
+de Porto Alegre, Estado do Rio Grande do Sul, na Rua Carlos Trein Filho,
+550, AP. 901, Bairro Mont Serrat, CEP 90450-120 (“Fabiano”); e
+
+LUCIANO BOCORNY CORRÊA, brasileiro, solteiro, maior, empresário,
+inscrito no CPF/MF sob o nº747.883.700-00, portador da Cédula de
+Identidade RG nº 101.872.534-9-SSP/RS, residente e domiciliado na Cidade
+de Porto Alegre, Estado do Rio Grande do Sul, na Alameda Emílio de
+Menezes, 140, apartamento 1802, Bairro Três Figueiras, CEP 91.340-360
+(“Luciano” e, em conjunto com CFL e Fabiano, os “Fiadores”).
+
+e, como interveniente anuente:
+
+OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A., com
+sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro, na Avenida
+das Américas, n.º 500, Bloco 13 – grupo 205, Barra da Tijuca, inscrita
+no CNPJ/MF sob o n.º 36.113.876/0001-91, neste ato representado na forma
+de seu Estatuto Social (adiante designada simplesmente como “Instituição
+Custodiante”);
+
+vêm, por esta e na melhor forma de direito, firmar o presente
+Instrumento Particular de Escritura de Emissão de Cédula de Crédito
+Imobiliário, Com Garantia Fidejussória, sob a Forma Escritural
+(“Escritura de CCI”), por meio dos termos e condições a seguir
+descritos.
+
+CLÁUSULA PRIMEIRA – DEFINIÇÕES 
+
+1.1. Para os fins desta Escritura de CCI, as expressões abaixo, no singular ou no plural, quando iniciadas por letras maiúsculas, terão os significados que lhes são atribuídos a seguir:
+
++-------------------+--------------------------------------------------+
+| “Adquirente”:     | Plural Capital Securitizadora S.A., com sede na  |
+|                   | Cidade de São Paulo, Estado de São Paulo, na Rua |
+|                   | Minas de Prata, 30, conjunto 122, CEP 04522-080, |
+|                   | inscrita no CNPJ/MF sob nº 12.610.764/0001-88.   |
++===================+==================================================+
+| “CCI”:            | cada uma das 45 Cédulas de Crédito Imobiliário   |
+|                   | fracionárias e escriturais emitidas pela         |
+|                   | Emissora nos termos desta Escritura de CCI, cada |
+|                   | qual representando parte dos Créditos            |
+|                   | Imobiliários nos termos de cada uma das          |
+|                   | Promessas de Compra e Venda.                     |
++-------------------+--------------------------------------------------+
+| “Código Civil”:   | Lei nº 10.406, de 10 de janeiro de 2002, e       |
+|                   | alterações posteriores.                          |
++-------------------+--------------------------------------------------+
+| “Condições        | conforme definido no item 4.3. do Contrato de    |
+| Precedentes”:     | Cessão.                                          |
++-------------------+--------------------------------------------------+
+| “Contrato de      | Instrumento Particular de Contrato de Cessão de  |
+| Cessão”           | Créditos e Outras Avenças celebrado entre        |
+|                   | Projeto Imobiliário Carlos Gomes SPE 68 Ltda.,   |
+|                   | Plural Capital Securitizadora S.A. e os Fiadores |
+|                   | em 10 de setembro de 2011, tendo por objeto a    |
+|                   | cessão dos Créditos Imobiliários oriundos das    |
+|                   | Promessas de Compra e Venda.                     |
++-------------------+--------------------------------------------------+
+| “Créditos         | os direitos ao recebimento de determinados       |
+| Imobiliários”:    | direitos de crédito oriundos das Promessas de    |
+|                   | Compra e Venda, tal como identificados nas CCIs, |
+|                   | no montante total correspondente nesta data a R$ |
+|                   | 7.745.387,31, acrescido de todos os encargos e   |
+|                   | penalidades previstos nas Promessas de Compra e  |
+|                   | Venda, inclusive de toda e qualquer indenização  |
+|                   | devida pelos Devedores nos termos das Promessas  |
+|                   | de Compra e Venda, em razão de eventual          |
+|                   | descumprimento de suas obrigações ali previstas, |
+|                   | bem como de todos os seus acessórios e           |
+|                   | garantias, incluindo, mas não se limitando a,    |
+|                   | principal, encargos moratórios, penalidades,     |
+|                   | indenizações, seguros, garantias e demais        |
+|                   | encargos contratuais e legais.                   |
++-------------------+--------------------------------------------------+
+| “Data de          | termo definido no item 3.4 desta Escritura de    |
+| Vencimento da     | CCI.                                             |
+| CCI”:             |                                                  |
++-------------------+--------------------------------------------------+
+| “Dia Útil”:       | qualquer dia que haja expediente bancário no     |
+|                   | Município de São Paulo-SP.                       |
++-------------------+--------------------------------------------------+
+| “Devedores”:      | são os promitentes compradores e eventuais       |
+|                   | garantidores que assinaram as Promessas de       |
+|                   | Compra e Venda.                                  |
++-------------------+--------------------------------------------------+
+| “Emissora”:       | a Projeto Imobiliário Carlos Gomes SPE 68 Ltda., |
+|                   | acima qualificada.                               |
++-------------------+--------------------------------------------------+
+| “Empreendimento”: | Edifício Comercial Platinum Tower a ser          |
+|                   | construído no Imóvel.                            |
++-------------------+--------------------------------------------------+
+| “Escritura de     | o presente Instrumento Particular de Escritura   |
+| CCI”:             | de Emissão de Cédula de Crédito Imobiliário, com |
+|                   | Garantia Fidejussória, Sob A Forma Escritural.   |
++-------------------+--------------------------------------------------+
+| “Fiadores”:       | CFL, Fabiano e Luciano, acima qualificados.      |
++-------------------+--------------------------------------------------+
+| “IGP-M/FGV”:      | Índice Geral de Preços do Mercado, publicado     |
+|                   | pela Fundação Getúlio Vargas.                    |
++-------------------+--------------------------------------------------+
+| “Imóvel”:         | imóvel objeto da matrícula nº 153.575 do         |
+|                   | Registro de Imóveis da 4ª Zona de Porto Alegre,  |
+|                   | Estado do Rio Grande do Sul, localizado na       |
+|                   | Avenida Carlos Gomes nº 700, o qual está sendo   |
+|                   | utilizado pela Emissora para a construção do     |
+|                   | Edifício Comercial Platinum Tower.               |
++-------------------+--------------------------------------------------+
+| “INCC-M”:         | Índice Nacional do Custo da Construção -         |
+|                   | Mercado, publicado pela Fundação Getúlio Vargas. |
++-------------------+--------------------------------------------------+
+| “Instituição      | Oliveira Trust Distribuidora de Títulos e        |
+| Custodiante”:     | Valores Mobiliários S.A., acima qualificada,     |
+|                   | entidade responsável pelo registro da CCI junto  |
+|                   | à CETIP e custódia física da Escritura de CCI.   |
++-------------------+--------------------------------------------------+
+| “Lei nº.          | Lei nº. 9.514, de 20 de novembro de 1997, que    |
+| 9.514/97”:        | regula o Sistema de Financiamento Imobiliário.   |
++-------------------+--------------------------------------------------+
+| “Lei nº.          | Lei nº. 10.931, de 2 de agosto de 2004, que      |
+| 10.931/04”:       | dispõe sobre a afetação de incorporações         |
+|                   | imobiliárias, letras de crédito imobiliário,     |
+|                   | cédula de crédito imobiliário, cédula de credito |
+|                   | bancário, altera o Decreto-Lei nº 911, de 1 de   |
+|                   | outubro de 1969, as Leis nº 4.591, de 16 de      |
+|                   | dezembro de 1964, 4.728, de 14 de julho de 1965, |
+|                   | e 10.406, de 10 de janeiro de 2002, e dá outras  |
+|                   | providências.                                    |
++-------------------+--------------------------------------------------+
+| “Obrigações       | as obrigações de pagamento dos Devedores         |
+| Afiançadas        | decorrentes das Promessas de Compra e Venda ou a |
+|                   | eles relacionadas, bem como todas as obrigações  |
+| da Escritura de   | assumidas pela Emissora nesta Escritura de CCI,  |
+| CCI”:             | incluindo, sem limitação, o principal, juros,    |
+|                   | correção monetária e demais encargos previstos   |
+|                   | nesta Escritura de CCI, nas CCIs e nas Promessas |
+|                   | de Compra e Venda.                               |
++-------------------+--------------------------------------------------+
+| “Partes”:         | Emissora, Fiadores e Instituição Custodiante,    |
+|                   | partes desta Escritura de CCI.                   |
++-------------------+--------------------------------------------------+
+| “Promessas de     | Instrumentos Particulares de Promessas de Compra |
+| Compra e Venda”:  | e Venda celebrados entre os Devedores e a        |
+|                   | Emissora, tendo por objeto promessa de venda,    |
+|                   | pela Emissora aos Devedores, das unidades do     |
+|                   | Imóvel, e identificados nas CCIs.                |
++-------------------+--------------------------------------------------+
+| “Quotas”:         | a totalidade das quotas representativas do       |
+|                   | capital social da Emissora, de titularidade,     |
+|                   | nesta data, dos Alienantes Fiduciantes.          |
++-------------------+--------------------------------------------------+
+| “Valor            | conforme definido no item 3.11.9. desta          |
+| Solicitado”:      | Escritura de CCI.                                |
++-------------------+--------------------------------------------------+
+
+CLÁUSULA SEGUNDA – OBJETO
+
+2.1. A Emissora é a única titular dos Créditos Imobiliários oriundos das
+Promessas de Compra e Venda.
+
+2.2 Pela presente Escritura de CCI, a Emissora emite as CCIs, na forma
+do anexo I, cada qual representativa dos Créditos Imobiliários de parte
+de cada uma das parcelas do preço de venda das unidades do Imóvel, nos
+termos das Promessas de Compra e Venda.
+
+CLÁUSULA TERCEIRA - CARACTERÍSTICAS DAS CCIS
+
+3.1. Quantidade: São emitidas neste ato 45 (quarenta e cinco) CCIs,
+representativa dos Créditos Imobiliários.
+
+3.2. Série e número: A Emissão é realizada em uma única série de nº 01,
+composta das CCIs nºs 001 a 045, individualizadas no Anexo I desta
+Escritura de CCI.
+
+3.  Forma: As CCIs são fracionárias e serão emitidas sob a forma
+    escritural.
+
+3.4. Vencimento: As CCIs terão o prazo e a data de vencimento, inicial e
+final, individualizados no Anexo I desta Escritura de CCI (“Data de
+Vencimento das CCI”).
+
+3.5 Valor: Os valores das CCIs são os dispostos no Anexo I desta
+Escritura de CCI.
+
+3.6 Registro e Negociação: As CCIs serão registradas para negociação na
+CETIP ou em qualquer outro sistema de registro e liquidação de ativos
+privados autorizado a funcionar pelo Banco Central do Brasil que venha a
+ser contratado pela Emissora.
+
+3.7. Custódia: A presente Escritura de CCI será custodiada na
+Instituição Custodiante, que será responsável pelo lançamento dos dados
+das CCIs contidas neste documento no sistema da CETIP.
+
+3.8. Local de Pagamento: Os Créditos Imobiliários representados pelas
+CCIs deverão ser pagos por meio de boleto bancário ou depósito bancário
+em conta corrente a ser indicada pela Emissora.
+
+3.9. Encargos Moratórios: Encargos moratórios constantes das Promessas
+de Compra e Venda, conforme descritos nas CCIs.
+
+3.10. Forma de Reajuste: Forma de reajuste constante das Promessas de
+Compra e Venda, conforme descritos nas CCIs.
+
+3.11. Garantias: As CCIs, representativas dos Créditos Imobiliários, são
+emitidas com garantia fidejussória, nos termos do § 3º do artigo 18 da
+Lei nº 10.931/04.
+
+  3.11.1. As Obrigações Afiançadas da Escritura de CCI serão garantidas
+  pelos Fiadores, na forma estabelecida nos subitens abaixo.
+
+  3.11.2. Os Fiadores, nos termos aqui estipulados, constituem-se, de
+  forma irrevogável e irretratável, perante o Adquirente, como fiadores
+  e principais pagadores, em caráter solidário, das Obrigações
+  Afiançadas da Escritura de CCI, cujos respectivos valores serão
+  apurados nos termos das Promessas de Compra e Venda ou desta Escritura
+  de CCI, garantindo o pronto e integral cumprimento de todas as
+  Obrigações Afiançadas da Escritura de CCI.
+
+  3.11.3. A responsabilidade solidária dos Fiadores abrange toda e
+  qualquer Obrigação Afiançada da Escritura de CCI que, nos termos das
+  Promessas de Compra e Venda ou desta Escritura de CCI, torne-se
+  exigível, a qualquer tempo.
+
+  3.11.4. A fiança constitui uma promessa de pagamento, autônoma e
+  abstrata, cuja validade e efeitos independem da validade, efeitos e
+  formalização das Promessas de Compra e Venda, desta Escritura de CCI,
+  das CCIs e de qualquer outro documento relativo às respectivas
+  operações neles contempladas, ou, ainda, da existência ou
+  exigibilidade das Obrigações Afiançadas da Escritura de CCI, devendo
+  os Fiadores cumprirem com todas as suas obrigações decorrentes desta
+  fiança sem oposição de qualquer exceção ou objeção.
+
+  3.11.5. No caso de invalidade ou ineficácia, total ou parcial, desta
+  Escritura de CCI, das Promessas de Compra e Venda ou das CCIs, ou da
+  inexistência ou inexigibilidade de qualquer das Obrigações Afiançadas
+  da Escritura de CCI, por qualquer razão, os Fiadores responderão, como
+  uma obrigação independente, pelo pagamento do valor total, que se
+  encontre pendente de liquidação, na data da ocorrência de qualquer um
+  dos eventos acima indicados, dos Créditos Imobiliários e quaisquer
+  demais encargos e penalidades a eles relacionados.
+
+  3.11.6. As obrigações dos Fiadores decorrentes desta fiança não serão
+  afetadas por qualquer direito dos Fiadores contra a Emissora ou o
+  Adquirente e/ou da Emissora contra a Adquirente ou vice-versa.
+
+  3.11.7. Os Fiadores deverão cumprir integralmente todas as Obrigações
+  Afiançadas da Escritura de CCI vencidas, mesmo que o adimplemento
+  dessas não seja exigível da Emissora ou dos Devedores em razão da
+  existência de procedimentos de falência, recuperação judicial ou
+  extrajudicial ou procedimento similar envolvendo a Emissora ou
+  qualquer um dos Devedores.
+
+  3.11.8. Os Fiadores responderão até o montante das Obrigações
+  Afiançadas da Escritura de CCI, nos termos desta Escritura de CCI.
+
+  3.11.9. Os Fiadores deverão cumprir com todas as suas obrigações
+  decorrentes desta fiança no Brasil, no lugar indicado pelo Adquirente,
+  e conforme as instruções por escrito por ele dadas, indicando as
+  razões que originaram a execução da fiança, em moeda corrente
+  nacional, sem qualquer contestação ou compensação, líquidos de
+  quaisquer taxas, impostos, despesas, retenções ou responsabilidades
+  presentes ou futuras, acrescidos dos encargos e despesas incidentes,
+  em até 2 (dois) Dias Úteis contados do recebimento de notificação
+  pelos Fiadores, enviada pelo Adquirente, por meio de correspondência
+  ou fax, informando o valor a ser pago pelos Fiadores (“Valor
+  Solicitado”).
+
+  3.11.10. Os Fiadores poderão ser demandados até o cumprimento total e
+  integral das Obrigações Afiançadas da Escritura de CCI.
+
+  3.11.11. Sobre os Valores Solicitados nos termos aqui previstos
+  incidirão juros, reajuste monetário pelo IGP-M/FGV, ou por outro
+  índice que venha a substituí-lo, multas e encargos moratórios
+  previstos nas Promessas de Compra e Venda e nesta Escritura de CCI
+  para as Obrigações Afiançadas da Escritura de CCI, tudo computado
+  pro-rata die a partir da data em que tais Obrigações Afiançadas da
+  Escritura de CCI tenham se tornado originalmente devidas e até a data
+  em que forem integralmente pagas.
+
+  3.11.12. Uma ou mais ações em separado poderão ser propostas contra os
+  Fiadores para execução da presente fiança, independentemente de
+  qualquer medida judicial ou extrajudicial a ser proposta contra a
+  Emissora, ou na hipótese desta ser parte em qualquer das aludidas
+  ações. A fiança ora outorgada é sem prejuízo de e adicional à fiança
+  outorgada pelos Fiadores, no Contrato de Cessão.
+
+  3.11.13. A presente fiança somente extinguir-se-á mediante o total e
+  final adimplemento válido e eficaz de todas as Obrigações Afiançadas
+  da Escritura de CCI, o que se dará com a comprovação do pagamento
+  apresentado pela Emissora e emissão do termo de liberação de garantias
+  mencionado no item 6.1, “c”, do Contrato de Cessão, no prazo lá
+  estabelecido.
+
+  3.11.14. Os Fiadores renunciam expressamente aos direitos e
+  prerrogativas que lhes conferem os artigos 365, 366, 827, 834, 835,
+  837, 838 e 839 do Código Civil e 595 do Código de Processo Civil,
+  reiterando assim o caráter autônomo e abstrato desta fiança.
+
+  3.11.15. Os Fiadores declaram expressamente que tem pleno conhecimento
+  e concordam com todas as cláusulas, dispositivos, termos e condições
+  das Promessas de Compra e Venda, razão pela qual renunciam
+  expressamente ao direito de exonerar-se da fiança ora prestada na
+  hipótese de cessão ou transferência pela Adquirente dos seus direitos
+  e obrigações decorrentes das Promessas de Compra e Venda, no todo ou
+  em parte, a terceiros, e independentemente de tal cessão ou
+  transferência ter, ou não, sido autorizada pelos Fiadores, Emissora
+  e/ou Adquirente.
+
+3.12. Cobrança da CCI: A cobrança dos créditos representados pelas CCIs
+obedecerá à forma estabelecida nas respectivas Promessas de Compra e
+Venda. A Instituição Custodiante não será responsável pela localização
+dos pagamentos devidos à Adquirente. A Instituição Custodiante será
+responsável pelo acompanhamento, mediante consulta à CETIP, da
+titularidade das CCIs.
+
+3.13 Registro: A presente Escritura de CCI será registrada em até 20
+(vinte) dias, contados da sua solicitação feita pelo Adquirente neste
+sentido, junto ao Cartório de Registro de Títulos e Documentos da Cidade
+das Partes, às expensas da Emissora. Uma via original, devidamente
+registrada, será remetida à Instituição Custodiante e ao Adquirente.
+
+CLÁUSULA QUARTA – CESSÃO DA CCI PELA EMISSORA
+
+4.1. Formalização da Cessão: Mediante a celebração do Contrato de Cessão
+e cumprimento das Condições Precedentes ali previstas, a Emissora
+alienará ao Adquirente as CCIs descritas na Cláusula Terceira desta
+Escritura de CCI através do sistema de negociação da CETIP, ou de
+qualquer outra câmara que mantenha sistemas de registro e liquidação
+financeira de títulos privados, devidamente autorizada a funcionar pelo
+Banco Central do Brasil.
+
+4.2. Abrangência da Cessão: A cessão de créditos prevista acima abrange
+todos os direitos, acessórios e garantias assegurados à Emissora, na
+forma das Promessas de Compra e Venda, e os outorgados por esta
+Escritura de CCI ou nela previstos, ficando o Adquirente sub-rogado em
+todos os direitos, acessórios, seguros e garantias representados pela
+CCI, sendo certo que tal cessão está sujeita a determinados termos e
+condições, previstos no Contrato de Cessão.
+
+  4.2.1 Na hipótese de cessão da CCI pelo Adquirente, os termos do
+  Contrato de Cessão deverão ser observados e vincularão todo e qualquer
+  futuro titular da CCI.
+
+  4.2.2 A Instituição Custodiante não fica responsável pela conferência
+  do adimplemento das Condições Precedentes quando da transferência da
+  CCI para o Adquirente na CETIP.
+
+  4.2.3. Caso as Condições Precedentes não tenham sido integralmente
+  adimplidas, o Adquirente somente poderá alienar a CCI mediante
+  declaração expressa do futuro titular da CCI (i) atestando que tem
+  ciência de não estarem adimplidas as Condições Precedentes; e (ii) se
+  comprometendo a não negociar a CCI até que as Condições Precedentes
+  sejam adimplidas ou seja obtida a mesma declaração referida no item
+  (i) do próximo Adquirente.
+
+4.3. Existência dos Créditos Imobiliários: A Emissora se responsabiliza,
+neste ato, perante o Adquirente, pela existência dos Créditos
+Imobiliários, validade e eficácia das Promessas de Compra e Venda,
+declarando que estes se encontram constituídos na forma e substância em
+que foram descritos nesta Escritura de CCI e seu Anexo I.
+
+4.4. Da Transferência da CCI: Toda e qualquer cessão ou alienação da CCI
+feita pelo Adquirente deverá, necessariamente, sob pena de nulidade do
+negócio, ser efetuada por meio do sistema da CETIP, devendo-se observar
+o previsto nos itens 4.2.1, 4.2.2 e 4.2.3 acima.
+
+  4.4.1. Sempre que houver troca de titularidade da CCI, o Adquirente
+  deverá adotar todos os procedimentos necessários junto à CETIP para
+  troca de titularidade, bem como comunicar à Instituição Custodiante da
+  negociação, informando, inclusive, os dados cadastrais do novo titular
+  da CCI.
+
+  4.4.2. A cessão da CCI implica automática transmissão dos direitos e
+  obrigações dela decorrentes ao cessionário da CCI, nos termos
+  previstos nesta Escritura de CCI e em lei.
+
+CLÁUSULA QUINTA – OBRIGAÇÕES DA EMISSORA
+
+5.1. A cobrança dos Créditos Imobiliários será de responsabilidade do
+Adquirente, que tomará as medidas necessárias à sua boa manutenção,
+principalmente no que se refere aos fluxos de pagamento e eventuais
+multas e encargos moratórios, conforme previstos nas Promessas de Compra
+e Venda.
+
+5.2. Após a transferência da CCI para o Adquirente, a Emissora deverá
+proceder à notificação dos Devedores com o objetivo de informá-la sobre
+a nova titularidade dos Créditos Imobiliários, bem como sobre as novas
+instruções para seu pagamento, nos termos do Contrato de Cessão.
+
+5.3. A partir do registro da CCI junto à CETIP, a presente Escritura de
+CCI passará a ser custodiada pela Instituição Custodiante.
+
+5.4. A Instituição Custodiante não será responsável por nenhuma
+obrigação dos Devedores.
+
+CLÁUSULA SEXTA – DECLARAÇÕES DA EMISSORA
+
+6.1. A Emissora declara expressamente que:
+
+a) é legítima proprietária da fração ideal de 0,0841826 do Imóvel, que
+se encontra livre e desembaraçado de quaisquer ônus reais ou pessoais,
+não tendo sido objeto de ação de penhora, arresto, sequestro ou qualquer
+ônus ou gravame de qualquer natureza e a qualquer título;
+
+b) os Créditos Imobiliários não estão sujeitos a qualquer ônus, real ou
+pessoal, ou gravames, não tendo sido objeto de ação, penhora, arresto,
+penhor, seqüestro, caução ou ônus de qualquer natureza e a qualquer
+título;
+
+c) não há qualquer direito ou ação contra a Emissora ou qualquer acordo
+firmado que tenha dado ou possa dar lugar a qualquer argüição de
+compensação ou outra forma de extinção, redução ou mudança de condição
+de pagamento com relação aos Créditos Imobiliários;
+
+d) não há Créditos Imobiliários vencidos sem que o respectivo pagamento
+tenha sido efetuado, e os Devedores encontram-se adimplentes com relação
+a todas as demais obrigações decorrentes das Promessas de Compra e
+Venda;
+
+e) nenhum valor relacionado nos Anexos desta Escritura de CCI foi pago
+antecipadamente pelos Devedores, não havendo, na presente data, nenhum
+acordo ou proposta neste sentido;
+
+  f) não tem conhecimento de qualquer reclamação ou procedimento
+  judicial, coletivo ou individual, que seja relativo à propriedade do
+  Imóvel ou aos Créditos Imobiliários;
+
+  g) esta emissão de CCI é legítima em todos os seus aspectos,
+  respeitando os termos da Lei n.º 10.931/04 e demais normas aplicáveis
+  às obrigações desta Escritura de CCI;
+
+h) está integralmente em dia com suas obrigações de natureza tributária,
+previdenciária, trabalhista e social;
+
+i) possui plena capacidade e legitimidade para celebrar a presente
+Escritura de CCI, realizar todas as operações aqui previstas e cumprir
+todas as obrigações aqui assumidas, tendo tomado todas as medidas de
+natureza societária e outras eventualmente necessárias para autorizar a
+sua celebração, implementar todas as operações nela previstas e cumprir
+todas as obrigações nela assumidas;
+
+j) esta Escritura de CCI é validamente celebrada e constitui obrigação
+legal, válida, vinculante e exequível, de acordo com os seus termos;
+
+k) a celebração da presente Escritura de CCI e o cumprimento de suas
+obrigações (i) não violam qualquer disposição contida em seus documentos
+societários; (ii) não violam qualquer lei, regulamento, decisão
+judicial, administrativa ou arbitral, a que esteja vinculada; (iii) não
+exige consentimento, ação ou autorização de qualquer natureza; e (iv)
+foram aprovados, na data da celebração da presente Escritura, pelos
+órgãos societários competentes, nos termos dos Contratos Sociais da
+Emissora;
+
+l) está apta a cumprir as obrigações previstas nesta Escritura de CCI e
+agirá em relação a ela com boa-fé, probidade e lealdade;
+
+m) não depende economicamente de qualquer das Partes;
+
+n) não se encontra em estado de necessidade ou sob coação para celebrar
+a presente Escritura de CCI, quaisquer outros contratos e/ou documentos
+a ela relacionados, tampouco tem urgência em celebrá-los;
+
+o) as discussões sobre o objeto desta Escritura de CCI foram feitas,
+conduzidas e implementadas por sua livre iniciativa;
+
+p) é uma sociedade sofisticada e tem experiência em instrumentos
+semelhantes a este e/ou outros relacionados; e
+
+q) foi informada e avisada de todas as condições e circunstâncias
+envolvidas na negociação objeto desta Escritura de CCI e que poderiam
+influenciar a capacidade de expressar a sua vontade, tendo sido
+assistida por advogados durante toda a referida negociação.
+
+6.2. Os Fiadores declaram expressamente, de forma individual e, conforme
+aplicável, que:
+
+a)  possui plena capacidade e legitimidade para celebrar a presente
+      Escritura de CCI, realizar todas as operações aqui previstas e
+      cumprir todas as obrigações aqui assumidas, tendo tomado todas as
+      medidas de natureza societária e outras eventualmente necessárias
+      para autorizar a sua celebração, implementar todas as operações
+      nela previstas e cumprir todas as obrigações nela assumidas;
+
+b)  a fiança prevista nos termos desta Escritura de CCI constitui
+      obrigação legal, válida, vinculante e exequível, de acordo com os
+      seus termos;
+
+c)  a celebração da presente Escritura de CCI e o cumprimento de suas
+      obrigações (i) não violam qualquer disposição contida em seus
+      documentos societários, quando aplicável; (ii) não violam qualquer
+      lei, regulamento, decisão judicial, administrativa ou arbitral, a
+      que estejam vinculados; (iii) não exigem consentimento, ação ou
+      autorização de qualquer natureza; e (iv) foram aprovados, na data
+      da celebração da presente Escritura, pelos órgãos societários
+      competentes, nos termos do Contrato Social da CFL em vigor nesta
+      data;
+
+d)  estão aptos a cumprir as obrigações previstas nesta Escritura de CCI
+      e agirão em relação a ela com boa-fé, probidade e lealdade;
+
+e)  não depende economicamente de qualquer das Partes;
+
+f)  não se encontra em estado de necessidade ou sob coação para celebrar
+      a presente Escritura de CCI e conceder a fiança outorgada nos
+      termos desta Escritura de CCI, quaisquer outros contratos e/ou
+      documentos a ela relacionados, tampouco tem urgência em
+      celebrá-los;
+
+g)  as discussões sobre o objeto desta Escritura de CCI e a outorga da
+      fiança nos termos desta Escritura de CCI foram feitas, conduzidas
+      e implementadas por sua livre iniciativa;
+
+h)  têm experiência em instrumentos semelhantes a este e/ou outros
+      relacionados;
+
+i)  foram informados e avisados de todas as condições e circunstâncias
+      envolvidas na negociação objeto desta Escritura de CCI e que
+      poderiam influenciar a capacidade de expressar a sua vontade,
+      tendo sido assistida por advogados durante toda a referida
+      negociação; e
+
+j)  as pessoas físicas que assinam a presente Escritura de CCI são
+      pessoas capazes da prática de todos os atos na vida civil, não
+      estão impedidas de celebrar esta Escritura de CCI e nem de assumir
+      as obrigações aqui previstas, inclusive em razão de qualquer
+      processo ou procedimento que vise a declaração de sua
+      incapacidade, definitiva ou temporária, interdição ou insolvência
+      civil.
+
+CLÁUSULA SÉTIMA – TRANSFERÊNCIA DE DIREITOS E OBRIGAÇÕES
+
+7.1. Observado o disposto nos itens 4.2.1 4.2.2 e 4.2.3 acima, a
+Adquirente desde já está autorizada a negociar a CCI de sua
+titularidade, cedendo e transferindo a terceiros os Créditos
+Imobiliários por ela representados, sendo facultada, ainda, a emissão de
+Certificados de Recebíveis Imobiliários com lastro na CCI.
+
+7.2. A cessão dos Créditos Imobiliários representados pela CCI implica
+na transmissão automática das garantias relativas aos Créditos
+Imobiliários previstos no Contrato de Cessão, nesta Escritura de CCI e
+em qualquer outro documento.
+
+7.3. A negociação da CCI independe da autorização da Emissora, Fiadores
+e da Instituição Custodiante e será feita por meio da CETIP ou outra
+entidade autorizada.
+
+CLÁUSULA OITAVA – CUSTOS E DESPESAS
+
+8.1. São de responsabilidade da Emissora todas as despesas relativas ao
+registro e custódia desta Escritura de CCI, assim como de quaisquer
+outros documentos a ela relativos ou dela oriundos.
+
+CLÁUSULA NONA – INDENIZAÇÃO AO ADQUIRENTE
+
+9.1. Observado o previsto no Contrato de Cessão, a Emissora se obriga a
+indenizar o Adquirente, se, por qualquer razão, qualquer das declarações
+e garantias constantes nesta Escritura de CCI seja, ou se torne,
+comprovadamente falsa ou incorreta, a qualquer momento enquanto os
+Créditos Imobiliários estiverem pendentes de pagamento, acrescido dos
+reajustes e encargos moratórios, quando aplicável, previstos na CCI e
+nesta Escritura.
+
+CLÁUSULA DÉCIMA – DISPOSIÇÕES GERAIS
+
+10.1. Nulidade, Invalidade ou Ineficácia: A nulidade, invalidade ou
+ineficácia de qualquer disposição contida nesta Escritura de CCI não
+prejudicará a validade e eficácia das demais, que serão integralmente
+cumpridas, obrigando-se a Emissora a envidar seus melhores esforços para
+validamente obter os mesmos efeitos da avença que tiver sido anulada,
+invalidada ou declarada ineficaz.
+
+10.2. Caráter Irrevogável e Irretratável: A presente Escritura de CCI é
+celebrada em caráter irrevogável e irretratável, obrigando a Emissora e
+seus sucessores a qualquer título, inclusive ao seu integral
+cumprimento.
+
+10.3. Título Executivo: Para os fins da execução dos Créditos
+Imobiliários representados pela CCI, bem como as obrigações dela
+decorrentes e garantias a ela pertinentes, considera-se que a CCI é
+título executivo extrajudicial, de acordo com o artigo 585 do Código de
+Processo Civil e 20 da Lei nº 10.931/04, exigível pelo valor apurado de
+acordo com as cláusulas e condições pactuadas nesta Escritura de CCI e
+nas Promessas de Compra e Venda.
+
+10.4 Novação: Eventual tolerância, concessão ou liberalidade da Emissora
+ou do Adquirente, conforme o caso, no exercício de qualquer direito que
+lhe for conferido, não importará alteração contratual ou novação,
+tampouco o impedirá de exercer, a qualquer momento, todos os direitos
+que lhe são assegurados na presente Escritura de CCI ou na lei.
+
+10.5. Legislação e Foro de Eleição: Esta Escritura de CCI é regida pelas
+Leis da República Federativa do Brasil. Para dirimir quaisquer questões
+que se originarem desta Escritura de CCI, fica eleito o Foro da Comarca
+de São Paulo, Estado de São Paulo, com renúncia expressa a qualquer
+outro, por mais privilegiado que seja ou venha a ser.
+
+10.6. Comunicações: Todas as comunicações entre as Partes serão
+realizadas por escrito, mediante entrega pessoal, serviço de entrega
+especial ou carta registrada ou por email, sempre com comprovante de
+recebimento e serão válidas e consideradas efetivas na data do
+recebimento das mesmas nos endereços constantes desta Escritura de CCI,
+ou em outros que as Partes eventualmente venham a indicar, por escrito,
+no curso da presente Escritura de Emissão.
+
+  Porto Alegre, 10 de Setembro de 2011.
+
+Página de assinaturas do Instrumento Particular de Escritura de Emissão
+de Cédula de Crédito Imobiliário, com Garantia Fidejussória, sob a forma
+escritural, datado de 10 de setembro de 2011.
+
+_______________________________________________________
+
+PROJETO IMOBILIÁRIO CARLOS GOMES SPE 68 LTDA.
+
+_______________________________________________________
+
+CFL PARTICIPAÇÕES E INCORPORAÇÕES LTDA.
+
+_______________________________________________________
+
+FABIANO BOCORNY CORRÊA
+
+_______________________________________________________
+
+LUCIANO BOCORNY CORRÊA
+
+_______________________________________________________
+
+  OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.
+
+  TESTEMUNHAS:
+
++-----------------------------------+-----------------------------------+
+| 1.  ________________________      | 2.  ________________________      |
+|                                   |                                   |
+| Nome:                             | Nome:                             |
+|                                   |                                   |
+| CPF:                              | CPF:                              |
++-----------------------------------+-----------------------------------+
+
+ANEXO I
+
+CCI 001
+
+[TABLE]
+
+CCI 002
+
+[TABLE]
+
+CCI 003
+
+[TABLE]
+
+CCI 004
+
+[TABLE]
+
+CCI 005
+
+[TABLE]
+
+CCI 006
+
+[TABLE]
+
+CCI 007
+
+[TABLE]
+
+CCI 008
+
+[TABLE]
+
+CCI 009
+
+[TABLE]
+
+CCI 010
+
+[TABLE]
+
+CCI 011
+
+[TABLE]
+
+CCI 012
+
+[TABLE]
+
+CCI 013
+
+[TABLE]
+
+CCI 014
+
+[TABLE]
+
+CCI 015
+
+[TABLE]
+
+CCI 016
+
+[TABLE]
+
+CCI 017
+
+[TABLE]
+
+CCI 018
+
+[TABLE]
+
+CCI 019
+
+[TABLE]
+
+CCI 020
+
+[TABLE]
+
+CCI 021
+
+[TABLE]
+
+CCI 022
+
+[TABLE]
+
+CCI 023
+
+[TABLE]
+
+CCI 024
+
+[TABLE]
+
+CCI 025
+
+[TABLE]
+
+CCI 026
+
+[TABLE]
+
+CCI 027
+
+[TABLE]
+
+CCI 028
+
+[TABLE]
+
+CCI 029
+
+[TABLE]
+
+CCI 030
+
+[TABLE]
+
+CCI 031
+
+[TABLE]
+
+CCI 032
+
+[TABLE]
+
+CCI 033
+
+[TABLE]
+
+CCI 034
+
+[TABLE]
+
+CCI 035
+
+[TABLE]
+
+CCI 036
+
+[TABLE]
+
+CCI 037
+
+[TABLE]
+
+CCI 038
+
+[TABLE]
+
+CCI 039
+
+[TABLE]
+
+CCI 040
+
+[TABLE]
+
+CCI 041
+
+[TABLE]
+
+CCI 042
+
+[TABLE]
+
+CCI 043
+
+[TABLE]
+
+CCI 044
+
+[TABLE]
+
+CCI 045
+
+[TABLE]

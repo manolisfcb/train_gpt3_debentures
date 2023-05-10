@@ -1,0 +1,904 @@
+CONTRATO DE ESCRITURAÇÃO E LIQUIDAÇÃO DE DEBÊNTURES
+
+Pelo presente Contrato de Escrituração e Liquidação de Debêntures as
+partes (doravante denominadas simplesmente “Partes” ou, isoladamente,
+“Parte”):
+
++-----------------------------------+--------------+--------+---------+
+| OLIVEIRA TRUST DTVM S.A.          |              | CNPJ   |         |
+| (“OLIVEIRA TRUST”)                |              |        |         |
+|                                   |              | 36.113 |         |
+|                                   |              | .876/0 |         |
+|                                   |              | 001-91 |         |
++-----------------------------------+--------------+--------+---------+
+| Endereço                          | Cidade       | Estado | CEP     |
+|                                   |              |        |         |
+| Av. das Américas, 500, bloco 13,  | Rio de       | RJ     | 22      |
+| grupo 205                         | Janeiro      |        | 640-100 |
++-----------------------------------+--------------+--------+---------+
+
+e
+
++-----------------------------------+-------------+---------+--------+---+
+| SPE SÃO FRANCISCO EMPREENDIMENTOS |             | CNPJ    |        |   |
+| IMOBILIÁRIOS S.A.                 |             |         |        |   |
+|                                   |             | 20.8    |        |   |
+|                                   |             | 31.148/ |        |   |
+|                                   |             | 0001-85 |        |   |
++-----------------------------------+-------------+---------+--------+---+
+| Endereço                          | Cidade      | Estado  | CEP    |   |
+|                                   |             |         |        |   |
+| Largo de São Francisco de Paula,  | Rio de      | RJ      | 200    |   |
+| n° 34, sala 1.704                 | Janeiro     |         | 51-070 |   |
++-----------------------------------+-------------+---------+--------+---+
+
+CONSIDERANDO QUE
+
+I - A OLIVEIRA TRUST está habilitada e autorizada pela Comissão de
+Valores Mobiliários (“CVM”) para o exercício das atividades relativas a
+escrituração das Debêntures podendo praticar todos os atos previstos
+neste contrato e na legislação vigente, conforme disposto na Instrução
+CVM nº 543, de 20 de dezembro de 2013.
+
+CLÁUSULA I
+
+DO OBJETO
+
+1.1. A OLIVEIRA TRUST, na qualidade de Instituição Financeira
+Depositária, prestará à CONTRATANTE, serviços de escrituração e
+liquidação da emissão de 5.120 (cinco mil e cento e vinte) Debêntures,
+no valor nominal unitário de R$ 10.000,00 (dez mil reais) na Data de
+Emissão. As Debêntures serão Simples, não Conversível em Ações, da
+Espécie com Garantia Real, em Série Única, para Distribuição Pública com
+Esforços Restritos de Colocação da SPE São Francisco Empreendimentos
+Imobiliários S.A, emitidas nos termos do “Instrumento Particular de
+Escritura da 1ª (Primeira) Emissão de Debênture Simples, Não Conversível
+Em Ações, Da Espécie Com Garantia Real, Em Série Única, Para
+Distribuição Pública Com Esforços Restritos De Colocação Da SPE São
+Francisco Empreendimentos Imobiliários S.A.” (“VALORES MOBILIÁRIOS” e
+“ESCRITURA”, respectivamente).
+
+1.2. O presente Contrato também contempla a prestação de serviços de
+Banco Mandatário com a responsabilidade de liquidar e efetuar
+movimentações dos VALORES MOBILIÁRIOS junto às Clearings bem como
+confirmar os lançamentos: (I) pedidos de depósitos e retiradas no
+mercado secundário; (II) conversões; (III) permutas; (IV) pedidos e/ou
+desistências fora do prazo predeterminado pela CONTRATANTE; e (V) de não
+repactuação e/ou opção de venda, de acordo com a Cláusula II, a
+legislação vigente e posteriores alterações.
+
+1.3. As liquidações financeiras de que trata o item anterior
+(CONSIDERANDO) serão efetivadas por intermédio de lançamento na conta de
+liquidação de titularidade da OLIVEIRA TRUST junto ao BACEN.
+
+1.4 Além dos serviços objeto deste Contrato e dos legalmente exigidos, a
+OLIVEIRA TRUST compromete-se a não efetuar nenhum outro serviço ou
+operação, sem a prévia autorização por escrito da CONTRATANTE, bem como
+a celebração do competente instrumento.
+
+CLÁUSULA II
+
+DISCRIMINAÇÃO DOS SERVIÇOS DE ESCRITURAÇÃO
+
+2.0. IMPLANTAÇÃO DOS DADOS
+
+2.1. A OLIVEIRA TRUST implantará em seu sistema de escrituração, com a
+finalidade de formar o banco de dados de debenturistas da CONTRATANTE,
+na totalidade das debêntures emitidas, as seguintes informações:
+
+-   identificação dos debenturistas;
+
+-   Quantidades, espécies e formas dos ativos, por debenturistas;
+
+-   Quando for o caso, o usufruto, a alienação fiduciária em garantia e
+    quaisquer cláusulas ou ônus que recorrerem sobre as debêntures;
+
+-   Valores correspondentes a eventos em espécie já distribuídos e não
+    prescritos, por debenturista, visando a continuidade dos pagamentos
+    até o prazo legal.
+
+2.1.2. A CONTRATANTE encaminhará a OLIVEIRA TRUST, por meio eletrônico
+(via internet, e-mail ou fac-símile) ou físico, os dados constantes no
+item 2.1.1. acima.
+
+2.1.3. Quando a emissão ocorrer por meio do ambiente CETIP - Câmara de
+Custódia e Liquidação e/ou CBLC - Companhia Brasileira de Liquidação e
+Custódia fica sob a responsabilidade dessas a divulgação dos dados dos
+titulares e respectiva quantidade de debêntures emitidas a OLIVEIRA
+TRUST para registro em conta de depósito da custódia fiduciária em nome
+daquelas entidades.
+
+2.3. REGISTRO EM CONTAS DE DEPÓSITO
+
+2.3.1. A OLIVEIRA TRUST escriturará nas contas de depósito, os registros
+de atualização de dados cadastrais, transferências e gravames, desde que
+cumpridas as exigências legais e documentação pertinente à cada
+processo.
+
+2.3.2. A OLIVEIRA TRUST manterá a guarda e controle de toda a
+documentação de cada processo registrado até o prazo de prescrição
+legal, e fornecerá a CONTRATANTE quando solicitado.
+
+2.4. DELIBERAÇÕES DE EVENTOS
+
+2.4.1. A OLIVEIRA TRUST dará cumprimento às deliberações da CONTRATANTE,
+assim como procederá com o registro de emissão das debêntures, dos
+direitos gerados, e outras alterações nas contas de depósito em nome dos
+debenturistas e o pagamento de eventos decorrentes de atos de
+responsabilidade da CONTRATANTE, bem como, outros eventos que possam ser
+deliberados, devendo-se observar os seguintes requisitos:
+
+1.  A CONTRATANTE deverá cientificar a OLIVEIRA TRUST, imediatamente e
+    por escrito, da realização de qualquer Assembleia, Reunião ou
+    qualquer evento que venha a ocorrer com as debêntures de sua
+    emissão, de forma que a OLIVEIRA TRUST tenha tempo hábil para tomar
+    as providências cabíveis ao seu cumprimento.
+
+  2.4.1.2A CONTRATANTE deverá observar todas as regras e prazos para
+  liquidação e disponibilização de eventos definidos pela OLIVEIRA TRUST
+  e por outros Agentes de Custódia.
+
+  2.4.1.3Os eventos deliberados deverão estar em conformidade com a
+  legislação vigente à época em que ocorrer.
+
+2.5. O não atendimento pela CONTRATANTE, das obrigações conforme
+descrito nos itens 2.4.1.1. 2.4.1.2. e 2.4.1.3. acima, desobrigará a
+OLIVEIRA TRUST por eventuais responsabilidades a ele imputadas pelo não
+cumprimento das deliberações comunicadas.
+
+2.7. LIVROS SOCIAIS
+
+2.7.1. A OLIVEIRA TRUST escriturará os termos de abertura e encerramento
+e promoverá no órgão competente o registro dos livros sociais,
+referentes à escrituração das debêntures emitidas pela CONTRATANTE, em
+conformidade com a legislação vigente.
+
+2.7.2. Os livros emitidos contendo os dados escriturados pela OLIVEIRA
+TRUST serão mantidos em arquivo até a vigência deste contrato, quando a
+OLIVEIRA TRUST efetuará a entrega dos mesmos à CONTRATANTE, ou poderão
+ser entregues quando solicitados pela mesma, em até 60 (sessenta) dias,
+a contar da data da rescisão e/ou solicitação.
+
+CLÁUSULA III
+
+DISCRIMINAÇÃO DOS SERVIÇOS DE LIQUIDANTE
+
+3.1. A CONTRATANTE deverá cientificar o LIQUIDANTE, imediatamente e por
+escrito, da realização de qualquer Assembleia, Reunião, evento a ser
+liquidado, mesmo que predefinido na ESCRITURA, bem como outros
+acessórios aos VALORES MOBILIÁRIOS, com antecedência mínima de 24 (vinte
+e quatro) horas da data definida para realização do pagamento,
+considerando-se, nesta contagem, apenas dias úteis, de modo que possa a
+OLIVEIRA TRUST adotar as providências cabíveis ao seu cumprimento.
+
+3.1.1. As movimentações de recursos financeiros entre a CONTRATANTE e
+Clearings ocorridas em função dos eventos acessórios aos VALORES
+MOBILIÁRIOS, serão efetuados por intermédio do débito na conta de
+liquidação da CONTRATANTE indicada no item 7.2. na data de pagamento
+estipulada, desde que exista saldo suficiente para a liquidação. O
+citado débito será efetuado pela OLIVEIRA TRUST na conta de liquidação
+do CONTRATANTE, liquidando o débito junto a Clearing através do SPB
+(Sistema de Pagamento Brasileiro)
+
+  3.1.1.1. A OLIVEIRA TRUST não assume obrigação alguma de acolher ordem
+  de débito das Clearings na sua conta de liquidação, para pagamento dos
+  eventos, se a CONTRATANTE não tiver recursos disponíveis e suficientes
+  para o referido pagamento em sua conta corrente indicada no item 7.2.
+  até um dia útil anterior ao da data de pagamento do evento.
+
+  3.1.1.2. Na hipótese de ausência ou insuficiência de saldo disponível
+  para liquidação do evento pela CONTRATANTE, a OLIVEIRA TRUST não
+  confirmará o pagamento dos eventos, comunicando a CETIP, a partir
+  deste momento, a situação de inadimplência da CONTRATANTE, após prévia
+  notificação da mesma.
+
+3.2. TRANSFERÊNCIA DE VALORES MOBILIÁRIOS
+
+3.2.1. A OLIVEIRA TRUST efetuará a transferência dos VALORES MOBILIÁRIOS
+junto as Clearings e Instituição Financeira Depositária dos VALORES
+MOBILIÁRIOS definida na ESCRITURA, em atendimento aos pedidos de
+depósitos e retiradas no mercado secundário; conversões; permutas, desde
+que cumpridas as exigências legais e documentação pertinente à cada
+processo.
+
+3.2.2. A OLIVEIRA TRUST deverá comunicar a CONTRATANTE, quando dos
+pedidos e/ou desistências fora do prazo predeterminado pela CONTRATANTE,
+da não repactuação e/ou opção de venda ocorridas nasClearings.
+
+CLÁUSULA IV
+
+RETENÇÃO E RECOLHIMENTO DO IMPOSTO DE RENDA
+
+4.1. A OLIVEIRA TRUST fornecerá à CONTRATANTE o relatório para fins de
+recolhimento do IRRF de eventos com incidência de imposto, das
+debêntures registradas em contas de depósito na OLIVEIRA TRUST, se
+aplicável.
+
+4.2. A CONTRATANTE deverá fazer a retenção e o recolhimento do Imposto
+de Renda em seu nome dos eventos com incidência de imposto, das
+debêntures registradas em contas de depósito da OLIVEIRA TRUST, nos
+termos da legislação aplicável, enviando cópia do DARF-Documento de
+Arrecadação de Receitas Federais a OLIVEIRA TRUST a fim de proceder a
+conciliação com a DIRF-Declaração do Imposto Retido na Fonte.
+
+  4.2.1. As debêntures registradas em custódia na CBLC - Companhia
+  Brasileira de Liquidação e Custódia e CETIP - Câmara de Liquidação e
+  Custódia receberão, pelo valor bruto declarado de cada evento
+  deliberado, cujo valor será repassado por aquelas entidades para as
+  respectivas Instituições Custodiantes, sendo a responsabilidade pela
+  retenção e recolhimento do imposto de renda na fonte, e demais
+  obrigações acessórias geradas em virtude desse recolhimento, da pessoa
+  jurídica que realizar o pagamento final aos debenturistas.
+
+4.3. A OLIVEIRA TRUST fornecerá anualmente, à CONTRATANTE, nos termos da
+legislação aplicável, os dados dos eventos com incidência de imposto das
+debêntures registradas em contas de depósito na OLIVEIRA TRUST, pagos
+aos debenturistas, para efeito de declaração pela CONTRATANTE da DIRF -
+Declaração do Imposto Retido na Fonte.
+
+CLÁUSULA V
+
+DAS PESSOAS AUTORIZADAS, PESSOAS DE CONTATO E DA TRANSMISSÃO DE
+INFORMAÇÕES
+
+5.1. A OLIVEIRA TRUST somente prestará informações e/ou acatará as
+ordens da CONTRATANTE, respeitadas as regras e procedimentos definidos
+neste contrato, assinadas: (i) pelos representantes legais, acompanhados
+dos documentos de representação, (ii) pelos mandatários constituídos por
+procuração ou (iii) pelos indicados no formulário denominado Lista de
+Pessoas Autorizadas (“Pessoas Autorizadas”), cujo modelo foi
+disponibilizado junto com este contrato.
+
+  5.1.1. As solicitações de informações e/ou ordens poderão ser enviadas
+  por escrito ou por meio eletrônico (via Internet, E-mail ou
+  fac-símile), desde que os meios utilizados possam identificar o
+  representante legal e/ou a pessoa autorizada pela CONTRATANTE.
+
+  5.1.2. Nos casos em que a comunicação ocorrer por meio eletrônico (via
+  Internet, E-mail ou fac-símile), a CONTRATANTE deverá confirmar o
+  recebimento das referidas ordens pela OLIVEIRA TRUST, sob pena de não
+  surtirem efeito.
+
+  5.1.3. A CONTRATANTE obriga-se a comunicar a OLIVEIRA TRUST, de
+  imediato, as alterações, as inclusões e as exclusões de quaisquer
+  Pessoas Autorizadas ou dos dados informados, promovendo a substituição
+  do formulário.
+
+  5.1.4. As instruções transmitidas por Pessoas Autorizadas presumem-se
+  verdadeiras a OLIVEIRA TRUST, até que este seja notificado do
+  contrário, por escrito, pela CONTRATANTE.
+
+  5.1.5. Em caso de ambiguidade das instruções e/ou solicitações de
+  informações, transmitidas por quaisquer das Pessoas Autorizadas,
+  deverá a OLIVEIRA TRUST:
+
+(i) informar, por escrito, seja por correspondência e/ou por meio
+      eletrônico, imediatamente, à CONTRATANTE a respeito dessa
+      ambiguidade; e
+
+(ii) recusar-se a cumprir essas instruções até que a ambiguidade seja
+       sanada.
+
+5.2. Fica convencionado entre as Partes que as instruções e as
+solicitações de informação, previstas neste Contrato, como necessárias a
+consecução da prestação do serviço aqui avençados, para serem
+consideradas válidas, devem ser feitas tempestivamente, de forma clara,
+completa e segura, pelos meios previstos neste Contrato, sempre
+confirmada a recepção imediatamente, direcionadas e recebidas por
+pessoas com poderes para tanto.
+
+5.3. A OLIVEIRA TRUST cumprirá, sem qualquer responsabilidade, as
+instruções que acreditar de boa-fé terem sido dadas por Pessoas
+Autorizadas da CONTRATANTE.
+
+5.4 A OLIVEIRA TRUST poderá se pautar em quaisquer avisos, instruções ou
+solicitações, por escrito, que lhe sejam enviados, dentro das
+especificações contidas nesta Cláusula V, e que tenha motivos para
+acreditar que sejam documentos firmados ou apresentados pela (s) Parte
+(s) competente (s), não sendo responsável por quaisquer atos ou omissões
+amparados em tais documentos. A OLIVEIRA TRUST não estará obrigada a
+examinar ou investigar a validade, precisão ou conteúdo dos referidos
+documentos.
+
+CLÁUSULA VI
+
+DAS RESPONSABILIDADES E OBRIGAÇÕES DA OLIVEIRA TRUST
+
+6.1. A OLIVEIRA TRUST envidará os melhores esforços na prestação dos
+serviços objeto deste Contrato, responsabilizando-se por eventuais
+perdas e/ou danos resultantes de dolo e/ou culpa, devidamente
+comprovados, relativo aos serviços por ele prestados e por terceiros por
+ele contratados, sofridos pela CONTRATANTE, e/ou por terceiro, exceto se
+resultarem direta ou indiretamente de causas alheias ao seu controle e
+vontade ou resultantes de instruções erradas, incompletas, não claras,
+intempestivas e/ou de omissão na prestação de instruções pela
+CONTRATANTE necessárias à execução dos serviços contratados.
+
+  6.1.1. A responsabilidade acima mencionada, assumida pela OLIVEIRA
+  TRUST, será apurada na forma prevista na legislação em vigor.
+
+6.2. Ao realizar o serviço descrito neste Contrato, a OLIVEIRA TRUST
+observará as disposições e obrigações deste Contrato, de seus Anexos, da
+regulamentação e legislação aplicável.
+
+  6.2.1. A OLIVEIRA TRUST poderá, a seu critério, não cumprir as
+  instruções da CONTRATANTE e de seus debenturistas que julgue estarem
+  em desacordo com o mencionado no item 6.2. acima, devendo, no entanto,
+  comunicar a CONTRATANTE ou os debenturistas a respeito de tal recusa.
+
+6.3. A OLIVEIRA TRUST não será responsabilizada por operações realizadas
+pela CONTRATANTE e/ou respectivos titulares das contas de depósito em
+desconformidade com a legislação vigente.
+
+6.4. A OLIVEIRA TRUST não assumirá a responsabilidade pelo conteúdo,
+exatidão, veracidade, legitimidade quanto às debêntures emitidas pela
+CONTRATANTE, objeto da prestação dos serviços ora contratados, bem como
+por qualquer prejuízo causado aos debenturistas e a terceiros nestas
+hipóteses.
+
+6.5. Fica certa e definida para ambas as Partes que subscrevem este
+instrumento a inexistência de qualquer responsabilidade ou garantia da
+OLIVEIRA TRUST pelo pagamento de qualquer evento objeto deste Contrato
+aos debenturistas, cabendo a ele apenas e tão somente a responsabilidade
+pela execução dos atos e procedimentos previstos neste Contrato, em
+conformidade com as ordens dadas pela CONTRATANTE, devendo esta,
+defender, isentar e compensar a OLIVEIRA TRUST de tais responsabilidades
+ou garantias, judiciais ou extrajudicialmente.
+
+CLÁUSULA VII
+
+DAS OBRIGAÇÕES E RESPONSABILIDADES DA CONTRATANTE
+
+7.1. A CONTRATANTE é a única responsável pela emissão das debêntures e,
+portanto, única titular dos direitos e obrigações decorrentes de tal
+condição, devendo estar a CONTRATANTE e seus atos, enquadrada e de
+conformidade com toda a legislação e regulamentação pertinentes.
+
+7.2. A CONTRATANTE responsabiliza-se pela gestão, administração e
+manutenção de saldo suficiente em conta corrente a ser informada pela
+OLIVEIRA TRUSTe autoriza a OLIVEIRA TRUST a debitar esta conta para
+atendimento dos pagamentos previstos na Cláusula II, item 2.5 e Anexo I
+deste contrato, nas respectivas datas de liquidação, ficando a OLIVEIRA
+TRUST desobrigado de prestar os respectivos serviços enquanto não sejam
+disponibilizados os referidos valores, pelo que, desde já, é isentado de
+qualquer eventual responsabilidade por perdas e danos sofridos pela
+CONTRATANTE, pelos debenturistas e/ou por terceiro, de acordo com o
+disposto na Cláusula VI, item 6.1., deste Contrato.
+
+  7.2.1. A OLIVEIRA TRUST não assume qualquer obrigação de acolher ordem
+  de débito na conta corrente indicada no item 7.2. acima, para
+  pagamento dos proventos, caso não haja saldo suficiente e disponível.
+
+7.3. A OLIVEIRA TRUST prestará informações à CONTRATANTE dos lançamentos
+efetuados em sua conta corrente, por ocasião dos pagamentos realizados
+em razão dos eventos deliberados pela mesma.
+
+7.4. As Partes obrigam-se a observar as disposições e obrigações deste
+Contrato, de seus Anexos e da regulamentação e legislação aplicável.
+
+7.5 A CONTRATANTE terá prazo de 60 (sessenta) dias, contados da
+ocorrência, para indicar eventual irregularidade de escrituração ou de
+execução das suas instruções dadas A OLIVEIRA TRUST.
+
+  7.5.1. Constatada eventual irregularidade, e após sua apuração pela
+  OLIVEIRA TRUST o mesmo deverá corrigi-la, na medida do possível e no
+  prazo de até 15 (quinze) dias úteis, a contar da constatação, de
+  maneira a não causar maiores prejuízos, em concordância com a
+  CONTRATANTE.
+
+CLÁUSULA VIII
+
+DO MANDATO E DA AUTORIZAÇÃO
+
+8.1. A CONTRATANTE neste ato de forma irrevogável e irretratável nomeia
+e constitui a OLIVEIRA TRUST como seu procurador, de acordo com os
+Artigos 653, 683, 686 e seu parágrafo único do Código Civil Brasileiro,
+a quem confere poderes especiais e específicos para representá-la na
+prática dos atos necessários ao desempenho dos serviços ora contratados,
+especialmente para registrar transferências, movimentações e bloqueio de
+debêntures, executar deliberações de suas Assembleias Gerais Ordinárias,
+Extraordinárias, do Conselho de Administração ou de sua Diretoria,
+pagamento de eventos deliberados, receber e dar quitação, assinar termos
+de Abertura e Encerramento de Livros Sociais destinados ao registro das
+debêntures, representá-la perante os debenturistas, as repartições de
+Registro de Comércio, Juntas Comerciais em geral, Órgãos Arrecadadores
+do Ministério da Fazenda, Bolsa de Valores, Companhia Brasileira de
+Liquidação e Custódia – CBLC, Banco Central do Brasil (“BACEN”), BM&F
+Bovespa S.A. – Bolsa de Valores, mercadorias e futuros, Comissão de
+Valores Mobiliários – CVM, Câmara de Custódia e Liquidação – CETIP,
+Sociedade Operadora de Mercado de Ativos – SOMA, Sociedades Corretoras e
+Distribuidoras e Instituições Financeiras em geral, visando
+exclusivamente a consecução do objeto do Contrato; podendo ainda
+substabelecer esta, no todo ou em parte, somente para funcionários da
+OLIVEIRA TRUST integrantes do Departamento de Ações e Custódia.
+
+8.2. A OLIVEIRA TRUST observará estritamente as instruções que lhe forem
+dadas pela CONTRATANTE na execução do mandato que lhe é outorgado. Fica
+vedada assim a realização de qualquer outro negócio jurídico estranho a
+este Contrato.
+
+8.3. A OLIVEIRA TRUST fica autorizada pela CONTRATANTE, de forma
+irrevogável e irretratável, a prestar informações da base de dados dos
+debenturistas ou das contas de depósito, aos órgãos reguladores,
+fiscalizadores e juízo quando solicitadas, bem como acatar ordens de
+bloqueios das debêntures registradas nas contas de depósito.
+
+CLÁUSULA IX
+
+DA REMUNERAÇÃO
+
+9.1. Pelos serviços ora contratados, a CONTRATANTE pagará a OLIVEIRA
+TRUST a importância constante no Anexo I, conforme as considerações ali
+previstas.
+
+CLÁUSULA X
+
+DO PRAZO DE VIGÊNCIA E DA RESCISÃO
+
+10.1. O presente Contrato entrará em vigor a partir da data do registro
+das Debêntures na Comissão de Valores Mobiliários, e vigorará até o
+vencimento das mesmas em 21 de agosto de 2018.
+
+10.2. Este Contrato pode ser resilido a qualquer momento, por qualquer
+das partes, sem direito a compensações ou indenizações, mediante
+notificação da Parte interessada para a outra Parte, por escrito, com no
+mínimo 30 (trinta) dias de antecedência, contados do recebimento do
+comunicado pela outra Parte, período em que as Partes deverão cumprir
+regularmente com as obrigações ora assumidas.
+
+10.3. Caso haja resgate total das Debêntures, sendo retiradas de
+circulação antes de seu vencimento, a CONTRATANTE compromete-se a avisar
+a OLIVEIRA TRUST, no prazo mínimo de 5 (cinco) dias úteis de
+antecedência, para que sejam providenciados os termos cabíveis para o
+encerramento do Contrato, sendo que a quitação do Contrato somente se
+dará mediante o envio deste aviso a OLIVEIRA TRUST.
+
+10.4. Na resilição, a OLIVEIRA TRUST prestará conta de todos os serviços
+que até então tenham sido prestados/executados, recebendo, em seguida, a
+importância a que eventualmente fizer jus, perecendo o direito a
+qualquer pagamento pelo serviços que não tenham sido concluídos.
+
+  10.4.1 Sendo da CONTRATANTE a iniciativa de romper o Contrato, serão
+  devidos somente os valores em relação aos serviços das etapas já
+  concluídas e que estejam, ainda, pendentes de pagamento.
+
+10.5. Além das situações previstas neste instrumento e na legislação,
+este Contrato será rescindido/resilido de imediato e sem qualquer aviso,
+nas seguintes hipóteses:
+
+a)  Na superveniência de qualquer normativo ou instrução das autoridades
+    competentes, notadamente do BACEN, que impeça a contratação objeto
+    deste Contrato;
+
+b)  se qualquer das Partes tiver sua falência, intervenção ou liquidação
+    decretada;
+
+c)  se qualquer das Partes tiver cassada sua autorização para execução
+    dos serviços ora contratados;
+
+d)  se qualquer das Partes suspender suas atividades por qualquer
+    período de tempo igual ou superior a 60 (sessenta) dias;
+
+e)  se for constatada a ocorrência de práticas irregulares por qualquer
+    uma das Partes.
+
+f)  se não houver o pagamento da remuneração devida a OLIVEIRA TRUST.
+
+10.6. A infração de qualquer das cláusulas ou das condições aqui
+estipuladas poderá ensejar a imediata rescisão/resilição deste Contrato,
+por simples notificação escrita à Parte infratora, que terá o prazo de
+15 (quinze) dias úteis após o recebimento da notificação para sanar a
+falta. Decorrido o prazo acima descrito e não tendo sido sanada a falta,
+este Contrato será considerado rescindido de pleno direito, respondendo
+ainda a Parte infratora, pelas perdas e danos decorrentes do ato da
+rescisão que serão apuradas na forma prevista na legislação em vigor,
+quanto à culpa, o dolo, a negligência, imprudência ou imperícia
+praticada.
+
+CLÁUSULA XI
+
+DA CONFIDENCIALIDADE
+
+11.1. As Partes, por si, seus empregados e prepostos, sob as penas da
+lei, manterão, inclusive após a rescisão deste Contrato, o mais completo
+e absoluto sigilo sobre quaisquer dados, materiais, pormenores,
+documentos, especificações técnicas e comerciais de produtos e de
+informações das demais Partes, ou de terceiros, de que venham a ter
+conhecimento ou acesso, ou que lhes venham a ser confiados, sejam
+relacionados ou não com a prestação/execução de serviços objeto deste
+Contrato. A inobservância do disposto nesta cláusula acarretará sanções
+legais respondendo a infratora e quem mais tiver dado causa à violação,
+no âmbito civil e criminal, salvo quando a divulgação for imposta por
+lei, por ordem judicial, por autoridade fiscalizadora ou ainda se fizer
+necessário para a elaboração de algum relatório ou processo diretamente
+relativo ao escopo dos serviços prestados.
+
+  11.1.1. Excluem-se deste Contrato as informações: (i) de domínio
+  público; e, (ii) as que já eram do conhecimento da Parte receptora.
+
+11.2. Se uma das Partes, por determinação legal ou em decorrência de
+ordem judicial ou de autoridade fiscalizadora, tiver que revelar algo
+sigiloso, conforme especificado na Cláusula 11.1. supra, sem prejuízo do
+atendimento tempestivo à determinação legal ou administrativa,
+imediatamente dará notícia desse fato à outra Parte e lhe prestará as
+informações e subsídios que possam ser necessários para que a seu
+critério, possa defender-se contra a divulgação de qualquer das
+informações sigilosas.
+
+CLÁUSULA XII
+
+DAS PENALIDADES
+
+12.1. O inadimplemento, por qualquer das PARTES, de quaisquer das
+obrigações de pagamento previstas neste Contrato caracterizará, de pleno
+direito, independentemente de qualquer aviso ou notificação, a mora da
+PARTE inadimplente, sujeitando-a ao pagamento dos seguintes encargos
+pelo atraso: (i) juros de mora de 1% (um por cento) ao mês, calculados
+pro rata temporis desde a data em que o pagamento era devido até o seu
+integral recebimento pela Parte credora; (ii) multa convencional, não
+compensatória, de 2% (dois  por cento), calculada sobre o respectivo
+valor devido; e (iii) em qualquer hipótese, o valor devido será
+atualizado monetariamente a partir da data do seu vencimento original
+com base no índice acumulado de variação do IGP-M, conforme divulgado
+pela Fundação Getúlio Vargas ou outro que venha a substituí-lo.
+
+12.2  O descumprimento de qualquer condição prevista neste Contrato, por
+qualquer das PARTES que não se enquadre na Cláusula 10.1 acima, e desde
+que devidamente comprovado, obrigará a parte inadimplente a responder
+por eventuais perdas e/ou danos resultantes de dolo, fraude e/ou culpa,
+responsabilizando-se ademais pelas multas, atualizações monetárias e
+juros daí decorrentes, apurados na forma prevista na legislação em
+vigor.
+
+12.3. Não serão penalizáveis quaisquer atrasos que decorram de falhas de
+sistema e/ou de comunicação entre as PARTES, os quais, não obstante,
+deverão diligenciar para a imediata correção de tais falhas.
+
+CLÁUSULA XIII
+
+DAS DISPOSIÇÕES GERAIS E DAS DECLARAÇÕES
+
+13.1. A omissão ou tolerância das Partes em exigir o estrito cumprimento
+dos termos e condições deste Contrato, não constituirá novação ou
+renúncia, nem afetará os seus direitos que poderão ser exercidos a
+qualquer tempo.
+
+13.2. Todas e quaisquer correspondências ou comunicações trocadas entre
+as PARTES deverão ser encaminhadas para os seguintes endereços:
+
+OLIVEIRA TRUST:
+
+Avenida das Américas 500,Bloco 13
+
+Escrituração A/C Higor Barbosa
+
+13.3. Eventuais inclusões, exclusões ou alterações das cláusulas
+existentes serão consignadas em aditivo devidamente assinado pelas
+Partes, que passará a fazer parte integrante deste Contrato.
+
+13.4. Nenhuma Parte poderá ceder, transferir para terceiros, total ou
+parcialmente, os direitos e obrigações decorrentes deste Contrato, sem o
+prévio e expresso consentimento, por escrito, da outra Parte.
+
+13.5. As Partes são consideradas contratantes independentes e nada do
+presente Contrato criará qualquer outro vínculo entre elas, seja pelo
+aspecto empregatício, seja por quaisquer outros aspectos, tais como
+agente comercial, sociedade subsidiária, representação legal ou
+associação de negócios.
+
+13.6. As Partes reconhecem, expressamente, que a execução/prestação dos
+serviços ora contratados não gerará qualquer relação de emprego entre as
+Partes ou seus empregados ou prepostos.
+
+13.7. Os tributos que forem devidos em decorrência direta ou indireta do
+presente Contrato, ou de sua execução, constituem ônus de
+responsabilidade do contribuinte, conforme definido na legislação
+tributária.
+
+13.8. A CONTRATANTE reconhece, neste ato, que o serviço ora contratado
+está sujeito às leis, normas, costumes, procedimentos e práticas que
+podem vir a ser alterados. Na hipótese de ocorrer uma alteração na
+legislação que no todo ou em parte limite a prestação do serviço ora
+contratado, a OLIVEIRA TRUST deverá solicitar à CONTRATANTE novas
+instruções quanto aos procedimentos a serem tomados para o cumprimento
+das obrigações contraídas por meio deste Contrato, que sejam de comum
+acordo entre as Partes.
+
+13.9. A OLIVEIRA TRUST em hipótese alguma será responsabilizado por
+quaisquer atos e/ou atividades descritos no presente Contrato, que
+tenham sido praticados por terceiros anteriormente contratados pela
+CONTRATANTE.
+
+13.10. Com exceção das obrigações imputadas na OLIVEIRA TRUST neste
+Contrato e do disposto no Código Civil Brasileiro em vigor, na OLIVEIRA
+TRUST deverá ser mantido indene de qualquer outra responsabilidade
+decorrente de atos ou fatos por parte da CONTRATANTE, seus
+administradores, representantes e empregados, a não ser no caso de culpa
+manifesta relacionada às responsabilidades da OLIVEIRA TRUST previstas
+neste Contrato, dolo ou má-fé devidamente comprovados.
+
+13.11. A CONTRATANTE assume, neste ato, de maneira irrevogável e
+irretratável, total e integral responsabilidade por quaisquer perdas e
+danos, pessoais, morais ou materiais que vierem a ser sofridos pela
+OLIVEIRA TRUST, em razão da prestação do serviço ora avençada, que
+decorram de culpa ou dolo da CONTRATANTE, de seus empregados ou
+prepostos.
+
+A OLIVEIRA TRUST assume, neste ato, de maneira irrevogável e
+irretratável, total e integral responsabilidade por quaisquer perdas e
+danos, pessoais, morais ou materiais que vierem a ser sofridos pela
+CONTRATANTE, de seus empregados ou prepostos.
+
+13.12. Este Contrato obriga as Partes e seus sucessores a qualquer
+título.
+
+13.13. Fica expressamente vedado às Partes a utilização dos termos deste
+Contrato em divulgação ou publicidade, bem como, o uso do nome, marca e
+logomarca uma da outra,  para qualquer finalidade e em qualquer meio de
+comunicação,  quer seja na mídia impressa, escrita, falada ou
+eletrônica, incluindo-se, porém, sem se limitar, a publicação
+em portfólio de produtos e serviços, links, etc., sendo que a sua
+infração poderá ensejar a rescisão automática do presente Contrato, 
+além de  sujeitar-se a Parte infratora,  ao pagamento da multa
+contratual e perdas e danos que forem apuradas.
+
+13.14. As Partes não manterão qualquer vínculo empregatício com
+administradores, representantes,  empregados e/ou prepostos umas das
+outras, nem tampouco se estabelecerá entre elas qualquer forma de
+associação, competindo, portanto, a cada uma delas, particularmente e
+com exclusividade, o cumprimento de suas respectivas obrigações
+trabalhistas, sociais, previdenciárias e infortunísticas em função do
+objeto deste Contrato ou seus eventuais aditamentos, mesmo que houver
+legislação, jurisprudência e/ou outra qualquer circunstância de caráter
+judicial ou extrajudicial que possa provocar interpretação diferente.
+
+13.15. Cada Parte assume expressamente a obrigação de reembolsar a outra
+Parte, todas e quaisquer despesas referentes a ações trabalhistas que
+eventualmente venham ser movidas direta ou indiretamente por empregado
+de uma contra outra, inclusive custas judiciais e honorários
+advocatícios, conforme montante de despesas, custas e honorários
+determinado pelo juízo competente.
+
+13.16. Exceto se de outra maneira previsto neste Contrato e/ou na
+legislação aplicável, todos os custos e despesas, incluindo, mas não se
+limitando a honorários e despesas de advogados, consultores financeiros
+e auditores, incorridos com relação a esse Contrato e as operações aqui
+contempladas serão pagos pela Parte que incorrer nestes custos e
+despesas.
+
+13.17. Os casos fortuitos e de força maior são excludentes da
+responsabilidade das Partes, nos termos do artigo 393 do Código Civil
+Brasileiro.
+
+13.18. Se qualquer das PARTES, em qualquer tempo ou período, não fizer
+valer qualquer um ou mais dos termos ou condições deste Contrato, isso
+não será considerado novação ou renúncia dos referidos termos ou
+condições ou do direito de, em qualquer tempo posterior, fazer valer
+todos os termos e condições deste Contrato. A renúncia e novação serão
+sempre feitas por escrito entre as PARTES.
+
+13.19. Cada uma das Partes garante à outra Parte: (i) que está investida
+de todos os poderes e autoridade para firmar e cumprir as obrigações
+aqui previstas e consumar as transações aqui contempladas; e, (ii) que a
+assinatura e o cumprimento do presente Contrato não resulta violação de
+qualquer direito de terceiros, lei ou regulamento aplicável ou, ainda,
+violação, descumprimento ou inadimplemento de qualquer contrato,
+instrumento ou documento do qual seja parte ou pelo qual tenha qualquer
+ou quaisquer de suas propriedades vinculadas e/ou afetadas, nem na
+necessidade de obter qualquer autorização nos termos de qualquer
+contrato, instrumento ou documento do qual seja parte, ou pelo qual
+tenha qualquer ou quaisquer de suas propriedades vinculadas e/ou
+afetadas, nem na necessidade de obter qualquer autorização nos termos de
+qualquer Contato, instrumento ou documento do qual seja parte, ou pelo
+qual tenha qualquer ou quaisquer de suas propriedades vinculadas e/ou
+afetadas.
+
+13.20. Este Contrato constitui todo o entendimento e acordo entre as
+Partes e substitui todas as garantias, condições, promessas,
+declarações, contratos e acordos verbais ou escritos, anteriores sobre o
+objeto deste Contrato.
+
+13.21. As Partes declaram que tiveram prévio conhecimento de todas as
+cláusulas e condições deste Contrato, concordando expressamente com
+todos os seus termos.
+
+13.22. As Partes declaram que lhes foi apresentado, previamente, uma
+minuta deste Contrato, contendo na íntegra todas as suas cláusulas, que
+foram lidas e entendido em toda a sua extensão concordando com todos os
+termos dispostos.
+
+13.23. As Partes obrigam-se a observar as disposições e obrigações deste
+Contrato, de seus Anexos e da Lei aplicável, cabendo ao CONTRATANTE
+verificar as responsabilidades quanto a emissão e distribuição das ações
+por ela emitidas em nome dos respectivos titulares e todos os eventos
+deliberados, e a OLIVEIRA TRUST pela prestação dos serviços ora
+contratados.
+
+13.24. Todos os processos descritos na Cláusula II serão analisados pela
+OLIVEIRA TRUST e, se for o caso, poderão ser exigidos documentos
+complementares às partes envolvidas para o devido registro, bem como os
+processos estão sujeitos à confirmação da autenticidade da ordem dada,
+para sua liberação, e se não forem atendidas todas as exigências em
+conformidade com a legislação vigente à época em que ocorrer o registro
+e também que possibilite a correta identificação do titular da conta de
+depósito, a OLIVEIRA TRUST poderá efetuar a devolução do processo à
+origem, informando o motivo de tal recusa.
+
+13.25. As PARTES declaram, conjunta e expressamente, que o presente
+Contrato foi celebrado respeitando-se os princípios de probidade e de
+boa-fé, por livre, consciente e firme manifestação de vontade e em
+perfeita relação de equidade.
+
+13.26. Se, em decorrência de qualquer decisão judicial irrecorrível,
+qualquer disposição ou termo deste Contrato for declarada nula ou for
+anulada, tal nulidade ou anulabilidade não prejudicará a vigência das
+demais Cláusulas deste Contrato não atingidas pela declaração de
+nulidade ou pela anulação.
+
+13.27. As Partes declaram e garantem mutuamente, que:
+
+  a) exercem suas atividades em conformidade com a legislação vigente a
+  elas aplicável, e que detêm as aprovações necessárias à celebração
+  deste Contrato, e ao cumprimento das obrigações nele previstas;
+
+  b) não utilizam trabalho ilegal, e compromete-se a não utilizar
+  práticas de trabalho análogo ao escravo, ou de mão de obra infantil, e
+  do menor até 18 (dezoito) anos de idade, recomendando a não utilização
+  aos seus fornecedores, , salvo na condição de aprendiz, a partir de 14
+  (quatorze) anos de idade;
+
+  c) não empregam menor até 18 anos, inclusive menor aprendiz, em locais
+  prejudiciais a sua formação, ao seu desenvolvimento físico, psíquico,
+  moral e social, bem como em locais e serviços perigosos ou insalubres,
+  em horários que não permitam a freqüência à escola e, ainda, em
+  horário noturno, considerando este o período compreendido entre as 22h
+  (vinte e duas horas) e 5h (cinco horas), recomendando aos seus
+  fornecedores a mesma prática;
+
+  d) não utilizam práticas de discriminação negativa, e limitativas ao
+  acesso na relação de emprego ou a sua manutenção, tais como, mas não
+  se limitando a, motivos de sexo, origem, raça, cor, condição física,
+  religião, estado civil, idade, situação familiar ou estado gravídico;
+
+  e) comprometem-se a proteger e preservar o meio ambiente, bem como a
+  prevenir e erradicar práticas danosas ao meio ambiente, executando
+  seus serviços em observância à legislação vigente no que tange a
+  Política Nacional do Meio Ambiente e dos Crimes Ambientais, bem como
+  dos atos legais, normativos e administrativos relativos à área
+  ambiental e correlata, emanados das esferas Federal, Estaduais e
+  Municipais.
+
+13.31. A OLIVEIRA TRUST completará, se a CONTRATANTE assim desejar
+mediante autorização escrita dessa, os negócios já iniciados cuja
+liquidação deva ocorrer após o fim do prazo de denúncia.
+
+13.32. Ocorrendo a extinção do presente Contrato por qualquer motivo ou
+hipótese, a OLIVEIRA TRUST compromete-se a garantir a transmissão,
+especialmente por via eletrônica, à CONTRATANTE e/ou pessoas por ela
+indicadas, de todas as informações relativas aos debenturistas que
+estejam em sua base de dados por conta do objeto deste Contrato, até a
+data da resilição do mesmo, sem qualquer custo adicional à CONTRATANTE.
+
+CLÁUSULA XIV
+
+DOS DOCUMENTOS INTEGRANTES
+
+14.1. O Anexo I Comissionamento da Prestação de Serviços, devidamente
+rubricado pelas Partes, integra este Contrato para todos os fins e
+efeitos de direito, como se nele estivesse transcrito.
+
+CLÁUSULA XV
+
+DO FORO
+
+15.1. Fica eleito pelas Partes o Foro da Cidade do Rio de Janeiro,
+Estado do Rio de Janeiro, para dirimir quaisquer dúvidas ou questões
+decorrentes deste Contrato.
+
+E por estarem de acordo, assinam o presente, em 02 (duas) vias, de igual
+teor e forma, juntamente com as 02 (duas) testemunhas abaixo.
+
+Rio de Janeiro, 02 de setembro de 2014.
+
+SPE SÃO FRANCISCO EMPREENDIMENTOS IMOBILIÁRIOS S.A.
+
+OLIVEIRA TRUST DTVM S.A.
+
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE ESCRITURAÇÃO DE DEBENTURES
+
+ANEXO I - DETALHAMENTO DOS SERVIÇOS
+
+1. INFORMAÇÃO AOS DEBENTURISTAS
+
+1.1. A OLIVEIRA TRUST fornecerá aos debenturistas extrato da conta de
+depósito dos ativos, sempre que solicitado, no momento em que for
+movimentada e, ainda que não haja movimentação, ao menos 01 (uma) vez
+por ano.
+
+1.2. A OLIVEIRA TRUST fornecerá os avisos de pagamentos de proventos e
+boletim para subscrição de direitos quando deliberados pela CONTRATANTE
+e informes anuais para fins de declaração de imposto de renda.
+
+1.3. A OLIVEIRA TRUST somente enviará extratos e avisos aos
+debenturistas que estiverem com o endereço válido em seu cadastro.
+
+1.4. A OLIVEIRA TRUST observará o disposto no Art. 3º, parágrafo 2º, da
+Instrução CVM nº 301 de 16/04/1999 e deverá, se necessário, efetuar o
+bloqueio do envio de correspondências quando o(s) debenturista(s) não
+possuir(em) os dados necessários em seu cadastro, por falta de
+atualização, bem como por devolução dos correios por insuficiência de
+informações.
+
+ANEXO II – REMUNERAÇÃO
+
+1. Prestação de Serviços de Escrituração e Liquidação de Debêntures
+
+Pela prestação de serviços de Escrituração e Liquidação de Debêntures
+Será devido o valor de R$ 1.500,00 (mil e quinhentos reais) mensais,
+devido no 2º dia útil de cada mês calendário.
+
+2. Repasse de Custos 
+
+A Oliveira Trust repassará a CONTRATANTE os seguintes custos quando
+ocorrer, os quais não se encontram inclusos no item 1:
+
+As remunerações não incluem os custos adicionais para (i) envio de
+DOC/TED para pagamentos (custo unitário de R$ 5,00 nos casos em que as
+debêntures forem escriturais); (ii) cadastro dos debenturistas no
+sistema de escrituração da Oliveira Trust (custo unitário de R$ 5,00,
+nos casos em que forem escriturais) e (iii) envio dos extratos e
+informes periódicos (custo individual de R$ 0,50 acrescido dos custos do
+correio).
+
+3. Cobrança da Prestação dos Serviços
+
+Mensalmente, a Oliveira Trust fará levantamento dos SERVIÇOS
+efetivamente prestados e remeterá fatura para o Emissor, com vencimento
+até o dia 5 (cinco) do mês subsequente.
+
+Caso o dia da cobrança citado seja fim de semana ou feriado nacional o
+débito na conta corrente será no dia útil imediatamente posterior.
+
+4. Atualização dos valores de prestação de serviços
+
+Os custos apresentados neste anexo serão atualizados anualmente pelo IGP-M FGV e em caso de extinção, adotaremos o índice substituto constante da Lei.
+
+5. Impostos
+
+Os impostos incidentes sobre a remuneração serão acrescidos aos valores
+devidos pela Emissora (ISS, PIC, COFINS, CSLL e IRRF).
+
+6. Considerações Finais
+
+Caso ocorra alteração expressiva na quantidade de debenturistas, em
+razão de algum evento deliberado, a Oliveira Trust se reserva o direito
+de rever com a CONTRATANTE os custos definidos neste anexo.
+
+ANEXO III
+
+RELAÇÃO DE PESSOAS AUTORIZADAS PARA ENVIO DE INSTRUÇÕES
+
+Prezados \Senhores, vimos pela presente nomear as seguintes pessoas,
+como autorizadas, as quais poderão, em conjunto ou isoladamente, assinar
+e enviar instruções relativas ao referido Contrato, observado todos os
+seus termos e condições:
+
+Nome ( ) EM CONJUNTO
+
+Endereço Internet ( ) E-MAIL - INTERNET
+
+2-
+
+Nome
+
+Endereço Internet
+
+3-
+
+Nome
+
+Endereço Internet
+
+4-
+
+Nome

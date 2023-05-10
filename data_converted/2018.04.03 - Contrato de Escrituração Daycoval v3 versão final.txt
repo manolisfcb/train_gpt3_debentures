@@ -1,0 +1,728 @@
+[Descrição: SeloServQualificados - Anbima.JPG]
+
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE ESCRITURAÇÃO DE LETRAS FINANCEIRAS
+
+Pelo presente “Contrato de Escrituração de Letras Financeiras”, as
+partes (doravante denominadas simplesmente “Partes” ou, isoladamente,
+“Parte”):
+
++-----------------------------------+--------------+--------+---------+
+| OLIVEIRA TRUST DTVM S.A. (“Agente |              | C      |         |
+| Escriturador”)                    |              | NPJ/MF |         |
+|                                   |              |        |         |
+|                                   |              | 36.113 |         |
+|                                   |              | .876/0 |         |
+|                                   |              | 001-91 |         |
++-----------------------------------+--------------+--------+---------+
+| Endereço                          | Cidade       | Estado | CEP     |
+|                                   |              |        |         |
+| Rua Joaquim Floriano, nº 1.052,   | São Paulo    | SP     | 04      |
+| sala 132                          |              |        | 534-004 |
++-----------------------------------+--------------+--------+---------+
+
+  e
+
++---------------------------------+-------------+-----------+---------+
+| BANCO DAYCOVAL S.A. (“Emissor”) |             |   CNPJ/MF |         |
+|                                 |             |           |         |
+|                                 |             |           |         |
+|                                 |             | 62.232.88 |         |
+|                                 |             | 9/0001-90 |         |
++---------------------------------+-------------+-----------+---------+
+| Endereço                        |   Cidade    |   Estado  |   CEP   |
+|                                 |             |           |         |
+| Avenida Paulista, nº 1.793, 11º |   São Paulo |   SP      |   01    |
+| andar                           |             |           | 311-200 |
++---------------------------------+-------------+-----------+---------+
+
+CONSIDERANDO QUE:
+
+I.  O Emissor é companhia aberta com sede na Avenida Paulista, nº 1793,
+    11º andar, CEP 01311-200, na cidade de São Paulo, Estado de São
+    Paulo, inscrito no CNPJ/MF sob o nº 62.232.889/0001-90, neste ato
+    representado na forma de seu Estatuto Social;
+
+II. O Emissor tem interesse em contratar o Agente Escriturador, entidade
+    habilitada e autorizada pela Comissão de Valores Mobiliários
+    (“CVM”), para o exercício das atividades relativas à escrituração
+    dos Ativos, na forma detalhada neste Contrato, podendo, para tanto,
+    praticar todos os atos previstos na legislação vigente para os fins
+    previstos neste Contrato, conforme disposto na Instrução da CVM nº
+    543, de 20 de dezembro de 2013, conforme alterada ("Instrução CVM
+    543"); e
+
+III. O Agente Escriturador concorda e aceita prestar os serviços acima
+     indicados em favor do Emissor, no âmbito da emissão dos Ativos,
+
+As Partes acima nomeadas e qualificadas, aqui devidamente representadas
+por seus representantes legais, conforme disposto em seus respectivos
+atos constitutivos, têm entre si certo e ajustado o presente
+(“Contrato”), nos termos das Cláusulas e das condições seguintes:
+
+CLÁUSULA I
+
+DO OBJETO
+
+1.  O Agente Escriturador, prestará ao Emissor, de forma exclusiva,
+    serviços de escrituração da 1ª e 2ª Séries da 6ª Emissão de Letras
+    Financeiras do Banco Daycoval S.A. (“Ativos”), nos termos da
+    Instrução CVM 543, incluindo o controle da titularidade dos Ativos
+    em nome dos respectivos investidores, registrados em contas de
+    depósito mantidas no Agente Escriturador, na qualidade de
+    escriturador, ou nos depositários centrais, constituídos e
+    organizados nos termos da legislação aplicável (“Depositário
+    Central”), hipótese em que deverá ser observado ainda o disposto nos
+    manuais operacionais e normas da respectiva instituição.
+
+    1.  Nos termos do inciso I do artigo 11 da Instrução CVM 543,
+        durante a vigência deste Contrato, apenas o Agente Escriturador
+        poderá praticar os atos de escrituração dos Ativos.
+
+    2.  O Agente Escriturador deverá efetuar a escrituração, conforme o
+        caso, dos Ativos, devendo o Emissor, caso necessário, fornecer
+        ao Agente Escriturador toda a documentação solicitada pelo
+        Agente Escriturador necessário ao exercício de suas funções
+        legais e contratuais, de acordo com a legislação, normas e
+        procedimentos aplicáveis.
+
+CLÁUSULA II
+
+DISCRIMINAÇÃO DOS SERVIÇOS DE ESCRITURAÇÃO
+
+2.  Implantação dos Dados:
+
+    1.  O Agente Escriturador implantará em seu sistema de escrituração,
+        utilizando-se das informações colocadas à sua disposição pelo
+        Depositário Central ou, caso necessário, pelo Emissor, com a
+        finalidade de formar o banco de dados dos titulares da
+        totalidade dos Ativos, a saber:
+
+(i) Identificação dos investidores;
+
+(ii) Quantidades de Ativos detidos por cada investidor;
+
+(iii) Qualquer ônus que recaia sobre os Ativos;
+
+(iv) Guarda de via original dos Termos e Condições da 6ª (sexta) Emissão
+     de Letras Financeiras para Distribuição Pública com Esforços
+     Restritos de Distribuição, nos Termos da Instrução CVM nº 476, do
+     Banco Daycoval S.A., celebrado em 26 de março de 2018, entre o
+     Agente Escriturador e o Emissor (“Instrumento”);
+
+(v) Boletim de Subscrição; e
+
+(vi) Extrato da Conta, caso aplicável.
+
+     1.  Caso aplicável, o Emissor encaminhará ao Agente Escriturador,
+         por meio eletrônico (via internet, e-mail ou fac-símile) ou
+         físico as informações referidas no item 2.1 acima, com relação
+         à liquidação da distribuição dos Ativos.
+
+     2.  Quando a integralização ocorrer por meio de Depositário Central
+         fica sob a responsabilidade dessa a divulgação ao Agente
+         Escriturador dos dados dos titulares e respectivas quantidades
+         dos Ativos emitidos detidos por cada investidor.
+
+     1.  Informação aos Investidores:
+
+         1.  O Agente Escriturador será responsável pelo tratamento das
+             instruções de movimentação dos Ativos recebidas de seus
+             titulares ou de pessoas autorizadas por contrato ou
+             mandato, e fornecerá aos titulares de Ativos, ou seus
+             representantes legais, extrato da conta de depósito dos
+             Ativos, ao menos 01 (uma) vez por ano ou quando solicitado.
+
+     2.  Registro em Contas de Depósito:
+
+         1.  O Agente Escriturador escriturará em contas de depósito a
+             titularidade dos Ativos, incluindo, sem limitação,
+             transferência, gravames, os registros de atualização de
+             dados cadastrais, desde que cumpridas as exigências legais
+             e documentação pertinente a cada processo, considerando-se
+             as informações encaminhadas pelo Emissor, caso necessário,
+             pelo Depositário Central, pelo órgão regulador ou pelo
+             próprio titular do Ativo.
+
+     3.  Deliberações de Eventos:
+
+         1.  O Agente Escriturador dará cumprimento às deliberações do
+             Emissor e dos titulares de Ativos, assim como procederá o
+             registro de emissão dos Ativos, dos direitos gerados, e
+             outras alterações nas contas de depósito em nome dos
+             investidores, decorrente de atos de responsabilidade do
+             Emissor, bem como outros eventos que possam ser deliberados
+             em conformidade com o Instrumento, devendo ser observados
+             os seguintes requisitos:
+
+             1.  O Emissor deverá cientificar o Agente Escriturador,
+                 imediatamente e por escrito, da realização de qualquer
+                 assembleia, reunião ou qualquer evento que venha a
+                 ocorrer com os Ativos , de forma que o Agente
+                 Escriturador tenha tempo hábil para tomar as
+                 providências cabíveis ao seu cumprimento.
+
+             2.  Os eventos deliberados deverão estar em conformidade
+                 com a legislação vigente à época em que ocorrerem, bem
+                 como com o Instrumento.
+
+             3.  O não cumprimento pelo Emissor das obrigações previstas
+                 no item 2.4.1.1 e 2.4.1.2, desobrigará o Agente
+                 Escriturador por eventuais responsabilidades a ele
+                 imputadas pelo não cumprimento das deliberações
+                 realizadas.
+
+  CLÁUSULA III
+
+  DAS PESSOAS AUTORIZADAS, PESSOAS DE CONTATO E DA TRANSMISSÃO DE
+  INFORMAÇÕES.
+
+3.  O Agente Escriturador somente prestará informações e/ou acatará
+    ordens do Emissor e dos titulares de Ativos, respeitadas as regras e
+    os procedimentos definidos neste Contrato, desde que não contrariem
+    as previsões do Instrumento e que tais solicitações sejam realizadas
+    por escrito e assinadas: (i) por 2 Diretores Executivos ou por 2
+    representantes legais comprovados do Emissor, (ii) pelos mandatários
+    do Emissor, constituídos por procuração; ou (iii) por pessoa
+    indicada na Lista de Pessoas Autorizadas indicadas no “Anexo I” do
+    presente Contrato, que poderá ser atualizada a qualquer momento pelo
+    Emissor, sem necessidade de aditivo a este Contrato, mediante o
+    envio de notificação por escrito ao Agente Escriturador (“Pessoas
+    Autorizadas”), sem prejuízo das ações que vierem a ser deliberadas
+    pelos titulares de Ativos, no âmbito de uma Assembleia de Credores.
+
+    1.  As solicitações de informações e/ou ordens poderão ser enviadas
+        por correio ou por meio eletrônico (via Internet, E-mail ou
+        fac-símile), desde que os meios utilizados possam identificar o
+        representante legal e/ou a Pessoa Autorizada pelo Emissor.
+
+    2.  O Emissor obriga-se a comunicar ao Agente Escriturador, as
+        alterações, as inclusões e as exclusões de quaisquer Pessoas
+        Autorizadas ou dos dados informados, promovendo a substituição
+        do formulário.
+
+    3.  As instruções, transmitidas pelas Pessoas Autorizadas na forma
+        deste instrumento e pelos titulares de Ativos, deverão ser
+        claras e precisas, presumindo-se verdadeiras pelo Agente
+        Escriturador.
+
+    4.  O Agente Escriturador não acatará as instruções recebidas
+        incompletas e com ambiguidade, devendo, na mesma data em que
+        receber tais instruções, solicitar por escrito, ou seja, por
+        correspondência e/ou por meio eletrônico, esclarecimentos
+        adicionais ao Emissor e/ou daqueles que passaram as instruções.
+        O Agente Escriturador somente acatará as ordens recebidas após o
+        completo esclarecimento das instruções recebidas.
+
+    5.  Fica convencionado entre as Partes que as instruções e as
+        solicitações de informação previstas neste Contrato, como
+        necessárias à consecução da prestação do serviço aqui avençados,
+        deverão ser feitas tempestivamente, de forma clara, completa e
+        segura, pelos meios previstos neste Contrato, direcionadas e
+        recebidas por pessoas com poderes para tanto, para serem
+        consideradas válidas.
+
+    6.  O Agente Escriturador cumprirá as instruções que acreditar de
+        boa-fé terem sido dadas por Pessoas Autorizadas e pelos
+        titulares de Ativos, sem que implique a assunção de
+        responsabilidade por tais instruções e seus efeitos.
+
+    7.  O Agente Escriturador poderá se pautar em quaisquer avisos,
+        instruções ou solicitações, por escrito, que lhe sejam enviados,
+        dentro das especificações contidas nesta Cláusula III, e que
+        tenha motivos para acreditar que sejam documentos firmados ou
+        apresentados pelo Emissor, pelos titulares de Ativos ou seus
+        representantes legais, não sendo responsável por quaisquer atos
+        ou omissões amparados em tais documentos, salvo em caso de dolo
+        comprovado do Agente Escriturador.
+
+    8.  Para o cumprimento dos serviços estabelecidos no presente
+        Contrato, as instruções encaminhadas ao Agente Escriturador
+        deverão observar os horários indicados no “Anexo II”.
+
+CLÁUSULA IV
+
+  DAS RESPONSABILIDADES E OBRIGAÇÕES DO AGENTE ESCRITURADOR
+
+4.  O Agente Escriturador obriga-se a prestar todos os serviços objeto
+    deste Contrato e de seus Anexos e da regulamentação e legislação
+    aplicável.
+
+    1.  O Agente Escriturador não será responsabilizado por operações
+        realizadas pelo Emissor e/ou os respectivos titulares das contas
+        de depósito em desconformidade com a legislação vigente.
+
+    2.  O Agente Escriturador não assumirá a responsabilidade pelo
+        conteúdo, exatidão, veracidade, legitimidade dos Ativos, bem
+        como por qualquer prejuízo causado aos titulares de Ativos e a
+        terceiros nestas hipóteses.
+
+    3.  Fica certa e definida para ambas as Partes a inexistência de
+        qualquer responsabilidade ou garantia do Agente Escriturador
+        pelo pagamento de qualquer evento relacionado aos Ativos,
+        cabendo a ele apenas e tão somente a responsabilidade pela
+        execução dos atos e procedimentos previstos neste Contrato e no
+        Instrumento, incluindo, sem limitação:
+
+(i) remeter ou disponibilizar ao Emissor e aos titulares de Ativos,
+    mensalmente, extrato de posição dos investidores até o 5º dia útil;
+
+(ii) atualizar o saldo dos investidores com base no valor da ativo a ser
+     enviado diariamente pelo Emissor e seus titulares;
+
+(iii) utilizar sistema que efetue o registro e a manutenção do cadastro
+      dos titulares das Letras Financeiras;
+
+(iv) conciliar os créditos decorrentes da subscrição e integralização
+     das Letras Financeiras com as informações, caso necessário,
+     passadas pelo Emissor e pela B3 S.A. – Brasil, Bolsa, Balcão
+     (“B3”); e
+
+(v) averbar gravames que incidam sobre as Letras Financeiras.
+
+CLÁUSULA V
+
+DAS OBRIGAÇÕES E RESPONSABILIDADES DA CONTRATANTE
+
+5.  O Emissor é o único responsável pela emissão dos Ativos e, portanto,
+    único titular dos direitos e obrigações decorrentes de tal condição,
+    devendo o Emissor e seus atos estarem em conformidade com a
+    legislação e regulamentação pertinentes.
+
+    1.  As Partes obrigam-se a observar as disposições e obrigações
+        deste Contrato, de seus Anexos e da regulamentação e legislação
+        aplicável.
+
+    2.  Constatada eventual irregularidade de escrituração ou de
+        execução das instruções passadas ao Agente Escriturador nos
+        termos deste Contrato, o Agente Escriturador deverá corrigi-las,
+        no prazo de até 3 (três) dias úteis, a contar do recebimento de
+        notificação nesse sentido.
+
+    3.  Caso seja deliberado pelo Emissor o pagamento de proventos, bem
+        como eventual alteração, resgate ou amortização dos Ativos, o
+        Agente Escriturador deverá ser comunicado na mesma data da
+        deliberação.
+
+CLÁUSULA VI
+
+DA REMUNERAÇÃO
+
+6.  Pelos serviços ora contratados, o Emissor pagará ao Agente
+    Escriturador a importância constante no “Anexo III”, conforme as
+    considerações ali previstas.
+
+CLÁUSULA VII
+
+DO PRAZO DE VIGÊNCIA E DA RESCISÃO
+
+7.  O presente Contrato entrará em vigor a partir da data de assinatura,
+    e vigorará até 1 (um) mês após a data de vencimento dos Ativos ou,
+    conforme o caso, até 1 (um) mês após o resgate integral dos Ativos.
+
+    1.  Este Contrato pode ser resilido a qualquer momento, por qualquer
+        das Partes, sem direito a compensações ou indenizações, mediante
+        notificação da Parte interessada para a outra Parte, por
+        escrito, com, no mínimo, 30 (trinta) dias de antecedência,
+        contados do recebimento do comunicado pela outra Parte, período
+        em que as Partes deverão cumprir regularmente com as obrigações
+        ora assumidas.
+
+    2.  Na resilição, o Agente Escriturador prestará conta de todos os
+        serviços que até então tenham sido prestados/executados,
+        recebendo, em seguida, a importância a que eventualmente fizer
+        jus, perecendo o direito a qualquer pagamento pelos serviços que
+        não tenham sido concluídos.
+
+        1.  Sendo do Emissor a iniciativa de romper o Contrato, serão
+            devidos ao Agente Escriturador somente os valores em relação
+            aos serviços das etapas já concluídas e que estejam, ainda,
+            pendentes de pagamento.
+
+    3.  Além das situações previstas neste instrumento e na legislação,
+        este Contrato poderá ser considerado como rescindido/resilido de
+        imediato e sem qualquer aviso, nas seguintes hipóteses:
+
+(i) na superveniência de qualquer normativo ou instrução das autoridades
+    competentes, notadamente do BACEN, que impeça a prestação dos
+    serviços objeto deste Contrato;
+
+(ii) se o Agente Escriturador tiver sua falência, intervenção,
+     liquidação ou evento equivalente decretado;
+
+(iii) se o Agente Escriturador tiver cassada sua autorização para
+      execução dos serviços ora contratados;
+
+(iv) se o Agente Escriturador suspender suas atividades por período
+     igual ou superior a 30 (trinta) dias, ou por período inferior,
+     desde que impacte negativamente os titulares dos Ativos;
+
+(v) se for constatada a ocorrência de práticas irregulares por qualquer
+    uma das Partes; e
+
+(vi) se não houver o pagamento da remuneração devida ao Agente
+     Escriturador, desde que tal inadimplemento não seja sanado em até 5
+     (cinco) dias úteis do recebimento de solicitação informando o
+     Emissor do respectivo evento.
+
+     1.  A infração de quaisquer das Cláusulas ou das condições aqui
+         estipuladas poderá ensejar a imediata rescisão/resilição deste
+         Contrato, mediante o envio de comunicação escrita à Parte
+         infratora, que terá o prazo de 15 (quinze) dias úteis após o
+         recebimento da comunicação para sanar a falta. Decorrido o
+         prazo acima descrito e não tendo sido sanada a falta, este
+         Contrato será considerado rescindido de pleno direito,
+         respondendo ainda a Parte infratora pelas perdas e danos
+         decorrentes do ato da rescisão que lhe serão apuradas na forma
+         prevista na legislação em vigor, quanto à culpa, o dolo, a
+         negligência, imprudência ou imperícia praticada.
+
+CLÁUSULA VIII
+
+DA CONFIDENCIALIDADE
+
+8.  As Partes, por si, seus empregados e prepostos, sob as penas da lei,
+    manterão, inclusive após a rescisão deste Contrato, o mais completo
+    e absoluto sigilo sobre quaisquer dados, materiais, pormenores,
+    documentos, especificações técnicas e comerciais de produtos e de
+    informações das demais Partes, ou de terceiros, de que venham a ter
+    conhecimento ou acesso, ou que lhes venham a ser confiados, sejam
+    relacionados ou não com a prestação/execução de serviços objeto
+    deste Contrato. A inobservância do disposto nesta Cláusula
+    acarretará sanções legais respondendo a infratora e quem mais tiver
+    dado causa à violação, no âmbito civil e criminal, salvo quando a
+    divulgação for imposta por lei, por ordem judicial, por autoridade
+    fiscalizadora ou ainda se fizer necessário para a elaboração de
+    algum relatório ou processo diretamente relativo ao escopo dos
+    serviços prestados.
+
+    1.  Excluem-se deste Contrato as informações: (i) de domínio
+        público; e, (ii) que já eram do conhecimento da Parte receptora
+        anteriormente à celebração do presente Contrato.
+
+    2.  Se uma das Partes, por determinação legal ou em decorrência de
+        ordem judicial ou de autoridade fiscalizadora, tiver que revelar
+        algo sigiloso, sem prejuízo do atendimento tempestivo à
+        determinação legal ou administrativa e desde que não aja
+        proibição da divulgação pelo órgão judicial ou administrativo,
+        dará notícia desse fato à outra Parte e lhe prestará as
+        informações e subsídios que possam ser necessários para que, a
+        seu critério, possa defender-se contra a divulgação de qualquer
+        das informações sigilosas.
+
+    3.  As obrigações de confidencialidade previstas nesta Cláusula VIII
+        permanecerão válidas pelo prazo de 1 (um) ano a contar da
+        resilição ou rescisão do presente Contrato.
+
+CLÁUSULA IX
+
+DAS PENALIDADES
+
+9.  O inadimplemento, pelo Emissor, de quaisquer das obrigações de
+    pagamento previstas neste Contrato caracterizará, de pleno direito,
+    independentemente de qualquer aviso ou notificação, a mora do mesmo,
+    sujeitando-o ao pagamento dos seguintes encargos pelo atraso: (i)
+    juros de mora de 1% (um por cento) ao mês, calculados pro rata
+    temporis desde a data em que o pagamento era devido até o seu
+    integral recebimento pelo Agente Escriturador; (ii) multa
+    convencional, não compensatória, de 2% (dois  por cento), calculada
+    sobre o respectivo valor devido; e (iii) em qualquer hipótese, o
+    valor devido será atualizado monetariamente a partir da data do seu
+    vencimento original com base no índice acumulado de variação do
+    IGP-M, conforme divulgado pela Fundação Getúlio Vargas ou outro que
+    venha a substituí-lo.
+
+    1.  O descumprimento de qualquer condição prevista neste Contrato,
+        por quaisquer das Partes, desde que devidamente comprovado,
+        obrigará a Parte inadimplente a responder por eventuais perdas
+        e/ou danos resultantes de dolo, fraude e/ou culpa, sofridos pela
+        Parte inocente, desde que devidamente comprovados o nexo causal
+        e o respectivo dano, responsabilizando-se ademais pelas multas,
+        atualizações monetárias e juros daí decorrentes, apurados na
+        forma prevista na legislação em vigor.
+
+    2.  Não serão penalizáveis quaisquer atrasos que decorram de falhas
+        de sistema e/ou de comunicação entre as Partes, os quais, não
+        obstante, deverão diligenciar para a imediata correção de tais
+        falhas.
+
+CLÁUSULA X
+
+DAS DISPOSIÇÕES GERAIS E DAS DECLARAÇÕES
+
+10. A omissão ou tolerância das Partes em exigir o estrito cumprimento
+    dos termos e condições deste Contrato não constituirá novação ou
+    renúncia, nem afetará os seus direitos que poderão ser exercidos a
+    qualquer tempo.
+
+    1.  Todas e quaisquer correspondências ou comunicações trocadas
+        entre as Partes deverão ser encaminhadas para os endereços
+        indicados no Preâmbulo deste Contrato.
+
+    2.  Eventuais inclusões, exclusões ou alterações das Cláusulas
+        existentes serão consignadas em aditivo devidamente assinado
+        pelas Partes, que passará a fazer parte integrante deste
+        Contrato.
+
+    3.  Nenhuma Parte poderá ceder, transferir para terceiros, total ou
+        parcialmente, os direitos e as obrigações decorrentes deste
+        Contrato, sem o prévio e expresso consentimento, por escrito, da
+        outra Parte.
+
+    4.  As Partes são contratantes independentes. Nada no presente
+        Contrato criará qualquer outro tipo de relação jurídica diversa
+        daquela prevista neste Contrato, seja pelo aspecto empregatício,
+        seja por quaisquer outros aspectos, tais como agente comercial,
+        sociedade subsidiária, representação legal ou associação de
+        negócios.
+
+    5.  As Partes reconhecem, expressamente, que a execução/prestação
+        dos serviços ora contratados não gerará qualquer relação de
+        emprego entre as Partes ou seus empregados ou prepostos.
+
+    6.  Os tributos que forem devidos em decorrência direta ou indireta
+        do presente Contrato, ou de sua execução, constituem ônus de
+        responsabilidade do respectivo contribuinte, conforme definido
+        na legislação tributária.
+
+    7.  O Emissor reconhece, neste ato, que o serviço ora contratado
+        está sujeito às leis, normas, costumes, procedimentos e práticas
+        que podem vir a ser alterados. Na hipótese de ocorrer uma
+        alteração na legislação que no todo ou em parte limite a
+        prestação do serviço ora contratado, o Agente Escriturador
+        deverá solicitar ao Emissor novas instruções quanto aos
+        procedimentos a serem tomados para o cumprimento das obrigações
+        contraídas por meio deste Contrato, sem prejuízo, caso assim
+        considere necessário o Agente Escriturador, de convocação de
+        Assembleia de Credores.
+
+    8.  O Agente Escriturador em hipótese alguma será responsabilizado
+        por quaisquer atos e/ou atividades descritos no presente
+        Contrato que tenham sido praticados por terceiros anteriormente
+        contratados pelo Emissor.
+
+    9.  Nos casos de transferência da escrituração dos Ativos para outra
+        instituição, o Emissor deverá pagar todos os custos e
+        remunerações devidos, bem como enviar, na data de corte, os
+        documentos, devidamente regularizados, e informações
+        solicitadas, os quais são necessários para a devida implantação
+        do ativo pelo novo prestador de serviços.
+
+    10. Com exceção das obrigações imputadas a cada uma das Partes neste
+        Contrato e do disposto no Código Civil Brasileiro em vigor, a
+        outra Parte deverá ser mantida indene de qualquer outra
+        responsabilidade decorrente de atos ou fatos imputáveis à outra
+        Parte, seus administradores, representantes e empregados, a não
+        ser no caso de culpa, dolo ou má-fé devidamente comprovados da
+        Parte indenizável, desde que a a responsabilidade seja definida
+        em sentença judicial transitada em julgado.
+
+    11. Com exceção das obrigações imputadas ao Agente Escriturador
+        neste Contrato, no Código Civil Brasileiro e demais dispositivos
+        aplicáveis, o Agente Escriturador deverá ser mantido indene de
+        qualquer outra responsabilidade decorrente de atos ou fatos do
+        Emissor, seus administradores, representantes e empregados,
+        salvo no caso de culpa, dolo ou má fe do Agente Escriturador no
+        cumprimento de suas responsabilidades previstas neste Contrato.
+
+    12. Assume o Emissor, de maneira irrevogável e irretratável, total e
+        integral responsabilidade por quaisquer danos diretos que venham
+        a ser sofridos pelo Agente Escriturador em razão da prestação do
+        serviço ora avençado que venham a ser causados por ato culposo
+        ou doloso do Emissor, seus empregados e prepostos.
+
+    13. Este Contrato obriga as Partes e seus sucessores a qualquer
+        título.
+
+    14. Exceto para os fins exigidos de atendimento da CVM e demais
+        órgãos reguladores, deverá ser previamente aprovado pela outra
+        Parte, a utilização dos termos deste Contrato, em divulgação ou
+        publicidade, bem como, o uso do nome, marca e logomarca uma da
+        outra,  para qualquer finalidade e em qualquer meio de
+        comunicação, sendo que a sua infração poderá ensejar a rescisão
+        automática do presente Contrato,  além de  sujeitar-se a Parte
+        infratora  ao pagamento de perdas e danos que forem apuradas.
+
+    15. As Partes obrigam-se a observar as disposições e obrigações
+        deste Contrato, de seus Anexos, do Instrumento, e da Lei
+        aplicável. Caberão ao Emissor as despesas de registro das Letras
+        Financeiras e demais valores devidos à B3.
+
+    16. Todos os processos descritos na Cláusula II acima serão
+        analisados pelo Agente Escriturador e, se for o caso, poderão
+        ser exigidos documentos complementares do Emissor e dos
+        titulares de Ativos, bem como os processos estão sujeitos à
+        confirmação da autenticidade da ordem dada, para sua liberação,
+        e se não forem atendidas todas as exigências em conformidade com
+        a legislação vigente à época em que ocorrer o evento e também
+        que possibilite a correta identificação do titular da conta de
+        depósito, o Agente Escriturador poderá efetuar a devolução do
+        processo à origem, informando o motivo de tal recusa.
+
+    17. As Partes declaram, conjunta e expressamente, que o presente
+        Contrato foi celebrado respeitando-se os princípios de probidade
+        e de boa-fé, por livre, consciente e firme manifestação de
+        vontade e em perfeita relação de equidade.
+
+    18. Se, em decorrência de qualquer decisão judicial irrecorrível,
+        qualquer disposição ou termo deste Contrato for declarada nula
+        ou for anulada, tal nulidade ou anulabilidade não prejudicará a
+        vigência das demais Cláusulas deste Contrato não atingidas pela
+        declaração de nulidade ou pela anulação.
+
+    19. Durante o prazo de aviso prévio da denúncia contratual, as
+        Partes continuarão a cumprir suas respectivas obrigações,
+        facultando ao Emissor, se for a Parte denunciante, dispensar o
+        Agente Escriturador imediatamente do cumprimento de qualquer
+        obrigação.
+
+    20. Ocorrendo a extinção do presente Contrato, a qualquer título, o
+        Agente Escriturador compromete-se a garantir a transmissão,
+        especialmente por via eletrônica, ao Emissor e/ou pessoas por
+        ele indicadas, de todas as informações relativas aos
+        investidores que estejam em sua base de dados por conta do
+        objeto deste Contrato, até a data da resilição do mesmo, sem
+        qualquer custo adicional para o Emissor.
+
+CLÁUSULA XI
+
+  DOS DOCUMENTOS INTEGRANTES
+
+11. O Anexo I, II e III, devidamente rubricados pelas Partes, integram
+    este Contrato para todos os fins e efeitos de direito, como se nele
+    estivessem transcritos.
+
+  CLÁUSULA XII
+
+  DO FORO
+
+12. Fica eleito pelas Partes o Foro da Cidade de São Paulo, Estado de
+    São Paulo, para dirimir quaisquer dúvidas ou questões decorrentes
+    deste Contrato.
+
+  E por estarem de acordo, assinam o presente, em 02 (duas) vias, de
+  igual teor e forma, juntamente com as 02 (duas) testemunhas abaixo.
+
+  São Paulo, 03 de abril de 2018.
+
+  ______________________________________________________________
+
+  OLIVEIRA TRUST DTVM S.A.
+
+  ______________________________________________________________
+
+  BANCO DAYCOVAL S.A.
+
+  TESTEMUNHAS:
+
+1...................................................
+2........................................
+
+Nome: Nome:
+
+RG: RG:
+
+CPF/MF: CPF/MF:
+
+ANEXO I
+
+RELAÇÃO DE PESSOAS AUTORIZADAS PARA ENVIO DE INSTRUÇÕES
+
+Prezados Senhores, vimos pela presente nomear as seguintes pessoas, como
+autorizadas para, em conjunto ou isoladamente, assinar e enviar
+instruções relativas ao Contrato de Prestação de Serviços de
+Escrituração de Letras Financeiras, observado todos os seus termos e
+condições, celebrado em 29 de março de 2018, entre o Agente Escriturador
+e o Emissor:
+
+Nome ( ) EM CONJUNTO
+
+Endereço Internet ( ) E-MAIL - INTERNET
+
+2-
+
+Nome
+
+Endereço Internet
+
+3-
+
+Nome
+
+Endereço Internet
+
+4-
+
+Nome
+
+ANEXO II
+
+HORÁRIOS DE OPERACIONALIZAÇÃO DAS OPERAÇÕES
+
+Para o cumprimento dos serviços estabelecidos no presente Contrato, as instruções encaminhadas ao Agente Escriturador deverão obedecer os seguintes horários:
+
+  ------------------------------------------------------------------------
+  Atividade                     Prazo     Obs.
+  ----------------------------- --------- --------------------------------
+  Ordem de Transferência de     D-2       
+  Ativos (Depósito e Retirada)            
+  e negociação escritural                 
+
+  Geração, Envelopamento e      D-5       
+  Envio de Correspondências aos           
+  Investidores                            
+
+  Registro/Liberação de         D-2       No caso de gravames decorrentes
+  Gravames sob os Ativos                  de decisão judicial, o movimento
+                                          será realizado em D0.
+  ------------------------------------------------------------------------
+
+Observações:
+
+1)  para todas as operações o horário limite a ser considerado é 12:00
+    do dia da respectiva instrução; e
+
+2)  os prazos para efetivação das operações só começarão a ser contados
+    a partir do recebimento e validação de todos os documentos
+    necessários.
+
+O Agente Escriturador reserva-se ao direito de alterar os horários a
+qualquer momento, mediante comunicação prévia por escrito, desde que
+tais alterações não prejudiquem os direitos, garantias e prerrogativas
+do Emissor e dos titulares de Ativos, de acordo com os parâmetros e
+praxes de mercado.
+
+Quaisquer instruções recebidas fora do horário estabelecido neste Anexo,
+não deverão ser cumpridas pelo Agente Escriturador. Ficará, entretanto,
+a critério deste, a prática dos seus melhores esforços para realizar
+tais operações.
+
+ANEXO III - REMUNERAÇÃO
+
+1.  Prestação de Serviços de Escrituração dos Ativos
+
+(i) Pela prestação de serviços de escrituração dos Ativos, serão
+    cobradas parcelas mensais de R$1.000,00 (mil reais), sendo a
+    primeira devida em até 5 (cinco) dias úteis após a assinatura do
+    presente Contrato e as demais nas mesmas datas dos meses
+    subsequentes até o término do período de vigência contratual.
+
+2.  Custos Adicionais
+
+  As remunerações não incluem os custos adicionais para:
+
+(i) Envio dos extratos e informes periódicos, de custo individual
+    equivalente a R$0,50 (cinquenta centavos), acrescido dos custos com
+    correio.
+
+(ii) Cadastro dos titulares dos Ativos no sistema de escrituração do
+     Agente Escriturador (custo unitário de R$ 5,00 (cinco reais) na
+     hipótese de os Ativos serem mantidos sob a forma escritural.
+
+3.  Atualização dos valores de prestação de serviços
+
+ Os custos apresentados neste anexo serão atualizados anualmente pela variação positiva do IGP-M a partir da data de celebração deste Contrato e em caso de extinção, deverá ser adotado o índice que vier a substituí-lo, ou outro índice fixado de comum acordo entre as Partes.
+
+4.  Impostos
+
+  Os impostos incidentes sobre a remuneração serão acrescidos aos
+  valores devidos pelo Emissor (ISS, PIS, COFINS, CSLL e IRFF).

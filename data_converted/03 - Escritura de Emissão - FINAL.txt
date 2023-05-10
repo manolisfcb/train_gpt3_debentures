@@ -1,0 +1,969 @@
+INSTRUMENTO PARTICULAR DE EMISSÃO DE CÉDULAS DE CRÉDITO IMOBILIÁRIO
+FRACIONÁRIAS, SEM GARANTIA REAL IMOBILIÁRIA, SOB A FORMA ESCRITURAL
+
+Pelo presente instrumento particular (“Escritura de Emissão”),
+
+CHB – COMPANHIA HIPOTECÁRIA BRASILEIRA, instituição financeira com sede
+na Rua João Pessoa, nº 267, 5º andar, Centro, no Município de Natal,
+Estado do Rio Grande do Norte, CEP 59025-500, inscrita no Cadastro
+Nacional da Pessoa Jurídica do Ministério da Fazenda (“CNPJ/MF”) sob o
+nº 10.694.628/0001-98, neste ato representada na forma de seu estatuto
+social (“Emissora”);
+
+OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S/A,
+sociedade com sede na Avenida das Américas, nº 500, bloco 13, sala 205,
+Barra da Tijuca, no Município do Rio de Janeiro, Estado do Rio de
+Janeiro, CEP 22640-100, inscrita no CNPJ/MF sob o nº 36.113.876/0001-91,
+neste ato representada na forma de seu estatuto social (“Instituição
+Custodiante”);
+
+VIVER INCORPORADORA E CONSTRUTORA S.A., sociedade com sede na Rua
+Olimpíadas, 205, 2º andar, conjunto 21-A, Vila Olímpia, no Município de
+São Paulo, Estado de São Paulo, CEP 04551-000, inscrita no CNPJ/MF sob o
+nº 67.571.414/0001-41, neste ato representada, na forma de seu estatuto
+social (“Devedor” ou “Viver Incorporadora”);
+
+INPAR PROJETO 94 SPE LTDA., sociedade com sede na Av. Picadilly, 150,
+sala 203, Lagoa dos Ingleses, no Município de Nova Lima, Estado de Minas
+Gerais, CEP 34000-000, inscrita no CNPJ/MF sob o nº 09.153.886/0001-88,
+neste ato representada na forma de seu contrato social (“SPE”);
+
+VIVER DESENVOLVIMENTO IMOBILIÁRIO LTDA., sociedade com sede na Rua
+Olimpíadas, 205, 2º andar, conjunto 21-E, Vila Olímpia, no Município de
+São Paulo, Estado de São Paulo, CEP 04551-000, inscrita no CNPJ/MF sob o
+nº 08.662.568/0001-80, neste ato representada, na forma de seu contrato
+social (“Viver Desenvolvimento”);
+
+VIVER PARTICIPAÇÕES LTDA., sociedade com sede na Rua Olimpíadas, 205, 2º
+andar, conjunto 21-B, Vila Olímpia, no Município de São Paulo, Estado de
+São Paulo, CEP 04551-000, inscrita no CNPJ/MF sob o nº
+07.221.384/0001-11, neste ato representada, na forma de seu contrato
+social (“Viver Participações”);
+
+Emissora, Instituição Custodiante, Devedor, SPE, Viver Desenvolvimento e
+Viver Participações adiante também denominadas “Partes”, quando
+mencionadas em conjunto, e “Parte”, quando mencionadas individual e
+indistintamente, formalizam, neste ato, a emissão de Cédula de Crédito
+Imobiliário integral, sem garantia real imobiliária, sob a forma
+escritural, mediante as seguintes cláusulas e condições.
+
+1. DEFINIÇÕES
+
+1.1 Para os fins desta Escritura de Emissão, as expressões a seguir, no
+singular ou no plural, quando iniciadas em letras maiúsculas, terão os
+significados indicados abaixo, sem prejuízo de outras definições que
+forem estabelecidas no corpo da presente:
+
+  -----------------------------------------------------------------------
+  “Alteração do Contrato  Significa a alteração do contrato social da
+  Social”                 SPE, a ser produzida em linha com o disposto no
+                          item 8.2 do Contrato de Alienação Fiduciária.
+  ----------------------- -----------------------------------------------
+  “Banco Depositário”     Itaú Unibanco S.A., instituição financeira com
+                          sede na Praça Alfredo Egydio de Souza Aranha,
+                          n.º 100, Torre Olavo Setúbal, no Município e
+                          Estado de São Paulo, inscrita no CNPJ/MF sob o
+                          n.º 60.701.190/0001-04.
+
+  “CETIP”                 CETIP S.A. – Mercados Organizados, sociedade
+                          com sede na Avenida República do Chile, 230,
+                          11º andar, no Município do Rio de Janeiro,
+                          Estado do Rio de Janeiro, autorizada pelo Banco
+                          Central do Brasil a prestar serviços de
+                          custódia escritural de ativos e de liquidação
+                          financeira.
+
+  “Código Civil”          Lei nº 10.406, de 10 de janeiro de 2002,
+                          conforme alterada.
+
+  “Código de Processo     Lei nº 5.869, de 11 de janeiro de 1973,
+  Civil”                  conforme alterada.
+
+  “Conta Arrecadadora de  A conta bancária vinculada nº 12474-2, agência
+  Dividendos”             nº 8541, mantida no Banco Depositário, de
+                          titularidade da Viver Desenvolvimento, pela
+                          qual transitarão obrigatoriamente os recursos
+                          decorrentes dos Direitos Cedidos
+                          Fiduciariamente, nos termos do Contrato de
+                          Alienação Fiduciária.
+
+  “Conta Arrecadadora de  A conta bancária de livre movimento nº
+  Recebíveis”             13002768-5, agência nº 2271, mantida no Banco
+                          Santander (Brasil) S.A., de titularidade da
+                          SPE, pela qual transitarão obrigatoriamente os
+                          recursos decorrentes dos Recebíveis, nos termos
+                          do Contrato de Alienação Fiduciária.
+
+  “Contrato de Alienação  O Instrumento Particular de Alienação
+  Fiduciária”             Fiduciária de Quotas, Cessão Fiduciária de
+                          Direitos Creditórios e Outras Avenças, firmado
+                          nesta data entre o Devedor, a SPE, a Viver
+                          Desenvolvimento, a Viver Participações e a Polo
+                          Securitizadora.
+
+  “Contrato de Conta      Contrato de Custódia de Recursos Financeiros,
+  Vinculada”              firmado nesta data entre o Devedor, a SPE, a
+                          Viver Desenvolvimento, a Viver Participações, a
+                          Polo Securitizadora e o Banco Depositário.
+
+  “Contrato de            Contrato de Financiamento à Produção de
+  Financiamento”          Empreendimentos Imobiliários e Outras Avenças,
+                          firmado nesta data entre a Emissora, o Devedor,
+                          a SPE, a Viver Desenvolvimento e a Viver
+                          Participações.
+
+                          
+
+  “CCI”                   As 10 (dez) Cédulas de Crédito Imobiliário
+                          fracionárias emitidas pela Emissora nos termos
+                          da presente Escritura de Emissão,
+                          representativas do Crédito Imobiliário.
+
+  “Crédito Imobiliário”   O crédito imobiliário constituído nos termos do
+                          Contrato de Financiamento, correspondente ao
+                          principal do Financiamento, incluindo os
+                          acessórios, tais como juros remuneratórios,
+                          encargos moratórios, multas, penalidades,
+                          indenizações, despesas, custas e demais
+                          encargos contratuais e legais previstos no
+                          Contrato de Financiamento.
+
+  “Data de Emissão”       Data da assinatura desta Escritura de Emissão e
+                          dos demais Documentos da Operação.
+
+  “Data de Vencimento”    28 de abril de 2016.
+
+  “Devedor”               A Viver Incorporadora e Construtora S.A,
+                          qualificada no preâmbulo.
+
+  “Dia Útil”              Qualquer dia que não seja sábado, domingo,
+                          feriado nacional na República Federativa do
+                          Brasil, feriado estadual no Estado de São
+                          Paulo, ou feriado municipal no Município de São
+                          Paulo.
+
+  “Direitos Cedidos       Todos os valores pagos pela SPE relativos às
+  Fiduciariamente”        Quotas, incluindo, exemplificativamente,
+                          frutos, dividendos, rendimentos, juros sobre
+                          capital próprio, amortização, direito de
+                          participação no acervo social, rendas,
+                          distribuições e bonificações e quaisquer outros
+                          valores creditados, pagos, distribuídos ou por
+                          outra forma entregues, ou a serem creditados,
+                          pagos, distribuídos ou por outra forma
+                          entregues, por qualquer razão, à Viver
+                          Desenvolvimento e à Viver Participações e
+                          outras vantagens de cunho patrimonial
+                          similares, relacionados às Quotas.
+
+  “Dívida de SFH”         Dívida da SPE relativa à captação de recursos
+                          no Sistema de Financiamento da Habitação para
+                          incorporação imobiliária do Felice, proveniente
+                          do Instrumento Particular de Abertura de
+                          Crédito e Financiamento, para Construção de
+                          Empreendimento Imobiliário, com Garantia
+                          Hipotecária, Alocação de Recursos e Outras
+                          Avenças nº 361/09, firmado entre a Sociedade e
+                          o Banco Santander (Brasil) S/A em 25 de
+                          fevereiro de 2009, conforme aditado.
+
+  “Documentos da          Significam, quando referidos em conjunto, esta
+  Operação”               Escritura de Emissão, o Contrato de
+                          Financiamento, o Contrato de Alienação
+                          Fiduciária, o Contrato de Cessão e o Contrato
+                          de Conta Vinculada.
+
+  “Empreendimentos”       Significam, quando referidos em conjunto, o
+                          Felice e o Reserva Aquarela.
+
+  “Escritura de Emissão”  O presente Instrumento Particular de Emissão de
+                          Cédulas de Crédito Imobiliário Fracionárias,
+                          sem Garantia Real Imobiliária, sob a Forma
+                          Escritural.
+
+  “Felice”                O empreendimento imobiliário residencial
+                          denominado “Felice”, localizado no Município de
+                          Nova Lima, Estado de Minas Gerais, na Avenida
+                          Wimbledon, 465, Alphaville Lagoa dos Ingleses,
+                          composto por 2 (duas) torres de apartamentos,
+                          com 2 (dois) subsolos, térreo e 14 (quatorze)
+                          pavimentos, cada torre, totalizando 224
+                          (duzentas e vinte e quatro) unidades autônomas,
+                          conforme descrito e caracterizado na matrícula
+                          nº 42.510 do Serviço Registral de Imóveis de
+                          Nova Lima.
+
+                          
+
+  “Financiamento”         O financiamento tomado pelo Devedor junto à
+                          Emissora, no valor de R$ 12.150.000,00 (doze
+                          milhões, cento e cinquenta mil reais) nos
+                          termos do Contrato de Financiamento.
+
+  “Garantias”             Significam, quando referidas em conjunto, as
+                          garantias ao pagamento do Crédito Imobiliário,
+                          nos termos do Contrato de Alienação Fiduciária,
+                          as quais serão automaticamente transmitidas ao
+                          Cessionário, na qualidade de titular das CCI,
+                          conforme o disposto no artigo 22, § 1º, da Lei
+                          nº 10.931/04, a saber: (i) coobrigação dos
+                          Garantidores; (ii) alienação fiduciária das
+                          Quotas; (iii) cessão fiduciária dos Direitos
+                          Cedidos Fiduciariamente; (iv) cessão fiduciária
+                          dos direitos disponíveis sobre a Conta
+                          Arrecadadora de Dividendos, bem como todos os
+                          direitos disponíveis sobre os recursos
+                          creditados ou a serem creditados na Conta
+                          Arrecadadora de Dividendos, incluindo as
+                          aplicações, reajustes monetários, frutos e
+                          acessórios; e (v) cessão fiduciária dos
+                          direitos disponíveis sobre a Conta Arrecadadora
+                          de Recebíveis, bem como todos os direitos
+                          disponíveis sobre os recursos creditados ou a
+                          serem creditados na Conta Arrecadadora de
+                          Recebíveis, incluindo as aplicações, reajustes
+                          monetários, frutos e acessórios.
+
+  “Garantidores”          SPE, Viver Desenvolvimento e a Viver
+                          Participações, quando referidas em conjunto,
+                          qualificadas no preâmbulo.
+
+  “IGPM”                  Índice Geral de Preços ao Mercado, apurado e
+                          divulgado pela Fundação Getúlio Vargas – FGV.
+
+  “IOF”                   Imposto sobre Operações de Crédito, Câmbio e
+                          Seguro, e sobre Operações relativas a Títulos e
+                          Valores Mobiliários.
+
+  “IPCA”                  Índice Geral de Preço ao Consumidor Amplo,
+                          apurado e divulgado pelo Instituto Brasileiro
+                          de Geografia e Estatística.
+
+  “JUCEMG”                Junta Comercial do Estado de Minas Gerais.
+
+  “Lei nº 9.514/97”       Lei nº 9.514, de 20 de novembro de 1997,
+                          conforme alterada.
+
+  “Lei nº 9.307/96”       Lei nº 9.307, de 23 de setembro de 1996,
+                          conforme alterada.
+
+  “Lei nº 10.931/04”      Lei nº 10.931, de 2 de agosto de 2004, conforme
+                          alterada.
+
+  “Polo Securitizadora”   Polo Capital Securitizadora S.A., sociedade por
+                          ações com sede na Avenida Ataulfo de Paiva, nº
+                          204, 10º andar, Leblon, no Município do Rio de
+                          Janeiro, Estado do Rio de Janeiro, CEP
+                          22440-033, inscrita no CNPJ/MF sob o nº
+                          12.261.588/0001-16.
+
+                          
+
+  “Quotas”                Quotas representativas de 100% (cem por cento)
+                          do capital social da SPE, detidas pela Viver
+                          Desenvolvimento e pela Viver Participações,
+                          alienadas fiduciariamente em garantia do
+                          pagamento do Crédito Imobiliário.
+
+  “Recebíveis”            Direitos creditórios detidos pela SPE
+                          emergentes dos compromissos de compra e venda
+                          celebrados com os adquirentes das unidades
+                          autônomas do Felice. Os valores decorrentes dos
+                          Recebíveis são liberados para a Conta
+                          Arrecadadora de Recebíveis, nos termos da
+                          Dívida de SFH.
+
+  “Reserva Aquarela”      O loteamento denominado “Reserva Aquarela”,
+                          localizado no Município de São Carlos, Estado
+                          de São Paulo, na Avenida Bruno Ruggiero Filho,
+                          Parque Santa Felícia Jardim, CEP 13.562-420, o
+                          qual será registrado e incorporado, pelo
+                          Devedor, nas matrículas de nº 119.987, 119.988
+                          e 119.989, todas do Cartório de Registro de
+                          Imóveis da Comarca de São Carlos.
+
+  “Sistema de Negociação” CETIP, ou qualquer outra câmara de liquidação e
+                          custódia que mantenha sistemas de registro e
+                          liquidação financeira de títulos privados, que
+                          seja autorizada a funcionar pelo Banco Central
+                          do Brasil e que venha a ser contratada para a
+                          negociação das CCI.
+
+  “Taxa de Juros”         12,00 % (doze por cento) ao ano.
+
+  “Titulares”             Os titulares, plenos ou fiduciários, das CCI.
+  -----------------------------------------------------------------------
+
+2. OBJETO
+
+2.1 Pela presente Escritura de Emissão, a Emissora emite as 10 (dez)
+Cédulas de Crédito Imobiliário fracionárias, conforme as características
+descritas na cláusula terceira, abaixo, representando a totalidade do
+Crédito Imobiliário decorrente do Contrato de Financiamento, juntamente
+com todos os seus acessórios e garantias, notadamente as Garantias -
+constituídas nos termos do próprio Contrato de Financiamento e do
+Contrato de Alienação Fiduciária - as quais serão automaticamente
+transmitidas ao Titular, conforme o disposto no artigo 22, § 1º da Lei
+nº 10.431/04.
+
+3. CARACTERÍSTICAS DAS CCI
+
+3.1 As CCI emitidas nos termos desta Escritura de Emissão possuem as
+características descritas a seguir:
+
+i)  Valor Nominal. O valor nominal de cada uma das CCI na Data de
+    Emissão é de R$ 1.215.000,00 (um milhão, duzentos e quinze mil
+    reais).
+
+ii) Quantidade. São emitidas 10 (dez) CCI fracionárias, representando a
+    totalidade do Crédito Imobiliário.
+
+iii) Data de Vencimento Final. 28 de abril de 2016.
+
+iv) Condições da Emissão e Custódia. As CCI são emitidas sem garantia
+    real imobiliária, sob a forma escritural e a Escritura de Emissão
+    será custodiada junto à Instituição Custodiante, que será
+    responsável pela guarda (custódia física) de via original da
+    presente Escritura de Emissão.
+
+v)  Registro das CCI para Negociação. Sem prejuízo das demais
+    disposições constantes desta Escritura de Emissão, a Instituição
+    Custodiante será responsável pelo lançamento dos dados e informações
+    das CCI no Sistema de Negociação, em até 1 (um) Dia Útil contado da
+    data de disponibilização, por parte da Emissora, de planilha no
+    formato Microsoft Excel, a ser previamente disponibilizada pela
+    Instituição Custodiante, devidamente preenchida e contendo todas as
+    informações necessárias ao lançamento das CCI no Sistema de
+    Negociação. A Instituição Custodiante não será responsável pela
+    realização dos pagamentos devidos aos Titulares em decorrência do
+    Crédito Imobiliário. Qualquer imprecisão em virtude de atrasos na
+    disponibilização da informação pela câmara de liquidação e custódia
+    onde as CCI estiverem depositadas não gerará ônus ou
+    responsabilidade adicional para a Instituição Custodiante.
+
+vi) Transferência das CCI. Toda e qualquer transferência das CCI deverá,
+    necessariamente, ser efetuada através do Sistema de Negociação, sob
+    pena de nulidade do respectivo negócio jurídico, sem prejuízo de
+    poder ser firmado entre o novo e o antigo Titulares instrumento
+    particular regendo as características da cessão de CCI. Sempre que
+    houver troca de titularidade das CCI, o antigo Titular deverá
+    comunicar à Instituição Custodiante a negociação realizada, e o novo
+    Titular deverá informar seus dados cadastrais. Todos os direitos e
+    obrigações decorrentes das CCI que sejam imputáveis ao antigo
+    Titular serão assumidos automaticamente pelo novo Titular, por
+    ocasião da negociação de CCI.
+
+vii) Série e Números. Série CHB10; números 1 a 10.
+
+viii) Objeto das CCI. As CCI representam a totalidade do Crédito
+      Imobiliário decorrente do Contrato de Financiamento, juntamente
+      com as Garantias.
+
+ix) Imóvel Vinculado ao Crédito Imobiliário. Os imóveis vinculados à
+    destinação do Crédito Imobiliário são os Empreendimentos, conforme
+    consignado no Anexo I.
+
+x)  Local de Pagamento. O Crédito Imobiliário e, por consequência, as
+    CCI, serão pagos pelo Devedor ao Titulares no local e na forma
+    estabelecidos no Contrato de Financiamento.
+
+xi) Guarda dos Documentos Comprobatórios. A Emissora será responsável
+    pela guarda de 1 (uma) via original desta Escritura de Emissão e de
+    1 (uma) via original do Contrato de Financiamento, ao passo que a
+    Instituição Custodiante será responsável pela guarda de 1 (uma) via
+    original desta Escritura de Emissão e de 1 (uma) cópia simples do
+    Contrato de Financiamento e de 1 (uma) cópia simples da matrícula
+    dos imóveis objeto dos Empreendimentos.
+
+xii) Demais Características. As demais características das CCI
+     encontram-se descritas no Contrato de Financiamento, anexado a esta
+     Escritura de Emissão como Anexo II.
+
+xiii) Atualização Monetária. O Crédito Imobiliário e, por consequência,
+      as CCI, são atualizados monetariamente pela variação do IPCA, com
+      periodicidade mensal, nos termos do Contrato de Financiamento.
+
+xiv) Juros Remuneratórios. Nos termos do Contrato de Financiamento,
+     sobre o saldo devedor do Crédito Imobiliário incidirão juros à Taxa
+     de Juros de 12,00% (doze por cento) ao ano, desde a Data da
+     Emissão, exclusive, até a primeira data de vencimento do pagamento
+     dos juros, inclusive, bem como entre períodos compreendidos entre
+     quaisquer das outras datas de vencimento, exclusive, e a data de
+     vencimento imediatamente subsequente, inclusive. Os juros serão
+     capitalizados diariamente, de forma exponencial e cumulativa, pro
+     rata temporis, com base em um ano de 252 (duzentos e cinquenta e
+     dois) Dias Úteis, à Taxa de Juros, acrescidos da atualização
+     monetária pela variação acumulada do IPCA, na forma prevista no
+     Contrato de Financiamento. Os juros remuneratórios serão pagos pelo
+     Devedor mensalmente, nas datas definidas no Anexo I.
+
+xv) Encargos Moratórios. Caso o Devedor não pague, na data de seu
+    vencimento, qualquer obrigação pecuniária, de qualquer natureza,
+    principal ou acessória, serão devidos ao Titular: (a) a remuneração
+    originalmente pactuada no Contrato de Financiamento (ou seja, com
+    base na variação positiva do IPCA acrescida da Taxa de Juros, ambos
+    calculados nos termos do Contrato de Financiamento); (b) multa não
+    indenizatória de 2% (dois por cento), incidente sobre o saldo total
+    atualizado das obrigações em mora, a qual será incorporada ao saldo
+    devedor do Crédito Imobiliário a partir da data do inadimplemento;
+    e (c) juros moratórios à taxa de 1% (um por cento) ao mês,
+    atualizados e acrescidos da multa referida no subitem (b),
+    incidentes sobre o saldo total das obrigações em mora, apurado
+    diariamente, de forma exponencial e cumulativa, pro rata temporis,
+    com base em um mês de 30 (trinta) dias, desde a data do vencimento
+    até a data do efetivo pagamento dessas obrigações.
+
+xvi) Amortização e Pagamentos. O Devedor deverá efetuar o pagamento do
+     principal do Financiamento, devidamente corrigido, conforme o
+     disposto no Contrato de Financiamento, mensalmente, nas datas
+     estabelecidas no Anexo I, observada a carência de 4 (quatro) meses.
+
+xvii) Garantias. As CCI são emitidas sem garantia real imobiliária ou
+      fidejussória. Não obstante, como forma de assegurar o pagamento do
+      Crédito Imobiliário, foram constituídas as Garantias descritas a
+      seguir, nos termos do Contrato de Financiamento e do Contrato de
+      Alienação Fiduciária, as quais serão automaticamente transmitidas
+      ao Titular, conforme o disposto no artigo 22, § 1º, da Lei nº
+      10.931/04:
+
+a.  coobrigação dos Garantidores;
+
+b.  alienação fiduciária das Quotas;
+
+c.  cessão fiduciária dos Direitos Cedidos Fiduciariamente;
+
+d.  cessão fiduciária dos direitos disponíveis sobre a Conta
+    Arrecadadora de Dividendos, bem como de todos os direitos
+    disponíveis sobre os recursos creditados ou a serem creditados na
+    Conta Arrecadadora de Dividendos, incluindo as aplicações, reajustes
+    monetários, frutos e acessórios; e
+
+e.  cessão fiduciária dos direitos disponíveis sobre a Conta
+    Arrecadadora de Recebíveis, bem como todos os direitos disponíveis
+    sobre os recursos creditados ou a serem creditados na Conta
+    Arrecadadora de Recebíveis, incluindo as aplicações, reajustes
+    monetários, frutos e acessórios.
+
+xvii.1) Registros. No prazo de até 20 (vinte) dias contados da
+assinatura dos Documentos da Operação o Contrato de Alienação Fiduciária
+deverá ser registrado em cartórios de registro de títulos e documentos
+dos Municípios da sede das partes contratantes; e a Alteração do
+Contrato Social será registrada perante a JUCEMG. Cópias dos
+comprovantes dos registros mencionados neste subitem serão enviadas aos
+Titulares e à Instituição Custodiante até o Dia Útil subsequente ao
+término do prazo ante mencionado. Tendo em vista a pendência dos
+registros referidos neste subitem, a Instituição Custodiante declara que
+as Garantias não se encontram integralmente constituídas e exequíveis na
+presente data, ficando, portanto, isenta de quaisquer responsabilidades
+relativas a constituição de tais Garantias por ser apenas e, tão
+somente, instituição custodiante e registradora das CCI.
+
+xvii.2) Execução das Garantias. Na hipótese de inadimplemento, pelo
+Devedor, de quaisquer de suas obrigações assumidas no Contrato de
+Financiamento, a decisão, forma e procedimentos da execução, ou não das
+Garantias caberá aos Titulares, em nome próprio ou por meio da
+contratação de terceiros especialistas indicados por si ou pela
+Emissora.
+
+xvii.3) Registro das Garantias na CETIP. Enquanto estiverem pendentes os
+registros mencionados no subitem 3.1(xvii)(1) acima, as CCI ficarão
+depositadas na CETIP como sendo “sem garantia”. Após as comprovações dos
+registros, a Instituição Custodiante alterará no sistema da CETIP as
+características das CCI para “com garantia de alienação fiduciária”.
+Esta alteração somente estará plenamente formalizada após o cumprimento
+dos seguintes procedimentos: (a) recebimento, pela Instituição
+Custodiante, de comprovação dos registros descritos no subitem
+3.1(xvii)(1) acima; (b) recebimento, pela Instituição Custodiante, de
+carta assinada pelos Titulares solicitando a alteração das CCI para “com
+garantia de alienação fiduciária”; (c) alteração, pela Instituição
+Custodiante, das CCI no sistema da CETIP para “com garantia de alienação
+fiduciária”; e (d) confirmação, pelo participante da CETIP com o qual as
+CCI estiverem depositadas, do comando descrito no subitem (c) acima. A
+Emissora fica obrigada a informar, e comprovar imediatamente para a
+Instituição Custodiante a efetivação dos registros das Garantias perante
+os cartórios e repartições competentes, e todas e quaisquer outras
+informações que lhe venham a ser solicitadas pela Instituição
+Custodiante, a fim de que esta altere os dados de depósito das CCI na
+CETIP como sendo “com garantia de alienação fiduciária”. Enquanto as
+informações necessárias à alteração do depósito das CCI na CETIP não
+forem fornecidas pela Emissora à Instituição Custodiante, esta ficará
+isenta de responsabilidade quanto a não realização da referida
+alteração. As Partes desde já declaram ciência da mencionada alteração
+no depósito das CCI na CETIP, a qual é ratificada no presente
+instrumento, não sendo necessário qualquer aditamento posterior a esta
+Escritura de Emissão para esta finalidade.
+
+xvii.4) Risco de Não Vinculação. Os Titulares das CCI deverá atentar
+para o risco de não vinculação das Garantias às CCI, uma vez que os
+registros das Garantias são condições para vinculação da propriedade
+fiduciária dos ativos objeto das Garantias e sua transmissão aos
+Titulares. Tais registros ainda não foram realizados na data de
+assinatura desta Escritura de Emissão e, dessa forma, existe o risco de
+atrasos ou, eventualmente, de impossibilidade de vinculação das
+Garantias às CCI, principalmente em decorrência da burocracia e
+exigências cartoriais.
+
+xviii) Eventos de Vencimento Antecipado. O Crédito Imobiliário e,
+       consequentemente, as CCI estão sujeitos às hipóteses de
+       vencimento antecipado previstas no Contrato de Financiamento e no
+       Contrato de Alienação Fiduciária.
+
+xix) Liquidação Antecipada ou Amortização Extraordinária. É assegurado
+     ao Devedor e aos Garantidores, desde que o Devedor esteja em dia
+     com suas obrigações, o direito de liquidar o Crédito Imobiliário
+     antes do seu vencimento, ou efetuar amortizações extraordinárias,
+     desde que nunca inferiores a 10% (dez por cento) do valor inicial
+     do Crédito Imobiliário, observado o disposto na cláusula nona do
+     Contrato de Financiamento. Ainda, todos e quaisquer recursos
+     emergentes dos Direitos Cedidos Fiduciariamente pela Viver
+     Desenvolvimento serão creditados em favor da Conta Arrecadadora de
+     Dividendos, nos termos da cláusula quarta do Contrato de Alienação
+     Fiduciária. Ato contínuo, (a) caso o valor desses recursos exceda o
+     valor da próxima parcela vincenda do Crédito Imobiliário, tal saldo
+     excedente será integralmente aplicado (1) primeiramente na quitação
+     das Obrigações Garantidas vencidas e não pagas, se houver; e (2) na
+     amortização extraordinária ou liquidação antecipada do Crédito
+     Imobiliário, conforme o caso, sempre de forma que seja mantida na
+     Conta Arrecadadora de Dividendos quantia suficiente para o
+     pagamento da próxima parcela vincenda do Crédito Imobiliário e
+     observado o disposto no item 9.3 do Contrato de Financiamento;
+     ou (b) caso o valor desses recursos seja inferior ao valor da
+     próxima parcela vincenda do Crédito Imobiliário, tais recursos
+     permanecerão retidos na Conta Arrecadadora de Dividendos e serão
+     aplicados no pagamento parcial da próxima parcela vincenda do
+     Crédito Imobiliário, na respectiva data de vencimento, cabendo ao
+     Devedor, neste caso, pagar o saldo restante para que referida
+     parcela seja integralmente quitada.
+
+xx) Liquidação Antecipada por Opção do Titular. É assegurado aos
+    Titulares o direito de exigir do Devedor a liquidação integral do
+    Crédito Imobiliário antes do seu vencimento, a qualquer momento,
+    quando o saldo devedor do Crédito Imobiliário passar a representar
+    5% (cinco por cento) ou menos do valor inicial do Financiamento,
+    estando o Devedor obrigado a efetuar o pagamento. Para fins do
+    exercício desse direito, os Titulares deverão enviar notificação ao
+    Devedor com, no mínimo, 10 (dez) dias de antecedência à data
+    estipulada para a liquidação do Crédito Imobiliário.
+
+xxi) Entrega do Termo de Quitação: No prazo de 30 (trinta) dias a contar
+     da data que tenha ocorrido a efetiva liquidação das CCI, os
+     Titulares emitirão e assinarão termo de quitação das CCI, bem como
+     enviará à Instituição Custodiante a comprovação da titularidade das
+     CCI e da referida liquidação, para que esta possa assinar, em
+     conjunto com os Titulares das CCI, o termo de quitação das CCI
+     liquidadas.
+
+4. negociação daS CCI
+
+4.1 Quando da negociação das CCI, a Emissora cederá aos novos Titulares,
+e estes adquirirão da Emissora, o Crédito Imobiliário, juntamente com
+todos os direitos, prerrogativas e garantias originalmente atribuídos ao
+detentor original do Crédito Imobiliário, formalizando-se tal cessão,
+inclusive, através do Sistema de Negociação, e assim sucessivamente,
+conforme haja outras cessões das CCI.
+
+4.2 A cessão das CCI abrange a totalidade do Crédito Imobiliário,
+ficando os novos Titulares, assim, sub-rogados em todos os direitos,
+garantias e acessórios representados pelas CCI, notadamente as
+Garantias, nos termos do artigo 22, § 1º, da Lei nº 10.931/04.
+
+4.3 Não obstante as responsabilidades assumidas pela Emissora nesta
+Escritura de Emissão, a Instituição Custodiante, no exercício de suas
+funções, conforme estabelecido na Lei nº 10.931/04 e nos regulamentos do
+Sistema de Negociação, poderá solicitar a entrega da documentação sob a
+guarda da Emissora, que, desde já, obriga-se a fornecê-la em até 10
+(dez) dias a contar do recebimento da solicitação mencionada ou em menor
+prazo, na hipótese de necessidade de atendimento de prazo legalmente
+estabelecido.
+
+5. DESPESAS E TRIBUTOS
+
+5.1 Todas as despesas referentes à emissão das CCI, incluindo, mas não
+se limitando, ao registro e taxa de uso do Sistema de Negociação, à taxa
+de custódia e aos honorários devidos à Instituição Custodiante e outros
+prestadores de serviços relacionados à emissão, custódia e liquidação
+financeira das CCI, serão de responsabilidade do Devedor, conforme
+previsto no Contrato de Financiamento.
+
+5.1.1 O Devedor será ainda responsável pelo pagamento de todas as
+despesas incorridas e a incorrer, com relação a (i) representação do
+Crédito Imobiliário pelas CCI; (ii) registro das CCI no Sistema de
+Negociação e transferência das CCI da Emissora para os Titulares; (iii)
+despesas de custódia das CCI; e (iv) despesas cartorárias incorridas
+para registro dos instrumentos que formalizam o Crédito Imobiliário, as
+Garantias e as CCI.
+
+5.1.2 A Instituição Custodiante receberá do Devedor, como remuneração
+pela prestação dos serviços de registro e custódia das CCI, os seguintes
+valores:
+
+a)  a titulo de implantação e registro das CCI, será devido pelo
+    Devedor, parcela única equivalente a 0,025% (vinte e cinco milésimos
+    por cento) do volume das CCI, devida na data do registro das CCI
+    junto a CETIP;
+
+b)  a título de custódia das CCI, será devido pelo Devedor uma parcela
+    mensal no valor total de R$ 400,00 (quatrocentos reais).
+
+5.1.2.1 As parcelas citadas no subitem 5.1.2(b) acima serão reajustadas
+anualmente pela variação acumulada do IPCA, ou na falta deste, ou ainda
+na impossibilidade de sua utilização, pelo índice que vier a
+substituí-lo, a partir da data do primeiro pagamento, calculadas pro
+rata die, se necessário.
+
+5.1.2.2 Os valores mencionados na cláusula 5.1.2 acima serão acrescidos
+dos seguintes tributos: ISS (Imposto Sobre Serviços de Qualquer
+Natureza), PIS (Contribuição ao Programa de Integração Social), CSLL
+(Contribuição Social sobre o Lucro Líquido), COFINS (Contribuição para o
+Financiamento da Seguridade Social), IR (imposto de renda) e quaisquer
+outros tributos que venham a incidir sobre a remuneração da Instituição
+Custodiante, nas alíquotas vigentes na data de cada pagamento.
+
+5.1.2.3 Em caso de mora no pagamento de qualquer quantia devida, os
+débitos em atraso ficarão sujeitos estará sujeitos à multa contratual de
+2% (dois por cento) sobre o valor do débito, bem como a juros moratórios
+de 1% (um por cento) ao mês, ficando o valor do débito em atraso sujeito
+a atualização monetária pelo IGPM, incidente desde a data da
+inadimplência até a data do efetivo pagamento, calculado pro rata die.
+
+5.1.2.4 A remuneração de que trata a cláusula 5.1.2 acima não inclui
+despesas consideradas necessárias ao exercício da função de instituição
+custodiante, durante a implantação e vigência do serviço, tais como
+publicações em geral, notificações, viagens, transporte, alimentação e
+estadias. Referidas despesas poderão ser pagas ou reembolsadas pelo
+Devedor apenas se (i) mediante prévia aprovação, e (ii) caso referidas
+despesas estejam de acordo com parâmetros razoáveis de mercado, mediante
+pagamento das respectivas faturas acompanhadas dos respectivos
+comprovantes, emitidas diretamente em nome do Devedor, ou mediante
+reembolso.
+
+5.2 As demais despesas referentes ao Crédito Imobiliário, tais como
+cobrança dos créditos vincendos e administração do Crédito Imobiliário,
+serão de responsabilidade dos Titulares, salvo se estabelecido de forma
+diversa no Contrato de Financiamento.
+
+5.2.1 Também são despesas de responsabilidade dos Titulares a
+contratação de especialistas, advogados, auditores ou fiscais, bem como
+as despesas com procedimentos legais incorridas para resguardar os
+interesses dos Titulares, exceto nos casos (i) de cobrança de pagamentos
+em atraso pelo Devedor; (ii) de excussão das Garantias vinculadas ao
+Crédito Imobiliário; e (iii) nos demais casos expressamente previstos no
+Contrato de Financiamento ou nos demais Documentos da Operação, nos
+quais o Devedor será responsável pelo pagamento de todas as despesas e
+honorários, e reembolsará as que forem eventualmente incorridas pelos
+Titulares.
+
+5.3 Os tributos incidentes ou que venham a incidir sobre as CCI e/ou
+sobre o Crédito Imobiliário serão arcados pela parte que, de acordo com
+a legislação vigente à época, seja contribuinte ou responsável por tais
+tributos, ressalvado o disposto no Contrato de Financiamento e no
+subitem 5.3.1 abaixo.
+
+5.3.1 O Devedor concorda e se compromete a arcar com o pagamento do IOF
+e com os devidos acréscimos legais caso (i) a utilização do
+Financiamento não seja destinada à incorporação dos Empreendimentos, nos
+termos do Contrato de Financiamento, conforme determina o artigo 1º do
+Decreto-Lei nº 2.407, de 5 de janeiro de 1988; ou (ii) o desenvolvimento
+dos Empreendimentos seja caracterizado, pelas autoridades competentes,
+como não sendo para fins habitacionais. Sem prejuízo do disposto nesta
+cláusula, o Devedor se responsabiliza por todos os custos incorridos
+pela Emissora em função de eventual questionamento das autoridades
+fiscais, administrativas e/ou judiciais, devendo ser devidamente
+comprovados, sendo tais questionamentos informados ao Devedor no momento
+de seu recebimento pela Emissora.
+
+6. DISPOSIÇÕES GERAIS
+
+6.1 A eventual tolerância ou concessão das Partes e/ou dos Titulares no
+exercício de qualquer direito que lhes for conferido não importará
+alteração contratual ou novação, nem os impedirá de exercer, a qualquer
+momento, todos os direitos que lhes são assegurados nesta Escritura de
+Emissão ou na lei.
+
+6.2 A nulidade, invalidade ou ineficácia de qualquer disposição contida
+nesta Escritura de Emissão não prejudicará a validade e eficácia das
+demais, que serão integralmente cumpridas, obrigando-se as Partes a
+envidar os seus melhores esforços para, validamente, obter os mesmos
+efeitos da avença que tiver sido nulificada/anulada, invalidada ou
+declarada ineficaz.
+
+6.3 A presente Escritura de Emissão é firmada em caráter irrevogável e
+irretratável, obrigando as Partes e seus sucessores a qualquer título ao
+seu integral cumprimento.
+
+6.4 As comunicações a serem enviadas por qualquer das Partes nos termos
+deste Contrato, se feitas por fax ou correio eletrônico, serão
+consideradas recebidas na data de seu envio, desde que seu recebimento
+seja confirmado por meio de indicativo (recibo emitido pela máquina
+utilizada pelo remetente), devendo os respectivos originais serem
+encaminhados até 5 (cinco) Dias Úteis após o envio da mensagem; se
+feitas por correspondência, as comunicações serão consideradas entregues
+quando recebidas sob protocolo ou com “aviso de recebimento” expedido
+pelo Correio ou por telegrama, nos endereços constantes a seguir:
+
+Para a Emissora
+
+At.: Sr. Nelson Campos ou Sr. Álvaro Rezende
+
+Endereço: Rua dos Pinheiros, 498, 3º andar, Pinheiros, Município e
+Estado de São Paulo, CEP 05422-012
+
+e-mail: nelson.campos@chbcredito.com.br /
+alvaro.rezende@chbcredito.com.br
+
+Telefone: (11) 3320-7474
+
+Fac-símile: (11) 3320-7463
+
+Para a Instituição Custodiante
+
+At.: Sr. Henrique Noronha
+
+Endereço: Avenida das Américas, nº 500, bloco 13, sala 205 - Barra da
+Tijuca
+
+CEP 22640-100 - Rio de Janeiro - RJ
+
+e-mail: ger1.agente@oliveiratrust.com.br
+
+Telefone: (21) 3514-0000
+
+Fac-símile: (21) 3514-0000
+
+Para o Devedor, a Viver Desenvolvimento, a Viver Participações e a SPE
+
+At.: Pablo Sieiro
+
+Endereço: Rua Olimpíadas, n.º 205, 2º andar, Município e Estado de São
+Paulo, CEP 04551-000
+
+e-mail: pablo.sieiro@viverinc.com.br
+
+Telefone: (11) 3046-3061
+
+Fac-símile: (11) 3046-3046
+
+6.4.1 A mudança de qualquer dos endereços acima deverá ser comunicada às
+demais Partes pela Parte que tiver seu endereço alterado, em até 2
+(dois) dias contados da sua ocorrência.
+
+6.4.2 Eventuais prejuízos decorrentes da não observância do disposto
+acima serão arcados pela Parte inadimplente.
+
+6.5 Para fins de execução do Crédito Imobiliário, as CCI, nos termos dos
+artigos 585, inciso II, do Código de Processo Civil e 20 da Lei nº
+10.931/04, são consideradas como títulos executivos extrajudiciais,
+exigíveis pelo valor apurado de acordo com as cláusulas e condições
+pactuadas no Contrato de Financiamento e nesta Escritura de Emissão,
+ressalvadas as hipóteses em que a lei determine procedimento especial,
+judicial ou extrajudicial, para a satisfação do Crédito Imobiliário.
+
+6.6 A Instituição Custodiante não será obrigada a efetuar nenhuma
+verificação de veracidade nas deliberações societárias e em atos da
+administração da Emissora ou ainda em qualquer documento ou registro que
+considere autêntico e que lhe tenha sido encaminhado pela Emissora ou
+por terceiros a seu pedido, para se basear nas suas decisões. Não será,
+ainda, imputada à Instituição Custodiante a verificação da existência,
+titularidade, regular constituição e formalização do crédito, dos
+eventuais garantidores e dos respectivos direitos reais de garantia,
+nem, tampouco, qualquer responsabilidade pela adimplência do Crédito
+Imobiliário.
+
+6.7 Fica desde já estabelecido entre as Partes que qualquer divergência
+entre a presente Escritura de Emissão e o Contrato de Financiamento,
+prevalecerá o estabelecido no Contrato de Financiamento.
+
+7. ARBITRAGEM
+
+7.1 As Partes devem se empenhar em solucionar amigavelmente quaisquer
+disputas, controvérsias ou reclamações de qualquer natureza relacionadas
+a esta Escritura de Emissão. Caso a solução amigável não seja possível,
+tais disputas, controvérsias ou reclamações deverão ser exclusiva e
+definitivamente solucionadas por meio de arbitragem final e compulsória.
+
+7.2 Os procedimentos de arbitragem devem ser conduzidos e administrados
+de acordo com o Regulamento de Arbitragem do Centro Brasileiro de
+Mediação e Arbitragem (“Centro”), entidade sem fins lucrativos vinculada
+à Associação Comercial do Rio de Janeiro – ACRJ, à Federação das
+Indústrias do Rio de Janeiro – FIRJAN e à FENASEG – Federação Nacional
+das Seguradoras, e complementados pelas disposições processuais
+brasileiras, a saber, as disposições da Lei nº 9.307/96, e as do Código
+de Processo Civil.
+
+7.3 A arbitragem deverá ser conduzida por um tribunal composto por 3
+(três) árbitros, 1 (um) dos quais deverá ser nomeado pela parte
+demandante, 1 (um) pela parte demandada e um terceiro, que deverá atuar
+como o presidente do tribunal arbitral, deverá ser nomeado pelos
+árbitros nomeados pelas 2 (duas) partes, ou, caso os árbitros indicados
+pelas duas partes não consigam concordar com a escolha do presidente ou
+obter o aceite do referido indicado em até 10 (dez) Dias Úteis após sua
+indicação e aceite como árbitros, o Centro deverá nomear o presidente.
+Uma vez formado o tribunal arbitral, os árbitros devem atuar de maneira
+neutra e não como árbitros das partes que os nomearam.
+
+7.4 O local da sede da arbitragem será o Município do Rio de Janeiro,
+Estado do Rio de Janeiro.
+
+7.5 A sentença do tribunal arbitral deverá ser final e vinculante. A
+execução da sentença do tribunal arbitral poderá ser declarada requerida
+perante o foro central da comarca do Rio de Janeiro, Estado do Rio de
+Janeiro.
+
+7.6 Não obstante o disposto acima, as Partes poderão recorrer ao Poder
+Judiciário exclusivamente para as seguintes medidas, e tais medidas não
+devem ser interpretadas como uma renúncia pelas partes dos procedimentos
+de arbitragem: (i) para instituir a arbitragem; (ii) para obter medidas
+liminares ou cautelares previamente à confirmação do tribunal arbitral;
+(iii) para execução de qualquer decisão do tribunal arbitral, incluindo
+a sentença final; (iv) execução específica sob esta Escritura de
+Emissão; e (v) outros procedimentos expressamente admitidos pela Lei nº
+9.307/96.
+
+7.7 O tribunal arbitral está autorizado a determinar as custas e
+honorários advocatícios e a alocá-los entre as Partes na disputa. As
+custas nos processos de arbitragem, incluindo honorários advocatícios,
+deverão ser suportadas da maneira determinada pelo tribunal arbitral.
+
+7.8 Todas as informações trocadas entre as Partes e o tribunal arbitral
+são confidenciais.
+
+7.9 Salvo se de outra forma acordado por escrito, as Partes continuarão
+a cumprir com suas respectivas obrigações previstas neste Contrato
+enquanto tal procedimento arbitral estiver em curso.
+
+As Partes assinam a presente Escritura de Emissão em 6 (seis) vias, de
+igual teor e forma, na presença de 2 (duas) testemunhas.
+
+Rio de Janeiro, 19 de abril de 2013.
+
+(assinaturas nas páginas seguintes)
+
+(Página de assinaturas 1/7 do Instrumento Particular de Emissão de
+Cédula de Crédito Imobiliário Integral, Sem Garantia Real Imobiliária,
+sob a Forma Escritural, firmado em 19 de abril de 2013)
+
++-----------------------------------------------------------------------+
+| CHB – COMPANHIA HIPOTECÁRIA BRASILEIRA                                |
+|                                                                       |
+| Emissora                                                              |
++=======================================================================+
+| Nome: Nome:                                                           |
++-----------------------------------------------------------------------+
+| Cargo: Cargo:                                                         |
++-----------------------------------------------------------------------+
+
+(Página de assinaturas 2/7 do Instrumento Particular de Emissão de
+Cédula de Crédito Imobiliário Integral, Sem Garantia Real Imobiliária,
+sob a Forma Escritural, firmado em 19 de abril de 2013)
+
++-----------------------------------------------------------------------+
+| OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E                             |
+|                                                                       |
+| VALORES MOBILIÁRIOS S/A                                               |
+|                                                                       |
+| Instituição Custodiante                                               |
++=======================================================================+
+| Nome:                                                                 |
++-----------------------------------------------------------------------+
+| Cargo:                                                                |
++-----------------------------------------------------------------------+
+
+(Página de assinaturas 3/7 do Instrumento Particular de Emissão de
+Cédula de Crédito Imobiliário Integral, Sem Garantia Real Imobiliária,
+sob a Forma Escritural, firmado em 19 de abril de 2013)
+
++-----------------------------------------------------------------------+
+| VIVER INCORPORADORA E CONSTRUTORA S.A.                                |
+|                                                                       |
+| Devedor                                                               |
++=======================================================================+
+| Nome: Nome:                                                           |
++-----------------------------------------------------------------------+
+| Cargo: Cargo:                                                         |
++-----------------------------------------------------------------------+
+
+(Página de assinaturas 4/7 do Instrumento Particular de Emissão de
+Cédula de Crédito Imobiliário Integral, Sem Garantia Real Imobiliária,
+sob a Forma Escritural, firmado em 19 de abril de 2013)
+
++-----------------------------------------------------------------------+
+| VIVER DESENVOLVIMENTO IMOBILIÁRIO LTDA.                               |
+|                                                                       |
+| Garantidor                                                            |
++=======================================================================+
+| Nome: Nome:                                                           |
++-----------------------------------------------------------------------+
+| Cargo: Cargo:                                                         |
++-----------------------------------------------------------------------+
+
+(Página de assinaturas 5/7 do Instrumento Particular de Emissão de
+Cédula de Crédito Imobiliário Integral, Sem Garantia Real Imobiliária,
+sob a Forma Escritural, firmado em 19 de abril de 2013)
+
++-----------------------------------------------------------------------+
+| VIVER PARTICIPAÇÕES LTDA.                                             |
+|                                                                       |
+| Garantidor                                                            |
++=======================================================================+
+| Nome: Nome:                                                           |
++-----------------------------------------------------------------------+
+| Cargo: Cargo:                                                         |
++-----------------------------------------------------------------------+
+
+(Página de assinaturas 6/7 do Instrumento Particular de Emissão de
+Cédula de Crédito Imobiliário Integral, Sem Garantia Real Imobiliária,
+sob a Forma Escritural, firmado em 19 de abril de 2013)
+
++-----------------------------------------------------------------------+
+| INPAR PROJETO 94 SPE LTDA.                                            |
+|                                                                       |
+| Garantidor                                                            |
++=======================================================================+
+| Nome: Nome:                                                           |
++-----------------------------------------------------------------------+
+| Cargo: Cargo:                                                         |
++-----------------------------------------------------------------------+
+
+(Página de assinaturas 7/7 do Instrumento Particular de Emissão de
+Cédula de Crédito Imobiliário Integral, Sem Garantia Real Imobiliária,
+sob a Forma Escritural, firmado em 19 de abril de 2013)
+
+TESTEMUNHAS:
+
++-----------------------------------+-----------------------------------+
+| 1.                                | 2._______________________________ |
+| _______________________________   |                                   |
+|                                   | Nome:                             |
+| Nome:                             |                                   |
+|                                   | CPF/MF:                           |
+| CPF/MF:                           |                                   |
++===================================+===================================+
++-----------------------------------+-----------------------------------+
+
+ANEXO I
+
+Cédulas de Crédito Imobiliário Nº 1 a 10
+
+[TABLE]
+
+[TABLE]
+
+[TABLE]
+
+[TABLE]
+
+[TABLE]
+
+[TABLE]
+
+[TABLE]
+
+[TABLE]
+
+[TABLE]
+
+[TABLE]
+
+ANEXO II
+
+Contrato de Financiamento

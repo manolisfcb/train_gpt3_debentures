@@ -1,0 +1,3352 @@
+INSTRUMENTO PARTICULAR DE ESCRITURA DA 1ª EMISSÃO DE DEBÊNTURES, EM
+SÉRIE ÚNICA, PARA COLOCAÇÃO PRIVADA, NÃO CONVERSÍVEIS EM AÇÕES, DA
+ESPÉCIE COM GARANTIA REAL E COM GARANTIA ADICIONAL FIDEJUSSÓRIA, DA
+M.E.L HIGIENÓPOLIS PARTICIPAÇÕES SPE S.A.
+
+CELEBRADO ENTRE
+
+M.E.L HIGIENÓPOLIS PARTICIPAÇÕES SPE S/A
+
+na qualidade de Emissora
+
+e
+
+HABITASEC SECURITIZADORA S.A.
+
+na qualidade de Debenturista
+
+e
+
+MONTREAL EMPREENDIMENTOS IMOBILIÁRIOS S.A.
+
+LDK EMPREENDIMENTOS E PARTICIPAÇÕES LTDA.
+
+na qualidade de Intervenientes Anuentes
+
+Datado de 3 de setembro de 2020
+
+SUMÁRIO
+
+1. CLÁUSULA PRIMEIRA – AUTORIZAÇÃO 7
+
+2. CLÁUSULA SEGUNDA – REQUISITOS DA EMISSÃO 8
+
+3. CLÁUSULA TERCEIRA – CARACTERÍSTICAS DA EMISSÃO 13
+
+4. CLÁUSULA QUARTA – CARACTERÍSTICAS DAS DEBÊNTURES 19
+
+5. CLÁUSULA QUINTA – GARANTIAS 36
+
+6. CLÁUSULA SEXTA – VENCIMENTO ANTECIPADO 39
+
+7. CLÁUSULA SÉTIMA – ASSEMBLEIA GERAL 47
+
+8. CLÁUSULA OITAVA – OBRIGAÇÕES ADICIONAIS DA EMISSORA 48
+
+9. CLÁUSULA NONA – DESPESAS DA EMISSÃO 52
+
+10. CLÁUSULA DEZ – DECLARAÇÕES DA EMISSORA 63
+
+11. CLÁUSULA ONZE – PENALIDADES 70
+
+12. CLÁUSULA DOZE – COMUNICAÇÕES 70
+
+13. CLÁUSULA TREZE – DISPOSIÇÕES GERAIS 72
+
+14. CLÁUSULA QUATORZE – LEI E FORO 74
+
+ANEXO I – CRONOGRAMA DE PAGAMENTOS DAS DEBÊNTURES 80
+
+ANEXO II - BOLETIM DE SUBSCRIÇÃO 81
+
+ANEXO III - RECIBO DE INTEGRALIZAÇÃO DAS DEBÊNTURES 85
+
+ANEXO IV – DESPESAS FLAT DA EMISSÃO 87
+
+ANEXO V – RELATÓRIO SEMESTRAL 88
+
+ANEXO VI – RELATÓRIO DE REEMBOLSO 90
+
+ANEXO VII – DESCRIÇÃO DO EMPREENDIMENTO IMOBILIÁRIO 92
+
+INSTRUMENTO PARTICULAR DE ESCRITURA DA 1ª EMISSÃO DE DEBÊNTURES, EM
+SÉRIE ÚNICA, PARA COLOCAÇÃO PRIVADA, NÃO CONVERSÍVEIS EM AÇÕES, DA
+ESPÉCIE COM GARANTIA REAL E COM GARANTIA ADICIONAL FIDEJUSSÓRIA, DA
+M.E.L HIGIENÓPOLIS PARTICIPAÇÕES SPE S.A.
+
+Pelo presente instrumento particular, as partes abaixo qualificadas,
+
+I.  PARTES
+
+1.  M.E.L HIGIENÓPOLIS PARTICIPAÇÕES SPE S.A, sociedade anônima, com
+    sede na Cidade de Londrina, Estado do Paraná, na Avenida Ayrton
+    Senna da Silva, nº 600, Condomínio Torre Siena, Sala 2001-B e
+    2002-B, Gleba Fazenda Palhano, CEP 86050-460, devidamente inscrita
+    no Cadastro Nacional de Pessoas Jurídicas do Ministério da Economia
+    (“CNPJ/ME”) sob o nº 33.537.832/0001-09 e com seus atos
+    constitutivos devidamente arquivados perante a Junta Comercial do
+    Estado do Paraná (“JUCEPAR”) sob o NIRE 41.300.307.164, neste ato
+    representada na forma de seu Estatuto Social, doravante denominada
+    “Emissora”, “M.E.L” ou “Devedora”
+
+2.  HABITASEC SECURITIZADORA S.A., sociedade anônima, com sede na Cidade
+    de São Paulo, Estado de São Paulo, na Avenida Brigadeiro Faria Lima,
+    nº 2894, 9º andar, Conjunto 92, Jardim Paulistano, CEP 01451-902,
+    devidamente inscrita no CNPJ/ME sob o nº 09.304.427/0001-58 e com
+    seus atos constitutivos devidamente arquivados perante a Junta
+    Comercial do Estado de São Paulo (“JUCESP”) sob o NIRE
+    35.300.352.068, neste ato representada na forma de seu Estatuto
+    Social, doravante denominada “Debenturista” ou “Securitizadora”.
+
+E, na qualidade de Fiadoras:
+
+3.  MONTREAL EMPREENDIMENTOS IMOBILIÁRIOS S.A., sociedade anônima, com
+    sede na Cidade de Londrina, Estado do Paraná, na Avenida Ayrton
+    Senna da Silva, nº 600, Condomínio Torre Siena, Sala 2001-A e
+    2002-A, Gleba Fazenda Palhano, CEP 86050-460, devidamente inscrita
+    no CNPJ/ME sob o nº 10.815.804/0001-00 e com seus atos constitutivos
+    arquivados perante a JUCEPAR sob o NIRE nº 41.300.092.044 , neste
+    ato representada na forma de seu Estatuto Social, doravante
+    denominada “Montreal” ou “Fiadora 1”;
+
+4.  LDK EMPREENDIMENTOS E PARTICIPAÇÕES LTDA., sociedade empresária
+    limitada, com sede na Cidade de São Paulo, Estado de São Paulo, na
+    Rua Paes Leme, nº 524, Conjunto 45, 4º andar, Sala 1, Pinheiros, CEP
+    05424-904, devidamente inscrita no CNPJ/ME sob o nº
+    20.326.529/0001-07 e com seus atos constitutivos arquivados perante
+    a JUCESP sob o NIRE nº 35.228.434.326, neste ato representada na
+    forma de seu Contrato Social, doravante denominada “LDK” ou “Fiadora
+    2” e quando mencionada em conjunto com a Fiadora 1, simplesmente
+    “Fiadoras”;
+
+II. CONSIDERAÇÕES PRELIMINARES
+
+(A) a M.E.L tem interesse em emitir debêntures, para colocação privada,
+    não conversíveis em ações, nos termos deste Instrumento Particular
+    de Emissão de Escritura da 1ª Emissão de Debêntures, em Série Única,
+    para Colocação Privada, não Conversíveis em Ações, da Espécie com
+    Garantia Real e com Garantia Adicional Fidejussória, da M.E.L
+    Higienópolis Participações SPE S.A., a serem subscritas de forma
+    privada pela Debenturista (“Escritura” ou “Escritura de Emissão de
+    Debêntures” e “Debêntures”);
+
+(B) os recursos a serem captados por meio das Debêntures serão
+    integralmente destinados à aquisição de parte dos 60,76% (sessenta
+    inteiros e setenta e seis centésimos por cento) de um terreno
+    localizado na Avenida Higienópolis, datas 1/18/6/10 - A e
+    1/18/6/10 - B, da quadra 01, no Jardim Canaã, próximo ao Iate Clube
+    de Londrina, com 9.874,82 m², de topografia excelente e localizado
+    em área nobre da Cidade de Londrina, Estado do Paraná, sem
+    benfeitorias, registrado no 1º Ofício de Registro de Imóveis da
+    Comarca de Londrina, sob as matrículas nº 66.466 e 66.467, sendo que
+    referido terreno está subdividido em 2 (dois) lotes, sendo um com
+    área de 8.401,25m² e outro com área de 1.473,57 m², através de
+    leilão público pelo critério de maior lance, com a finalidade de
+    realizar a construção e desenvolvimento de um empreendimento
+    (“Aquisição do Imóvel”, “Imóvel” ou “Terreno”, respectivamente);
+
+(C) em razão da emissão das Debêntures pela Emissora e subscrição das
+    Debêntures pela Debenturista, a Debenturista possuirá direito de
+    crédito em face da Emissora, nos termos desta Escritura;
+
+(D) A OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS
+    S.A., sociedade anônima com filial situada na Cidade São Paulo,
+    Estado de São Paulo, na Rua Joaquim Floriano, nº 1052, sala 132,
+    inscrita no CNPJ/ME sob o nº 36.113.876/0004-34 (“Agente Fiduciário
+    dos CRI”), verificará a destinação dos recursos captados com a
+    presente Emissão, nos termos da Cláusula 3.5. abaixo;
+
+(E) em garantia do cumprimento de todas as obrigações, presentes e
+    futuras, principais e acessórias, assumidas ou que venham a ser
+    assumidas pela Emissora por força desta Escritura de Emissão de
+    Debêntures e suas posteriores alterações, o que inclui o pagamento
+    dos Créditos Imobiliários, abaixo definidos, pela Emissora, o
+    pagamento das Despesas e os custos com a execução da Garantia Real,
+    conforme abaixo definido (“Obrigações Garantidas”), as Debêntures
+    contarão com as seguintes Garantia Real e Garantia Adicional
+    Fidejussória, conforme abaixo definidas: (i) alienação fiduciária de
+    80% (oitenta por cento) das ações de emissão da M.E.L, de
+    propriedade das Fiadoras, nas seguintes proporções: 40% (quarenta
+    por cento) das ações de propriedade da Fiadora 1 (“Ações Montreal”),
+    40% (quarenta por cento) das ações de propriedade da Fiadora 2
+    (“Ações LDK” e quando mencionada em conjunto com as Ações Montreal,
+    simplesmente “Ações”), constituída nos termos do Instrumento
+    Particular de Alienação Fiduciária de Ações em Garantia e Outras
+    Avenças, celebrado na presente data, entre as Fiadoras, na qualidade
+    de fiduciante, a Debenturista, na qualidade de fiduciária e a
+    Emissora, na qualidade de interveniente anuente (“Alienação
+    Fiduciária de Ações” e “Contrato de Alienação Fiduciária de Ações”
+    ou “Garantia Real”, respectivamente); e (ii) fiança das Fiadoras
+    (“Fiança” ou “Garantia Fidejussória” e quando mencionada em conjunto
+    com a Garantia Real, simplesmente “Garantias”);
+
+(F) Após a aquisição das Debêntures, a Debenturista pretende emitir
+    cédula de crédito imobiliário (“CCI”) representativa dos Créditos
+    Imobiliários (conforme definido abaixo), por meio da celebração do
+    Instrumento Particular de Escritura de Emissão de Cédula de Crédito
+    Imobiliário Integral Sem Garantia Real Imobiliária e Sem Garantia
+    Fidejussória sob a Forma Escritural, a ser celebrado entre a
+    Securitizadora, na qualidade de emissora, o Agente Fiduciário dos
+    CRI, na qualidade de instituição custodiante e a M.E.L, na qualidade
+    de interveniente anuente (“Escritura de Emissão de CCI”), para que
+    os Créditos Imobiliários, abaixo definidos, sirvam de lastro para
+    emissão dos certificados de recebíveis imobiliários da 186ª série da
+    1ª emissão da Securitizadora (“CRI”), os quais serão distribuídos
+    por meio de oferta pública com esforços restritos de distribuição,
+    nos termos da Instrução CVM nº 476, de 16 de janeiro de 2009,
+    conforme alterada (“Instrução CVM 476” e “Oferta Restrita” e
+    “Operação de Securitização”, respectivamente), os CRI serão
+    distribuídos por meio de oferta pública com esforços restritos de
+    colocação, em regime de melhores esforços de colocação, nos termos
+    da Instrução CVM 476, e contará com a intermediação da própria
+    Securitizadora e serão destinados apenas a investidores que sejam
+    considerados investidores profissionais, nos termos da Instrução CVM
+    nº 539, de 13 de novembro de 2013 (“Titulares de CRI”);
+
+(G) isto posto, integram a presente operação de securitização os
+    seguintes documentos: (i) a presente Escritura de Emissão de
+    Debêntures; (ii) o Contrato de Alienação Fiduciária de Ações; (iii)
+    a Escritura de Emissão de CCI; (iv) o Termo de Securitização; (v) os
+    boletins de subscrição; (vi) o Contrato de Custodiante e Registrador
+    (conforme definido na Escritura de Emissão de CCI); e (vii) os
+    demais instrumentos e aditamentos eventualmente celebrados no âmbito
+    da emissão de CRI e da Oferta (sendo todos esses documentos
+    doravante denominados “Documentos da Operação”); e
+
+(H) as Partes dispuseram de tempo e condições adequadas para a avaliação
+    e discussão de todas as cláusulas deste instrumento, cuja
+    celebração, execução e extinção são pautadas pelos princípios da
+    igualdade, probidade, lealdade e boa-fé.
+
+    vêm celebrar a presente Escritura, observadas as cláusulas,
+    condições e características abaixo:
+
+III. CLÁUSULAS:
+
+1.  CLÁUSULA PRIMEIRA – AUTORIZAÇÃO
+
+    1.  A Emissão é realizada e a presente Escritura é celebrada com
+        base nas deliberações tomadas pela Assembleia Geral
+        Extraordinária da Emissora realizada em 1º de setembro de 2020
+        (“AGE Emissora”), por meio da qual se aprovou a presente
+        Emissão, incluindo seus termos e condições, conforme o disposto
+        no artigo 59 da Lei 6.404, de 15 de dezembro de 1976, conforme
+        alterada (“Lei das Sociedades por Ações”) e do inciso “(t)” do
+        artigo 7º do Estatuto Social da Emissora, a qual será
+        devidamente arquivada na Junta Comercial do Paraná – JUCEPAR, e
+        publicada no Diário Oficial do Estado do Paraná e no jornal
+        Folha de Londrina em que são publicados os atos societários da
+        Emissora, nos termos do artigo 289 da Lei das Sociedades por
+        Ações.
+
+    2.  As Garantias outorgadas nos termos da presente Escritura de
+        Emissão de Debêntures estão expressamente autorizadas (i) na ata
+        de Assembleia Geral Extraordinária da Montreal realizada em 1º
+        de setembro de 2020 (“AGE Montreal”); e (ii) na ata de Reunião
+        de Sócios da LDK realizada em 1º de setembro de 2020 (“RS LDK” e
+        quando mencionada em conjunto com a AGE Montreal e com a RS LDK,
+        simplesmente “Atos Aprovadores”) que serão arquivados na
+        JUCEPAR, posteriormente, observado o disposto na Lei nº 14.030
+        de 28 de julho de 2020, que suspendeu a exigência de
+        arquivamento prévio de ato para a realização de emissões de
+        valores mobiliários a partir de 1º de março de 2020, sendo que e
+        o arquivamento deverá ser feito na JUCEPAR no prazo de até 30
+        (trinta) dias, contados da data em que a JUCEPAR restabelecer a
+        prestação regular dos seus serviços.
+
+    3.  A subscrição das Debêntures será realizada com base nas
+        deliberações tomadas na Assembleia Geral Extraordinária da
+        Debenturista, realizada em 18 de dezembro de 2018, cuja ata foi
+        devidamente registrada perante a JUCESP em 14 de março de 2019
+        sob o número 154.792/19-6.
+
+    4.  A Emissora se compromete a enviar à Debenturista e ao Agente
+        Fiduciário dos CRI, cópia digitalizada dos Atos Aprovadores
+        devidamente registrados.
+
+2.  CLÁUSULA SEGUNDA – REQUISITOS DA EMISSÃO
+
+    1.  Arquivamento e Publicação da Ata da AGE. O arquivamento da ata
+        da AGE Emissora será realizado perante a JUCEPAR, de acordo com
+        o disposto no artigo 62, I, da Lei das Sociedades por Ações. A
+        ata da AGE, após o arquivamento será publicada no jornal “Diário
+        Oficial do Estado do Paraná e no jornal Folha de Londrina, de
+        acordo com o disposto no artigo 62, I, da Lei das Sociedades por
+        Ações.
+
+        1.  Os atos societários da Emissora que eventualmente venham a
+              ser realizados no âmbito da presente Emissão, após o
+              registro desta Escritura, serão igualmente arquivados na
+              JUCEPAR e publicados pela Emissora no jornal Folha de
+              Londrina e no Diário Oficial do Estado do Paraná, conforme
+              legislação em vigor.
+
+    2.  Arquivamento da Escritura. Observado o disposto na cláusula
+        1.2., acima, a presente Escritura e seus aditamentos serão
+        arquivados na JUCEPAR, de acordo com o disposto no artigo 62, II
+        e parágrafo 3º, da Lei das Sociedades por Ações.
+
+        1.  A Emissora se compromete a enviar à Debenturista 1 (uma) via
+              original, ou cópia com chancela digital, desta Escritura e
+              eventuais aditamentos, devidamente registrados na JUCEPAR,
+              tempestivamente após o referido registro, bem como cópia
+              digitalizada ao Agente Fiduciário dos CRI.
+
+        2.  Eventuais aditamentos a esta Escritura deverão ser levados a
+              registro na JUCEPAR em até 10 (dez) Dias Úteis da sua
+              celebração, e a via original registrada, ou cópia com
+              chancela digital do registro de eventuais aditamentos
+              deverá ser disponibilizada à Debenturista em até 2 (dois)
+              Dias Úteis contados da data do registro de tais
+              aditamentos na JUCEPAR, devendo a Emissora agir com
+              diligência e envidar seus melhores esforços para sanar
+              quaisquer eventuais exigências que venham a ser apontadas
+              pela JUCEPAR no âmbito do registro.
+
+        3.  A presente Escritura e seus eventuais aditamentos deverão
+              ser registrados nos cartórios de registro de títulos e
+              documentos de sede das Partes, no prazo de até 5 (cinco)
+              Dias Úteis, contados da data de celebração de referido
+              instrumento e a via original registrada deverá ser
+              disponibilizada à Debenturista em até 5 (cinco) Dias
+              Úteis, contados da data do registro perante os cartórios,
+              bem como cópia digitalizada ao Agente Fiduciário dos CRI.
+
+    3.  Subscrição e integralização das Debêntures. As Debêntures serão
+        objeto de subscrição privada pela Debenturista. A integralização
+        das Debêntures será realizada exclusivamente com recursos
+        oriundos da integralização dos CRI, que será realizada de acordo
+        com as Datas de Integralização (abaixo definidas) e mediante o
+        cumprimento das Condições Precedentes (conforme abaixo
+        definidas), nos termos da Cláusula 4.5.2. abaixo. Sobre o Preço
+        de Integralização (conforme abaixo definido) não caberá qualquer
+        remuneração ou qualquer tipo de correção entre a data de
+        integralização dos CRI e a efetiva liberação dos recursos
+        decorrentes da integralização das Debêntures à Emissora, além
+        dos eventuais recursos obtidos com a aplicação em Investimentos
+        Permitidos, abaixo definidos.
+
+    4.  Condições Precedentes.
+
+        1.  As Debêntures serão integralizadas pelo Preço de
+              Integralização (conforme definido na cláusula 4.5.3
+              abaixo), a liberação do Preço de Integralização à Emissora
+              ocorrerá em 2 (duas) parcelas, sendo (i) a primeira
+              parcela no valor bruto de R$ 5.438.000,00 (cinco milhões e
+              quatrocentos e trinta e oito mil reais) em até 1 (um) Dia
+              Útil contado da superação de todas as Condições
+              Precedentes Iniciais (abaixo definidas), deduzido dos
+              valores para composição do Fundo de Despesas, conforme
+              cláusula 4.11. abaixo, e pagamento das despesas Flat
+              indicadas no Anexo IV desta Escritura de Emissão de
+              Debêntures, resultando em um valor líquido de R$
+              4.950.398,42 (quatro milhões, novecentos e cinquenta mil,
+              trezentos e noventa e oito reais e quarenta e dois
+              centavos), observadas as Condições Precedentes Iniciais
+              (“Primeira Parcela”); e (ii) a segunda parcela no valor de
+              R$ 1.812.000,00 (um milhão e oitocentos e doze mil reais)
+              em até 6 (seis) meses após a Primeira Parcela, observada
+              as Condições Precedentes Iniciais e a Condição Precedente
+              Complementar (definida abaixo) (“Segunda Parcela”).
+
+        2.  A Primeira Parcela de liberação do Preço de Integralização
+              das Debêntures está condicionada, nos termos do artigo 125
+              da Lei 10.406, de 10 de janeiro de 2002, conforme alterada
+              (“Código Civil Brasileiro”), ao atendimento das seguintes
+              condições cumulativas (“Condições Precedentes Iniciais”):
+
+(i) Subscrição e integralização dos CRI no valor mínimo de R$ R$
+      5.438.000,00 (cinco milhões e quatrocentos e trinta e oito mil
+      reais);
+
+(ii) Arquivamento desta Escritura de Emissão de Debêntures no Livro de
+       Registro de Debêntures Nominativas da Emissora (“Livro de
+       Registro de Debêntures Nominativas”) que será comprovado mediante
+       a apresentação de cópia autenticada à Securitizadora;
+
+(iii) Registro do Termo de Securitização na Instituição Custodiante das
+        CCI em até 1 (um) Dia Útil contado de sua formalização;
+
+(iv) Perfeita formalização de todos os Documentos da Operação,
+       entendendo-se como tal a sua lavratura ou assinatura pelas
+       respectivas partes, bem como a verificação dos poderes dos
+       representantes dessas partes e as aprovações de quotistas,
+       acionistas ou do conselho de administração necessárias para
+       tanto, incluindo as autorizações societárias necessárias para a
+       realização da Oferta Restrita e seus respectivos protocolos para
+       registros na Junta Comercial competente, caso aplicável, a
+       saber: (a) ata de AGE da Emissora, autorizando a presente emissão
+       de Debêntures (b) ata de AGE da Montreal, autorizando a alienação
+       fiduciária da totalidade das ações por ela detidas no capital
+       social da Emissora, em favor da Debenturista e a prestação de
+       Fiança; e (c) ata de RS da LDK, autorizando a alienação
+       fiduciária da totalidade das ações por ela detidas no capital
+       social da Emissora, em favor da Debenturista e a prestação de
+       Fiança;
+
+(v) Registro da Oferta Restrita dos CRI para distribuição no mercado
+      primário e negociação no mercado secundário na B3 (segmento CETIP
+      UTVM);
+
+(vi) Conclusão satisfatória da auditoria legal (due diligence) em
+       relação ao Imóvel, à Emissora e às Fiadoras em termos
+       satisfatórios à Securitizadora;
+
+(vii) Registro do Contrato de Alienação Fiduciária de Ações perante os
+        Registros de Títulos e Documentos de Londrina/PR e de São
+        Paulo/SP;
+
+(viii) Averbação da Alienação Fiduciária de Ações no livro de registro
+         de ações nominativas por meio da inclusão da anotação prevista
+         na cláusula 2.1. do Contrato de Alienação Fiduciária de Ações e
+         apresentação à Securitizadora de cópia autenticada do livro de
+         registro de ações comprovando as averbações, no prazo de 2
+         (dois) dias úteis a contar desta data;
+
+(ix) Registro da presente Escritura de Emissão de Debêntures na JUCEPAR;
+
+(x) Recebimento pela Securitizadora de via original do Contrato
+      Particular de Compra e Venda de Imóvel, devidamente formalizado em
+      17 de julho de 2020, entre a SERCOMTEL S.A. TELECOMUNICAÇÕES,
+      sociedade anônima, com sede na Cidade de Londrina, Estado do
+      Paraná, na Rua Professor João Cândido, nº 555, Centro, CEP
+      86010-927, devidamente inscrita no CNPJ/ME sob o nº
+      01.371.416/0001-89 (“Sercomtel”), na qualidade de vendedora do
+      Imóvel e a Emissora, na qualidade de compradora do Imóvel
+      (“Contrato de Compra e Venda do Imóvel”); e
+
+(xi) Recebimento pela Securitizadora: (a) de via original da legal
+       opinion; (b) do relatório de Due Diligence; (c) das vias físicas
+       assinadas e devidamente registradas, nas sedes das partes e nos
+       cartórios competentes, do Contrato de Alienação Fiduciária de
+       Ações (d) de vias digitais do Termo de Securitização e da
+       Escritura de Emissão de CCI.
+
+     1.  Além das Condições Precedentes acima, a Segunda Parcela do
+         Preço de Integralização será realizada mediante a subscrição e
+         integralização dos CRI na Conta do Patrimônio Separado, no
+         montante equivalente a Segunda Parcela, conforme descrito na
+         cláusula 2.4.1 acima (“Condição Precedente Complementar”).
+
+3.  CLÁUSULA TERCEIRA – CARACTERÍSTICAS DA EMISSÃO
+
+    1.  Objeto Social da Emissora
+
+        1.  A Emissora tem por objeto social investimentos e
+              participações em outras sociedades como
+              cotistas/acionistas; na modalidade de Sociedade de
+              Propósito Específico – SPE, previsto no artigo 981 da Lei
+              nº 10.406, de 10 de janeiro de 2002, conforme alterada
+              (“Código Civil”).
+
+    2.  Número da Emissão
+
+        1.  Esta é a 1ª emissão de debêntures da Emissora.
+
+    3.  Número de Séries
+
+        1.  A emissão será realizada em série única.
+
+    4.  Valor Total da Emissão e Quantidade de Debêntures
+
+        1.  Serão emitidas 7.250 (sete mil, duzentos e cinquenta)
+              Debêntures, com valor nominal unitário de R$ 1.000,00 (mil
+              reais), na Data da Emissão (conforme definido abaixo).
+
+        2.  O Valor Total da Emissão é de R$ 7.250.000,00 (sete milhões,
+              duzentos e cinquenta mil reais).
+
+    5.  Destinação dos Recursos
+
+        1.  Os recursos líquidos obtidos pela Emissora com emissão das
+              Debêntures serão destinados pela Emissora, até a data
+              limite para alocação dos recursos líquidos integralmente,
+              conforme prevista no Anexo VII desta Escritura de Emissão,
+              para o pagamento de parte dos 60,76% (sessenta vírgula
+              setenta e seis por cento) da Aquisição do Imóvel, cujo
+              valor total de R$ 19.150.000,00 (dezenove milhões, cento e
+              cinquenta mil reais), que será pago em 31 (trinta e uma)
+              parcelas, sendo uma entrada de 25% (vinte e cinco por
+              cento) do valor final do Imóvel arrematado (“Sinal”) e o
+              restante dividido em 30 (trinta) parcelas de igual valor
+              (“Demais Parcelas” e quando mencionadas em conjunto com o
+              Sinal, simplesmente “Valor Total do Imóvel”), tudo através
+              de depósito em dinheiro ou Transferência Eletrônica
+              Disponível (“TED”), na conta corrente nº 13000755-0,
+              agência 3189, do Banco Santander S.A. (nº 033), de
+              titularidade da Sercomtel (“Conta Sercomtel”). A
+              destinação dos referidos recursos será comprovada pela
+              Emissora mediante o envio de comprovantes de depósito em
+              dinheiro na Conta Sercomtel ou de comprovante da(s)
+              transferência(s) realizadas via TED à Conta Sercomtel.
+              Nesta linha, a Emissora compromete-se, em caráter
+              irrevogável e irretratável, a aplicar os recursos objeto
+              da presente Emissão, até a data limite para alocação dos
+              recursos, conforme prevista no Anexo VII desta Escritura
+              de Emissão, única e exclusivamente para a Aquisição do
+              Imóvel.
+
+            1.  Considerando que, no momento, da presente emissão de
+                  Debêntures, o Imóvel já foi adquirido pela Emissora,
+                  com o pagamento no montante de R$ 3.201.053,41 (três
+                  milhões, duzentos e um mil, cinquenta e três reais e
+                  quarenta e um centavos), referentes ao pagamento de
+                  60,76% (sessenta vírgula setenta e seis por cento) do
+                  Sinal e da primeira parcela, os quais serão utilizados
+                  a título de reembolso de despesas relacionadas à
+                  Aquisição do Imóvel (“Reembolso”).
+
+        2.  A Emissora enviou ao Agente Fiduciário dos CRI, com cópia
+              para a Securitizadora, previamente à celebração desta
+              Escritura, a comprovação da parcela destinada ao
+              Reembolso, por meio de relatório no formato constante do
+              Anexo VI, devidamente assinado por seu(s) representante(s)
+              legal(is) (“Relatório de Reembolso”), acompanhado dos
+              documentos que comprovam os valores e pagamentos
+              incorridos relativos a aquisição do Imóvel, incluindo, mas
+              não se limitando, à cópia do Contrato de Compra e Venda do
+              Imóvel, comprovantes de pagamentos, termo de quitação,
+              incluindo, mas não se limitando, cópia do(s)
+              comprovante(s) de depósito(s) de pagamento(s) ou de
+              transferência(s) eletrônica(s) de pagamento(s) da(s)
+              parcela(s) atos societários, conforme o caso, e demais
+              documentos comprobatórios que demonstrem a correta
+              destinação dos Créditos Imobiliários (“Documentos
+              Comprobatórios”).
+
+        3.  Os recursos oriundos da presente Emissão destinados ao
+              Reembolso nos termos da Cláusula 3.5.2 acima somente serão
+              utilizados para reembolso de despesas incorridas nos 24
+              (vinte e quatro) meses anteriores à data de encerramento
+              da Oferta Restrita dos CRI.
+
+        4.  Para fins de comprovação da destinação dos recursos
+              líquidos, a Emissora obrigou-se, nos termos desta
+              Escritura de Emissão de Debêntures, a (i) a promover a
+              inscrição da Debenturista no “Livro de Registro de
+              Debêntures Nominativas”, em prazo não superior a 2 (dois)
+              Dias Úteis a contar da presente data e, no âmbito de
+              qualquer transferência posterior de Debêntures, a
+              inscrição do respectivo titular no Livro de Registro de
+              Debêntures Nominativas deverá ser realizada pela Emissora
+              em prazo não superior a 5 (cinco) Dias Úteis a contar da
+              respectiva transferência; e (ii) enviar ao Agente
+              Fiduciário dos CRI e à Securitizadora os comprovantes de
+              pagamento do sinal e eventuais parcelas que tenham sido
+              quitadas, antes da emissão das Debêntures, nos termos da
+              Cláusula 3.5.1.1., acima, no prazo de 10 (dez) Dias Úteis
+              a contar da celebração do documento que formalizar
+              referida aquisição, podendo o Agente Fiduciário dos CRI e
+              a Securitizadora solicitarem à Emissora quaisquer
+              esclarecimentos e/ou documentos que se façam necessários
+              para a comprovação da utilização de referidos recursos
+              para a Aquisição do Imóvel, a qualquer tempo.
+
+        5.  A Emissora comprometeu-se, em caráter irrevogável e
+            irretratável, a aplicar os recursos obtidos por meio da
+            emissão de Debêntures, exclusivamente conforme previsto
+            nesta Cláusula 3.5. e suas sub cláusulas.
+
+        6.  A Emissora deverá encaminhar à Securitizadora, com cópia ao
+              Agente Fiduciário dos CRI, até a Data Limite para
+              Aquisição do Imóvel prevista no Anexo VII a presente
+              Escritura de Emissão de Debêntures: (i) em até 10 (dez)
+              Dias Úteis do encerramento de cada semestre, sendo o
+              primeiro contado a partir da Data da Primeira
+              Integralização dos CRI, relatório no formato constante do
+              Anexo V à presente Escritura, devidamente assinado por seu
+              diretor financeiro (“Relatório de Verificação”),
+              comprovando que o Valor Total da Emissão foi destinado à
+              Aquisição do Imóvel, juntamente os Documentos
+              Comprobatórios da referida destinação; e (ii) sempre que
+              solicitado por escrito pela Securitizadora e/ou pelo
+              Agente Fiduciário dos CRI, incluindo, sem limitação, para
+              fins de atendimento a exigências de órgãos reguladores e
+              fiscalizadores, dentre elas a CVM, em até 5 (cinco) Dias
+              Úteis do recebimento da solicitação, ou em prazo menor
+              conforme exigido pelo órgão regulador e fiscalizador
+              competente, cópia dos Documentos Comprobatórios, bem como
+              cópia do relatório contábil, das notas fiscais e seus
+              arquivos no formato “XML” de autenticação das notas
+              fiscais e os documentos necessários que julgar necessário
+              para acompanhamento da utilização dos recursos para a
+              Aquisição do Imóvel.
+
+        7.  Mediante o recebimento do Relatório de Verificação e dos
+              Documentos Comprobatórios, o Agente Fiduciário dos CRI
+              deverá verificar, a cada 6 (seis) meses, até a Data de
+              Vencimento dos CRI ou até que a totalidade dos recursos
+              tenham sido utilizados, o efetivo direcionamento de todos
+              os recursos obtidos por meio da emissão de Debêntures à
+              Aquisição do Imóvel, exclusivamente, a partir dos
+              documentos fornecidos nos termos da Cláusula 3.5.4. acima.
+              A Emissora assumirá que as informações e os documentos
+              encaminhados para o Agente Fiduciário e os documentos
+              complementares e as informações do relatório previsto no
+              Anexo V da Escritura de Emissão de Debêntures
+              (“Relatório”) são verídicos e não foram objeto de fraude
+              ou adulteração, não sendo o Agente Fiduciário dos CRI
+              responsável por verificar a suficiência, validade,
+              qualidade, veracidade ou completude das informações
+              técnicas e financeiras constantes do Relatório ou, ainda,
+              em qualquer outro documento que lhe seja enviado com o fim
+              de complementar, esclarecer, retificar ou ratificar as
+              informações do referido Relatório.
+
+        8.  A Emissora será a responsável pela custódia e guarda de
+              todos e quaisquer documentos que comprovem a utilização
+              dos recursos relativos às Debêntures, nos termos desta
+              Cláusula 3.5 e de suas sub cláusulas.
+
+        9.  A Emissora se obriga, em caráter irrevogável e irretratável,
+              a indenizar a Debenturista e/ou o Agente Fiduciário dos
+              CRI por todos e quaisquer prejuízos, danos, perdas, custos
+              e/ou despesas (incluindo custas judiciais e honorários
+              advocatícios) que vierem a, comprovadamente, incorrer em
+              decorrência da utilização dos recursos oriundos das
+              Debêntures de forma diversa da estabelecida nesta cláusula
+              3.5 e de suas sub cláusulas.
+
+        10. O Agente Fiduciário terá a obrigação de envidar seus
+              melhores esforços de modo a verificar o efetivo
+              direcionamento de todos os recursos obtidos por meio da
+              emissão das Debêntures.
+
+        11. Independentemente da ocorrência de vencimento antecipado ou
+              do resgate antecipado total das Debêntures, nos termos
+              desta Escritura de Emissão de Debêntures, os recursos
+              oriundos da presente Emissão deverão seguir a destinação
+              prevista nesta Cláusula, até (i) a data de vencimento
+              original dos CRI, conforme definida no Termo de
+              Securitização, ainda que na hipótese de vencimento
+              antecipado e/ou resgate antecipado da totalidade das
+              Debêntures; ou (ii) a data em que a Emissora comprove a
+              aplicação da totalidade dos referidos recursos, o que
+              ocorrer primeiro. A remuneração devida ao Agente
+              Fiduciário dos CRI será devida pela Emissora e/ou Fiadores
+              até a total verificação da destinação dos recursos.
+
+        12. Uma vez comprovada a aplicação integral dos recursos
+              oriundos da presente Emissão, nos termos desta Escritura
+              de Emissão de Debêntures, o que será verificado conforme
+              esta Cláusula, a Emissora ficará desobrigada com relação
+              às comprovações de que trata esta Cláusula assim como o
+              Agente Fiduciário dos CRI ficará desobrigado com relação a
+              verificação de que trata esta Cláusula.
+
+        13. A Debenturista, na qualidade de securitizadora e emissora
+              dos CRI, deverá encaminhar ao Agente Fiduciário dos CRI
+              declaração certificando que as despesas a serem objeto do
+              Reembolso nos termos da Cláusula 3.5.2. acima não estão
+              vinculadas a qualquer outra emissão de certificados de
+              recebíveis imobiliários como lastro em Créditos
+              Imobiliários, nos termos do Termo de Securitização,
+              conforme Anexo VIII desta Escritura de Emissão de
+              Debêntures.
+
+    6.  Cessão, Transferência e Titularidade das Debêntures
+
+        1.  As Debêntures serão subscritas pela Debenturista e,
+              imediatamente após sua subscrição, a Debenturista
+              realizará a emissão da CCI, representativa dos Créditos
+              Imobiliários, que servirão de lastro para os CRI, nos
+              termos da Escritura de Emissão de CCI (“Créditos
+              Imobiliários”).
+
+        2.  Em vista da vinculação mencionada acima, as decisões
+              relativas à Assembleia estão relacionadas à Assembleia dos
+              Titulares de CRI, sendo aplicável a regra prevista no
+              Termo de Securitização; e para fins de publicações se
+              aplicam também as regras previstas no Termo de
+              Securitização.
+
+        3.  Caso, após a subscrição das Debêntures pela Securitizadora,
+              conforme previsto na cláusula 3.6.1, acima, as Debêntures
+              sejam transferidas pela Securitizadora a outros
+              titulares: (i) o termo "Debenturista" designará todos os
+              titulares dos CRI, os quais serão titulares de todos os
+              direitos, poderes, faculdades, prerrogativas e pretensões
+              previstas, em lei ou contrato, em favor dos titulares dos
+              CRI; e (ii) as decisões da Securitizadora no âmbito desta
+              Escritura, enquanto titular de Debêntures, deverão
+              observar o disposto no Termo de Securitização e o que vier
+              a ser deliberado pelos Titulares de CRI.
+
+        4.  Para todos os fins de direito, a titularidade das Debêntures
+              presume-se pela inscrição da Debenturista no Livro de
+              Registro de Debêntures Nominativas, nos termos dos artigos
+              63 e 31 da Lei das Sociedades por Ações.
+
+    7.  Vinculação aos CRI
+
+        1.  As Debêntures serão vinculadas aos CRI objeto da 186ª série
+              da 1ª Emissão da Securitizadora, a serem distribuídos por
+              meio da Oferta Restrita, nos termos da Instrução CVM 476.
+
+        2.  Em vista da vinculação mencionada acima, a Emissora tem
+              ciência e concorda que, uma vez ocorrida a subscrição das
+              Debêntures pela Securitizadora, conforme previsto na
+              cláusula 3.7.1 acima, em razão do regime fiduciário a ser
+              instituído pela Securitizadora, na forma do artigo 9º da
+              Lei 9.514, todos e quaisquer recursos devidos à
+              Securitizadora, em decorrência de sua titularidade das
+              Debêntures, estarão expressamente vinculados aos
+              pagamentos a serem realizados aos Titulares de CRI e não
+              estarão sujeitos a qualquer tipo de compensação com
+              obrigações da Debenturista ou da Securitizadora.
+
+    8.  Dispensa de Registro: A presente Emissão está automaticamente
+        dispensada de registro de distribuição de que trata o artigo 19
+        da Lei nº 6.385, de 07 de dezembro de 1976, conforme alterada
+        (“Lei 6.385/76”), tendo em vista que será objeto de colocação
+        privada, observado o disposto no §2º do artigo 1º da Instrução
+        CVM 476, sendo, portanto, dispensado o registro em outros órgãos
+        reguladores ou na ANBIMA. A titularidade das Debêntures será
+        registrada no Livro de Registro de Debêntures da Emissora e,
+        eventuais transferências, serão registradas no Livro de Registro
+        de Transferências de Debêntures da Emissora.
+
+    9.  A liberação das parcelas do Preço de Integralização das
+        Debêntures à Emissora deverá ocorrer diretamente na conta
+        corrente de sua titularidade de nº 13003203-1, agência nº 0951,
+        do Banco Santander (nº 033), observado o quanto estabelecido na
+        Cláusula 3.5.1. desta Escritura de Emissão de Debêntures (“Conta
+        da Emissora”).
+
+4.  CLÁUSULA QUARTA – CARACTERÍSTICAS DAS DEBÊNTURES
+
+    1.  Características Básicas
+
+        1.  Valor Total da Emissão: O Valor Total da Emissão de
+              Debêntures é de R$ 7.250.000,00 (sete milhões, duzentos e
+              cinquenta mil reais), na Data de Emissão (“Valor Total da
+              Emissão”).
+
+        2.  Valor Nominal Unitário. O valor nominal unitário das
+              Debêntures, na Data de Emissão (conforme definido abaixo),
+              será de R$ 1.000,00 (mil reais) (“Valor Nominal
+              Unitário”).
+
+        3.  Quantidade de Debêntures. Serão emitidas 7.250 (sete mil
+              duzentos e cinquenta) Debêntures.
+
+        4.  Data de Emissão. Para todos os efeitos, a data de emissão
+              das Debêntures será 1º de setembro de 2020 (“Data de
+              Emissão”).
+
+        5.  Data de Vencimento. A data de vencimento das Debêntures será
+              02 de setembro de 2024 (“Data de Vencimento”).
+
+        6.  Periodicidade de Pagamento da Remuneração: a Remuneração,
+              conforme definida abaixo, será paga nas datas de pagamento
+              previstas na tabela constante no Anexo I, sendo o primeiro
+              pagamento em 1º de outubro de 2020 (“Primeiro Pagamento da
+              Remuneração”).
+
+        7.  Periodicidade de Amortização Programada: o Valor Nominal
+              Unitário Atualizado das Debêntures será pago nas datas de
+              pagamento previstas na tabela constante no Anexo I,
+              contados da Data do Primeiro Pagamento da Remuneração,
+              sendo o primeiro pagamento em 1º de outubro de 2020.
+
+        8.  Colocação. As Debêntures serão objeto de colocação privada,
+              sem intermediação de instituições integrantes do sistema
+              de distribuição de valores mobiliários e/ou qualquer
+              esforço de venda perante investidores.
+
+        9.  Subscrição. As Debêntures serão subscritas pela Debenturista
+              por meio da assinatura de boletim de subscrição, conforme
+              modelo constante no Anexo II (“Boletim de Subscrição”),
+              bem como a inscrição de seu nome, no prazo de 1 (um) Dia
+              Útil, contado da assinatura do Boletim de Subscrição, no
+              Livro de Registro de Debêntures Nominativas, conforme
+              cláusula 3.6.4, acima.
+
+        10. Conversibilidade. As Debêntures não serão conversíveis em
+              ações da Emissora.
+
+        11. Espécie. As Debêntures serão da espécie com garantia real e
+              com garantia adicional fidejussória.
+
+    2.  Atualização do Valor Nominal Unitário, e Remuneração das
+        Debêntures e Amortização do Valor Nominal Unitário.
+
+        1.  Atualização. O Valor Nominal Unitário ou o saldo do Valor
+              Nominal Unitário das Debêntures será atualizado, até o seu
+              efetivo pagamento, pela variação mensal positiva do
+              IPCA/IBGE (“Atualização Monetária”), calculada de acordo
+              com a fórmula descrita abaixo:
+
+VNa = VNb  × C
+
+Onde:
+
+VNa = Valor Nominal Unitário atualizado calculado com 8 (oito) casas
+decimais, sem arredondamento;
+
+VNb = Valor Nominal Unitário, ou saldo do Valor Nominal Unitário,
+conforme o caso, da Data da Primeira Integralização dos CRI, ou última
+Data de Pagamento das Debêntures, conforme o caso, ou da última data de
+amortização, ou incorporação de juros, se houver, informado/calculado
+com 8 (oito) casas decimais, sem arredondamento;
+
+C = fator acumulado da variação mensal do IPCA/IBGE, calculado com 8
+(oito) casas decimais, sem arredondamento, apurado da seguinte forma:
+
+$$C = \ \left( \frac{{NI}_{k}}{{NI}_{k - 1max}} \right)^{\frac{dup}{dut}}$$
+
+Onde:
+
+NIk = Número índice do IPCA referente ao segundo mês imediatamente
+anterior ao mês da respectiva Data de Pagamento das Debêntures, ou seja,
+a título de exemplificação, na Data de Pagamento das Debêntures do mês
+de julho, será utilizado o número índice do IPCA do mês de maio,
+divulgado no mês de junho;
+
+NI_(k-1max) = Maior valor do Número Índice do IPCA, desde a data da
+emissão até o mês imediatamente anterior ao mês “k” (inclusive);
+
+dup = Número de Dias Úteis entre a Data da Primeira Integralização dos
+CRI (inclusive), para o caso do primeiro período de atualização, ou
+última Data de Pagamento das Debêntures (inclusive), para os demais
+períodos, e a data de cálculo (exclusive), limitado ao número total de
+Dias Úteis de vigência do índice de preço, sendo dup um número inteiro.
+Para o primeiro dup deverá ser considerado o dup utilizado no cálculo da
+remuneração dos CRI;
+
+dut = número de dias úteis entre a Data da Primeira Integralização dos
+CRI ou a última Data de Pagamento das Debêntures, inclusive, e a próxima
+Data de Pagamento das Debêntures, exclusive, sendo "dut" um número
+inteiro.
+
+1.  Caso a variação mensal do IPCA for negativa e o resultado da
+      expressão $\frac{{NI}_{k}}{{NI}_{k - 1max}}$ seja menor do que
+      1,00000000, o fator de correção “C” será igual a 1,00000000.
+
+2.  Excepcionalmente, na primeira Data de Pagamento das Debêntures
+      deverá ser acrescido à Atualização Monetária um prêmio equivalente
+      ao Fator de Correção de 1 (um) Dia Útil que antecede a Data da
+      Primeira Integralização dos CRI pro rata temporis. O cálculo deste
+      prêmio ocorrerá de acordo com as regras de apuração da Atualização
+      Monetária, acima descritas.
+
+3.  A Atualização Monetária será paga em sua integralidade, juntamente
+      com o pagamento da Remuneração, nas Datas de Pagamento das
+      Debêntures.
+
+4.  Para os fins desta Escritura de Emissão o termo “Data de Pagamento
+      das Debêntures” significa as datas de pagamento da Remuneração e
+      da Amortização das Debêntures, conforme o cronograma de pagamentos
+      constante do anexo I deste instrumento.
+
+5.  Para os fins desta Escritura de Emissão o termo “Data da Primeira
+      Integralização dos CRI” significa a data em que ocorrer a primeira
+      integralização dos CRI.
+
+6.  A aplicação do IPCA/IBGE incidirá no menor período permitido pela
+      legislação em vigor, sem necessidade de ajuste a esta Escritura de
+      Emissão ou qualquer outra formalidade, sendo considerado como a
+      data de aniversário mensal, as datas de pagamentos das Debêntures,
+      conforme informadas na tabela constante no Anexo I.
+
+7.  Caso, no mês de atualização, o IPCA/IBGE não esteja ainda
+      disponível, será utilizada a sua última variação disponível.
+
+8.  No caso de indisponibilidade temporária do IPCA/IBGE quando do
+      pagamento de qualquer obrigação pecuniária prevista nesta
+      Escritura de Emissão, será utilizada, em sua substituição, o
+      último IPCA/IBGE divulgado, calculado pro rata temporis por dias
+      úteis, porém, não cabendo, quando da divulgação do IPCA/IBGE
+      devido, quaisquer compensações financeiras, tanto por parte da
+      Emissora quanto dos Debenturistas.
+
+9.  Na ausência de apuração e/ou divulgação do número-índice por prazo
+      superior a 30 (trinta) dias úteis após a data esperada para sua
+      divulgação, ou, ainda, no caso de sua extinção ou por imposição
+      legal ou determinação judicial, o IPCA/IBGE deverá ser substituído
+      pelo substituto determinado legalmente para tanto. No caso de não
+      haver o substituto legal do IPCA/IBGE, a Securitizadora deverá
+      convocar Assembleia Geral de Debenturistas (“AGD”). Até a
+      deliberação desse parâmetro, será utilizado, para o cálculo do
+      valor de quaisquer obrigações previstas nesta Escritura de
+      Emissão, o último número-índice divulgado.
+
+10. Na AGD convocada nos termos do item anterior, a Emissora apresentará
+      2 (dois) números-índices para que os Debenturistas decidam, por
+      maioria dos votos, qual desses números-índice deverá substituir o
+      IPCA/IBGE.
+
+11. Caso os titulares de CRI, representados pelo Debenturista, e a
+      Emissora não cheguem em um acordo sobre o novo parâmetro a ser
+      utilizado para a atualização monetária das Debêntures ou em caso
+      de ausência de quórum de instalação e/ou deliberação, a
+      Debenturista poderá, a seu exclusivo critério, solicitar o
+      pagamento antecipado total do saldo devedor das Debêntures, no
+      prazo de até 30 (trinta) dias contados da data da AGD prevista
+      acima ou da data em que a mesma deveria ter ocorrido ou na próxima
+      Data de Pagamento das Debêntures, o que ocorrer primeiro, sob pena
+      de, em não o fazendo, a Emissora ficar obrigada, ainda, ao
+      pagamento dos encargos moratórios previstos na cláusula 4.8. desta
+      Escritura de Emissão de Debênture.
+
+2.  Remuneração. Sobre o Valor Nominal Unitário das Debêntures , ou
+      saldo do Valor Nominal Unitário atualizado das Debêntures,
+      conforme o caso, incidirão juros remuneratórios equivalentes a
+      5,90% (cinco inteiros e noventa centésimos por cento) ao ano, base
+      252 (duzentos e cinquenta e dois) Dias Úteis, calculados de forma
+      exponencial e cumulativa pro rata temporis por Dias Úteis
+      decorridos desde a Data da Primeira Integralização dos CRI, ou a
+      última Data de Pagamento das Debêntures, conforme o caso, até a
+      data do efetivo pagamento ("Remuneração das Debêntures") e
+      calculados conforme fórmula abaixo:
+
+J = VN_(a) × (Fator de Juros−1)
+
+Onde:
+
+J = valor dos juros acumulados no período, calculado com 8 (oito) casas
+decimais sem arredondamento;
+
+VN_(a) = conforme definido acima;
+
+Fator Juros = Fator de juros, calculado com 9 (nove) casas decimais, com
+arredondamento, apurado da seguinte forma:
+
+$$Fator\ de\ Juros = \left( \frac{i}{100} + 1 \right)^{\frac{dup}{252}}$$
+
+Onde:
+
+i = 5,9000 (cinco inteiros e noventa centésimos).
+
+dup = conforme definido acima.
+
+3.  Amortização do Valor Nominal Unitário das Debêntures: O cálculo da
+    amortização será realizado com base na seguinte fórmula:
+
+AM_(i) = VN_(a) × TA_(i)
+
+Onde:
+
+AM_(i) = valor unitário da i-ésima parcela de amortização, calculado com
+8 (oito) casas decimais, sem arredondamento;
+
+VN_(a) = conforme definido acima;
+
+TA_(i) = i-ésima taxa de amortização, em percentual, com 4 (quatro)
+casas decimais, conforme tabela constante do Anexo I deste Instrumento.
+
+4.  Repactuação
+
+    1.  As Debêntures não serão objeto de repactuação.
+
+5.  Subscrição e Integralização
+
+    1.  Data de Subscrição. As Debêntures serão subscritas pela
+          Debenturista nas datas de integralização das Debêntures, na
+          forma aqui prevista (“Data de Subscrição”).
+
+2.  Datas de Integralização. As Debêntures serão integralizadas
+      exclusivamente com os recursos advindos da integralização dos CRI,
+      de forma fracionada, conforme ocorra a integralização dos CRI, nos
+      termos da cláusula 4.6, abaixo observados os termos e condições do
+      Termo de Securitização.
+
+3.  Preço de Integralização. As Debêntures serão integralizadas em
+      parcelas, sendo que: (i) na primeira Data de Integralização, as
+      Debêntures serão integralizadas pelo seu Valor Nominal Unitário;
+      e (ii) nas demais Datas de Integralização, as Debêntures serão
+      integralizadas pelo seu Valor Nominal Unitário atualizado,
+      acrescido da Remuneração, calculada pro rata temporis desde a Data
+      da Primeira Integralização (inclusive) até a respectiva Data de
+      Integralização (exclusive), sendo a Data de Integralização das
+      Debêntures a data em que ocorrer a integralização dos CRI na conta
+      do Patrimônio Separado, devendo a Emissora assinar na data de
+      integralização o recibo de integralização das Debêntures, em favor
+      da Debenturista, conforme modelo constante do Anexo III à presente
+      Escritura de Emissão de Debêntures (“Preço de Integralização”).
+
+4.  Os valores relativos às despesas relacionadas no Anexo IV serão
+      deduzidos da Primeira Parcela do Preço de Integralização.
+
+5.  O Preço de Integralização será pago exclusivamente com recursos
+      oriundos da integralização dos CRI.
+
+6.  Amortização Programada e Resgate Antecipado Facultativo
+
+    1.  Amortização Programada das Debêntures. O saldo do Valor Nominal
+          Unitário das Debêntures será pago integralmente pela Emissora
+          conforme Anexo I, sendo o primeiro pagamento devido em 1º de
+          outubro 2020 (“Amortização”).
+
+    2.  Resgate Antecipado Facultativo Total das Debêntures. A qualquer
+          tempo após a Data de Emissão, desde que observado o disposto
+          na cláusula 4.6.2.2., abaixo, poderá a Emissora realizar um
+          resgate antecipado da totalidade, e não menos que a
+          totalidade, das Debêntures (“Resgate Antecipado Facultativo
+          Total das Debêntures”).
+
+        1.  Na ocorrência de Resgate Antecipado Facultativo Total das
+              Debêntures, será devida a totalidade do saldo devedor do
+              valor nominal unitário atualizado das Debêntures,
+              acrescido: (i) da Remuneração, calculada pro rata temporis
+              desde a Data da Primeira Integralização das Debêntures, ou
+              Data de pagamento das Debêntures imediatamente anterior,
+              conforme o caso, até a data do Resgate Antecipado
+              Facultativo Total das Debêntures (“Saldo Resgate”); e (ii)
+              prêmio flat de 2,0% (dois inteiros por cento), calculado
+              sobre o Saldo Resgate (“Prêmio de Resgate Antecipado” e
+              “Valor do Resgate Antecipado Facultativo Total das
+              Debêntures”, respectivamente). O Prêmio de Resgate
+              Antecipado não será devido caso o resgate tenha ocorrido
+              por conta do efetivo exercício da opção de compra das
+              ações da Emissora e execução dos atos de fechamento, nos
+              termos Instrumento Particular de Outorga de Opção de
+              Compra e Venda de Ações e Outras Avenças (“Opção de
+              Compra”), a ser celebrado entre a Emissora, as Fiadoras e
+              a V2 INVESTIMENTOS LTDA., inscrita no CNPJ/ME nº
+              13.601.663/0001-03 (“V2”).
+
+        2.  O Resgate Antecipado Facultativo Total das Debêntures
+              somente poderá ocorrer mediante comunicação nesse sentido,
+              dirigida da Emissora à Debenturista, com cópia para o
+              Agente Fiduciário dos CRI, com, no mínimo, 30 (trinta)
+              dias de antecedência do Resgate Antecipado Facultativo
+              Total das Debêntures (“Data do Resgate Antecipado
+              Facultativo Total das Debêntures”), sendo que referida
+              comunicação deverá vir acompanhada de termo, por escrito,
+              da V2, (i) renunciando seu direito de exercício da Opção
+              de Compra; ou (ii) manifestando o exercício da Opção de
+              Compra, sendo que nesse caso o Resgate Antecipado será
+              realizado sem o Prêmio de resgate antecipado definido
+              acima nos termos da Cláusula 4.6.2.1., acima. A
+              notificação de que trata esta Cláusula deverá
+              especificar: (a) o Valor do Resgate Antecipado Facultativo
+              Total das Debêntures em questão, calculado na forma dos
+              subitens acima, o qual deverá ser validado pela
+              Debenturista; e (b) a Data do Resgate Antecipado
+              Facultativo Total das Debêntures.
+
+        3.  Em caso de Resgate Antecipado Facultativo Total das
+              Debêntures, a liberação das Garantias pelo Debenturista
+              ocorrerá imediatamente após ao pagamento do valor integral
+              das Debêntures objeto do Resgate Antecipado Facultativo
+              Total das Debêntures e de todas as despesas da Emissão.
+
+        4.  Todos os pagamentos relacionados às Debêntures com
+              vencimento em data anterior e posterior à data do Resgate
+              Antecipado Facultativo Total das Debêntures serão devidos
+              e deverão ser realizados pontualmente pela Emissora na
+              forma prevista nesta Escritura.
+
+        5.  Na hipótese de Resgate Antecipado Facultativo Total das
+              Debêntures, não será devido, pela Emissora, qualquer valor
+              além do montante estabelecido nas Cláusulas acima,
+              devidamente acrescentado de eventuais despesas e
+              reembolsos devidos ao Debenturista nos termos dos
+              Documentos da Operação.
+
+        6.  Os valores devidos pela Emissora ao Debenturista, em virtude
+              da realização de Resgate Antecipado Facultativo Total das
+              Debêntures deverão ser disponibilizados pela Emissora ao
+              Debenturista até às 11h00 (onze horas) do dia da Data de
+              Resgate Antecipado Facultativo Total das Debêntures.
+
+        7.  Caso a Data do Resgate Antecipado Facultativo Total das
+              Debêntures seja uma Data de Pagamento das Debêntures, o
+              cálculo do prêmio deverá desconsiderar os efeitos dos
+              pagamentos na respectiva data, ou seja, o prêmio será
+              calculado como se os pagamentos ainda não tivessem
+              ocorrido.
+
+7.  Condições de Pagamento
+
+4.  5.  
+
+    6.  1.  Local e Horário de Pagamento. Os pagamentos a que fizerem
+              jus as Debêntures serão efetuados pela Emissora por meio
+              de depósito em conta corrente nº 41.461-0, agência nº
+              7307, do Banco Itaú Unibanco S.A. (nº 341), de
+              titularidade da Debenturista (“Conta do Patrimônio
+              Separado”), até as 11:00 horas do dia do pagamento.
+
+        2.  Prorrogação dos Prazos. Considerar-se-ão automaticamente
+              prorrogadas as datas de pagamento de qualquer obrigação
+              relativa às Debêntures, pela Emissora, até o primeiro Dia
+              Útil (conforme definição abaixo) subsequente, se a data de
+              vencimento da respectiva obrigação coincidir com dia que
+              não seja Dia Útil, sem qualquer acréscimo aos valores a
+              serem pagos.
+
+        3.  Para todos os fins desta Escritura, considera-se “Dia Útil”
+              (ou “Dias Úteis”), todo dia que não seja sábado, domingo
+              ou feriado declarado nacional na República Federativa do
+              Brasil.
+
+        4.  Não prorrogação. O não comparecimento da Debenturista para
+              receber o valor correspondente a quaisquer das obrigações
+              pecuniárias da Emissora, nos termos previstos nesta
+              Escritura, ou em comunicado publicado pela Emissora, se
+              for o caso, não lhe dará direito ao recebimento de
+              remuneração e/ou encargos moratórios no período relativo
+              ao atraso no recebimento, sendo-lhe, todavia, assegurados
+              os direitos adquiridos até a data do respectivo vencimento
+              e/ou do comunicado.
+
+    1.  Encargos Moratórios. Sem prejuízo da Remuneração prevista na
+        Cláusula 4.2.2, acima, ocorrendo impontualidade no pagamento de
+        quaisquer obrigações pecuniárias relativas às Debêntures, os
+        débitos vencidos e não pagos serão acrescidos de juros de mora
+        de 1% (um por cento) ao mês, calculados pro rata temporis, desde
+        a data de inadimplemento até a data do efetivo pagamento, bem
+        como de multa não compensatória de 2% (dois por cento) sobre o
+        valor devido, independentemente de aviso, notificação ou
+        interpelação judicial ou extrajudicial.
+
+    2.  Imunidade Tributária. Caso a Debenturista goze de algum tipo de
+        imunidade ou isenção tributária, esta deverá encaminhar à
+        Emissora, no prazo mínimo de 10 (dez) Dias Úteis antes da data
+        prevista para recebimento de valores relativos às Debêntures,
+        documentação comprobatória dessa imunidade ou isenção
+        tributária, sob pena de ter descontado dos seus rendimentos os
+        valores devidos nos termos da legislação tributária em vigor.
+
+    3.  Tributos. A Emissora será responsável pelo custo de todos os
+        tributos (inclusive na fonte), incidentes, a qualquer momento,
+        sobre os pagamentos, remuneração e reembolsos devidos na forma
+        desta Escritura, inclusive após eventual cessão, endosso ou
+        qualquer outra forma de transferência das Debêntures
+        ("Tributos"). Todos os Tributos que incidam sobre os pagamentos
+        feitos pela Emissora em virtude das Debêntures ou pela
+        Securitizadora em virtude da emissão dos CRI serão suportados
+        pela Emissora, de modo que referidos pagamentos devem ser
+        acrescidos dos valores correspondentes a quaisquer Tributos que
+        incidam sobre os mesmos, de forma que a Debenturista e os
+        Titulares de CRI sempre recebam o valor programado líquido de
+        Tributos ou qualquer forma de retenção, com exceção dos Tributos
+        incidentes sobre a remuneração dos CRI, que serão suportados
+        pelos Titulares dos CRI. Caso qualquer órgão competente venha a
+        exigir, mesmo que sob a legislação fiscal vigente, o
+        recolhimento, pagamento e/ou retenção de quaisquer impostos,
+        taxas, contribuições ou quaisquer outros tributos federais,
+        estaduais ou municipais sobre os pagamentos ou reembolso
+        previstos nesta Escritura ou no Termo de Securitização, com
+        exceção dos Tributos incidentes sobre a remuneração dos CRI, ou
+        a legislação vigente venha a sofrer qualquer modificação ou, por
+        quaisquer outros motivos, novos tributos venham a incidir sobre
+        os pagamentos ou reembolso previstos nesta Escritura ou no Termo
+        de Securitização, com exceção dos Tributos incidentes sobre a
+        remuneração dos CRI, a Emissora será responsável pelo
+        recolhimento, pagamento e/ou retenção destes Tributos. Nesta
+        situação, a Emissora deverá acrescer a tais pagamentos valores
+        adicionais de modo que a Debenturista e os Titulares de CRI
+        recebam os mesmos valores líquidos que seriam recebidos caso
+        nenhuma retenção ou dedução fosse realizada, com exceção dos
+        Tributos incidentes sobre a remuneração dos CRI. Os CRI
+        lastreados nos créditos imobiliários decorrentes das Debêntures
+        serão tributados de acordo com a legislação aplicável aos CRI. A
+        Emissora não será responsável por qualquer majoração ou
+        cancelamento de isenção ou de imunidade tributária que venha a
+        ocorrer com relação aos CRI, bem como não será responsável por
+        eventuais atrasos ou falhas da Securitizadora no repasse de
+        pagamentos efetuados pela Emissora aos titulares dos CRI.
+
+    4.  Fundo de Despesas
+
+1.  A Securitizadora constituirá o Fundo de Despesas, na Conta do
+      Patrimônio Separado, por meio da retenção de parte do valor devido
+      da Primeira Parcela, no valor equivalente a 2 (duas) parcelas
+      vincendas de amortização e juros (PMT) dos CRI emitidos no âmbito
+      da securitização, equivalentes, nesta data a R$ 343.439,68
+      (trezentos e quarenta e três mil, quatrocentos e trinta e nove
+      reais e sessenta e oito centavos), a ser recalculado mensalmente
+      pela Securitizadora na Data de Verificação, definida abaixo
+      (“Fundo de Despesas” e “Limite Mínimo do Fundo de Despesas”,
+      respectivamente). Os recursos do Fundo de Despesas serão
+      utilizados para: (i) eventual necessidade de recursos para
+      pagamento dos CRI; e (ii) pagamento de despesas da operação, nos
+      termos da cláusula 9., abaixo, e do Patrimônio Separado.
+
+2.  Durante o prazo dos CRI e até que sejam integralmente pagas as
+      despesas indicadas neste Contrato e nos demais Documentos da
+      Oferta, caso os recursos do Fundo de Despesas venham a ser
+      inferiores ao Limite Mínimo do Fundo de Despesas, a ser verificado
+      mensalmente, pela Securitizadora, em até 2 (dois) Dias Úteis
+      anteriores a cada Data de Pagamento das Debêntures (“Data de
+      Verificação”), a Securitizadora deverá recompor, o Fundo de
+      Despesas com os Créditos Imobiliários depositados na Conta do
+      Patrimônio Separado, observada a ordem de prioridade de alocação
+      dos recursos recebidos em razão do pagamento dos Créditos
+      Imobiliários, conforme previsto no Termo de Securitização (“Ordem
+      de Prioridade de Pagamento”) ou, na ausência deles, a Emissora
+      deverá recompor, com recursos próprios, o montante necessário para
+      o reestabelecimento do Limite Mínimo do Fundo de Despesas, no
+      prazo de até 2 (dois) Dias Úteis a contar do recebimento de
+      notificação enviada pela Securitizadora neste sentido, com a
+      indicação dos valores faltantes, o que deverá ocorrer mediante
+      transferência para a Conta do Patrimônio Separado, sob pena de ser
+      considerado um Evento de Vencimento Antecipado das Debêntures e
+      consequentemente dos CRI, caso não ocorra a transferência.
+
+3.  Em até 3 (três) Dias Úteis após o pagamento da última parcela de
+      remuneração e amortização dos CRI e cumpridas integralmente as
+      obrigações dos referidos CRI, conforme estipulados no Termo de
+      Securitização, a Securitizadora deverá transferir o saldo
+      remanescente do Fundo de Despesas para a Emissora, na Conta da
+      Emissora.
+
+4.  Os recursos do Fundo de Despesas estarão abrangidos pela instituição
+      do regime fiduciário dos CRI e integrarão o Patrimônio Separado,
+      sendo certo que, enquanto não cumpridas as Condições Precedentes,
+      os valores que tenham sido pagos pelos investidores dos CRI à
+      Securitizadora a título de integralização dos CRI nos termos dos
+      respectivos Boletins de Subscrição deverão ser investidos pela
+      Securitizadora em títulos, valores mobiliários e outros
+      instrumentos financeiros de renda fixa com liquidez diária do Itaú
+      Unibanco S.A. (“Investimentos Permitidos”), não sendo a
+      Securitizadora responsabilizada por qualquer garantia mínima de
+      rentabilidade. Os recursos oriundos dos rendimentos auferidos com
+      tais Investimentos Permitidos integrarão o patrimônio separado nos
+      termos do Termo de Securitização.
+
+5.  CLÁUSULA QUINTA – GARANTIAS
+
+    1.  Garantias
+
+        1.  Para assegurar o fiel, pontual pagamento do valor total da
+              dívida da Emissora representada pelas Debêntures, o que
+              inclui a totalidade das obrigações pecuniárias e não
+              pecuniárias, presentes e futuras, principais e acessórias,
+              assumidas ou que venham a ser assumidas pela Emissora, em
+              decorrência desta Escritura de Emissão de Debêntures e
+              suas posteriores alterações, bem como todas as obrigações
+              pecuniárias previstas nesta Escritura de Emissão de
+              Debêntures, e suas posteriores alterações, atribuídas à
+              Emissora, inclusive as derivadas de deveres de indenização
+              (“Obrigações Garantidas”), as Debêntures contarão com as
+              seguintes Garantias:
+
+            1.  Fiança. Para assegurar o fiel e pontual pagamento das
+                  Obrigações Garantidas, as Fiadoras comparecem nesta
+                  Escritura, na condição de Fiadoras e responsáveis de
+                  forma solidária com relação a todas as Obrigações
+                  Garantidas.
+
+            2.  As Fiadoras assinam este instrumento na qualidade de
+                  principais pagadores e devedores solidários, na forma
+                  do artigo 264 do Código Civil Brasileiro, anuindo a
+                  todos os seus termos e obrigando-se solidariamente por
+                  todas as Obrigações Garantidas assumidas pela Emissora
+                  nesta Escritura renunciando expressamente aos
+                  benefícios de ordem, direitos e faculdades de
+                  exoneração de qualquer natureza previstos nos artigos
+                  333, parágrafo único, 366, 827, 834, 835, 837, 838 e
+                  839, todos do Código Civil, e artigos 130 e 794 do
+                  Código de Processo Civil.
+
+            3.  As Fiadoras deverão cumprir todas as suas obrigações
+                  decorrentes da Fiança, em moeda corrente nacional, sem
+                  qualquer contestação ou compensação, líquidas de
+                  quaisquer taxas, impostos, despesas, retenções ou
+                  responsabilidades presentes ou futuras, acrescidas dos
+                  encargos, encargos moratórios e despesas incidentes,
+                  até o 5º (quinto) Dia Útil seguinte ao do recebimento
+                  de simples notificação por escrito, enviada pela
+                  Debenturista, por meio de correspondência registrada
+                  ou entregue pessoalmente, sem que seja necessária a
+                  devolução do recibo (ou equivalente), observado o
+                  disposto na Cláusula 12.2.1., abaixo, informando o
+                  valor das Obrigações Garantidas inadimplidas.
+
+            4.  As Obrigações Garantidas decorrentes desta Escritura
+                  serão cumpridas pelas Fiadoras, mesmo que o seu
+                  adimplemento não seja exigível da Emissora em razão da
+                  existência de procedimentos de falência, recuperação
+                  judicial ou extrajudicial ou procedimento similar
+                  envolvendo a Emissora.
+
+            5.  As Fiadoras reconhecem que (i) eventual pedido de
+                  recuperação judicial ou aprovação de plano de
+                  recuperação judicial da Emissora não implicará novação
+                  ou alteração de suas obrigações na presente Escritura
+                  e não suspenderá qualquer ação movida pela
+                  Debenturista; (ii) deverão pagar o saldo devedor no
+                  valor e forma estabelecidos nesta Escritura sem
+                  qualquer alteração em razão da recuperação judicial;
+                  e (iii) deverão habilitar na recuperação judicial os
+                  valores pagos à Debenturista e se sujeitar a eventual
+                  plano de recuperação da Emissora, ainda que esse plano
+                  de recuperação altere ou reduza o valor do crédito a
+                  ser recebido pelas Fiadoras.
+
+            6.  Cada Fiadora se compromete a não cobrar, receber ou de
+                  qualquer outra forma demandar, da Emissora ou das
+                  outras Fiadoras, o pagamento de qualquer valor pago em
+                  decorrência da presente fiança, seja por subrogação ou
+                  a qualquer outro título, enquanto todas as
+                  importâncias que forem devidas à Debenturista não
+                  tiverem sido integralmente pagas. Caso qualquer Fiador
+                  receba quaisquer pagamentos da Emissora em decorrência
+                  da fiança prestada nesta Escritura, tal Fiadora
+                  receberá referidos valores em caráter fiduciário e se
+                  compromete a, independentemente de qualquer
+                  notificação ou outra formalidade, transferir
+                  imediatamente para Debenturista, em fundos
+                  imediatamente disponíveis e transferíveis, os recursos
+                  então recebidos, livres de quaisquer deduções ou
+                  retenções em decorrência de tributos, impostos ou
+                  contribuições fiscais, sociais ou parafiscais.
+
+            7.  A Fiança ora prestada considera-se prestada à título
+                  oneroso, uma vez que a Emissora e as Fiadoras possuem
+                  interesse econômico no resultado da operação,
+                  beneficiando-se indiretamente da mesma.
+
+        2.  Alienação Fiduciária de Ações. Compreende a alienação
+              fiduciária de 80% (oitenta por cento) da totalidade das
+              Ações de emissão da Emissora, nas seguintes proporções:
+              40.000 (quarenta mil) ações de propriedade da Fiadora 1,
+              representativas de 40% (quarenta por cento) do capital
+              social da Companhia (“Ações Montreal”) e 40.000 (quarenta
+              mil) ações de propriedade da Fiadora 2, representativas de
+              40% (quarenta por cento) do capital social da Companhia
+              (“Ações LDK” e quando mencionada em conjunto com as Ações
+              Montreal, simplesmente “Alienação Fiduciária” e “Ações”,
+              respectivamente).
+
+6.  CLÁUSULA SEXTA – VENCIMENTO ANTECIPADO
+
+    1.  Serão consideradas antecipadamente vencidas de forma não
+        automática, as obrigações constantes desta Escritura e exigido
+        pagamento do saldo devedor em aberto das Debêntures, observado o
+        disposto na Cláusula 6.4.1. abaixo, incluindo o Valor Total da
+        Emissão não amortizado, Atualização Monetária, Remuneração e
+        demais encargos, na forma estabelecida nesta Cláusula, nas
+        seguintes hipóteses (em conjunto, “Eventos de Vencimento
+        Antecipado das Debêntures”):
+
+a)  descumprimento, pela Emissora de qualquer obrigação pecuniária,
+      relativa a esta Escritura ou a qualquer Documento da Operação,
+      incluindo, sem limitação, o não pagamento ou reembolso de despesas
+      da Emissão, não sanada no prazo de até 3 (três) Dias Úteis contado
+      de seu vencimento;
+
+b)  início dos procedimentos de liquidação, dissolução ou extinção da
+      Emissora e/ou das Fiadoras;
+
+c)  questionamento judicial, pela Emissora ou por qualquer de suas
+      respectivas controladoras, sobre a validade e/ou exequibilidade
+      desta Escritura ou qualquer dos Documentos da Operação;
+
+d)  declaração judicial de invalidade, ineficácia, nulidade ou
+      inexequibilidade total ou parcial desta Escritura e/ou seus
+      aditamentos e/ou de quaisquer de suas disposições, por sentença
+      arbitral ou decisão judicial não revertida no prazo de 30 (trinta)
+      dias corridos a contar da sua publicação;
+
+e)  pedido por parte da Emissora e/ou das Fiadoras de qualquer plano de
+      recuperação extrajudicial a qualquer credor ou classe de credores,
+      independentemente de ter sido requerida ou obtida homologação
+      judicial do referido plano; ou se a Emissora ingressar em juízo
+      com requerimento de liquidação/recuperação judicial,
+      independentemente de deferimento do processamento da
+      liquidação/recuperação ou de sua concessão pelo juiz competente;
+      ou, ainda, se a Emissora formular pedido de autofalência;
+
+f)  decretação da liquidação, dissolução, insolvência, ou falência de
+      qualquer das sociedades controladas pela Emissora e/ou pelas
+      Fiadoras ou realização de pedido de autofalência ou de recuperação
+      judicial ou extrajudicial;
+
+g)  transformação do tipo societário da Emissora, nos termos dos Artigos
+      220 a 222 da Lei das Sociedades por Ações;
+
+h)  não cumprimento de qualquer decisão ou sentença de judicial ou
+      arbitral transitada em julgado, que não esteja sujeita a recurso
+      com efeito suspensivo contra a Emissora e/ou Fiadoras ou a não
+      garantia do juízo, em valor unitário ou agregado superior a R$
+      1.000.000,00 (um milhão de reais) ou seu valor equivalente em
+      outras moedas, corrigidos anualmente pelo IPCA/IPGE, a partir da
+      Data de Emissão, ou o valor equivalente em outras moedas, no prazo
+      estipulado na respectiva sentença e/ou no prazo de até 10 (dez)
+      Dias Úteis contados do recebimento pela Emissora de notificação
+      neste sentido, dos dois prazos o que for menor;
+
+i)  redução do capital social da Emissora sem a prévia autorização dos
+      Titulares de CRI;
+
+j)  inadimplemento ou vencimento antecipado de quaisquer obrigações
+      financeiras a que estejam sujeitas a Emissora e/ou das Fiadoras,
+      no mercado local ou internacional, em valor individual ou agregado
+      superior a R$ 1.000.000,00 (um milhão de reais) ou seu valor
+      equivalente em outras moedas, reajustado pelo IPCA/IBGE desde a
+      Data da Emissão, não sanado pela Emissora no prazo de 5 (cinco)
+      Dias Úteis a contar de comunicação à Debenturista nesse sentido;
+
+k)  transferência ou qualquer forma de cessão ou promessa de cessão a
+      terceiros, pela Emissora e/ou pelas Fiadoras, das obrigações
+      assumidas nesta Escritura, no Termo de Securitização e/ou nos
+      demais Documentos da Operação, sem que haja anuência prévia dos
+      Titulares de CRI;
+
+l)  demais hipóteses de vencimento antecipado previstas em lei,
+      especialmente as previstas nos Artigos 333 e 1.425 do Código
+      Civil, conforme aplicáveis;
+
+m)  protesto de títulos contra a Emissora das Fiadoras em valor
+      individual ou agregado superior a R$ 1.000.000,00 (um milhão de
+      reais) ou seu valor equivalente em outras moedas, reajustado pelo
+      IPCA/IBGE desde a Data da Emissão, por cujo pagamento a Emissora
+      ou qualquer de suas controladas seja responsável, salvo se, no
+      prazo de até 5 (cinco) Dias Úteis contados do referido protesto,
+      seja validamente comprovado, pela Emissora, à Securitizadora
+      que: (i) o protesto foi efetuado por erro ou má-fé de
+      terceiros; (ii) o protesto foi cancelado ou liminarmente
+      sustado; (iii) foram prestadas garantias em juízo, aceita pelo
+      poder judiciário; ou, ainda, (iv) o valor objeto do protesto foi
+      devidamente quitado;
+
+n)  descumprimento, pela Emissora e/ou das Fiadoras, de qualquer
+      obrigação não pecuniária prevista nos Documentos da Operação, não
+      sanada no prazo de cura previsto nos respectivos Documentos da
+      Operação ou, caso não estipulado prazo de cura específico em tais
+      documentos, não sanada no prazo de até 5 (cinco) Dias Úteis
+      contados da data de comunicação do referido descumprimento pelo
+      Debenturista à Emissora;
+
+o)  provarem-se falsas ou revelarem-se incorretas ou enganosas quaisquer
+      das declarações ou garantias prestadas pela Emissora e/ou pelas
+      Fiadoras nesta Escritura ou nos demais Documentos da Operação;
+
+p)  qualquer mudança no controle societário da Emissora sem que haja
+      anuência prévia dos Titulares de CRI;
+
+q)  se for movida qualquer espécie de ação administrativa ou judicial
+      contra a Emissora e/ou seus controladores e/ou das Fiadoras que,
+      de qualquer forma, afete qualquer dos bens ou direitos que
+      constituem a Alienação Fiduciária de Ações, inclusive, mas não
+      limitado, à alegação: (i) por qualquer terceiro, inclusive órgão
+      ou entidade ligada à administração tributária federal, estadual ou
+      municipal, ações ou pedidos ou cobrança promovida por terceiros,
+      incluindo ações trabalhistas, de fraude contra credores ou de
+      fraude à execução praticada pela Emissora e/ou seus controladores,
+      até as pessoas físicas que direta ou indiretamente controlam a
+      Emissora, ou (ii) por qualquer pessoa, por qualquer motivo, de
+      desconsideração da personalidade, ou ajuizamento de incidente de
+      desconsideração da personalidade jurídica, de modo a buscar
+      atingir os bens e direitos que constituem a Alienação Fiduciária
+      de Ações, independentemente de qualquer decisão ou manifestação
+      por parte da Emissora e/ou das Fiadoras;
+
+r)  descumprimento dos dispositivos de qualquer lei ou regulamento,
+      nacional ou estrangeiro, contra prática de corrupção ou atos
+      lesivos à administração pública, incluindo, sem limitação, leis
+      n.º 12.529/2011, 9.613/1998, 12.846/2013, o US Foreign Corrupt
+      Practices Act (FCPA) e o UK Bribery Act (em conjunto, “Leis
+      Anticorrupção”) e da legislação e regulamentação relacionadas ao
+      meio ambiente, à saúde e segurança ocupacional e, quando
+      aplicável, a questões sanitárias, exceto por aqueles questionados
+      de boa-fé nas esferas administrativa e/ou judicial, bem como
+      declara que suas atividades não incentivam a prostituição,
+      tampouco utilizam ou incentivam mão-de-obra infantil e/ou em
+      condição análoga à de escravo ou de qualquer forma infringem
+      direitos dos silvícolas, em especial, mas não se limitando, ao
+      direito sobre as áreas de ocupação indígena, assim declaradas pela
+      autoridade competente (“Legislação Socioambiental”)
+
+s)  descumprimento de qualquer obrigação assumida pela Emissora e/ou
+      pelas Fiadoras nos Documentos da Operação;
+
+t)  alteração do objeto social da Emissora previsto em seu estatuto
+      social, de modo que qualquer das atuais atividades principais da
+      Emissora sejam excluídas, ou que sejam agregados a essas
+      atividades, novos negócios que tenham prevalência, desde que
+      representem desvios em relação às atividades atualmente
+      desenvolvidas pela Emissora;
+
+u)  realização, pela Emissora e/ou das Fiadoras, de operações fora de
+      seu objeto social e/ou prática de qualquer ato em desacordo com
+      seu estatuto social e/ou com esta Escritura ou quaisquer outros
+      Documentos da Operação, e desde que tal inadimplemento não seja
+      sanado pela Emissora no prazo de até 10 (dez) Dias Úteis, a contar
+      do recebimento pela Emissora de notificação neste sentido;
+
+v)  não utilização pela Emissora dos recursos líquidos obtidos com a
+      Emissão estritamente nos termos da Cláusula 3.5. acima;
+
+w)  autuações da Emissora e/ou das Fiadoras por quaisquer órgãos
+      governamentais: (i) se de caráter ambiental, de valor individual
+      ou agregado superior a R$ 2.000.000,00 (dois milhões de reais) ou
+      seu valor equivalente em outras moedas, e (ii) se de caráter
+      fiscal, de defesa da concorrência ou de outra natureza, de valor
+      individual ou agregado superior a R$ 2.000.000,00 (dois milhões de
+      reais) ou seu valor equivalente em outras moedas, em ambos os
+      casos, reajustados pelo IPCA/IBGE desde a Data da Emissão, exceto
+      se for apresentada defesa, interposto recurso ou impugnação, capaz
+      de suspender os efeitos da autuação, no prazo legal ou no prazo de
+      até 10 (dez) Dias Úteis contados da referida autuação, dos dois o
+      que for menor, ou, ainda, se nesse mesmo prazo for comprovado, à
+      Securitizadora, que a referida autuação foi cancelada;
+
+x)  arresto, sequestro ou penhora de quaisquer bens da Emissora e/ou das
+      Fiadoras, cujo valor, individual ou agregado, seja igual ou
+      superior a R$ 2.000.000,00 (dois milhões de reais) ou seu valor
+      equivalente em outras moedas, reajustado pelo IPCA/IBGE desde a
+      Data de Emissão, ou o valor equivalente em outras moedas, exceto
+      se, caso o bem seja objeto de garantia na emissão, no prazo de até
+      15 (quinze) Dias Úteis contados da data do respectivo arresto,
+      sequestro ou penhora, tiver sido comprovado pela Emissora, à
+      Securitizadora, que o arresto, sequestro ou a penhora foi
+      contestado ou substituído por outra garantia; e
+
+y)  contratação de empréstimos, emissão de títulos de dívida ou outras
+      formas de endividamento pela Emissora, sem a prévia aprovação da
+      Debenturista.
+
+    1.  A ocorrência de qualquer dos eventos descritos na Cláusula 6.1.
+        acima deverá ser comunicada pela Emissora ao Debenturista e ao
+        Agente Fiduciário dos CRI, em prazo de até 2 (dois) Dias Úteis
+        de sua ocorrência. O descumprimento desse dever de informar pela
+        Emissora não impedirá o exercício de poderes, faculdades e
+        pretensões previstos nesta Escritura e nos demais Documentos da
+        Operação, pelo Debenturista. Adicionalmente, a Emissora
+        obriga-se a enviar à Securitizadora, com cópia ao Agente
+        Fiduciários dos CRI, semestralmente, a partir de 6 (seis) meses
+        a contar da Data de Emissão, declaração atestando a ocorrência
+        ou não de qualquer Evento de Vencimento Antecipado, bem como os
+        documentos necessários à sua comprovação.
+
+    2.  Ocorridas quaisquer dos eventos descritos na Cláusula 6.1.
+        acima, observado o prazo de cura específico para cumprimento das
+        obrigações inadimplidas e, na falta deste, de no máximo 30
+        (trinta) dias contados da comunicação à Securitizadora, as
+        Debêntures poderão ser declaradas vencidas, independentemente de
+        aviso, interpelação ou notificação extrajudicial, pela
+        Debenturista. Dessa forma, a Securitizadora deverá declarar o
+        vencimento antecipado das obrigações da Escritura de Emissão das
+        Debêntures. Na hipótese de ocorrência de qualquer Evento de
+        Vencimento Antecipado, a Securitizadora ou o Agente Fiduciário
+        dos CRI, caso esteja administrando o Patrimônio Separado poderão
+        tomar todas as medidas cabíveis necessárias à defesa de seus
+        direitos, interesses e prerrogativas.
+
+    3.  Na ocorrência de declaração do vencimento antecipado das
+        Debêntures, a Emissora obriga-se a resgatar a totalidade das
+        Debêntures, com o seu consequente cancelamento, obrigando-se a
+        pagar o saldo do Valor Nominal Unitário atualizado, acrescido da
+        Remuneração , calculada pro rata temporis desde a Data da
+        Primeira Integralização dos CRI ou da última Data de Pagamento
+        das Debêntures, conforme o caso, até a data de seu efetivo
+        pagamento, no prazo de até 2 (dois) Dias Úteis contados da data
+        da declaração do vencimento antecipado mediante comunicação por
+        escrito a ser enviada pela Debenturista à Emissora, nos termos
+        da cláusula 6.4. desta Escritura, sob pena de, em não o fazendo,
+        ficar obrigada, ainda, ao pagamento dos encargos moratórios
+        aplicáveis.
+
+        1.  Na ocorrência do vencimento antecipado das obrigações
+              decorrentes das Debêntures, os recursos recebidos em
+              pagamento das obrigações decorrentes das Debêntures
+              deverão ser imediatamente aplicados na amortização ou, se
+              possível, quitação do saldo devedor das obrigações
+              decorrentes das Debêntures. Caso os recursos recebidos em
+              pagamento das obrigações decorrentes das Debêntures não
+              sejam suficientes para quitar todas as obrigações
+              decorrentes das Debêntures, tais recursos deverão ser
+              imputados na seguinte ordem: (i) quaisquer valores devidos
+              pela Emissora nos termos desta Escritura e/ou de qualquer
+              dos demais Documentos da Operação (incluindo a remuneração
+              e as despesas incorridas pela Securitizadora e pelo Agente
+              Fiduciário dos CRI), que não sejam os valores a que se
+              referem os itens (ii) e (iii) abaixo; (ii) encargos
+              moratórios aplicáveis e demais encargos devidos sob as
+              obrigações decorrentes das Debêntures; (iii) Remuneração
+              aplicáveis; e (iv) saldo devedor do Valor Nominal Unitário
+              Atualizado das Debêntures. A Emissora permanecerá
+              responsável pelo saldo devedor das obrigações decorrentes
+              das Debêntures e/ou de qualquer dos demais Documentos da
+              Operação que não tiverem sido pagas, sem prejuízo dos
+              acréscimos da Remuneração aplicáveis, encargos moratórios
+              e outros encargos incidentes sobre o saldo devedor das
+              obrigações decorrentes das Debêntures e/ou de qualquer dos
+              demais Documentos da Operação enquanto não forem pagas,
+              sendo considerada dívida líquida e certa, passível de
+              cobrança extrajudicial ou por meio de processo de execução
+              judicial.
+
+7.  CLÁUSULA SÉTIMA – ASSEMBLEIA GERAL 
+
+    1.  Nos termos do artigo 71 da Lei das Sociedades por Ações, os
+        titulares das Debêntures poderão, a qualquer tempo, reunir-se em
+        assembleia geral a fim de deliberar sobre matéria de seu
+        interesse, aplicando-se, no que couber, o disposto na Lei das
+        Sociedades por Ações (“Assembleia Geral de Titulares de
+        Debêntures”).
+
+    2.  A Assembleia Geral de Titulares de Debêntures será realizada,
+        obrigatoriamente, na sede da Emissora, em São Paulo, Estado de
+        São Paulo.
+
+    3.  A Assembleia Geral de Titulares de Debêntures poderá ser
+        convocada: (i) pela Emissora; (ii) pela CVM; ou (iii) pelos
+        titulares das Debêntures que representem 10% (dez por cento), no
+        mínimo, das Debêntures.
+
+    4.  A Assembleia Geral de Titulares de Debêntures se instalará, nos
+        termos do parágrafo 3º do artigo 71 da Lei das Sociedades por
+        Ações, em primeira convocação, com a presença de Titulares de
+        Debêntures que representem metade, no mínimo, das debêntures em
+        circulação e, em segunda convocação, com qualquer número.
+
+    5.  A presença dos representantes legais da Emissora é permitida, se
+        assim autorizada pela Assembleia Geral de Titulares de
+        Debêntures.
+
+    6.  A presidência da Assembleia Geral de Titulares de Debêntures
+        caberá ao titular de Debêntures eleito na própria Assembleia
+        Geral de Titulares de Debêntures, por maioria de votos dos
+        presentes.
+
+    7.  Nas deliberações da Assembleia Geral de Titulares de Debêntures,
+        as decisões da Securitizadora, no âmbito desta Escritura,
+        enquanto titular da Debênture, deverão observar o disposto no
+        Termo de Securitização e o que vier a ser deliberado pelos
+        Titulares de CRI.
+
+    8.  Nas deliberações da Assembleia Geral de Titulares de Debêntures,
+        a cada Debênture caberá um voto e as deliberações serão tomadas
+        de acordo com as deliberações tomadas nas assembleias gerais de
+        Titulares dos CRI, a serem realizadas conforme regras constantes
+        do Termo de Securitização.
+
+    9.  Aprovação dos Titulares dos CRI: Por se tratar de Oferta de CRI,
+        previamente ao exercício do direto de voto do(s)
+        Debenturista(s), deverá ocorrer assembleia geral dos titulares
+        dos CRI, nos termos previstos no Termo de Securitização, para
+        deliberar sobre referido assunto, sendo que o(s) Debenturista(s)
+        se comprometem a exercer seu direito de voto em quaisquer
+        decisões e/ou assembleias da qual participem nos termos desta
+        Escritura de Emissão de Debêntures, em estrita consonância com a
+        decisão tomada pelos titulares dos CRI. A Emissora das
+        Debêntures não computará quaisquer votos do(s) Debenturista(s)
+        que não esteja em consonância com a decisão dos titulares dos
+        CRI.
+
+8.  CLÁUSULA OITAVA – OBRIGAÇÕES ADICIONAIS DA EMISSORA
+
+    1.  A Emissora adicionalmente se obriga a:
+
+(i) fornecer à Debenturista ou disponibilizar à Securitizadora, conforme
+      o caso:
+
+    a.  dentro de, no máximo, 45 (quarenta e cinco) dias após o término
+          dos 3 (três) primeiros trimestres de cada exercício social ou
+          em até 10 (dez) Dias Úteis após a data de sua divulgação, o
+          que ocorrer primeiro, (1) cópia de suas demonstrações
+          financeiras relativas ao respectivo trimestre; bem como (2)
+          declaração assinada pelo Diretor Executivo de Finanças, na
+          forma do seu estatuto social, atestando: (a) que permanecem
+          válidas as disposições contidas na Escritura de Emissão de
+          Debêntures; (b) não ocorrência de qualquer das hipóteses de
+          vencimento antecipado e inexistência de descumprimento de
+          obrigações da Emissora no âmbito desta Escritura de Emissão de
+          Debêntures; (c) que não foram praticados atos em desacordo com
+          o estatuto social;
+
+    b.  dentro de no máximo, 90 (noventa) dias após o término de cada
+          exercício social ou em até 10 (dez) dias úteis após a sua
+          divulgação, o que ocorrer primeiro, (1) cópia de suas
+          demonstrações financeiras completas relativas ao respectivo
+          exercício social encerrado preparadas de acordo com os
+          princípios contábeis determinados pela legislação e
+          regulamentação em vigor relativas ao respectivo exercício
+          social acompanhadas do relatório da administração e do
+          relatório dos auditores independentes; bem como; (2)
+          declaração assinada pelo Diretor Executivo de Finanças, na
+          forma do seu estatuto social, atestando: (a) que permanecem
+          válidas as disposições contidas na Escritura de Emissão de
+          Debêntures; (b) não ocorrência de qualquer das hipóteses de
+          vencimento antecipado e inexistência de descumprimento de
+          obrigações da Emissora nos termos desta Escritura de Emissão
+          de Debêntures; e (c) que não foram praticados atos em
+          desacordo com o estatuto social; e (3) cópia de qualquer
+          comunicação feita pelos auditores independentes à Emissora, ou
+          à sua administração e respectivas respostas, com referência ao
+          sistema de contabilidade, gestão ou contas da Emissora, sendo
+          que esta obrigação não será aplicável a comunicações (a) que
+          não tenham implicação direta relevante sobre as Debêntures;
+          ou (b) nas quais haja dever de sigilo por parte da Emissora;
+
+    c.  até a data de suas publicações, os atos e decisões referidos na
+          Cláusula 6.1. acima;
+
+    d.  em até 10 (dez) dias, qualquer informação relevante para a
+          presente Emissão que lhe venha a ser razoavelmente solicitada
+          pela Debenturista, ou no prazo exigido por norma vigente ou
+          estipulado pela autoridade competente, para as informações que
+          venham a ser exigidas pelas normas vigentes ou em razão de
+          determinação ou orientação de autoridades competentes;
+
+    e.  caso solicitados, os comprovantes de cumprimento de suas
+          obrigações pecuniárias no prazo de até 5 (cinco) Dias Úteis
+          contados da Data de Vencimento;
+
+    f.  informações a respeito de qualquer dos eventos de vencimento
+          antecipado nos prazos e periodicidade estabelecidos nesta
+          Escritura;
+
+(ii) proceder à adequada publicidade dos dados econômico-financeiros,
+       nos termos exigidos pela Lei das Sociedades por Ações, promovendo
+       a publicação das suas demonstrações financeiras, nos termos
+       exigidos pela legislação e regulação em vigor;
+
+(iii) manter a sua contabilidade atualizada e efetuar os respectivos
+        registros de acordo com os princípios contábeis geralmente
+        aceitos no Brasil, com a Lei das Sociedades por Ações;
+
+(iv) não realizar operações fora de seu objeto social, observadas as
+       disposições estatutárias, legais e regulamentares em vigor;
+
+(v) notificar em até 2 (dois) Dias Úteis a Debenturista sobre qualquer
+      ato ou fato que possa causar interrupção ou suspensão das
+      atividades da Emissora;
+
+(vi) cumprir, em todos os aspectos, todas as leis, regras, regulamentos
+       e ordens aplicáveis em qualquer jurisdição na qual realize
+       negócios ou possua ativos, exceto por descumprimentos que não
+       venham a afetar adversamente sua condição econômica e financeira,
+       seus resultados operacionais, suas atividades, sua capacidade em
+       honrar tempestivamente as obrigações pecuniárias ou não relativas
+       às Debêntures, decorrentes desta Escritura e/ou a qualquer outra
+       dívida que, se vencida e não paga, possa acarretar o vencimento
+       antecipado das Debêntures;
+
+(vii) manter válidas e regulares as licenças, concessões ou aprovações
+        necessárias, inclusive ambientais, ao seu regular funcionamento,
+        exceto no que se referir a licenças, concessões ou aprovações
+        cuja perda, revogação ou cancelamento não resultem em impacto
+        adverso relevante para suas atividades, ou para sua capacidade
+        em honrar tempestivamente as obrigações pecuniárias ou não
+        relativas às Debêntures, decorrentes desta Escritura e/ou a
+        qualquer outra dívida que, se vencida e não paga, possa
+        acarretar o vencimento antecipado das Debêntures;
+
+(viii) aplicar os recursos obtidos por meio da presente Emissão
+         estritamente conforme descrito nesta Escritura;
+
+(ix) observar as disposições da Instrução CVM 476, em especial as
+       obrigações indicadas em seu artigo 17;
+
+(x) cumprir todas as obrigações descritas na Lei das Sociedades por
+      Ações, e demais regulamentações aplicáveis;
+
+(xi) cumprir todas as normas editadas pela CVM necessárias para que a
+       Oferta e a Operação de Securitização possam se concretizar;
+
+(xii) cumprir, em conjunto com suas afiliadas, as leis, normas
+        administrativas e determinações dos órgãos governamentais,
+        autarquias ou tribunais, aplicáveis à condução de seus negócios,
+        em especial dos termos da legislação ambiental e trabalhista em
+        vigor;
+
+(xiii) realizar o recolhimento de todos os tributos que incidam ou
+         venham a incidir sobre as Debêntures e os CRI que sejam de
+         responsabilidade da Emissora, conforme previsto nesta Escritura
+         e nos Documentos da Operação; e
+
+(xiv) guardar, pelo prazo de 5 (cinco) anos contados da presente data,
+        em caso de processo administrativo, toda a documentação relativa
+        à Emissão e à Oferta Restrita, bem como disponibilizá-la ao
+        Coordenador Líder no prazo de até 10 (dez) Dias Úteis, após
+        solicitação por escrito, neste sentido, ou no menor prazo
+        possível, conforme exigência legal.
+
+9.  CLÁUSULA NONA – DESPESAS DA EMISSÃO
+
+    1.  Todas e quaisquer despesas incorridas com a Emissão, não se
+        limitando às despesas indicadas abaixo, ou com a execução de
+        valores devidos nos termos desta Escritura, incluindo
+        publicações, inscrições, registros, averbações, contratação do
+        Agente Fiduciário do CRI e dos prestadores de serviços e
+        quaisquer outros custos relacionados às Debêntures, serão de
+        responsabilidade exclusiva e serão arcadas diretamente pela
+        Emissora, ou reembolsadas à Securitizadora, em até 5 (cinco)
+        Dias Úteis contados do recebimento de notificação de cobrança
+        pela Securitizadora neste sentido, exceto pelas despesas Flat
+        indicadas no Anexo IV desta Escritura de Emissão de Debêntures,
+        cujo pagamento será realizado com recursos que serão retidos e
+        descontados da Primeira Parcela do Preço de Integralização das
+        Debêntures, nos termos desta Escritura de Emissão de Debêntures
+        (“Despesas”).
+
+    2.  A Emissora adicionalmente se obriga a pagar:
+
+(i) os emolumentos e taxas da B3, da CVM e da ANBIMA, conforme
+      aplicáveis, relativos tanto à CCI quanto aos CRI;
+
+(ii) a remuneração da Securitizadora pela emissão dos CRI, em parcela
+       única no valor de R$ 50.000,00 (cinquenta mil reais), a ser paga
+       à Securitizadora no 1º (primeiro) Dia Útil contado da Data da
+       Primeira Integralização dos CRI. A referida despesa será
+       acrescida dos seguintes impostos: ISS (Imposto Sobre Serviços de
+       Qualquer Natureza), CSLL (Contribuição Social sobre o Lucro
+       Líquido), PIS (Contribuição ao Programa de Integração Social),
+       COFINS (Contribuição para o Financiamento da Seguridade Social),
+       IRRF (Imposto de Renda Retido na Fonte) e quaisquer outros
+       Tributos que venham a incidir sobre a remuneração da
+       Securitizadora, conforme o caso, nas alíquotas vigentes na data
+       do pagamento;
+
+(iii) Taxa de administração devida à Securitizadora, durante o período
+        de vigência dos CRI, no valor de R$ 3.000,00 (três mil reais)
+        por mês, sendo a primeira parcela devida até o 1º (primeiro) Dia
+        Útil a contar da Data da Primeira Integralização dos CRI, e as
+        demais na mesma data dos meses subsequentes até o resgate total
+        dos CRI, atualizadas anualmente pela variação acumulada do
+        IGP-M/FGV, ou na falta deste, ou ainda na impossibilidade de sua
+        utilização, pelo índice que vier a substituí-lo, calculada pro
+        rata die, se necessário (“Taxa de Administração”). Caso ocorra a
+        substituição da Securitizadora por qualquer motivo, será devida
+        a remuneração (flat e recorrente) da nova instituição que
+        realizará a administração dos CRI e, consequentemente, do
+        Patrimônio Separado, nomeada pelos titulares dos CRI;
+
+(iv) Remuneração devida ao Agente Fiduciário dos CRI, no valor de: a)
+       será devida à título de implantação a parcela única de R$
+       3.000,00 (três mil reais), a ser pago em até o 5º (quinto) Dia
+       Útil a contar da Data da Primeira Integralização dos CRI; b) a
+       título de honorários pela prestação dos serviços, serão as
+       parcelas anuais de R$ 19.000,00 (dezenove mil reais) por ano,
+       devida durante o período de vigência dos CRI e mesmo após o
+       vencimento dos CRI, caso o Agente Fiduciário dos CRI ainda esteja
+       em atuação, sendo a primeira parcela devida até o 5º (quinto) Dia
+       Útil a contar Data da Primeira Integralização dos CRI, e as
+       demais na mesma data dos anos subsequentes, até o resgate total
+       dos CRI, atualizadas anualmente pela variação acumulada do IGP-M,
+       ou na falta deste, ou ainda, na impossibilidade de sua
+       utilização, pelo índice que vier a substituí-lo, calculadas pro
+       rata die, se necessário; e c) por cada verificação da destinação
+       dos recursos o valor de R$ 1.300,00 (mil e trezentos reais),
+       sendo a primeira parcela devida até o 5º (quinto) Dia Útil a
+       contar Data da Primeira Integralização dos CRI, devido à
+       verificação do reembolso, e as demais semestralmente, conforme
+       periodicidade prevista na cláusula de Destinação de Recursos,
+       sendo esta devida até a aplicação integral dos recursos oriundos
+       das Debêntures em observância à destinação dos recursos,
+       atualizadas anualmente a partir da data do primeiro pagamento,
+       pela variação acumulada positiva do IGP-M, ou ainda na
+       impossibilidade de sua utilização, pelo índice que vier a
+       substituí-lo, calculada pro rata die, se necessário.
+
+(v) a remuneração, a ser paga à Instituição Custodiante prevista no
+      Termo de Securitização, nos seguintes termos:
+
+    a.  pelos serviços de implantação e registro da CCI, será devido o
+          valor R$ 2.000,00 (dois mil reais) a ser pago em até 5 (cinco)
+          Dias Úteis após a Data da Primeira Integralização dos CRI;
+
+    b.  pela custódia da Escritura de Emissão de CCI e, será devido o
+          valor anual de R$ 2.000,00 (dois mil reais), sendo a primeira
+          parcela a ser paga em até 5 (cinco) Dias Úteis após a Data da
+          Primeira Integralização dos CRI e as demais nas mesmas datas
+          dos anos subsequentes até o resgate total dos CRI;
+
+    c.  o pagamento dos valores devidos a Instituição Custodiante e
+          Agente Fiduciário dos CRI elencados acima serão acrescidos dos
+          seguintes impostos: ISS (Imposto Sobre Serviços de Qualquer
+          Natureza), PIS (Contribuição ao Programa de Integração
+          Social), CSLL (Contribuição Social sobre o Lucro Líquido),
+          COFINS (Contribuição para o Financiamento da Seguridade
+          Social), IR (imposto de renda) e o IRRF (Imposto de Renda
+          Retido na Fonte) e quaisquer outros Tributos que venham a
+          incidir sobre a remuneração da Instituição Custodiante e do
+          Agente Fiduciário dos CRI, nas alíquotas vigentes na data de
+          cada pagamento e o valor devido no âmbito do subitem (b) e (c)
+          acima será corrigido anualmente a partir da data do primeiro
+          pagamento pela variação acumulada do IGP-M ou na falta deste,
+          ou, ainda, na impossibilidade de sua utilização, pelo índice
+          que vier a substituí-lo, calculadas pro rata die, se
+          necessário;
+
+(vi) todas as despesas razoavelmente incorridas e devidamente
+       comprovadas pelo Agente Fiduciário dos CRI que sejam necessárias
+       para proteger os direitos e interesses dos Titulares de CRI ou
+       para realização dos seus créditos, bem como nos termos das
+       cláusulas 10.10 e 14.1 do Termo de Securitização;
+
+(vii) despesas relativas à publicação de quaisquer avisos exigidos pela
+        CVM no âmbito da emissão dos CRI;
+
+(viii) despesas relativas à abertura e manutenção da Conta do Patrimônio
+         Separado (conforme definido no Termo de Securitização);
+
+(ix) averbações, tributos, prenotações e registros em cartórios de
+       registro de imóveis e títulos e documentos, bem como em juntas
+       comerciais, quando for o caso, assim como quaisquer despesas
+       relativas a eventuais alterações nos Documentos da Operação e os
+       custos relacionados à Assembleia Geral dos Titulares dos CRI,
+       conforme previsto nos Termos de Securitização, cabendo a critério
+       da Securitizadora contratar advogados para a execução das
+       atividades realizando o pagamento com os recursos do patrimônio
+       separado;
+
+(x) despesas com as publicações eventualmente necessárias nos termos dos
+      Documentos da Operação;
+
+(xi)  remuneração dos assessores legais da Emissão, em uma parcela no
+       valor de R$ 48.000,00 (quarenta e oito mil reais), acrescido dos
+       impostos;
+
+(xii) as despesas com a gestão, cobrança, realização e administração do
+        patrimônio separado dos CRI, outras despesas indispensáveis à
+        administração dos Créditos Imobiliários, exclusivamente na
+        hipótese de liquidação do patrimônio separado dos CRI, inclusive
+        as referentes à sua transferência na hipótese de o Agente
+        Fiduciário dos CRI assumir a sua administração;
+
+(xiii) as eventuais despesas, depósitos e custas judiciais decorrentes
+         da sucumbência em ações judiciais;
+
+(xiv) custos diretos comprovados, através da apresentação dos
+        respectivos recibos, relacionados à Assembleia Geral dos CRI;
+
+(xv) despesas com gestão, cobrança, realização e administração do
+       Patrimônio Separado e outras despesas indispensáveis à
+       administração do Crédito Imobiliário, incluindo: (i) a
+       remuneração dos prestadores de serviços, (ii) as despesas com
+       sistema de processamento de dados, (iii) as despesas cartorárias
+       com autenticações, reconhecimento de firmas, emissões de
+       certidões, registros de atos em cartórios e emolumentos em
+       geral, (iv) as despesas com cópias, impressões, expedições de
+       documentos e envio de correspondências, (v) as despesas com
+       publicações de balanços, relatórios e informações
+       periódicas, (vi) as despesas com empresas especializadas em
+       cobrança, leiloeiros e comissões de corretoras imobiliárias,
+       e (vii) quaisquer outras despesas diretas relacionadas à
+       administração do Crédito Imobiliário e do Patrimônio Separado,
+       inclusive as referentes à sua transferência para outra companhia
+       securitizadora de créditos imobiliários, na hipótese de o Agente
+       Fiduciário dos CRI vir a assumir a sua administração, nos termos
+       previstos no Termo de Securitização;
+
+(xvi) Em virtude da instituição do regime fiduciário e da gestão e
+        administração do Patrimônio Separado, as despesas mensais de
+        contratação de auditor independente, contador, ou seja,
+        profissionais para realizar a escrituração contábil e elaboração
+        de balanço auditado, os quais serão realizados na periodicidade
+        exigida pela legislação em vigor e serão reembolsados à
+        Securitizadora, e quaisquer prestadores de serviços contratados
+        para a Oferta Restrita, mediante apresentação dos comprovantes
+        de pagamento ou notas fiscais;
+
+(xvii) Os honorários, despesas e custos de terceiros especialistas,
+         advogados, auditores ou fiscais relacionados com procedimentos
+         legais incorridos para resguardar os interesses dos titulares
+         dos CRI, na defesa de eventuais processos administrativos,
+         arbitrais e/ou judiciais propostos contra o Patrimônio Separado
+         ou, ainda, realização do Patrimônio Separado;
+
+(xviii) As eventuais despesas, depósitos e custas judiciais decorrentes
+          da sucumbência em ações judiciais ajuizadas com a finalidade
+          de resguardar os interesses dos Titulares dos CRI e a
+          realização dos créditos do Patrimônio Separado;
+
+(xix) Despesas com registros e movimentação perante instituições
+        autorizadas à prestação de serviços de liquidação e custódia,
+        escrituração, câmaras de compensação e liquidação, juntas
+        comerciais e cartórios de registro de títulos e documentos,
+        conforme o caso, da documentação societária relacionada aos CRI,
+        aos Termos de Securitização e aos demais Documentos da Operação,
+        bem como de seus eventuais aditamentos;
+
+(xx) as perdas, danos diretos e comprovados, obrigações ou despesas
+       diretas e comprovadas, incluindo taxas e honorários advocatícios
+       arbitrados pelo juiz, resultantes da Emissão, exceto se tais
+       perdas, danos, obrigações ou despesas forem resultantes de
+       inadimplemento, dolo ou culpa por parte da Emitente ou de seus
+       administradores, empregados, consultores e agentes, conforme vier
+       a ser determinado em decisão judicial transitada em julgado;
+
+(xxi) quaisquer tributos ou encargos, presentes e futuros, que sejam
+        imputados por lei à Securitizadora e/ou ao Patrimônio Separado e
+        que possam afetar adversamente o cumprimento, pela
+        Securitizadora, de suas obrigações assumidas no Termo de
+        Securitização.
+
+      1.  No caso de inadimplemento no pagamento de qualquer das
+            Despesas pela Emissora, sobre todos e quaisquer valores em
+            atraso, incidirão (i) juros de mora de 1% (um por cento) ao
+            mês, calculados pro rata temporis desde a data de
+            inadimplemento até a data do efetivo pagamento; (ii) multa
+            moratória de natureza não compensatória de 2% (dois por
+            cento); e (iii) atualização monetária pelo IPCA, calculada
+            pro rata temporis desde a data de inadimplemento até a data
+            do respectivo pagamento.
+
+      2.  Quaisquer despesas, incluindo as que não foram mencionadas
+            acima, desde que relacionadas à Emissão e à Oferta, serão
+            arcadas exclusivamente, direta ou indiretamente, pela
+            Emissora, na forma desta Cláusula, inclusive as seguintes
+            despesas razoavelmente incorridas ou a incorrer e
+            devidamente comprovadas pela Securitizadora, necessárias ao
+            exercício pleno de sua função: (i) registro de documentos,
+            notificações, extração de certidões em geral, reconhecimento
+            de firmas em cartórios, cópias autenticadas em cartório e/ou
+            reprográficas, emolumentos cartorários, custas processuais,
+            periciais e similares, bem como quaisquer prestadores de
+            serviço que venham a ser utilizados para a realização dos
+            procedimentos listados neste item "i"; (ii) contratação de
+            prestadores de serviços não determinados nos Documentos da
+            Operação, inclusive assessores legais, agentes de auditoria,
+            fiscalização e/ou cobrança; (iii) publicações em jornais e
+            outros meios de comunicação, locação de imóvel, contratação
+            de colaboradores, bem como quaisquer outras despesas
+            necessárias para realização de assembleias gerais de
+            titulares dos CRI, sendo certo que o pagamento de tais
+            despesas deverá ser comprovado pela Securitizadora à
+            Emissora nos termos da Cláusula 9.2.3 abaixo.
+
+      3.  A Securitizadora deverá solicitar diretamente à Emissora o
+            pagamento de tais despesas, com antecedência de 5 (cinco)
+            Dias Úteis.
+
+      4.  Os Titulares de CRI serão responsáveis pelo pagamento dos
+            tributos incidentes sobre a negociação secundária e a
+            distribuição de rendimentos dos CRI.
+
+      5.  As despesas que eventualmente sejam pagas diretamente pela
+            Securitizadora, com a devida comprovação, por meio de
+            recursos do patrimônio separado dos CRI, e/ou por meio de
+            recursos próprios da Securitizadora, deverão ser
+            reembolsadas pela Emissora, conforme o caso, à
+            Securitizadora, em até 5 (cinco) Dias Úteis a contar de
+            notificação enviada pela Securitizadora, observado que, em
+            nenhuma hipótese a Securitizadora possuirá a obrigação de
+            utilizar recursos próprios para o pagamento de despesas.
+
+      6.  Sem prejuízo da cláusula 9.2.5 acima, na hipótese de eventual
+            inadimplência da Emissora, a Securitizadora poderá promover
+            as medidas judiciais cabíveis, iniciando a execução por
+            quantia certa contra devedor ou qualquer outra medida que
+            entender cabível, observados os termos e condições para
+            pagamento e reembolso pela Emissora, nos termos dos
+            Documentos da Operação.
+
+      7.  Na hipótese de a data de vencimento dos CRI vir a ser
+            prorrogada por deliberação da assembleia geral dos titulares
+            de CRI, ou ainda, após a data de vencimento dos CRI, a
+            Securitizadora e/ou o Agente Fiduciário dos CRI continuarem
+            exercendo as suas funções, as despesas, conforme o caso,
+            continuarão sendo devidas pela Emissora. E ainda, será
+            devida a remuneração da Emissora e do Agente Fiduciário dos
+            CRI mesmo após o vencimento final dos CRI, caso os mesmos
+            ainda estejam exercendo atividades inerentes a sua função em
+            relação à Emissão.
+
+          1.  A Taxa de Administração continuará sendo devida, mesmo
+                após o vencimento dos CRI, caso a Securitizadora ainda
+                esteja atuando em nome dos titulares de CRI, remuneração
+                esta que será devida proporcionalmente aos meses de
+                atuação da Securitizadora.
+
+          2.  Caso a Emissora não pague tempestivamente, os titulares de
+                CRI arcarão com o Taxa de Administração, ressalvado seu
+                direito de, num segundo momento, requerer o reembolso
+                das despesas junto à Emissora após a realização do
+                patrimônio separado dos CRI.
+
+      8.  Em qualquer Reestruturação que vier a ocorrer ao longo do
+            prazo de duração dos CRI, que implique a elaboração de
+            aditamentos aos Documentos da Operação e/ou na realização de
+            assembleias gerais de titulares dos CRI, será devida, pela
+            Emissora à Securitizadora, uma remuneração adicional,
+            equivalente a R$ 600,00 (seiscentos reais) por hora de
+            trabalho dos profissionais da Securitizadora dedicados a
+            tais atividades, corrigidos a partir da data da emissão dos
+            CRI pela variação acumulada do IGP-M no período anterior.
+            Também, a Emissora deverá arcar com todos os custos
+            decorrentes da formalização e constituição dessas
+            alterações, inclusive aqueles relativos a honorários
+            advocatícios razoáveis devidos ao assessor legal escolhido
+            de comum acordo entre as partes, acrescido das despesas e
+            custos devidos a tal assessor legal. O pagamento da
+            remuneração prevista neste item ocorrerá sem prejuízo da
+            remuneração devida a terceiros eventualmente contratados
+            para a prestação de serviços acessórios àqueles prestados
+            pela Securitizadora também será arcado pela Emissora.
+
+          1.  Entende-se por "Reestruturação" a alteração de condições
+                relacionadas (i) às condições essenciais dos CRI, tais
+                como datas de pagamento, remuneração, data de vencimento
+                final, fluxos operacionais de pagamento ou recebimento
+                de valores, carência ou covenants operacionais ou
+                financeiros; (ii) ofertas de resgate, repactuação,
+                aditamentos aos Documentos da Operação e realização de
+                assembleias, exceto aqueles já previstos nos Documentos
+                da Operação; e (iii) ao vencimento antecipado das
+                Debêntures e o consequente Resgate Antecipado dos CRI.
+
+      9.  Obrigação de Indenização: A Emissora obriga-se a manter
+            indenes e a indenizar a Debenturista e a Securitizadora,
+            seus diretores, conselheiros e empregados, por toda e
+            qualquer despesa extraordinária comprovadamente incorrida
+            pela Debenturista ou pela Securitizadora que não tenha sido
+            contemplada nos Documentos da Operação, mas venha a ser
+            devida diretamente em decorrência: (i) dos CRI,
+            especialmente, mas não se limitando ao caso das declarações
+            acima prestadas serem falsas, incorretas ou inexatas; (ii)
+            dos Documentos da Operação, exceto nos casos de dolo ou
+            culpa da Securitizadora; (iii) de mudanças na legislação
+            brasileira, e que estejam diretamente relacionadas à emissão
+            dos CRI; (iv) de demandas, ações ou processos judiciais e/ou
+            extrajudiciais promovidos pela Emissora, Ministério Público
+            ou terceiros com o fim de discutir os Créditos Imobiliários,
+            a Garantia, os imóveis descritos na Escritura de Emissão das
+            Debêntures, danos ambientais e/ou fiscais, inclusive
+            requerendo a exclusão da Securitizadora do polo passivo da
+            demanda e contratando advogado para representar a
+            Securitizadora na defesa dos direitos do patrimônio separado
+            dos CRI ou ao cumprimento das obrigações decorrentes dos
+            Documentos da Operação, podendo ou não decorrer de tributos,
+            emolumentos, taxas ou custos de qualquer natureza,
+            incluindo, mas sem limitação, as despesas com terceiros
+            especialistas, advogados, auditores ou fiscais, bem como as
+            despesas com procedimentos legais ou gastos com honorários
+            advocatícios e terceiros, depósitos, custas e taxas
+            judiciais, nas ações propostas pela Debenturista ou pela
+            Securitizadora ou contra elas intentadas, desde que para
+            resguardar os Créditos Imobiliários, a Escritura de Emissão
+            de Debêntures e os direitos e prerrogativas da Debenturista
+            e da Securitizadora definidos nos Documentos da Operação e
+            que sejam devidamente comprovadas, necessárias e razoáveis.
+            Para se evitar quaisquer dúvidas, as obrigações da Emissora
+            nos termos desta Cláusula não incluem despesas ou custos
+            incorridos pela Debenturista em virtude de, ou relativas a,
+            quaisquer outras de suas operações, ou pela Securitizadora
+            em virtude de, ou relativas a, outras operações de
+            securitização por esta última realizadas.
+
+          1.  O pagamento de qualquer indenização referida na Cláusula
+                9.2.9 acima deverá ser realizado à vista, em parcela
+                única, mediante depósito na conta corrente a ser
+                oportunamente indicada pela Debenturista ou pela
+                Securitizadora, conforme aplicável, dentro de 5 (cinco)
+                dias após o recebimento pela Emissora de comunicação por
+                escrito do Debenturista ou da Securitizadora, conforme
+                aplicável, indicando o montante a ser pago e conforme
+                cálculos efetuados pela Securitizadora, os quais, salvo
+                manifesto erro, serão considerados vinculantes e
+                definitivos.
+
+10. CLÁUSULA DEZ – DECLARAÇÕES DA EMISSORA
+
+    1.  A Emissora declara, à Debenturista que:
+
+(i) está devidamente autorizada a emitir as Debêntures, a celebrar a
+      presente Escritura e a cumprir com todas as obrigações aqui
+      previstas, tendo sido satisfeitos todos os requisitos legais e
+      estatutários necessários para tanto, não sendo exigidas, da
+      Emissora, quaisquer aprovações ambiental, governamental e/ou
+      regulamentar para tanto e tendo sido plenamente satisfeitos todos
+      os requisitos legais, societários, regulatórios e de terceiros
+      necessários para tanto;
+
+(ii) é companhia atuante no ramo de construção civil e imobiliário;
+
+(iii) a celebração desta Escritura, bem como o cumprimento das
+        obrigações aqui previstas, não infringe qualquer obrigação
+        anteriormente assumida pela Emissora;
+
+(iv) é sociedade por ações devidamente organizada e constituída, de
+       acordo com as leis brasileiras, estando devidamente autorizada a
+       desempenhar as atividades descritas em seu objeto social;
+
+(v) as pessoas que representam a Emissora na assinatura desta Escritura
+      têm poderes bastantes para tanto;
+
+(vi) todas as informações da Emissora, prestadas no âmbito desta
+       Escritura e dos demais Documentos da Operação são verdadeiras,
+       consistentes, corretas e suficientes e a Emissora se
+       responsabiliza por tais informações prestadas;
+
+(vii) cumpre, e fará com que seus administradores cumpram, com as regras
+        de destinação dos recursos objeto da captação decorrente da
+        emissão das Debêntures, nos termos da legislação aplicável e
+        desta Escritura;
+
+(viii) cumpre, e fará com que seus administradores cumpram, com as
+         normas de conduta previstas na Instrução CVM 414 e na Instrução
+         CVM 476, conforme aplicável, em especial as normas referentes à
+         divulgação de informações e período de silêncio;
+
+(ix) esta Escritura, os demais Documentos da Operação e as cláusulas
+       neles contidas constituem obrigações legais, válidas e
+       vinculantes da Emissora, conforme o caso, exequíveis de acordo
+       com os seus termos e condições;
+
+(x) a emissão das Debêntures, a celebração desta Escritura, o
+      cumprimento das obrigações aqui previstas e a realização da
+      Operação de Securitização: (a) não infringem o estatuto social da
+      Emissora, ou qualquer (1) norma aplicável à Emissora, contrato ou
+      instrumento do qual a Emissora e/ou qualquer de seus
+      controladores, controladas, e/ou coligadas, conforme a Lei das
+      Sociedades Anônimas, conforme alterada (“Afiliadas”), seja parte
+      ou interveniente, ou pelos quais qualquer de seus ativos esteja
+      sujeito; (2) ordem ou decisão judicial, administrativa ou arbitral
+      em face da Emissora e/ou qualquer de suas Afiliadas; (b) nem
+      resultará em: (1) vencimento antecipado e/ou rescisão de qualquer
+      obrigação estabelecida em qualquer contratos ou instrumentos do
+      qual a Emissora e/ou qualquer de suas Afiliadas seja parte e/ou
+      pelo qual qualquer de seus respectivos ativos esteja sujeito;
+      ou (2) criação de qualquer ônus sobre qualquer ativo ou bem da
+      Emissora e/ou qualquer de suas Afiliadas, que não os previstos nas
+      Debêntures e nos demais Documentos da Operação;
+
+(xi) até onde tem conhecimento, está cumprindo todas as leis,
+       regulamentos, normas administrativas e determinações dos órgãos
+       governamentais, autarquias ou instâncias judiciais aplicáveis ao
+       exercício de suas atividades, exceto por aqueles questionados de
+       boa-fé nas esferas administrativa e/ou judicial e cujo
+       descumprimento e/ou tal questionamento de boa-fé não possa causar
+       um efeito adverso relevante na situação operacional, econômica e
+       financeira da Emissora, de modo que afete adversamente as
+       Garantias Reais e a capacidade da Emissora de cumprir suas
+       obrigações, previstas no âmbito das Debêntures e desta Escritura;
+
+(xii) a Emissora possui todas as licenças, concessões, autorizações,
+        permissões e alvarás, inclusive ambientais, necessárias ao
+        exercício de suas atividades válidas e a segurança das Garantias
+        reias, eficazes, em perfeita ordem e em pleno vigor, ou,
+        eventualmente, em fase de renovação, exceto por hipóteses em que
+        a falha em obter tais instrumentos não possa causar qualquer
+        efeito adverso relevante no exercício de suas atividades de
+        forma regular;
+
+(xiii) a Emissora, até onde tem conhecimento, cumpre o disposto na
+         legislação em vigor pertinente à Política Nacional do Meio
+         Ambiente, inclusive às Resoluções do CONAMA - Conselho Nacional
+         do Meio Ambiente e às demais legislações e regulamentações
+         ambientais supletivas, exceto por aquelas questionadas de
+         boa-fé nas esferas administrativa e/ou judicial, de modo que
+         não afete adversamente a capacidade da Emissora de cumprir suas
+         obrigações, previstas no âmbito das Debêntures e desta
+         Escritura; (b) a Emissora adota as medidas e ações preventivas
+         ou reparatórias, destinadas a evitar e corrigir eventuais danos
+         ambientais eventualmente apurados, decorrentes da atividade
+         descrita em seu objeto social, exceto por hipóteses em que o
+         descumprimento não possa causar qualquer efeito adverso
+         relevante no exercício de suas atividades de forma regular; (c)
+         a Emissora cumpre as determinações dos Órgãos Municipais,
+         Estaduais e Federais, exceto aqueles questionados de boa-fé nas
+         esferas administrativa e/ou judicial e por hipóteses em que o
+         descumprimento não possa causar qualquer efeito adverso
+         relevante no exercício de suas atividades de forma regular;
+         e (d) é a única e exclusiva responsável por qualquer dano
+         ambiental e/ou descumprimento da legislação ambiental,
+         resultante da aplicação dos recursos financeiros obtidos por
+         meio das Debêntures, isentando desde já a Debenturista de
+         quaisquer responsabilidades, ressalvada a possibilidade de
+         regresso contra os proprietários anteriores quanto a fatos
+         pregressos que tenham sido identificados pela Emissora após a
+         aquisição dos imóveis aos quais serão destinados aos recursos
+         das Debêntures;
+
+(xiv) desconhece, para fins de emissão das Debêntures e formalização
+        desta Escritura: (a) descumprimento de qualquer disposição
+        contratual relevante, legal ou descumprimento de qualquer ordem
+        judicial, administrativa ou arbitral com relação à qual tenha
+        havido citação, notificação ou outra forma de ciência formal da
+        ordem; ou (b) qualquer processo, judicial, administrativo ou
+        arbitral, procedimento, inquérito ou qualquer outro tipo de
+        investigação governamental, com relação à qual tenha havido
+        citação, notificação ou outra forma de ciência formal da ordem,
+        em qualquer dos casos desta cláusula visando anular, revisar,
+        invalidar, repudiar ou de qualquer forma afetar as Debêntures,
+        esta Escritura e/ou os CRI;
+
+(xv) tem integral ciência da forma e condições de negociação das
+       Debêntures, dos CRI, do Termo de Securitização, desta Escritura e
+       dos demais Documentos da Operação, inclusive com a forma de
+       cálculo do valor devido no âmbito das Debêntures e desta
+       Escritura;
+
+(xvi) está adimplente com o cumprimento das obrigações constantes desta
+        Escritura, e não ocorreu e não existe, na presente data,
+        qualquer hipótese de vencimento antecipado prevista nesta
+        Escritura;
+
+(xvii) recebeu, possui ciência, conhece, não tem dúvidas e está de
+         acordo com todas as regras estabelecidas no Termo de
+         Securitização;
+
+(xviii) não exercerá quaisquer direitos de compensação de forma a
+          extinguir, reduzir ou mudar as obrigações de pagamento da
+          Emissora previstas nas Debêntures;
+
+(xix) as demonstrações financeiras, consolidadas e auditadas, da
+        Emissora apresentadas nesta data representam corretamente a
+        posição patrimonial e financeira de ambas naquelas datas e para
+        aqueles períodos e foram devidamente elaboradas em conformidade
+        com os princípios contábeis geralmente aceitos no Brasil e
+        refletem corretamente os seus ativos, passivos e contingências,
+        e desde a data das demonstrações financeiras acima mencionadas
+        não houve nenhuma alteração adversa relevante e nem aumento
+        substancial do endividamento da Emissora;
+
+(xx) as informações a respeito da Emissora prestadas nesta Escritura e
+       nos demais Documentos da Operação são verdadeiras, consistentes,
+       corretas e suficientes, permitindo aos investidores uma tomada de
+       decisão fundamentada no âmbito da Oferta com relação à Emissora;
+
+(xxi) Respeita, até onde tem conhecimento, a Legislação Socioambiental e
+        a utilização dos valores objeto das Debêntures não implicará na
+        violação da Legislação Socioambiental;
+
+(xxii) possui experiência na celebração de contratos financeiros da
+         natureza daqueles envolvidos nesta operação e entendem os
+         riscos inerentes a tal operação;
+
+(xxiii) não tem conhecimento da ocorrência de qualquer alteração na
+          composição societária da Emissora, ou qualquer alienação,
+          cessão ou transferência, direta de ações do capital social da
+          Emissora, em qualquer operação isolada ou série de operações,
+          que resultem na perda, pelos atuais acionistas controladores,
+          do poder de controle da Emissora;
+
+(xxiv) desconhece a existência de violação ou indício de violação de
+         qualquer dispositivo de qualquer lei ou regulamento, nacional
+         ou estrangeiro, contra prática de corrupção ou atos lesivos à
+         administração pública, incluindo, sem limitação, Leis
+         Anticorrupção, conforme aplicável, pela Emissora, por seus
+         controladores, por suas controladas e por suas coligadas;
+
+(xxv) envida os melhores esforços para que seus diretores e membros do
+        conselho de administração, no estrito exercício das respectivas
+        funções de administradores da Emissora, observem os dispositivos
+        das Leis Anticorrupção, conforme aplicável; (b) absteve-se de
+        praticar atos de corrupção e de agir de forma lesiva à
+        administração pública, nacional e estrangeira, no seu interesse
+        ou para seu benefício, exclusivo ou não; (c) caso tenha
+        conhecimento de qualquer ato ou fato que viole aludidas normas,
+        comunicará imediatamente à Debenturista, que poderá tomar todas
+        as providências que entender necessárias; e (d) realizará
+        eventuais pagamentos devidos à Debenturista exclusivamente por
+        meio de transferência bancária;
+
+(xxvi) até a presente data, não tem conhecimento da ocorrência das
+         seguintes hipóteses: (a) ter utilizado ou utilizar recursos
+         para o pagamento de contribuições, presentes ou atividades de
+         entretenimento ilegais ou qualquer outra despesa ilegal
+         relativa a atividade política; (b) fazer ou ter feito qualquer
+         pagamento ilegal, direto ou indireto, a empregados ou
+         funcionários públicos, partidos políticos, políticos ou
+         candidatos políticos (incluindo seus familiares), nacionais ou
+         estrangeiros; (c) ter realizado ou realizar ação destinada a
+         facilitar uma oferta, pagamento ou promessa ilegal de pagar,
+         bem como ter aprovado ou aprovar o pagamento, a doação de
+         dinheiro, propriedade, presente ou qualquer outro bem de valor,
+         direta ou indiretamente, para qualquer “oficial do governo”
+         (incluindo qualquer oficial ou funcionário de um governo ou de
+         entidade de propriedade ou controlada por um governo ou
+         organização pública internacional ou qualquer pessoa agindo na
+         função de representante do governo ou candidato de partido
+         político) a fim de influenciar qualquer ação política ou obter
+         uma vantagem indevida com violação da lei aplicável; (d)
+         praticar ou ter praticado quaisquer atos para obter ou manter
+         qualquer negócio, transação ou vantagem comercial indevida; (e)
+         ter realizado ou realizar qualquer pagamento ou tomar qualquer
+         ação que viole qualquer Lei Anticorrupção; ou (f) ter realizado
+         ou realizar um ato de corrupção, pago propina ou qualquer outro
+         valor ilegal, bem como influenciado o pagamento de qualquer
+         valor indevido; e
+
+(xxvii) direta ou indiretamente, não irá receber, transferir, manter,
+          usar ou esconder recursos que decorram de qualquer atividade
+          ilícita, bem como não irá contratar como empregado ou de
+          alguma forma manter relacionamento profissional com pessoas
+          físicas ou jurídicas envolvidas com atividades criminosas, em
+          especial as Leis Anticorrupção, lavagem de dinheiro, tráfico
+          de drogas e terrorismo.
+
+        1.  Caso quaisquer das declarações aqui prestadas tornem-se
+            total ou parcialmente inverídicas, incompletas ou
+            incorretas, a Emissora se compromete a notificar a
+            Debenturista em 2 (dois) Dias Úteis da data de sua
+            ocorrência.
+
+11. CLÁUSULA ONZE – PENALIDADES
+
+    1.  O inadimplemento, por qualquer das Partes, de quaisquer das
+        obrigações de pagamento em moeda corrente nacional previstas
+        nesta Escritura de Emissão de Debêntures caracterizará, de pleno
+        direito, independentemente de qualquer aviso ou notificação, a
+        mora da Parte inadimplente, sujeitando-a ao pagamento imediato
+        dos seguintes encargos pelo atraso: (i) juros de mora de 1% (um
+        por cento) ao mês, calculados pro rata temporis desde a data em
+        que o pagamento era devido até o seu integral recebimento pela
+        Parte credora; e (ii) multa convencional, não compensatória, de
+        2% (dois por cento) do valor total do pagamento em atraso.
+
+12. CLÁUSULA DOZE – COMUNICAÇÕES 
+
+    1.  Publicação na Imprensa. As decisões decorrentes desta Escritura
+        que, de qualquer forma, envolvam os interesses da Debenturista,
+        serão publicadas no jornal “Jornal de Londrina” e no Diário
+        Oficial do Estado do Paraná, ressalvadas eventuais dispensas de
+        publicação. A Emissora poderá alterar o jornal acima pelo jornal
+        adotado pela Debenturista para suas publicações societárias,
+        mediante prévia comunicação por escrito à Debenturista.
+
+    2.  Comunicações. Todas e quaisquer notificações, solicitações,
+        autorizações e pedidos nos termos desta Escritura serão
+        consideradas entregues quando enviadas aos endereços abaixo por
+        escrito, através de carta protocolada ou carta registrada ou
+        courrier, sem que seja necessária a devolução do recibo (ou
+        equivalente), apesar de apenas as comunicações encaminhadas
+        dentro dos moldes citados anteriormente serem consideradas
+        válidas para todos os efeitos legais, as Partes também se
+        obrigam a encaminhar a mesma comunicação por correio eletrônico
+        nos endereços de e-mail abaixo relacionados. Não havendo
+        informação atualizada, todas as correspondências remetidas à
+        Emissora e Instituição Custodiante, bem como os seus eventuais
+        sucessores, conforme o caso, ao endereço existente nos seus
+        registros serão, para todos os efeitos legais, consideradas
+        recebidas:
+
+(i) Para a Emissora:
+
+M.E.L HIGIENÓPOLIS PARTICIPAÇÕES SPE S.A.
+
+Avenida Ayrton Senna da Silva, nº 600, Condomínio Torre Siena, Sala
+2001-B e 2002-B, Gleba Fazenda Palhano,
+
+CEP 86050-460 – Londrina/PR
+
+At.: Andressa
+
+E-mail: andressa@montrealemp.com.br
+
+Telefone: (43) 3771-0700
+
+(ii) Para a Debenturista:
+
+HABITASEC SECURITIZADORA S.A.
+
+Avenida Brigadeiro Faria Lima, 2.894, 9º andar, cj. 92
+
+CEP 01451-902, São Paulo – SP
+
+At.: Sr. Marcos Ribeiro do Valle Neto / Controladoria e Backoffice
+
+Tel.: (11) 3074-4900
+
+E-mail: mrvalle@habitasec.com.br / monitoramento@habitasec.com.br
+
+(iii) Para as Fiadoras:
+
+MONTREAL EMPREENDIMENTOS IMOBILIÁRIOS S.A.
+
+Avenida Ayrton Senna da Silva, nº 600, Condomínio Torre Siena, Sala
+2001-A e 2002-A, Gleba Fazenda Palhano
+
+CEP 86050-460 – Londrina/PR
+
+At.: Andressa
+
+E-mail: andressa@montrealemp.com.br
+
+Telefone: (43) 3771-0700
+
+LDK EMPREENDIMENTOS E PARTICIPAÇÕES LTDA.
+
+Rua Paes Leme, nº 524, Conjunto 45, 4º andar, Sala 1, Pinheiros
+
+CEP 05424-904 – São Paulo/SP
+
+At.: Gustavo Furtado
+
+E-mail: gustavo.furtado@lock.com.br
+
+Fixo: (11) 3579-9875 (Samuel)
+
+Celular: (11) 97554-0807 (Gustavo)
+
+1.  A mudança de qualquer dos endereços acima deverá ser comunicada às
+      outras Partes pela Parte que tiver seu endereço alterado, sob pena
+      de serem considerados entregues as comunicações enviadas aos
+      endereços anteriormente indicados.
+
+13. CLÁUSULA TREZE – DISPOSIÇÕES GERAIS
+
+    1.  Não se presume a renúncia a qualquer dos direitos decorrentes da
+        presente Escritura. Desta forma, nenhum atraso, omissão ou
+        liberalidade no exercício de qualquer direito ou faculdade que
+        caiba à Debenturista em razão de qualquer inadimplemento da
+        Emissora prejudicará o exercício de tal direito ou faculdade, ou
+        será interpretado como renúncia a este, nem constituirá novação
+        ou precedente no tocante a qualquer outro inadimplemento ou
+        atraso.
+
+    2.  A presente Escritura é firmada em caráter irrevogável e
+        irretratável, salvo na hipótese de não preenchimento dos
+        requisitos relacionados na Cláusula 2 acima, obrigando as partes
+        por si e seus sucessores.
+
+    3.  Caso qualquer das disposições ora aprovadas venha a ser julgada
+        ilegal, inválida ou ineficaz, prevalecerão todas as demais
+        disposições não afetadas por tal julgamento, comprometendo-se as
+        partes, em boa-fé, a substituírem a disposição afetada por outra
+        que, na medida do possível, produza o mesmo efeito.
+
+    4.  Esta Escritura constitui o único e integral acordo entre as
+        Partes, com relação ao objeto nela previsto.
+
+    5.  As palavras e os termos constantes desta Escritura, aqui não
+        expressamente definidos, grafados em português ou em qualquer
+        língua estrangeira, bem como quaisquer outros de linguagem
+        técnica e/ou financeira, que, eventualmente, durante a vigência
+        da presente Escritura, no cumprimento de direitos e obrigações
+        assumidos por ambas as partes, sejam utilizados para identificar
+        a prática de quaisquer atos ou fatos, deverão ser compreendidos
+        e interpretados em consonância com os usos, costumes e práticas
+        do mercado de capitais brasileiro.
+
+    6.  As Partes declaram, mútua e expressamente, que a presente
+        Escritura foi celebrada respeitando-se os princípios de
+        probidade e de boa-fé, por livre, consciente e firme
+        manifestação de vontade das Partes e em perfeita relação de
+        equidade.
+
+    7.  Esta Escritura e as Debêntures constituem títulos executivos
+        extrajudiciais nos termos do artigo 784 da Lei nº 13.105, de 16
+        de março de 2015, conforme alterada (“Código de Processo
+        Civil”), reconhecendo as partes, desde já, que independentemente
+        de quaisquer outras medidas cabíveis, as obrigações assumidas
+        nos termos desta Escritura comportam execução específica,
+        submetendo-se às disposições dos artigos 815 e seguintes do
+        Código de Processo Civil, sem prejuízo do direito de declarar o
+        vencimento antecipado das Debêntures nos termos desta Escritura.
+
+    8.  As Partes concordam que a presente Escritura, poderá ser
+        alterada, sem a necessidade de qualquer aprovação dos Titulares
+        de CRI, sempre que e somente (i) quando tal alteração decorrer
+        exclusivamente da necessidade de atendimento a exigências de
+        adequação a normas legais, regulamentares ou exigências da CVM,
+        ANBIMA, da B3 e/ou demais reguladores; (ii) quando verificado
+        erro material, seja ele um erro grosseiro, de digitação ou
+        aritmético; e (iii) em virtude da atualização dos dados
+        cadastrais das Partes, tais como alteração na razão social,
+        endereço e telefone, entre outros, desde que não haja qualquer
+        custo ou despesa adicional para os Titulares de CRI.
+
+    9.  Os pagamentos referentes às Debêntures e a quaisquer outros
+        valores eventualmente devidos pela Emissora nos termos desta
+        Escritura não serão passíveis de compensação com eventuais
+        créditos da Debenturista e o não pagamento dos valores devidos
+        no prazo acordado poderá ser cobrado pela Debenturista e
+        eventuais sucessores e cessionários pela via executiva, nos
+        termos dos artigos 784 e 785 do Código de Processo Civil.
+
+    10. Tendo em vista que a celebração do presente instrumento está
+        ocorrendo durante a pandemia do coronavírus – Covid-19
+        (“Pandemia”), as Partes desde já declaram que a Pandemia, em
+        nenhuma hipótese, poderá ser alegada por qualquer das Partes
+        como (i) hipótese de caso fortuito e/ou força maior; e/ou (ii)
+        fato imprevisível nos termos dos artigos 317, 478, 479 e 480 do
+        Código Civil Brasileiro.
+
+14. CLÁUSULA QUATORZE – LEI E FORO
+
+    1.  A presente Escritura reger-se-á pelas leis brasileiras.
+
+    2.  Fica eleito o Foro da Comarca da Capital do Estado de São Paulo,
+        para dirimir quaisquer dúvidas ou controvérsias oriundas desta
+        Escritura, com renúncia a qualquer outro, por mais privilegiado
+        que seja.
+
+15. CLÁUSULA QUINZE – AUTORIZAÇÃO PARA ASSINATURA ELETRÔNICA
+
+    1.  Assinatura Eletrônica: As Partes, inclusive suas Testemunhas
+        concordam que será permitida a assinatura eletrônica da presente
+        Escritura e de quaisquer aditivos à presente, para este fim,
+        serão utilizados os serviços disponíveis no mercado e amplamente
+        utilizados que possibilitam a segurança, validade jurídica,
+        autenticidade, integridade e validade da assinatura eletrônica
+        por meio de sistemas de certificação digital capazes de validar
+        a autoria, bem como de traçar a “trilha de auditoria digital”
+        (cadeia de custódia) do documento, a fim de verificar sua
+        integridade e autenticidade, devendo, em qualquer hipótese, ser
+        emitido com certificado digital nos padrões ICP-BRASIL, conforme
+        disposto pelo Artigo 10 da Medida Provisória n 2.200/2001 em
+        vigor no Brasil. As Partes reconhecem que, independentemente da
+        forma de assinatura, essa Escritura (e seus respectivos
+        aditivos) tem natureza de título executivo extrajudicial, nos
+        termos do Artigo 784 do Código de Processo Civil.
+
+São Paulo 3 de setembro de 2020.
+
+(Página de assinaturas 1 de 4 do Instrumento Particular de Escritura da
+1ª Emissão de Debêntures, em Série Única, para Colocação Privada, Não
+Conversíveis em Ações, da Espécie com Garantia Real e com Garantia
+Adicional Fidejussória, da M.E.L Higienópolis Participações SPE S.A.,
+firmado em 3 de setembro de 2020)
+
+M.E.L HIGIENÓPOLIS PARTICIPAÇÕES SPE S.A.
+
+Emissora
+
++---------------------------------+------------------------------------+
+| ______________________________  | __________________________________ |
+|                                 |                                    |
+| Por: Andressa Castro Khouri     | Por: Eduardo Stelio Naccache       |
+| Cipriano                        | Menezes                            |
+|                                 |                                    |
+| Cargo: Diretora                 | Cargo: Diretor                     |
++---------------------------------+------------------------------------+
+
+  -----------------------------------------------------------------------
+
+  -----------------------------------------------------------------------
+
+(Página de assinaturas 2 de 4 do Instrumento Particular de Escritura da
+1ª Emissão de Debêntures, em Série Única, para Colocação Privada, Não
+Conversíveis em Ações, da Espécie com Garantia Real e com Garantia
+Adicional Fidejussória, da M.E.L Higienópolis Participações SPE S.A.,
+firmado em 3 de setembro de 2020)
+
+HABITASEC SECURITIZADORA S.A.
+
+Debenturista
+
++---------------------------------+------------------------------------+
+| ______________________________  | __________________________________ |
+|                                 |                                    |
+| Por: Marcos Ribeiro do Valle    | Por: Rodrigo Faria Estrada         |
+| Neto                            |                                    |
+|                                 | Cargo: Diretor                     |
+| Cargo: Diretor                  |                                    |
++---------------------------------+------------------------------------+
+
+(Página de assinaturas 3 de 4 do Instrumento Particular de Escritura da
+1ª Emissão de Debêntures, em Série Única, para Colocação Privada, Não
+Conversíveis em Ações, da Espécie com Garantia Real e com Garantia
+Adicional Fidejussória, da M.E.L Higienópolis Participações SPE S.A.,
+firmado em 3 de setembro de 2020)
+
+MONTREAL EMPREENDIMENTOS IMOBILIÁRIOS S.A.
+
+Fiadora
+
++----------------------------------+-----------------------------------+
+| _______________________________  |                                   |
+|                                  |                                   |
+| Por: Andressa Castro Khouri      |                                   |
+| Cipriano                         |                                   |
+|                                  |                                   |
+| Cargo: Diretora                  |                                   |
++----------------------------------+-----------------------------------+
+
+(Página de assinaturas 4 de 4 do Instrumento Particular de Escritura da
+1ª Emissão de Debêntures, em Série Única, para Colocação Privada, Não
+Conversíveis em Ações, da Espécie com Garantia Real e com Garantia
+Adicional Fidejussória, da M.E.L Higienópolis Participações SPE S.A.,
+firmado em 3 de setembro de 2020)
+
+  LDK EMPREENDIMENTOS E PARTICIPAÇÕES LTDA.
+
+  Fiadora
+
+________________________________
+
+Por: Eduardo Stelio Naccache Menezes
+
+Cargo: Administrador
+
++--------------------------------+---+---+----------------------------+---+
+| TESTEMUNHAS:                   |   |   |                            |   |
++--------------------------------+---+---+----------------------------+---+
+| Nome: Luiz Felipe de Castro    |   |   | Nome: Eric Kalil Missen    |   |
+|                                |   |   | Cipriano                   |   |
+| CPF: 221.797.578-16            |   |   |                            |   |
+|                                |   |   | CPF: 344.811.218-66        |   |
++--------------------------------+---+---+----------------------------+---+
+
+ANEXO I – CRONOGRAMA DE PAGAMENTOS DAS DEBÊNTURES
+
+  -------------------------------------------------------------------------------
+  Período:   Data de      Valor Global da  Valor        Taxa de       Pagamento
+             Pagamento    Debênture        Nominal      Amortização   de Juros?
+                                           Unitário     em relação ao 
+                                           (VNb) da     Saldo Devedor 
+                                           Debênture    (Tai)         
+  ---------- ------------ ---------------- ------------ ------------- -----------
+  Emissão    01/09/2020   R$7.250.000,00   R$1.000,00                  
+
+  1          01/10/2020   R$7.114.642,50   R$981,33     1,8668%       Sim
+
+  2          03/11/2020   R$6.978.632,50   R$962,57     1,9119%       Sim
+
+  3          01/12/2020   R$6.840.302,50   R$943,49     1,9818%       Sim
+
+  4          04/01/2021   R$6.704.437,50   R$924,75     1,9858%       Sim
+
+  5          01/02/2021   R$6.564.802,50   R$905,49     2,0824%       Sim
+
+  6          01/03/2021   R$6.421.542,50   R$885,73     2,1826%       Sim
+
+  7          01/04/2021   R$6.284.952,50   R$866,89     2,1267%       Sim
+
+  8          03/05/2021   R$6.143.360,00   R$847,36     2,2534%       Sim
+
+  9          01/06/2021   R$6.002.492,50   R$827,93     2,2935%       Sim
+
+  10         01/07/2021   R$5.860.900,00   R$808,40     2,3591%       Sim
+
+  11         02/08/2021   R$5.719.960,00   R$788,96     2,4053%       Sim
+
+  12         01/09/2021   R$5.602.147,50   R$772,71     2,0596%       Sim
+
+  13         01/10/2021   R$5.458.525,00   R$752,90     2,5636%       Sim
+
+  14         01/11/2021   R$5.312.945,00   R$732,82     2,6671%       Sim
+
+  15         01/12/2021   R$5.166.640,00   R$712,64     2,7533%       Sim
+
+  16         03/01/2022   R$5.023.235,00   R$692,86     2,7762%       Sim
+
+  17         01/02/2022   R$4.876.712,50   R$672,65     2,9168%       Sim
+
+  18         02/03/2022   R$4.727.217,50   R$652,03     3,0652%       Sim
+
+  19         01/04/2022   R$4.580.260,00   R$631,76     3,1080%       Sim
+
+  20         02/05/2022   R$4.429.460,00   R$610,96     3,2931%       Sim
+
+  21         01/06/2022   R$4.280.980,00   R$590,48     3,3522%       Sim
+
+  22         01/07/2022   R$4.130.760,00   R$569,76     3,5095%       Sim
+
+  23         01/08/2022   R$3.979.742,50   R$548,93     3,6554%       Sim
+
+  24         01/09/2022   R$3.853.737,50   R$531,55     3,1668%       Sim
+
+  25         03/10/2022   R$3.701.342,50   R$510,53     3,9543%       Sim
+
+  26         01/11/2022   R$3.547.352,50   R$489,29     4,1606%       Sim
+
+  27         01/12/2022   R$3.392.637,50   R$467,95     4,3620%       Sim
+
+  28         02/01/2023   R$3.238.720,00   R$446,72     4,5370%       Sim
+
+  29         01/02/2023   R$3.084.005,00   R$425,38     4,7776%       Sim
+
+  30         01/03/2023   R$2.925.665,00   R$403,54     5,1351%       Sim
+
+  31         03/04/2023   R$2.769.935,00   R$382,06     5,3222%       Sim
+
+  32         02/05/2023   R$2.610.217,50   R$360,03     5,7664%       Sim
+
+  33         01/06/2023   R$2.452.167,50   R$338,23     6,0544%       Sim
+
+  34         03/07/2023   R$2.292.740,00   R$316,24     6,5012%       Sim
+
+  35         01/08/2023   R$2.132.515,00   R$294,14     6,9882%       Sim
+
+  36         01/09/2023   R$1.996.360,00   R$275,36     6,3842%       Sim
+
+  37         02/10/2023   R$1.834.177,50   R$252,99     8,1229%       Sim
+
+  38         01/11/2023   R$1.671.632,50   R$230,57     8,8605%       Sim
+
+  39         01/12/2023   R$1.507.927,50   R$207,99     9,7936%       Sim
+
+  40         02/01/2024   R$1.343.425,00   R$185,30     10,9088%      Sim
+
+  41         01/02/2024   R$1.178.777,50   R$162,59     12,2575%      Sim
+
+  42         01/03/2024   R$1.012.462,50   R$139,65     14,1117%      Sim
+
+  43         01/04/2024   R$845.567,50     R$116,63     16,4823%      Sim
+
+  44         02/05/2024   R$678.310,00     R$93,56      19,7839%      Sim
+
+  45         03/06/2024   R$509.965,00     R$70,34      24,8155%      Sim
+
+  46         01/07/2024   R$340.677,50     R$46,99      33,1946%      Sim
+
+  47         01/08/2024   R$170.810,00     R$23,56      49,8578%      Sim
+
+  48         02/09/2024   R$0,00           R$0,00       100,0000%     Sim
+  -------------------------------------------------------------------------------
+
+ANEXO II - BOLETIM DE SUBSCRIÇÃO
+
+MODELO DE BOLETIM DE SUBSCRIÇÃO CONFORME PREVISTO NA CLÁUSULA 4.1.8
+DESTA ESCRITURA
+
+_____________________________________________________
+
+Boletim de Subscrição de Debêntures
+
+Nº 1
+
+Emissora
+
+  -----------------------------------------------------------------------
+  M.E.L HIGIENÓPOLIS PARTICIPAÇÕES SPE S.A, sociedade anônima, com sede
+  na Cidade de Londrina, Estado do Paraná, na Avenida Ayrton Senna da
+  Silva, nº 600, Condomínio Torre Siena, Sala 2001-B e 2002-B, Gleba
+  Fazenda Palhano, CEP 86050-460, devidamente inscrita no Cadastro
+  Nacional de Pessoas Jurídicas do Ministério da Economia (“CNPJ/ME”) sob
+  o nº 33.537.832/0001-09 e com seus atos constitutivos devidamente
+  arquivados perante a Junta Comercial do Estado do Paraná (“JUCEPAR”)
+  sob o NIRE 41.300.307.164
+  -----------------------------------------------------------------------
+
+  -----------------------------------------------------------------------
+
+Debenturista ou Subscritor
+
+  -----------------------------------------------------------------------
+  HABITASEC SECURITIZADORA S.A., sociedade anônima, com sede na Cidade de
+  São Paulo, Estado de São Paulo, na Avenida Brigadeiro Faria Lima, nº
+  2894, 9º andar, Conjunto 92, Jardim Paulistano, CEP 01451-902,
+  devidamente inscrita no CNPJ/ME sob o nº 09.304.427/0001-58 e com seus
+  atos constitutivos devidamente arquivados perante a Junta Comercial do
+  Estado de São Paulo (“JUCESP”) sob o NIRE 35.300.352.068
+  -----------------------------------------------------------------------
+
+  -----------------------------------------------------------------------
+
+Características da Emissão
+
++-----------------------------------------------------------------------+
+| Foram emitidas 7.250 (sete mil, duzentos e cinquenta) Debêntures, com |
+| valor nominal unitário de R$ 1.000,00 (mil reais) em 1º de setembro   |
+| de 2020 (“Emissão”).                                                  |
+|                                                                       |
+| A emissão dessas Debêntures se insere no contexto de uma operação de  |
+| securitização de recebíveis imobiliários que resultará na emissão de  |
+| certificados de recebíveis imobiliários aos quais o Crédito           |
+| Imobiliário será vinculado como lastro (“Operação de Securitização”). |
+|                                                                       |
+| A Emissão foi realizada e a Escritura foi celebrada com base nas      |
+| deliberações tomadas pela Assembleia Geral Extraordinária da Emissora |
+| realizada em 1º de setembro de 2020 (“AGE”), por meio da qual se      |
+| aprovou a Emissão, incluindo seus termos e condições, conforme o      |
+| disposto no artigo 59 da Lei 6.404, de 15 de dezembro de 1976,        |
+| conforme alterada (“Lei das Sociedades por Ações”).                   |
++=======================================================================+
++-----------------------------------------------------------------------+
+
+Identificação do Subscritor
+
++---------------+-------+-----+--------+---+------+----------------------+
+| Nome:         |       |     |        |   |      | Tel.:                |
+|               |       |     |        |   |      |                      |
+| HABITASEC     |       |     |        |   |      | (11) 3074-4900       |
+| S             |       |     |        |   |      |                      |
+| ECURITIZADORA |       |     |        |   |      |                      |
+| S.A.          |       |     |        |   |      |                      |
++===============+=======+=====+========+===+======+======================+
+| Endereço:     |       |     |        | E |      |                      |
+|               |       |     |        | - |      |                      |
+| Avenida       |       |     |        | m |      |                      |
+| Brigadeiro    |       |     |        | a |      |                      |
+| Faria Lima,   |       |     |        | i |      |                      |
+| 2.894, 9º     |       |     |        | l |      |                      |
+| andar, cj. 92 |       |     |        | : |      |                      |
+|               |       |     |        |   |      |                      |
+|               |       |     |        | m |      |                      |
+|               |       |     |        | r |      |                      |
+|               |       |     |        | v |      |                      |
+|               |       |     |        | a |      |                      |
+|               |       |     |        | l |      |                      |
+|               |       |     |        | l |      |                      |
+|               |       |     |        | e |      |                      |
+|               |       |     |        | @ |      |                      |
+|               |       |     |        | h |      |                      |
+|               |       |     |        | a |      |                      |
+|               |       |     |        | b |      |                      |
+|               |       |     |        | i |      |                      |
+|               |       |     |        | t |      |                      |
+|               |       |     |        | a |      |                      |
+|               |       |     |        | s |      |                      |
+|               |       |     |        | e |      |                      |
+|               |       |     |        | c |      |                      |
+|               |       |     |        | . |      |                      |
+|               |       |     |        | c |      |                      |
+|               |       |     |        | o |      |                      |
+|               |       |     |        | m |      |                      |
+|               |       |     |        | . |      |                      |
+|               |       |     |        | b |      |                      |
+|               |       |     |        | r |      |                      |
+|               |       |     |        | / |      |                      |
+|               |       |     |        | m |      |                      |
+|               |       |     |        | o |      |                      |
+|               |       |     |        | n |      |                      |
+|               |       |     |        | i |      |                      |
+|               |       |     |        | t |      |                      |
+|               |       |     |        | o |      |                      |
+|               |       |     |        | r |      |                      |
+|               |       |     |        | a |      |                      |
+|               |       |     |        | m |      |                      |
+|               |       |     |        | e |      |                      |
+|               |       |     |        | n |      |                      |
+|               |       |     |        | t |      |                      |
+|               |       |     |        | o |      |                      |
+|               |       |     |        | @ |      |                      |
+|               |       |     |        | h |      |                      |
+|               |       |     |        | a |      |                      |
+|               |       |     |        | b |      |                      |
+|               |       |     |        | i |      |                      |
+|               |       |     |        | t |      |                      |
+|               |       |     |        | a |      |                      |
+|               |       |     |        | s |      |                      |
+|               |       |     |        | e |      |                      |
+|               |       |     |        | c |      |                      |
+|               |       |     |        | . |      |                      |
+|               |       |     |        | c |      |                      |
+|               |       |     |        | o |      |                      |
+|               |       |     |        | m |      |                      |
+|               |       |     |        | . |      |                      |
+|               |       |     |        | b |      |                      |
+|               |       |     |        | r |      |                      |
++---------------+-------+-----+--------+---+------+----------------------+
+| Bairro:       | CEP:  |     | C      |   |      | UF:                  |
+|               |       |     | idade: |   |      |                      |
+| Jardim        | 0145  |     |        |   |      | SP                   |
+| Paulistano    | 1-902 |     | São    |   |      |                      |
+|               |       |     | Paulo  |   |      |                      |
++---------------+-------+-----+--------+---+------+----------------------+
+| N             | Data  |     | Estado |   |      |                      |
+| acionalidade: | de    |     | Civil: |   |      |                      |
+|               | N     |     |        |   |      |                      |
+| Brasileira    | ascim |     | N/A    |   |      |                      |
+|               | ento: |     |        |   |      |                      |
+|               | N/A   |     |        |   |      |                      |
++---------------+-------+-----+--------+---+------+----------------------+
+| Doc. de       |       | Ór  |        |   | C    |                      |
+| identidade:   |       | gão |        |   | PF/C |                      |
+|               |       | Em  |        |   | NPJ: |                      |
+| N/A           |       | iss |        |   |      |                      |
+|               |       | or: |        |   | 09   |                      |
+|               |       |     |        |   | .304 |                      |
+|               |       | N/A |        |   | .427 |                      |
+|               |       |     |        |   | /000 |                      |
+|               |       |     |        |   | 1-58 |                      |
++---------------+-------+-----+--------+---+------+----------------------+
+| Representante |       |     |        |   |      | Tel.:                |
+| Legal (se for |       |     |        |   |      |                      |
+| o caso):      |       |     |        |   |      | N/A                  |
+|               |       |     |        |   |      |                      |
+| N/A           |       |     |        |   |      |                      |
++---------------+-------+-----+--------+---+------+----------------------+
+| Doc. de       |       | Ór  |        | C |      |                      |
+| Identidade:   |       | gão |        | P |      |                      |
+|               |       | Em  |        | F |      |                      |
+| N/A           |       | iss |        | / |      |                      |
+|               |       | or: |        | C |      |                      |
+|               |       |     |        | N |      |                      |
+|               |       | N/A |        | P |      |                      |
+|               |       |     |        | J |      |                      |
+|               |       |     |        | : |      |                      |
+|               |       |     |        |   |      |                      |
+|               |       |     |        | N |      |                      |
+|               |       |     |        | / |      |                      |
+|               |       |     |        | A |      |                      |
++---------------+-------+-----+--------+---+------+----------------------+
+
+Cálculo da Subscrição
+
++---------------+---------------+------------+-----------------------+
+| Quantidade de | Série das     | Valor      | Valor de              |
+| Debêntures    | Debêntures    | Nominal    | integralização:       |
+| subscritas:   | Subscritas:   | Unitário:  |                       |
+|               |               |            | Integralização a ser  |
+| [-] ([-])     | Série Única   | R$ 1.000   | realizada na          |
+|               |               | (mil       | periodicidade e       |
+|               |               | reais)     | conforme valores      |
+|               |               |            | previstos da          |
+|               |               |            | Escritura             |
++===============+===============+============+=======================+
++---------------+---------------+------------+-----------------------+
+
+Integralização
+
++----------------------------------+-----------------------------------+
+| O Subscritor, neste ato, declara |                                   |
+| para todos os fins que conhece,  |                                   |
+| está de acordo e por isso adere  |                                   |
+| a todas as disposições           |                                   |
+| constantes deste Boletim de      |                                   |
+| Subscrição e da Escritura,       |                                   |
+| firmada, em caráter irrevogável  |                                   |
+| e irretratável, referente à      |                                   |
+| emissão privada de Debêntures da |                                   |
+| Emissora.                        |                                   |
+|                                  |                                   |
+| A integralização das Debêntures  |                                   |
+| ocorrerá na forma e              |                                   |
+| periodicidade prevista na        |                                   |
+| Escritura.                       |                                   |
++==================================+===================================+
+| Declaro, para todos os fins, (i) | Declaro, para todos os fins, (i)  |
+| estar de acordo com as condições | estar de acordo com as condições  |
+| expressas no presente Boletim de | expressas no presente Boletim de  |
+| Subscrição; (ii) ter             | Subscrição; (ii) ter conhecimento |
+| conhecimento integral, entender, | integral, entender, anuir, aderir |
+| anuir, aderir e subscrever os    | e subscrever os termos e          |
+| termos e condições previstos na  | condições previstos na Escritura; |
+| Escritura                        | e (iii) que os recursos           |
+|                                  | utilizados para a integralização  |
+| São Paulo, __ de __ de 2020.     | das Debêntures não são            |
+|                                  | provenientes, direta ou           |
+| ______________________________   | indiretamente, de infração penal, |
+|                                  | nos termos da Lei n.º 9.613, de   |
+| M.E.L HIGIENÓPOLIS PARTICIPAÇÕES | 03 de março de 1998, conforme     |
+| SPE S.A.                         | alterada.                         |
+|                                  |                                   |
+|                                  | São Paulo, __ de __ de 2020.      |
+|                                  |                                   |
+|                                  | ______________________________    |
+|                                  |                                   |
+|                                  | HABITASEC SECURITIZADORA S.A.,    |
++----------------------------------+-----------------------------------+
+| Informações Adicionais           |                                   |
+|                                  |                                   |
+| Para informações adicionais      |                                   |
+| sobre a presente emissão, os     |                                   |
+| interessados deverão dirigir-se  |                                   |
+| à Emissora e à Debenturista nos  |                                   |
+| endereços indicados abaixo:      |                                   |
+|                                  |                                   |
+| Emissora:                        |                                   |
+|                                  |                                   |
+| M.E.L HIGIENÓPOLIS PARTICIPAÇÕES |                                   |
+| SPE S.A.                         |                                   |
+|                                  |                                   |
+| Avenida Ayrton Senna da Silva,   |                                   |
+| nº 600, Condomínio Torre Siena,  |                                   |
+| Sala 2001-B e 2002-B, Gleba      |                                   |
+| Fazenda Palhano                  |                                   |
+|                                  |                                   |
+| CEP 86050-460 – Londrina/PR      |                                   |
+|                                  |                                   |
+| At.: Andressa                    |                                   |
+|                                  |                                   |
+| E-mail:                          |                                   |
+| andressa@montrealemp.com.br      |                                   |
+|                                  |                                   |
+| Telefone: (43) 3771-0700         |                                   |
+|                                  |                                   |
+| Debenturista:                    |                                   |
+|                                  |                                   |
+| HABITASEC SECURITIZADORA S.A.    |                                   |
+|                                  |                                   |
+| Avenida Brigadeiro Faria Lima,   |                                   |
+| 2.894, 9º andar, cj. 92          |                                   |
+|                                  |                                   |
+| CEP 01451-902, São Paulo – SP    |                                   |
+|                                  |                                   |
+| At.: Sr. Marcos Ribeiro do Valle |                                   |
+| Neto / Controladoria e           |                                   |
+| Backoffice                       |                                   |
+|                                  |                                   |
+| Tel.: 55 11 3074-4900            |                                   |
+|                                  |                                   |
+| E-mail: mrvalle@habitasec.com.br |                                   |
+| / monitoramento@habitasec.com.br |                                   |
++----------------------------------+-----------------------------------+
+
+ANEXO III - RECIBO DE INTEGRALIZAÇÃO DAS DEBÊNTURES
+
+MODELO DE RECIBO DE INTEGRALIZAÇÃO CONFORME PREVISTO NA CLÁUSULA 4.3.3
+DESTA ESCRITURA
+
+_____________________________________________________
+
+Recibo de Integralização de debêntures, em Série Única, para colocação
+privada, não conversíveis em ações, da espécie com Garantia Real e com
+Garantia Adicional Fidejussória, da 1ª emissão da M.E.L HIGIENÓPOLIS
+PARTICIPAÇÕES SPE S.A.
+
+Emissora
+
+  -----------------------------------------------------------------------
+  M.E.L HIGIENÓPOLIS PARTICIPAÇÕES SPE S.A, sociedade anônima, com sede
+  na Cidade de Londrina, Estado do Paraná, na Avenida Ayrton Senna da
+  Silva, nº 600, Condomínio Torre Siena, Sala 2001-B e 2002-B, Gleba
+  Fazenda Palhano, CEP 86050-460, devidamente inscrita no Cadastro
+  Nacional de Pessoas Jurídicas do Ministério da Economia (“CNPJ/ME”) sob
+  o nº 33.537.832/0001-09 e com seus atos constitutivos devidamente
+  arquivados perante a Junta Comercial do Estado do Paraná (“JUCEPAR”)
+  sob o NIRE 41.300.307.164
+  -----------------------------------------------------------------------
+
+  -----------------------------------------------------------------------
+
+Debenturista
+
+  -----------------------------------------------------------------------
+  HABITASEC SECURITIZADORA S.A., sociedade anônima, com sede na Cidade de
+  São Paulo, Estado de São Paulo, na Avenida Brigadeiro Faria Lima, nº
+  2894, 9º andar, Conjunto 92, Jardim Paulistano, CEP 01451-902,
+  devidamente inscrita no CNPJ/ME sob o nº 09.304.427/0001-58 e com seus
+  atos constitutivos devidamente arquivados perante a Junta Comercial do
+  Estado de São Paulo (“JUCESP”) sob o NIRE 35.300.352.068
+  -----------------------------------------------------------------------
+
+  -----------------------------------------------------------------------
+
+Declarações
+
++-----------------------------------------------------------------------+
+| Foram integralizadas, nesta data, [-] ([-]) debêntures emitidas nos   |
+| termos do “Instrumento Particular de Escritura da 1ª Emissão de       |
+| Debêntures, em Série Única, para Colocação Privada, Não Conversíveis  |
+| em Ações, da Espécie com Garantia Real e com Garantia Adicional       |
+| Fidejussória, da M.E.L Higienópolis Participações SPE S.A.”,          |
+| celebrado em 3 de setembro de 2020 (“Debêntures Integralizadas” e     |
+| “Escritura de Emissão de Debêntures”, respectivamente).               |
+|                                                                       |
+| A Emissora declara que recebeu o pagamento referente às Debêntures    |
+| Integralizadas, na forma prevista na cláusula 4.3.3 da Escritura de   |
+| Emissão de Debêntures.                                                |
+|                                                                       |
+| A Emissora dá-se por satisfeita para nada mais reclamar, seja a que   |
+| título for outorgando a mais plena, geral, irrevogável e irretratável |
+| quitação de todas e quaisquer obrigações oriundas das Debêntures      |
+| Integralizadas.                                                       |
++=======================================================================+
++-----------------------------------------------------------------------+
+
+São Paulo, __ de __ de 2020
+
+M.E.L HIGIENÓPOLIS PARTICIPAÇÕES SPE S.A.
+
++----------------------------------+-----------------------------------+
+| ________________________________ | ___________________________       |
++----------------------------------+-----------------------------------+
+| Nome:                            | Nome:                             |
+|                                  |                                   |
+| Cargo:                           | Cargo:                            |
++----------------------------------+-----------------------------------+
+
+ANEXO IV – DESPESAS FLAT E RECORRENTES DA EMISSÃO
+
+  -------------------------------------------------------------------------------------
+  Custos de Emissão           Agente      Alíquota ou  Tributos   Total Geral  % do
+                                          Valor                                Total
+  --------------------------- ----------- ------------ ---------- ------------ --------
+  Estruturação                Habitasec   R$ 50.000,00 12,15%     R$ 56.915,20 39,5%
+
+  Assessor Legal              Mustachi    R$ 50.000,00 0,00%      R$ 50.000,00 34,7%
+
+  Taxa de Registro de Base de ANBIMA      0,004033% do 0,00%      R$ 1.440,00  1,0%
+  Dados de CRI                            CRI                                  
+                                          (Piso: R$                            
+                                          1.440,00 |                           
+                                          Teto: R$                             
+                                          2,880,00)                            
+
+  Registro CRI                B3          0,0290% do   0,00%      R$ 5.000,00  3,5%
+                                          CRI                                  
+
+  Registro CCI                B3          0,001% das   0,00%      R$ 72,50     0,1%
+                                          CCI                                  
+
+  Custodiante – Registro da   Oliveira    R$ 3.000,00  12,15%     R$ 3.414,91  2,4%
+  CCI                         Trust                                            
+
+  Agente Fiduciário – 1a      Oliveira    R$ 19.000,00 12,15%     R$ 21.627,77 15,0%
+  Parcela                     Trust                                            
+
+  Instituição Custodiante -   Oliveira    R$ 2.000,00  12,15%     R$ 2.276,61  1,6%
+  1a Parcela                  Trust                                            
+
+  Taxa de Administração do    Habitasec   R$ 3.000,00  12,15%     R$ 3.414,91  2,4%
+  Patrimônio Separado - 1a                                                     
+  parcela                                                                      
+
+  Total                                                           R$           100%
+                                                                  144.161,90   
+
+                                                                               
+
+  Custos de Manutenção        Agente      Valor        Tributos   Total Geral  % do
+                                                                               Total
+
+  Escrituração / Manutenção   Diversos    R$ 840,00    0,00%      R$ 840,00    13,4%
+  de CC / Auditoria /                     por mês                              
+  Contabilidade / Liquidante                                                   
+  / Outros                                                                     
+
+  Taxa de Administração do    Habitasec   R$ 3.000,00  12,15%     R$ 3.414,91  54,7%
+  Patrimônio Separado                     por mês                              
+
+  Agente Fiduciário           Oliveira    R$ 19.000,00 12,15%     R$ 21.627,77 28,9%
+                              Trust       por ano                              
+
+  Custódia das CCI            Oliveira    R$ 2.000,00  12,15%     R$ 2.276,61  3,0%
+                              Trust       por ano                              
+
+  Estimativa Total Mês                                            R$ 6.246,94  100,0%
+  -------------------------------------------------------------------------------------
+
+ANEXO V – RELATÓRIO SEMESTRAL
+
+MODELO DE RELATÓRIO CONFORME PREVISTO NA CLÁUSULA 3.5.6.
+DESTA ESCRITURA DE EMISSÃO DE DEBÊNTURES
+
+Ref.: Relatório de Comprovação de Destinação de Recursos – INSTRUMENTO
+PARTICULAR DE ESCRITURA DA 1ª EMISSÃO DE DEBÊNTURES, EM SÉRIE ÚNICA,
+PARA COLOCAÇÃO PRIVADA, NÃO CONVERSÍVEIS EM AÇÕES, DA ESPÉCIE COM
+GARANTIA REAL E COM GARANTIA ADICIONAL FIDEJUSSÓRIA, DA M.E.L
+HIGIENÓPOLIS PARTICIPAÇÕES SPE S.A. (“Emissora” e “Escritura de
+Emissão”, respectivamente), lastro dos Certificados de Recebíveis
+Imobiliários da 186ª Série da 1ª Emissão da Habitasec Securitizadora
+S.A.
+
+Período: ___/___/20 até ___/___/20___
+
++-----------------------------------------------+----------------------+
+| Documento Comprobatório Anexo à presente      | Valor                |
+| declaração                                    |                      |
+|                                               | (R$)                 |
++===============================================+======================+
+|                                               |                      |
++-----------------------------------------------+----------------------+
+
+Os representantes legais da Emissora declaram neste ato, de forma
+irrevogável e irretratável, que (a) as informações aqui apresentadas são
+verídicas e (b) os recursos recebidos em virtude da integralização da
+Emissão, foram utilizados, até a presente data, para a finalidade
+prevista na Cláusula 3.5.1 da Escritura de Emissão, conforme descrito no
+presente relatório.
+
+M.E.L HIGIENÓPOLIS PARTICIPAÇÕES SPE S.A.
+
++---------------------------------+------------------------------------+
+| _____________________________   | ________________________________   |
+|                                 |                                    |
+| Por:                            | Por:                               |
+|                                 |                                    |
+| Cargo:                          | Cargo:                             |
++---------------------------------+------------------------------------+
+
+ANEXO VI – RELATÓRIO DE REEMBOLSO
+
+M.E.L HIGIENÓPOLIS PARTICIPAÇÕES SPE S.A., sociedade anônima, com sede
+na Cidade de Londrina, Estado do Paraná, na Avenida Ayrton Senna da
+Silva, nº 600, Condomínio Torre Siena, Sala 2001-B e 2002-B, Gleba
+Fazenda Palhano, CEP 86050-460, devidamente inscrita no Cadastro
+Nacional de Pessoas Jurídicas do Ministério da Economia (“CNPJ/ME”) sob
+o nº 33.537.832/0001-09 e com seus atos constitutivos devidamente
+arquivados perante a Junta Comercial do Estado do Paraná (“JUCEPAR”) sob
+o NIRE 41.300.307.164, em cumprimento ao disposto na Cláusula 3.6.1., do
+“Instrumento Particular de Escritura da 1ª Emissão de Debêntures, em
+Série Única, para Colocação Privada, Não Conversíveis em Ações, da
+Espécie com Garantia Real e com Garantia Adicional Fidejussória, da
+M.E.L Higienópolis Participações SPE S.A.”, celebrado em 3 de setembro
+de 2020 (“Debêntures”), DECLARA que os recursos recebidos em virtude da
+emissão das Debêntures, foram utilizados, até a presente data, para a
+finalidade prevista na Cláusula 3.5.1.1., da Escritura de Emissão de
+Debêntures, conforme descrito abaixo, nos termos das notas fiscais ou
+documentos equivalentes anexos ao presente relatório:
+
+  -----------------------------------------------------------------------
+  Imóvel                       Parcela destinada ao reembolso de gastos e
+                               despesas relacionados à aquisição do
+                               Imóvel
+  ---------------------------- ------------------------------------------
+                               
+
+  -----------------------------------------------------------------------
+
+Os representantes legais da Emissora declaram neste ato, de forma
+irrevogável e irretratável, que os documentos apresentados são verídicos
+e representam o direcionamento dos recursos obtidos por meio da emissão
+da CCB.
+
+São Paulo, [-] de [-] de 2020
+
+  -----------------------------------------------------------------------
+  M.E.L HIGIENÓPOLIS PARTICIPAÇÕES SPE S.A.
+  -----------------------------------------------------------------------
+  Nome: Nome:
+
+  Cargo: Cargo:
+  -----------------------------------------------------------------------
+
+ANEXO VII – DESCRIÇÃO DO IMÓVEL
+
+  ------------------------------------------------------------------------------------------------------------------------
+  Endereço        Matrícula/Situação   (%) do Valor da  Valor Total    Lastro      Data Limite Habite-se   Regime de
+                  do Registro          Oferta Restrita                             para a                  Incorporação,
+                                       alocado no                                  alocação                nos moldes da
+                                       Empreendimento                              dos                     Lei nº 4.591
+                                                                                   recursos                
+  --------------- -------------------- ---------------- -------------- ----------- ----------- ----------- ---------------
+  Avenida         Matrículas nº 66.466 60,76%           R$             Aquisição   02 de       Sim         Sim
+  Higienópolis,   e 66.467, sendo que                   7.250.000,00   pela        setembro de             
+  datas           referido terreno                                     Emissão do  2024 (para              
+  1/18/6/10 - A e está subdividido em                                  Imóvel      aquisição               
+  1/18/6/10 - B,  2 (dois) lotes,                                                  do Imóvel)              
+  da quadra 01,   sendo um com área de                                                                     
+  no Jardim       8.401,25m² e outro                                                                       
+  Canaã, próximo  com área de 1.473,57                                                                     
+  ao Iate Clube   m²                                                                                       
+  de Londrina,                                                                                             
+  com 9.874,82                                                                                             
+  m², de                                                                                                   
+  topografia                                                                                               
+  excelente e                                                                                              
+  localizado em                                                                                            
+  área nobre da                                                                                            
+  Cidade de                                                                                                
+  Londrina,                                                                                                
+  Estado do                                                                                                
+  Paraná, sem                                                                                              
+  benfeitorias                                                                                             
+
+  ------------------------------------------------------------------------------------------------------------------------
+
+ANEXO VIII – DECLARAÇÃO DA SECURITIZADORA
+
+À
+
+OLIVEIRA TRUST DTVM S.A.
+
+HABITASEC SECURITIZADORA S.A., sociedade anônima, com sede na Cidade de
+São Paulo, Estado de São Paulo, na Avenida Brigadeiro Faria Lima, nº
+2894, 9º andar, Conjunto 92, Jardim Paulistano, CEP 01451-902,
+devidamente inscrita no CNPJ/ME sob o nº 09.304.427/0001-58 e com seus
+atos constitutivos devidamente arquivados perante a Junta Comercial do
+Estado de São Paulo (“JUCESP”) sob o NIRE 35.300.352.068, neste ato
+representada na forma de seu Estatuto Social, doravante denominada,
+simplesmente como “Debenturista” ou “Securitizadora”, vem, por meio do
+presente, nesta data, declarar a que as despesas objeto de reembolso não
+estão vinculadas a qualquer outras emissão de CRI lastreados em créditos
+imobiliários na destinação, conforme definidos na Cláusula 3.5 do
+Instrumento Particular de Escritura da 1ª Emissão de Debêntures, em
+Série Única, para Colocação Privada, não Conversíveis em Ações, da
+Espécie com Garantia Adicional e com Garantia Adicional Fidejussória, da
+M.E.L Higienópolis Participações SPE S.A. (“Escritura de Emissão”).
+
+Assinatura Eletrônica: A assinatura do presente instrumento será
+efetuada de forma digital, nos padrões ICP-BRASIL, sendo reconhecida
+como forma válida, plenamente eficaz, legítima e suficiente para a
+comprovação da identidade e da validade desta declaração, em
+conformidade com o art. 107 do Código Civil e com o §2º, do art. 10 da
+Medida Provisória nº 2.200-2, de 24 de agosto de 2001.
+
+São Paulo, 3 de setembro de 2020.
+
+HABITASEC SECURITIZADORA S.A
+
++-----------------------------------+-----------------------------------+
+| Nome:                             | Nome:                             |
+|                                   |                                   |
+| Cargo:                            | Cargo:                            |
++===================================+===================================+
++-----------------------------------+-----------------------------------+

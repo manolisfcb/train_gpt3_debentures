@@ -1,0 +1,1326 @@
+[SeloServQualificados - Anbima.JPG]
+
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE CUSTÓDIA, CONTROLADORIA E
+ESCRITURAÇÃO DE COTAS DO TAPSO - FUNDO DE INVESTIMENTO EM DIREITOS
+CREDITÓRIOS NÃO-PADRONIZADOS
+
+Pelo presente Instrumento Particular, de um lado:
+
+TAPSO - FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS,
+fundo de investimento em direitos creditórios, constituído sob a forma
+de condomínio aberto, disciplinado pelas Instruções CVM n° 356 e nº 444
+e demais disposições legais e regulamentares aplicáveis, inscrito no
+CNPJ/MF sob o nº 26.287.464/0001-14, regido por seu Regulamento
+(doravante denominado “FUNDO” ou “CONTRATANTE”), e pelas disposições
+legais e regulamentares que lhe forem aplicáveis, neste ato representado
+por seu administrador OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES
+MOBILIÁRIOS S.A., com sede na Av. das Américas, nº 500, bloco 13, grupo
+205, cidade do Rio de Janeiro, Estado do Rio de Janeiro, inscrito no
+CNPJ/MF sob o nº 36.113.876/0001‑91 (“ADMINISTRADOR”);
+
+OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A., com
+sede na Av. das Américas, nº 500, bloco 13, grupo 205, cidade do Rio de
+Janeiro, Estado do Rio de Janeiro, inscrito no CNPJ/MF sob o nº
+36.113.876/0001‑91, neste ato representado na forma de seu estatuto
+social, doravante denominado “CUSTODIANTE”; e
+
+OLIVEIRA TRUST SERVICER S.A., com sede na Av. das Américas, nº 3434,
+bloco 07, sala 202, cidade do Rio de Janeiro, Estado do Rio de Janeiro,
+por meio seus representantes legais infra-assinados, inscrita no CNPJ/MF
+sob o nº 02.150.453/0001‑20; doravante denominado em conjunto com o
+CUSTODIANTE como “CONTRATADOS” ou individualmente “CONTROLADOR”;
+
+doravante denominados em conjunto “PARTES” ou individualmente “PARTE”;
+
+CONSIDERANDO QUE,
+
+(I) os CONTRATADOS são sociedades regularmente constituídas e em
+funcionamento no País, devidamente autorizados e habilitados pelo Banco
+Central do Brasil (“BACEN”) e pela Comissão de Valores Mobiliários
+(“CVM”) para prestar os serviços objeto do presente Contrato;
+
+(II) o FUNDO é um fundo de investimento em direitos creditórios não
+padronizados constituído sob a forma de condomínio fechado, sendo pela
+CVM regulado, na forma da Instrução 356/01 e da Instrução 444/06 e suas
+alterações posteriores; e
+
+(III) o CONTRATANTE pretende, sem prejuízo da responsabilidade do seu
+representante legal – o ADMINISTRADOR - e da responsabilidade do diretor
+ou sócio-gerente designado, contratar serviços de custódia fungível de
+direitos creditórios, valores mobiliários e ativos financeiros, de
+controladoria e escrituração das cotas do FUNDO, nos termos do que lhe
+faculta a legislação vigente;
+
+RESOLVEM as PARTES, entre si e de comum acordo, celebrar o presente
+Contrato de Prestação de Serviços de Custódia, Controladoria e
+Escrituração de Cotas de Fundos de Investimento em Direitos Creditórios
+Não Padronizados e Outras Avenças, doravante denominado “CONTRATO”, que
+se regerá pelas seguintes Cláusulas e condições:
+
+I.  DO OBJETO
+
+    1.  Pelo presente Contrato, os CONTRATADOS prestarão ao FUNDO, nas
+        condições previstas neste Contrato, no regulamento e na
+        legislação em vigor, os seguintes serviços relativos ao FUNDO:
+        custódia de direitos creditórios, valores mobiliários e ativos
+        financeiros e escrituração de cotas pelo CUSTODIANTE e
+        controladoria de ativos e passivos pelo CONTROLADOR.
+
+II . DOS ATIVOS
+
+1.  Para efeito do disposto no item 1.1 supra, direitos creditórios
+    significam são os direitos creditórios de tempos em tempos detidos
+    pelos Estabelecimentos Credenciados, originários de Transações de
+    Pagamento realizadas pelos Usuários-Finais com a utilização de
+    Instrumentos de Pagamento para a aquisição de bens ou serviços nos
+    Estabelecimentos Credenciados, cedidos ao FUNDO. (os “Direitos
+    Creditórios”).
+
+2.  Para efeito do referido no item 1.1 acima, são considerados valores
+    mobiliários e ativos financeiros relativos ao FUNDO, os valores
+    mobiliários e/ou ativos financeiros de propriedade do FUNDO que
+    tenham sido entregues ao CUSTODIANTE em custódia (“Ativos
+    Financeiros” e, em conjunto com os Direitos Creditórios, os
+    "Ativos").
+
+3.  Os Ativos Financeiros serão entregues ao CUSTODIANTE, na condição de
+    bens fungíveis, quando por sua natureza puderem ser considerados
+    como tais. O FUNDO terá, nesta hipótese, direito de receber Ativos
+    Financeiros em igual quantidade, espécie, classe e forma daqueles
+    que foram entregues em custódia ao CUSTODIANTE, acrescidos dos
+    frutos a eles inerentes e/ou de quaisquer valores resultantes do
+    exercício dos direitos inerentes aos Ativos Financeiros, que
+    efetivamente lhes forem atribuídos, independentemente do número de
+    ordem dos Ativos Financeiros originalmente depositados.
+
+III . DA PRESTAÇÃO DOS SERVIÇOS DE CUSTÓDIA
+
+3.1 O serviço de custódia qualificada compreende a liquidação física e
+financeira dos Ativos Financeiros, sua guarda, bem como a administração
+e informação de certos eventos associados a esses Ativos Financeiros (a
+"Custódia Qualificada"). A Custódia Qualificada compreenderá também a
+liquidação financeira de derivativos e contratos de permutas de fluxos
+financeiros (swap), bem como o pagamento, exclusivamente com recursos do
+FUNDO, dos tributos, taxas e emolumentos relativos ao serviço prestado,
+tais como, mas não limitadas a, taxa de movimentação e registro dos
+depositários e câmaras e sistemas de liquidação.
+
+1.  Na prestação dos serviços, o CUSTODIANTE ficará limitado a observar
+    apenas as instruções que lhe forem dadas pelo ADMINISTRADOR, na
+    forma deste instrumento.
+
+3.2 A liquidação consiste em:
+
+(i) Validar as informações de operações recebidas do CONTRATANTE contra
+    as informações recebidas da instituição intermediária das operações;
+
+(ii) Validar os Direitos Creditórios em relação aos critérios de
+     elegibilidade estabelecidos no regulamento do FUNDO;
+
+(iii) Informar tempestivamente às partes envolvidas de divergências que
+      impeçam a liquidação das operações;
+
+(iv) Liquidar física e/ou financeiramente os Ativos evidenciados pelo
+     instrumento de cessão de direitos e documentos comprobatórios da
+     operação, observados os termos do regulamento do FUNDO, e em
+     conformidade com as normas dos diferentes depositários e câmaras e
+     sistemas de liquidação.
+
+(v) Receber e verificar a documentação que evidencia o lastro dos
+    Direitos Creditórios, na forma estabelecida no regulamento do FUNDO.
+
+3.3 O processo de liquidação divide-se em:
+
+(i) pré-liquidação, que consiste no conjunto de procedimentos
+    preliminares adotados para garantir a liquidação física e/ou
+    financeira de operações com Ativos do FUNDO, sob a responsabilidade
+    do CUSTODIANTE, que envolve:
+
+a) Validar as informações de operações de Ativos Financeiros adquiridos
+ou alienados pelo FUNDO, recebidas do ADMINISTRADOR, contra as
+informações recebidas da instituição intermediária das operações;
+
+b) Verificar junto ao cadastro, poderes e assinaturas dos representantes
+legais, quando aplicável; e
+
+c) Conferir a posição física de Ativos Financeiros em custódia, de
+titularidade do respectivo FUNDO, quando aplicável; ed) Verificar a
+disponibilidade de recursos do FUNDO.
+
+(ii) efetivação, que consiste na liquidação física e/ou financeira
+     mediante o recebimento ou entrega de valores e/ou Ativos
+     Financeiros de titularidade do FUNDO;
+
+(iii) cobrar e receber, em nome do FUNDO, pagamentos, resgate de títulos
+      ou qualquer outra renda relativa aos títulos custodiados,
+      depositando os valores recebidos diretamente em:
+
+a)  conta de titularidade do FUNDO; ou
+
+b)  conta especial instituída pelas PARTES junto a instituições
+    financeiras, sob contrato, destinada a acolher depósitos a serem
+    efetuados pelo devedor e ali mantidos em custódia, para liberação
+    após o cumprimento de requisitos especificados e verificados pelo
+    CUSTODIANTE (escrow account);e
+
+(iv) emissão, conforme estipulado contratualmente, de documentos,
+     extratos ou relatórios que reflitam:
+
+a)  estoque de Ativos Financeiros;
+
+b)  movimentação física e financeira; e
+
+c)  recolhimento de taxas e impostos.
+
+3.4 A guarda de Ativos consiste em:
+
+(i) controlar, em meio escritural, junto aos depositários, agentes
+    escrituradores, câmaras e sistemas de liquidação ou em meio físico,
+    os Ativos Financeiros de titularidade do FUNDO;
+
+(ii) receber por meio digital, com dois dias úteis de antecedência,
+     documentação que evidencia o lastro dos Direitos Creditórios, bem
+     como verifica-la, de acordo com a forma estabelecida no regulamento
+     do FUNDO;
+
+(iii) conciliar as posições registradas junto aos depositários, agentes
+      escrituradores, câmaras e sistemas de liquidação, instituições
+      intermediárias autorizadas, bancos cobradores e/ou agente de
+      cobrança para o caso de carteira de recebíveis, mediante arquivo
+      de dados fornecido pelo ADMINISTRADOR ou por terceiros por ele
+      indicado, ou mantidas em meio físico, perante os controles
+      internos do ADMINISTRADOR;
+
+(iv) movimentar os Ativos Financeiros registrados junto aos
+     depositários, agentes escrituradores, câmaras e sistemas de
+     liquidação e instituições intermediárias autorizadas, ou mantidas
+     em meio físico, observadas as Instruções do ADMINISTRADOR ou de
+     terceiro por ele indicado;
+
+(v) fazer a custódia, administração, cobrança e/ou guarda da
+    documentação relativa aos Direitos Creditórios e demais Ativos
+    Financeiros integrantes da carteira do FUNDO, observados os termos e
+    condições definidos neste Contrato e regulamento do FUNDO; e
+
+(vi) diligenciar para que seja mantida, às suas expensas, atualizada e
+     em perfeita ordem a documentação dos Direitos Creditórios, com
+     metodologia pré-estabelecida e de livre acesso para auditoria
+     independente, agência classificadora de risco contratada pelo FUNDO
+     e órgãos reguladores, observados os seus termos e condições
+     estabelecidos no regulamento do FUNDO.
+
+3.5 O CUSTODIANTE, sob sua inteira responsabilidade, poderá contratar
+prestadores de serviços para prestar os serviços de verificação dos
+documentos que evidenciam o lastro dos Direitos Creditórios, bem como
+para efetuar a guarda desses documentos.
+
+3.6 A administração e informação de eventos consiste em:
+
+(i) monitorar continuamente as informações relativas aos eventos
+    deliberados pelos emissores de Ativos Financeiros e assegurar a sua
+    pronta informação ao ADMINISTRADOR; e
+
+(ii) receber e disponibilizar ao ADMINISTRADOR e/ou GESTOR informações
+     referentes aos eventos, relacionados aos Ativos Financeiros em
+     custódia.
+
+IV. DA ABERTURA E MOVIMENTAÇÃO DE CONTAS
+
+4.1 O CUSTODIANTE, responsável pela abertura e movimentação das contas
+do FUNDO, abrirá uma ou mais contas de custódia em nome do FUNDO (a
+“Conta Custódia”), com correspondente conta corrente para liquidação
+financeira dos Ativos Financeiros e também para a realização dos
+pagamentos/movimentações (a “Conta Corrente”), na qual, mediante prévio
+aviso ao ADMINISTRADOR, serão debitadas ou creditadas todas as
+importâncias a serem pagas ou recebidas na forma deste Contrato (CONTAS
+CORRENTES), incluindo:
+
+(i) depósitos, retiradas e transferências de Ativos Financeiros;
+(ii) atos e fatos referentes aos Ativos Financeiros custodiados que
+impliquem movimentações na Conta Corrente;
+
+(iii) transferências em decorrência da constituição de ônus ou gravames
+sobre os Ativos Financeiros custodiados;
+(iv) eventuais despesas incorridas pelo CUSTODIANTE no cumprimento de
+suas obrigações, nos termos do Contrato que sejam consideradas encargos
+do respectivo FUNDO;
+(v) quaisquer impostos, tributos ou encargos que devam, por disposição
+legal ou regulamentar, ser recolhidos pelo CUSTODIANTE em nome e por
+conta do FUNDO;
+(vi) rendimentos, amortizações e outros valores provenientes das
+aplicações e resgates dos cotistas.
+
+(vii) despesas incorridas nas CONTAS CORRENTES nos diversos sistemas de
+      liquidação;
+
+4.2 Os pagamentos acima referidos não poderão exceder ao montante
+disponível na Conta Corrente. O CUSTODIANTE, sem qualquer
+responsabilidade de sua parte, não realizará os pagamentos determinados
+pelo CUSTODIANTE se não houver saldo disponível suficiente na Conta
+Corrente do FUNDO, no momento da liquidação, e notificará o CUSTODIANTE
+de tal fato.
+
+3.  A constituição de eventuais ônus ou gravames sobre os Ativos
+    Financeiros, somente se concretizará mediante comunicação expressa
+    do ADMINISTRADOR ao CUSTODIANTE e a apresentação do documento legal
+    que autorize tal constituição.
+
+4.  As CONTAS CORRENTES somente serão movimentadas pelo CUSTODIANTE
+    mediante instrução do ADMINISTRADOR, conforme o disposto neste
+    Contrato.
+
+5.  Os Ativos Financeiros custodiados somente estarão disponíveis para
+    movimentação pelo ADMINISTRADOR após a confirmação de seu lançamento
+    na Conta Custódia, ressalvada, entretanto, a hipótese de sua
+    indisponibilidade em virtude de ônus ou gravames devidamente
+    registrados ou em decorrência de processo de exercício de direitos.
+
+6.  As despesas legais incorridas pelo CUSTODIANTE serão reembolsadas
+    pelo FUNDO, nos termos da regulamentação em vigor, desde que o
+    CUSTODIANTE tenha sido previamente autorizado pelo CONTRATANTE por
+    escrito a efetuar tais despesas.
+
+7.  As movimentações na Conta Custódia representativa dos Ativos
+    custodiados serão efetuadas pelo CUSTODIANTE no mesmo dia útil do
+    recebimento do respectivo pedido, formulado por escrito pelo
+    ADMINISTRADOR, desde que observados os horários definidos no Anexo
+    III deste Contrato.
+
+8.  No caso de descumprimento, por parte do FUNDO de qualquer dessas
+    responsabilidades ou obrigações no respectivo vencimento, o
+    CONTRATADO poderá vender ou realizar qualquer dos Ativos Financeiros
+    do FUNDO, aplicando o produto dessa venda ou realização no
+    cumprimento dessas responsabilidades e obrigações.
+
+9.  O CUSTODIANTE fornecerá ao FUNDO extratos de sua Conta Custódia:
+
+(i) sempre que solicitado;
+
+(ii) ao término de cada mês, ou
+
+(iii) uma vez por ano, no mínimo, se não houver movimentação ou
+      solicitação.
+
+      1.  A elaboração de quaisquer relatórios e/ou informes relativos
+          aos serviços objeto do presente Contrato não caracteriza para
+          os CONTRATADOS, qualquer responsabilidade em relação ao
+          enquadramento e/ou desenquadramento do FUNDO, permanecendo o
+          ADMINISTRADOR responsável, nos termos da legislação vigente,
+          pela inobservância (i) dos limites de concentração por emissor
+          e por modalidade de ativo financeiro, de composição /
+          concentração de carteira, e de concentração em fator de risco,
+          previstos na regulamentação em vigor; e (ii) aos limites e
+          vedações previstos nas normas aplicáveis ao FUNDO e o disposto
+          no seu regulamento, nos termos da legislação vigente.
+
+      3.  Os Ativos Financeiros, quando disponíveis, poderão ser
+          movimentados a qualquer tempo pelo ADMINISTRADOR. A liquidação
+          física das operações, decorrentes de vendas ou de compras,
+          será feita diretamente pelo CONTRATADO, por conta do FUNDO,
+          com as contrapartes.
+
+      4.  Caso a estrutura do FUNDO requeira contas abertas em seu nome
+          em outras instituições financeiras (“Contas Correntes
+          Externas”) e/ou outras contas abertas no CONTRATADO, além das
+          Contas de Custódia e Conta Corrente (“Outras Contas”), o
+          ADMINISTRADOR obriga-se, em nome do FUNDO, a fornecer a senha
+          de consulta e movimentação das referidas Contas abertas nessas
+          instituições financeiras, para que este último transfira os
+          valores depositados para a Conta Corrente junto ao CONTRATADO.
+
+4.12 O ADMINISTRADOR concorda com o repasse ao FUNDO dos custos pela
+abertura das CONTAS CORRENTES, bem como dos custos mensais referentes à
+movimentação nas mesmas.
+
+V . DOS SERVIÇOS DE CONTROLADORIA E ESCRITURAÇÃO
+
+1.  Os Serviços de Controladoria de Ativos e Contabilidade a serem
+    prestados pelo CONTROLADOR compreendem:
+
+(i) calcular e disponibilizar diariamente as informações ao
+    ADMINISTRADOR do valor das cotas do FUNDO e de seu patrimônio
+    líquido, detalhando o seu valor atualizado e a sua composição;
+
+(ii) observar, para o cálculo do valor da carteira, a precificação dos
+     Ativos, conforme disposto no regulamento do FUNDO e de acordo com
+     os critérios e procedimentos para registro e avaliação de títulos e
+     valores mobiliários previstos na regulamentação em vigor (tais como
+     o critério de marcação a mercado), conforme disposto no Manual de
+     Marcação a Mercado registrado pelo CONTROLADOR na ANBIMA –
+     Associação Brasileira das Entidades dos Mercados Financeiro e de
+     Capitais ("ANBIMA");
+
+(iii) disponibilizar ao ADMINISTRADOR diariamente informações
+      necessárias à gestão da carteira do FUNDO, tais como a carteira de
+      Ativos, o saldo e demonstrativo de caixa de suas movimentações, as
+      provisões das despesas, dentre outras, através dos meios de
+      comunicação estabelecidos entre as PARTES;
+
+(iv) manter em perfeita ordem toda a documentação relativa às operações
+     de carteira do FUNDO, e registrar os fatos contábeis, emitir
+     balancetes e prestar informações e atendimento de ordens de
+     autoridades judiciais, órgão regulador, ANBIMA, bolsa de valores,
+     depositários e empresas de auditorias;
+
+(v) cadastrar e atualizar periodicamente, de acordo com a informação
+    recebida do ADMINISTRADOR, a forma de tributação do FUNDO (longo ou
+    curto prazo), conforme definido no regulamento e/ou mediante
+    instrução por escrito do representante legal do FUNDO;
+
+(vi) provisionar, acompanhar e processar o pagamento das despesas do
+     FUNDO, exclusivamente com recursos disponíveis do mesmo, mediante
+     instrução do ADMINISTRADOR;
+
+(vii) processar os eventos de incorporação, cisão, transferência e
+      encerramento do FUNDO, desde que, previamente solicitado pelo
+      ADMINISTRADOR, e desde que recebido os documentos legais e
+      autorizações necessárias para tal ato.
+
+(viii) apurar e divulgar diariamente junto ao órgão regulador (CVM), e
+       se aplicável à ANBIMA, o valor das cotas e o patrimônio líquido
+       do FUNDO, em conformidade com o disposto na legislação vigente e
+       no regulamento do FUNDO, ou ainda demais informações necessárias,
+       desde que acordado e formalizado entre as PARTES, bem como as
+       informações que venham a ser eventualmente requeridas por
+       qualquer autoridade competente, desde que sejam previamente
+       informadas pelo ADMINISTRADOR, considerando o prazo mínimo de 30
+       (trinta) dias de antecedência ou prazo menor, se assim solicitado
+       pelas autoridades competentes;
+
+(ix) o envio periódico à CVM, na forma e prazos previstos na
+     regulamentação aplicável, de informes, demonstrações financeiras,
+     balancetes, demonstrativos de composição, diversificação de
+     carteira, e perfis mensais, quando aplicáveis
+
+(x) informar diretamente às Câmaras de Compensação e a Bolsa de
+    Mercadoria e Futuros, quando solicitado pelo ADMINISTRADOR, as
+    margens de garantia requeridas e da carteira do FUNDO e informar ao
+    ADMINISTRADOR as margens de garantia requeridas pelas Câmaras de
+    Compensação e pela Bolsa de Mercadoria e Futuros;
+
+(xi) quando aplicável, registrar os Ativos integrantes das carteiras do
+     FUNDO nos respectivos depositários, tais como CETIP, SELIC e
+     BOVESPA;
+
+(xii) emitir relatórios, constando posições atualizadas de Ativos, caixa
+      e cotas, para o acompanhamento contábil e demais dados de
+      controle;
+
+(xiii) efetuar os lançamentos contábeis do FUNDO, com base nas
+       informações e instruções recebidas do ADMINISTRADOR;
+
+(xiv) elaborar as Demonstrações Financeiras do FUNDO e deixá-las à
+      disposição para a publicação;
+
+(xv) atender à auditoria interna e externa, disponibilizando os
+     documentos que se fizerem necessários, prestando as informações
+     devidas;
+
+(xvi) conciliar as movimentações contábeis com as informações recebidas
+      e passadas pelo ADMINISTRADOR;
+
+(xvii) receber e guardar os documentos comprobatórios dos ativos
+       custodiados, se for o caso, observados os termos do regulamento
+       do FUNDO;
+
+(xviii) calcular, preencher a Guia de Recolhimento da União (GRU) e
+        recolher, na forma da legislação e exclusivamente com recursos
+        do FUNDO, a Taxa de Fiscalização CVM do FUNDO;
+
+(xix) disponibilizar ao ADMINISTRADOR, até o último dia útil do mês dos
+      respectivos vencimentos, os comprovantes de recolhimento da Taxa
+      de Fiscalização CVM;
+
+(xx) disponibilizar ao ADMINISTRADOR o relatório “Composição da Carteira
+     de Fundos”, nas periodicidades e forma previstas na regulamentação
+     em vigor;
+
+(xxi) acatar ordens emitidas pelo ADMINISTRADOR, exclusivamente de seus
+      representantes legais ou mandatários devidamente autorizados;
+
+(xxii) envio ao ADMINISTRADOR das informações relativas aos Direitos
+       Creditórios no formato determinado pela regulamentação em vigor,
+       para que o ADMINISTRADOR possa encaminhar ao Sistema de
+       Informações de Créditos do Banco Central do Brasil nos termos da
+       norma específica; e
+
+(xxiii) executar todas as instruções em conformidade com a legislação, o
+        regulamento do FUNDO e as práticas a elas aplicáveis, sendo
+        vedada a execução de instruções que não estejam vinculadas
+        diretamente às operações do FUNDO, e que tenham sido assim
+        verificadas pelo CONTROLADOR.
+
+        1.  Os Serviços de Escrituração de Cotas a serem prestados pelo
+            CUSTODIANTE compreendem:
+
+(i) remeter ou disponibilizar ao ADMINISTRADOR, mensalmente, extrato de
+    posição dos cotistas;
+
+(ii) receber recursos na Conta Corrente do FUNDO, em nome do cotista do
+     FUNDO, quando da integralização de suas respectivas cotas;
+
+(iii) pagar os valores referentes aos resgates/amortizações de cotas
+      dentro dos prazos estabelecidos pelo regulamento do FUNDO,
+      conforme a orientação do ADMINISTRADOR, a favor dos cotistas do
+      FUNDO;
+
+(iv) efetuar a liquidação dos eventos de emissão e resgate de cotas
+     previstos no regulamento do FUNDO (“Eventos Ordinários”), bem como
+     aqueles informados pelo ADMINISTRADOR (“Eventos Extraordinários);
+
+(v) atualizar o saldo dos cotistas;
+
+(vi) utilizar sistema que efetue o registro e a manutenção do cadastro
+     dos cotistas do FUNDO, com base em informações fornecidas pelo
+     ADMINISTRADOR;
+
+(vii) conciliar os créditos provenientes das movimentações financeiras
+      dos cotistas com a Conta Corrente; e
+
+(viii) averbar gravames que incidam sobre as cotas, quando aplicáveis.
+
+       1.  O CUSTODIANTE enviará, anualmente, ao ADMINISTRADOR, com
+           antecedência de até 15 dias do prazo disposto na legislação
+           vigente para envio das informações a Receita Federal do
+           Brasil, as informações anuais dos cotistas (rendimento
+           tributável e valor de Imposto de Renda recolhido no ano) para
+           a emissão pelo ADMINISTRADOR de Declaração de Imposto Retido
+           de Fonte (DIRF) e dos informes de rendimento dos cotistas;
+
+       2.  As informações mencionadas no item 5.3 acima serão enviadas
+           ao ADMINISTRADOR através de arquivo eletrônico, com a mesma
+           formatação e diagramação definida pela Receita Federal;
+
+       3.  O CUSTODIANTE enviará ao ADMINISTRADOR, cópia dos DARFs –
+           Documentos de Arrecadação de Receitas Federais, mensalmente,
+           até o 30º dia do mês subsequente, ao período de apuração,
+           para fins de informação na Declaração de Débitos e Créditos
+           Tributários Federais – DCTF e conciliação com a Declaração de
+           Imposto Retido na Fonte (DIRF);
+
+       4.  Com relação ao envio de informações à CVM, BACEN ou qualquer
+           órgão regulador em conformidade com a legislação vigente,
+           caso tais informações dependam de dados detidos pelo
+           ADMINISTRADOR, este se obriga a enviá-los ao CONTRATRADO com
+           a antecedência requerida pelo CUSTODIANTE para a elaboração
+           das informações a serem encaminhadas à CVM, BACEN ou qualquer
+           órgão regulador, sem qualquer responsabilidade do CUSTODIANTE
+           na hipótese em que não receber os dados do ADMINISTRADOR em
+           tempo hábil para a preparação dos documentos.
+
+VI. DAS OBRIGAÇÕES DO ADMINISTRADOR
+
+6.1 O ADMINISTRADOR obriga-se a:
+
+(a) contratar auditor independente para auditar as demonstrações
+    financeiras e os relatórios de análise do FUNDO, a serem remetidos
+    às autoridades fiscalizadoras, bem como para elaborar as
+    demonstrações contábeis (movimentação da evolução do patrimônio
+    líquido e composição e diversificação das aplicações) e notas
+    explicativas do FUNDO;
+
+(b) providenciar as demonstrações financeiras do FUNDO, podendo
+    contratar, sob sua responsabilidade, terceiros para elaborá-las;
+
+(c) realizar, nos termos da legislação aplicável, o apreçamento e a
+    provisão dos ativos cujo apreçamento não seja de responsabilidade
+    dos CONTRATADOS ;
+
+(d) fornecer aos CONTRATADOS o preço dos ativos sob sua responsabilidade
+    para que os CONTRATADOS possa prestar os demais serviços de
+    controladoria;
+
+(e) colocar à disposição dos CONTRATADOS todas as informações
+    necessárias para a execução dos serviços ora contratados, incluindo:
+
+(f) quando solicitado pelo CONTRATADOS, enviar (i) o demonstrativo
+    trimestral previsto no artigo 8º § 3º da Instrução CVM 356, na mesma
+    data de envio à CVM, para que seja colocado à disposição da empresa
+    de auditoria; (ii) o relatório de atualização de classificação de
+    risco do FUNDO, dos Direitos Creditórios e dos demais ATIVOS
+    integrantes da carteira do FUNDO após a sua realização pela agência
+    classificadora de risco;
+
+(g) efetuar o lançamento das aplicações em nome do cotista que depositou
+    os recursos nas CONTAS CORRENTES do FUNDO;
+
+(h) efetuar o cálculo do valor a ser amortizado em relação ao principal
+    e juros dos Direitos Creditórios integrantes da carteira do FUNDO,
+    conforme a classe da cota, e prestar ao CONTRATADOS as informações
+    relativas aos valores decorrentes desse cálculo, nas respectivas
+    datas de pagamento das amortizações.
+
+(i) manter as CONTAS CORRENTES do FUNDO com saldo disponível suficiente,
+    com antecedência mínima de 1 (um) dia útil, para o CONTRATADO
+    realizar, em nome do FUNDO, os pagamentos determinados pelo
+    ADMINISTRADOR, sob pena de não ocorrem, isentando-se o CONTRATADOS
+    de qualquer responsabilidade nessa hipótese;
+
+(j) atuar de forma a verificar a origem e natureza dos recursos dos seus
+    clientes e investidores do FUNDO, observando-se a legislação
+    relativa à prevenção dos crimes e práticas ilícitas de lavagem de
+    dinheiro, incluindo a verificação de todos os clientes e
+    investidores dos FUNDOS, com as listas da US OFAC, UN Sanctions e EU
+    Sanctions. O CONTRATADO não será responsável pela origem ou natureza
+    dos recursos dos clientes e/ou investidores do FUNDO, podendo ser
+    ressarcido dos prejuízos, inclusive perdas e danos, daí decorrentes;
+    e
+
+(k) assumir integral responsabilidade pela obtenção, regularidade,
+    atualização e guarda da documentação cadastral dos seus clientes,
+    conforme legislação vigente.
+
+6.2 O ADMINISTRADOR deverá, eventualmente, para que os serviços ora
+contratados sejam prestados, fornecer documentos e informações
+complementares a este contrato ou atuar perante os detentores de tais
+documentos e informações para que o CONTRATADOS os receba
+tempestivamente.
+
+3.  O ADMINISTRADOR adotará, a expensas e em nome do FUNDO, as medidas
+    judiciais e extrajudiciais necessárias à proteção dos ATIVOS e dos
+    recursos financeiros do FUNDO que venham a ser objeto de litígio ou
+    reivindicação por terceiros.
+
+4.  O CUSTODIANTE realizar os pagamentos determinados pelo ADMINISTRADOR
+    se houver, no momento da liquidação da operação, saldo disponível
+    suficiente nas CONTAS CORRENTES do respectivo FUNDO, observado o
+    disposto acima.
+
+5.  Conforme as normas e regulamentos editados pelo BACEN, o
+    ADMINISTRADOR deverá enviar diariamente ao CUSTODIANTE informações
+    relativas à prévia de utilização de reserva e posição definitiva de
+    utilização de reserva.
+
+1.  Se o ADMINISTRADOR não respeitar os horários limites definidos, as
+    operações que ficarem pendentes somente serão liquidadas, se
+    possível, com autorização do responsável pelo controle de reserva,
+    também indicado no Anexo II.
+
+    1.  Os CONTRATADOS não se responsabilizam pelos eventuais prejuízos,
+        sofridos pelo ADMINISTRADOR, e seus clientes, ou terceiros,
+        decorrentes da não concretização da operação, exceto se
+        decorrente de falhas comprovadas na prestação de seus serviços.
+
+2.  Independentemente do disposto acima, nos dias de cálculo de média de
+    reserva bancária perante o BACEN, previamente informados ao
+    ADMINISTRADOR, não serão tolerados atrasos ou falhas no envio das
+    informações, sob pena de inexecução das operações.
+
+3.  Na hipótese de vícios de qualidade, atrasos ou falhas no
+    fornecimento das informações a respeito de utilização de reserva que
+    venham a resultar na aplicação de penalidades pelo BACEN, o valor
+    dessas penalidades será pago integralmente pelo ADMINISTRADOR.
+
+Os CONTRATADOS reservam-se no direito de repassar ao ADMINISTRADOR os prejuízos devidamente comprovados da perda do custo de oportunidade associado a não utilização ou utilização a menor da reserva pelo ADMINISTRADOR. 
+
+7. PROCEDIMENTOS OPERACIONAIS
+
+7.1. Com relação às CONTAS CORRENTES e de CUSTÓDIA:
+
+(a) os registros das CONTAS CORRENTES e de CUSTÓDIA indicarão, sempre
+    que possível em decorrência da legislação ou natureza dos
+    investimentos, os recursos financeiros e ATIVOS pertencentes a cada
+    FUNDO.
+
+(b) os recursos e os ATIVOS do FUNDO deverão estar sempre segregados dos
+    valores mobiliários e recursos financeiros pertencentes ao próprio
+    CUSTODIANTE ou a outros clientes dele.
+
+7.2. Os horários e procedimentos estabelecidos neste contrato, no Anexo
+II, Anexo IV e Anexo V poderão ser alterados pelo CUSTODIANTE nas
+seguintes hipóteses:
+
+(a) modificação de horários e procedimentos pelo BACEN, CVM ou sistemas
+    de liquidação e custódia em que os ATIVOS sejam mantidos, a respeito
+    do que o ADMINISTRADOR será imediatamente comunicado, devendo as
+    partes adaptar suas rotinas dentro do prazo estipulado por essas
+    autoridades e sistemas; e/ou
+
+(b) modificação de horários e procedimentos internos do CUSTODIANTE, a
+    seu critério, a respeito do que o ADMINISTRADOR será comunicado, por
+    escrito, com antecedência de 10 (dez) dias.
+
+VIII . DA REMUNERAÇÃO
+
+1.  Pela prestação dos serviços ora contratados, o FUNDO pagará aos
+    CONTRATADOS a taxa definida no Anexo I deste Contrato, nas condições
+    ali descritas.
+
+2.  O não pagamento dos valores referentes à remuneração prevista no
+    Anexo I deste contrato nas condições ali estabelecidas, sujeitará o
+    FUNDO ao pagamento do valor devido, acrescido cumulativamente do
+    seguinte: (i) Juros de mora sobre os valores vencidos , por dia de
+    atraso, calculados à taxa de 12% ( doze por cento ) ao ano; (ii)
+    multa contratual de 2% (dois por cento ) do valor devido,
+    independentemente de qualquer aviso ou notificação judicial ou
+    extrajudicial.
+
+3.  Na hipótese de extinção deste Contrato, a remuneração aqui prevista
+    deverá ser apurada proporcionalmente até a data do efetivo
+    encerramento da prestação deste serviço.
+
+IX . DA TRANSMISSÃO DE INSTRUÇÕES
+
+9.1 As instruções, avisos, ordens e comunicações a serem trocadas entre
+o ADMINISTRADOR e os CONTRATADOS referentes aos serviços prestados no
+âmbito deste Contrato (“Instruções”) deverão ser realizadas,
+observando-se o disposto nos capítulos abaixo.
+
+9.2 Observados os horários descritos no Anexo II deste Contrato, os
+CONTRATADOS deverãoS acatar todas e quaisquer Instruções transmitidas
+pelo ADMINISTRADOR no próprio dia útil ao do recebimento da respectiva
+solicitação. Após o horário indicado no Anexo II, o sistema de Custódia
+ficará indisponível para envio de Instruções.
+
+9.3 As Instruções recebidas em desacordo com os horários definidos no
+Anexo II não serão processadas e uma nova Instrução deverá ser reenviada
+no dia útil subsequente.
+
+9.4 Em caráter excepcional, os CONTRATADOS poderá acatar, a seu
+exclusivo critério, determinada Instrução em desacordo com o horário
+definido no Anexo II, sendo certo que tal hipótese não implicará
+aceitação, por parte do CONTRATADO, de outras Instruções enviadas em
+desacordo com os horários definidos no Anexo II.
+
+9.5 OS CONTRATADOS observarão estritamente as Instruções a ele
+transmitidas pelo ADMINISTRADOR, não sendo responsabilizado por qualquer
+ato decorrente do estrito cumprimento de tais Instruções, inclusive nos
+casos de eventual transmissão incorreta ou incompleta, ou ainda em
+desacordo com os horários operacionais estabelecidos no Anexo II.
+
+9.6 OS CONTRATADOS poderão solicitar confirmação de eventuais ordens
+incomuns ou atípicas, não estando, no entanto, obrigado a fazê-lo, desde
+que comunique o ADMINISTRADOR imediatamente após o recebimento das
+referidas ordens.
+
+9.7 Para o cumprimento dos serviços estabelecidos no presente Contrato,
+o ADMINISTRADOR deverá enviar ou confirmar as Instruções aos
+CONTRATADOS, obedecendo aos horários estabelecidos no Anexo II.
+
+X . DO PROCESSAMENTO DAS INSTRUÇÕES
+
+10.1 Para a transmissão das Instruções, as PARTES admitem a utilização
+de sistemas eletrônicos (Internet ou correio eletrônico (e-mail))
+ajustados e aprovadas pelas partes.
+
+10.2 O ADMINISTRADOR autoriza, desta forma, o processamento pelos
+CONTRATADOS de todas as Instruções por sistema disponibilizado pelos
+CONTRATADOSS, em layout a ser pré-definido (“Sistema de Custódia”).
+
+10.3 As PARTES compreendem e aceitam que o Sistema de Custódia poderá,
+de tempos em tempos, não estar disponível por qualquer motivo, sendo
+certo que, nessa hipótese, as Instruções deverão ser fornecidas por meio
+de arquivos eletrônicos (layout pré-definido pelos CONTRATADOS nos
+procedimentos de contingência) para a inclusão nos sistemas dos
+CONTRATADOS, sendo que, na impossibilidade de realização desse
+procedimento por qualquer motivo, as Instruções poderão excepcionalmente
+ser fornecidas através de e-mail, ou por outro meio previamente aprovado
+pelas PARTES.
+
+10.4 As PARTES declaram estar cientes do risco da utilização do correio
+eletrônico, por não ser considerado meio de transmissão seguro, não
+sendo os CONTRATADOS responsabilizado por qualquer erro, declarações
+falsas, intervenções não autorizadas por parte de terceiros e/ou uso
+fraudulento.
+
+10.5 Todas as Instruções fornecidas ou efetuadas por correio eletrônico,
+de acordo com o previamente exposto, inclusive em relação aos horários,
+devem conter todas as informações necessárias para o processamento da
+operação específica. As informações enviadas por correio eletrônico
+deverão ser enviadas pelos Usuários Autorizados do ADMINISTRADOR.
+
+10.6 Aos CONTRATADOS serão reservados os direitos, desde que previamente
+comunicado ao ADMINISTRADOR e desde que razoavelmente justificado, de
+(i) recusar-se a acatar quaisquer Instruções fornecidas ou efetuadas
+pelo Sistema de Custódia, arquivo eletrônico (layout pré-definido),
+e-mail e (ii) solicitar uma confirmação da Instrução devidamente
+assinada, acompanhada do documento no original pertinente. Nesses casos,
+o CONTRATADO deverá comunicar o ADMINISTRADOR imediatamente sobre a
+recusa no cumprimento da Instrução ou da confirmação.
+
+XI . USUÁRIOS AUTORIZADOS
+
+11.1 O acesso ao Sistema de Custódia é restrito a pessoas designadas
+pelo ADMINISTRADOR (“Usuários Autorizados”). Somente Usuários
+Autorizados poderão acessar as informações do FUNDO, enviar Instruções,
+ou realizar quaisquer atos relacionados às Instruções.
+
+11.2 OS CONTRATADOS somente processarão as Instruções recebidas dos
+Usuários Autorizados que tenham acesso ao Sistema de Custódia.
+
+11.3 O ADMINISTRADOR reconhece que somente os Usuários Autorizados
+poderão enviar as Instruções aos CONTRATADOS e que tal autorização
+vigorará até a formalização da comunicação da revogação do mandato ou da
+ocorrência de qualquer situação de extinção deste Contrato, que se dará
+nos termos deste Contrato.
+
+11.4 Toda e qualquer alteração do presente Contrato e seus Anexos
+somente terá validade se promovida de comum acordo entre as PARTES, por
+meio de aditamento devidamente assinado pelas PARTES, com exceção das
+inclusões e exclusões dos Usuários Autorizados, que serão admitidas como
+válidas mediante comunicação unilateral, por escrito, do ADMINISTRADOR.
+
+11.5 O ADMINISTRADOR declara-se, respectivamente, cientes de que são de
+sua inteira responsabilidade as Instruções enviadas utilizando as senhas
+dos Usuários Autorizados e que os CONTRATADOS executarão todos os
+processos e lançamentos a elas correspondentes nos termos previstos
+neste Contrato. O ADMINISTRADOR declara e garante aos CONTRATADOS que o
+envio de tais Informações pelos Usuários Autorizados está de acordo com
+os respectivos atos constitutivos, constituindo instruções válidas,
+legais e vinculativas do ADMINISTRADOR.
+
+XII. CONFIDENCIALIDADE
+
+12.1 As PARTES obrigam-se a guardar sigilo com relação às informações
+confidenciais adquiridas por força do presente Contrato, durante e após
+sua vigência. São informações confidenciais todos os documentos e
+informações relativos ao FUNDO, aos cotistas deste, aos negócios das
+PARTES que não sejam de conhecimento público, tais como, a título
+exemplificativo, custos, lucros, produtos, serviços, preços, lista de
+clientes, lista de fornecedores, know-how, técnicas de produção e
+estratégias de mercado e de gestão e administração do FUNDO.
+
+12.2 Sem prejuízo do disposto acima, os CONTRATADOS poderão prestar
+informações aos órgãos reguladores e judiciais quando e se solicitadas
+por estes no âmbito de suas respectivas atribuições legais, devendo os
+CONTRATADOS, nesses casos, comunicar o ADMINISTRADOR sobre o envio
+destas informações confidenciais aos órgãos reguladores ou judiciais.
+
+12.3 Todas as PARTES se comprometem a não fazer qualquer tipo de
+publicidade envolvendo o nome das demais PARTES sem prévia anuência por
+escrito destas, ficando autorizado o uso do nome e logo das PARTES nos
+documentos do FUNDO.
+
+XIII . DA SENHA DE ACESSO
+
+13.1 A senha de acesso ao Sistema de Custódia será fornecida ao
+ADMINISTRADOR, e/ou a outros Usuários Autorizados, mediante procedimento
+efetuado pelos CONTRATADOS.
+
+13.2 Após o cadastramento da senha, os CONTRATADOS informarão ao
+ADMINISTRADOR o login de usuário que, digitado em conjunto com a senha
+de acesso permitirá o acesso ao Sistema de Custódia.
+
+13.3 É de exclusiva responsabilidade dos respectivos Usuários
+Autorizados o sigilo da senha recebida, para o uso dos serviços
+referente a Custódia dos CONTRATADOS bem como seu uso em qualquer
+transação efetuada diretamente ou por seu representante, não cabendo aos
+CONTRATADOS, a responsabilidade por eventuais danos decorrentes de uso
+indevido da senha, ainda que por terceiros.
+
+XIV RESPONSABILIDADES GERAIS RELACIONADAS AOS SERVIÇOS DE CUSTÓDIA
+
+14.1 Cada PARTE tem sua própria responsabilidade nos termos da
+legislação vigente e responderá pelas atribuições que lhes forem
+definidas por força deste Contrato e nos termos da lei, inclusive por
+erros ou irregularidades, bem como perdas ou danos comprovados e
+resultantes de culpa, dolo ou fraude relativos aos serviços prestados no
+âmbito deste Contrato.
+
+14.2 OS CONTRATADOs não respondem, em nenhuma hipótese, pela gestão dos
+Ativos Financeiros ou dos demais ativos entregues em custódia.
+
+14.3 O ADMINISTRADOR é responsável, perante os CONTRATADOS, pela
+legitimidade, autenticidade, e, quando for o caso, boa circulação dos
+Ativos Financeiros por ela entregues em custódia. Na hipótese de não
+cumprimento de quaisquer obrigações por parte do ADMINISTRADOR,
+relativas à aquisição dos Ativos Financeiros que serão entregues em
+custódia ao CUSTODIANTE, inclusive o pagamento do correspondente preço
+de aquisição, os CONTRATADOS não responderão perante o ADMINISTRADOR, ou
+perante terceiros pelo não recebimento ou pela falta de registro dos
+referidos Ativos Financeiros.
+
+14.4 Na hipótese de não serem disponibilizadas tempestivamente quaisquer
+alterações ou determinações, por parte do ADMINISTRADOR, relativas à
+forma de tributação do FUNDO (longo ou curto prazo), ou, ainda,
+alterações relacionadas ao regulamento do FUNDO, os CONTRATADOS não
+responderão perante o ADMINISTRADOR ou perante os órgãos reguladores,
+autoridades judiciais ou ainda quaisquer terceiros, pelos prejuízos ou
+consequências da não atualização ou pela falta de registro das referidas
+alterações ou determinações, cabendo única e exclusivamente ao
+ADMINISTRADOR o dever de indenizar a parte prejudicada e arcar com
+quaisquer despesas relacionadas.
+
+14.5 O ADMINISTRADOR será responsável, ainda, por todos os Ativos
+Financeiros que não tenham sido inequivocamente entregues em custódia ao
+CUSTODIANTE nos termos deste Contrato.
+
+14.6 O FUNDO obriga-se perante o CUSTODIANTE a prover previamente todos
+os recursos necessários às liquidações das operações envolvendo os
+Ativos Financeiros no próprio dia em que tais operações forem
+liquidadas, devendo formular e enviar por escrito, ao CUSTODIANTE, toda
+e qualquer Instrução nesse sentido.
+
+14.7 A não disponibilização prévia dos recursos líquidos e disponíveis,
+dentro do prazo previsto neste instrumento eximirá o CUSTODIANTE de
+liquidar a operação, responsabilizando-se o FUNDO pelas obrigações
+assumidas com a sua contraparte.
+
+14.8 O CUSTODIANTE não responderá por quaisquer eventos que possam
+ocorrer com os Ativos Financeiros ou demais ativos do FUNDO por ele
+custodiados, em decorrência de caso fortuito ou de força maior, em
+conformidade com o disposto nos artigos 393 e 642 do Código Civil.
+
+14.9 Eventuais prejuízos causados aos cotistas pelos CONTRATADOS em
+virtude de condutas contrárias à lei, ao regulamento e aos atos
+normativos expedidos pela CVM serão imputados solidariamente com o
+ADMINISTRADOR.
+
+XV . DAS INFRAÇÕES E PENALIDADES
+
+15.1 A infração de qualquer cláusula deste Contrato obriga a PARTE
+inadimplente a indenizar a PARTE prejudicada, no montante do prejuízo
+comprovadamente causado.
+
+15.2 Sem prejuízo da indenização devida em caso de inadimplemento de
+qualquer uma das cláusulas do presente Contrato, a PARTE prejudicada
+poderá exigir da PARTE inadimplente a execução específica da obrigação
+devida.
+
+15.3 O dever de indenização previsto nesta cláusula, obriga além das
+PARTES, seus administradores e prepostos.
+
+XVI . DO MANDATO
+
+16.1 O ADMINISTRADOR, pelo presente Contrato, outorga aos CONTRATADOS
+poderes específicos para praticar todos os atos necessários à prestação
+dos serviços ora contratados, podendo representá-lo, bem como o FUNDO,
+perante todas e quaisquer companhias, entidades públicas ou privadas,
+notadamente as emissoras e/ou devedoras ou coobrigadas pelos Ativos
+Financeiros custodiados, assim como perante caixas de registro e
+liquidação, bolsas de valores dos diversos estados e/ou regiões do País,
+incluindo a assinatura de declarações de propriedade, requerimentos para
+recebimento de quaisquer importâncias ou valores relativos aos Ativos,
+recebimento e outorga de quitação.
+
+16.2 Independentemente do disposto no item acima, o ADMINISTRADOR,
+sempre que solicitado pelos CONTRATADOS, se obriga a outorgar mandatos
+específicos, em favor deste último, necessários à prestação dos serviços
+ora contratados.
+
+XVII . DO PRAZO E DA RESCISÃO
+
+17.1 O presente Contrato vigorará por prazo indeterminado, sendo
+facultada sua resilição, por qualquer das PARTES, mediante aviso prévio,
+por escrito, com antecedência mínima de 90 (noventa) dias. Findo o
+prazo, o CUSTODIANTE transferir os Ativos Financeiros à nova instituição
+a ser indicada e disponibilizará toda e qualquer informação necessária à
+correta transferência dos serviços objeto deste Contrato. Os CONTRATADOS
+permanecerão responsáveis pelos serviços objeto deste Contrato até a
+efetiva transferência dos Ativos Financeiros à nova instituição
+contratada pelo FUNDO, observado o prazo acima e sendo certo que, após
+decorrido o prazo acima, os CONTRATADOS estarão desobrigados a prestar
+os serviços objeto deste Contrato, hipótese em que o ADMINISTRADOR será
+responsável por quaisquer danos que possam ser causados a quaisquer
+terceiros (incluindo, mas não se limitando aos cotistas do FUNDO) em
+decorrência do encerramento da prestação dos serviços objeto deste
+Contrato.
+
+17.2 Poderá ser rescindido o presente Contrato de imediato,
+independentemente de interpelação judicial ou extrajudicial em qualquer
+das seguintes hipóteses:
+
+i.  Se for requerida recuperação judicial, extrajudicial, intervenção,
+    liquidação, regime de administração especial ou falência de qualquer
+    das PARTES;
+
+ii. Se qualquer declaração falsa for prestada ou qualquer documento
+    falso for apresentado por qualquer das PARTES;
+
+iii. Não cumprimento por qualquer das PARTES de qualquer obrigação
+     prevista neste Contrato, que não tenha sido sanada no prazo de 2
+     (dois) dias úteis, contados na notificação de descumprimento pela
+     outra PARTE;
+
+iv. superveniência de lei, regulamentação e/ou instrução das autoridades
+    competentes, notadamente CVM e Banco Central, que impeçam ou
+    modifiquem a natureza, termos ou condições deste contrato;
+
+v.  descredenciamento do ADMINSTRADOR ou dos CONTRATADOS para o
+    exercício da atividade prevista neste contrato, por decisão da CVM;
+
+vi. O não fornecimento da documentação comprobatória dos direitos
+    creditórios a serem adquiridos pelo FUNDO, na forma e prazos
+    previstos no Regulamento.
+
+XVIII . DA PREVENÇÃO À LAVAGEM DE DINHEIRO
+
+18.1 O ADMINISTRADOR deverá adotar os procedimentos descritos na
+legislação sobre prevenção e combate ao crime de lavagem de dinheiro,
+especialmente: Lei nº 9.613/98, na Resolução nº 2025/93 do Conselho
+Monetário Nacional, Circular nº 3461/09 do Banco Central do Brasil e na
+Instrução nº 301/99 da Comissão de Valores Mobiliários, para garantir
+que seus clientes não utilizem os serviços prestados pelso CONTRATADOS
+para cometer crimes de lavagem de dinheiro. Para tanto, o ADMINISTRADOR
+afirma e declara que adota procedimentos de prevenção relacionados à
+captação de clientes, incluindo a verificação da sua capacidade
+financeira e patrimonial e que monitora as transações realizadas, bem
+como mantêm sua documentação cadastral devidamente atualizada.
+
+18.2 O ADMINISTRADOR se responsabiliza por quaisquer atos de seus
+clientes que tenham sido realizados em virtude do descumprimento pelo
+ADMINISTRADOR das normas sobre prevenção e combate ao crime de lavagem
+de dinheiro e que sejam interpretados pelas autoridades competentes como
+infração pelo ADMINISTRADOR à legislação citada acima.
+
+XIX - OBRIGAÇÕES FATCA
+
+17
+
+19.1 Definições:
+
+(a) FATCA: Foreign Account Tax Compliance Act, legislação dos E.U.A.
+objeto do Capítulo 4, do Internal Revenue Code e acordos internacionais
+ocasionalmente firmados pelo Brasil relativos ao reporte automático de
+informações sobre contas financeiras, bem como legislação correlata;
+
+(b) GIIN: Número de Identificação de Intermediário Global, Global
+Intermediary Identification Number, fornecido pelas autoridades fiscais
+dos E.U.A. mediante registro no portal FATCA; e
+
+(c) Pessoa dos EUA: pessoa física ou jurídica residente para fins
+fiscais nos E.U.A., cidadã ou nacional dos E.U.A. bem como entidade com
+controladores ou titulares substanciais que são pessoa física residente
+para fins fiscais nos E.U.A., cidadã ou nacional dos E.U.A.
+
+19.2 O ADMINISTRADOR obriga-se a:
+
+(a) empregar toda a diligência necessária para identificar o(s)
+cotista(s) que seja(m) Pessoa(s) dos EUA ou venham a se tornar Pessoa
+dos EUA durante a vigência deste contrato, para atendimento da
+legislação brasileira aplicável bem como para identificação da
+qualificação FATCA dos cotistas do FUNDO;
+
+(b) caso o(s) cotista(s) seja(m) identificado(s) como Pessoa(s) dos EUA,
+fazer todos os reportes em relação o(s) cotista(s) exigidos pela FATCA
+aos órgãos e autoridades competentes americanos ou brasileiros, nos
+termos da referida regulamentação e dentro dos limites de eventuais
+acordos ou tratados internacionais a respeito do assunto, celebrados
+pelo Brasil;
+
+(c) encaminhar aoa CONTRATADOS termo, declarando formalmente o
+cumprimento das obrigações de reporte às autoridades competentes
+previstas na alínea supra;
+
+(d) avisar previamente aos CONTRATADOS, se, por qualquer motivo, tenha
+intenção de rescindir a adesão à FATCA;
+
+(e) avisar imediatamente aos CONTRATADOS se, por qualquer motivo, tenha
+conhecimento de processo instaurado contra si por autoridade
+fiscalizadora competente que possa acarretar a rescisão da adesão à
+FATCA.
+
+19.3 O ADMINISTRADOR declara para todos os fins legais no Brasil e no
+exterior, sob as penas da lei, que ele e nenhum de seus prepostos,
+corretores, ou agentes assessoraram quaisquer investidores a evitar a
+aplicação do FATCA ou a evitar a identificação de contas ou
+investimentos para fins de FATCA.
+
+19.4 O CONTRATADO obriga-se a:
+
+(a) avisar previamente o ADMINISTRADOR, se, por qualquer motivo, tenha
+intenção de rescindir a adesão à FATCA; e
+
+(b) avisar imediatamente o ADMINISTRADOR se, por qualquer motivo, tenha
+conhecimento de processo instaurado contra si por autoridade
+fiscalizadora competente que possa acarretar a rescisão da adesão à
+FATCA.
+
+XX . DAS DISPOSIÇÕES FINAIS
+
+20.1 Qualquer tolerância ou concessão de uma das PARTES na observância
+dos termos do presente Contrato é mera liberalidade, não constituindo,
+em hipótese alguma, novação ou precedente aplicável a este Contrato.
+
+20.2 Os direitos e obrigações relativos ao presente Contrato não poderão
+ser cedidos e transferidos por qualquer das PARTES sem o consentimento
+da outra PARTE.
+
+20.3 Os CONTRATADOS declaram e garantem que possuem plano de
+continuidade de negócios em situações de contingência que assegure, (i)
+ambiente alternativo para processamento dos serviços objeto deste
+Contrato, com equipamentos adequados e (ii) acesso a dados e informações
+que permitam a ativação e continuidade do processamento desses serviços.
+
+20.4 As PARTES arcarão com os tributos e contribuições incidente sobre o
+objeto do presente Contrato na forma da legislação em vigor.
+
+20.5 Qualquer alteração, aditivo ou modificação deste contrato deverá
+ser feita por escrito e assinada entre as partes.
+
+20.6 Em função da assinatura deste contrato, ficam revogados, para todos
+os efeitos legais, quaisquer outros documentos ou instrumentos firmados
+com o mesmo objetivo.
+
+Este Contrato de Prestação de Serviços é celebrado em 2 (duas) vias de
+igual teor e forma, na presença de 2 (duas) testemunhas adiante
+qualificadas, que também o assinam.
+
+O presente Contrato é regido pelas leis da República Federativa do
+Brasil, ficando desde já eleito o foro da Comarca da Capital do Estado
+do Rio de Janeiro, com exclusão de qualquer outro, por mais privilegiado
+que seja, para dirimir quaisquer dúvidas e/ou controvérsias oriundas
+deste Contrato.
+
+Rio de Janeiro, 29 de dezembro de 2016
+
+_____________________________________________________
+
+TAPSO - FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS,
+neste ato representado por seu administrador a OLIVEIRA TRUST
+DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S/A
+
+_____________________________________________________________________
+
+OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S/A
+
+____________________________________________________________
+
+OLIVEIRA TRUST SERVICER S.A
+
+Testemunhas:
+
++---------------------------------+---+---------------------------------+
+| Nome:                           |   | Nome:                           |
+|                                 |   |                                 |
+| RG:                             |   | RG:                             |
++=================================+===+=================================+
++---------------------------------+---+---------------------------------+
+
+ANEXO I
+
+REMUNERAÇÃO
+
+1. Será devido ao CUSTODIANTE:
+
+(i) pelo serviço de custódia, o valor correspondente a 0,04% (quatro
+    centésimos por cento) ao ano sobre o Patrimônio Líquido do Fundo até
+    R$ 500.000.000,00 (quinhentos milhões de reais); acrescido de 0,025%
+    ( vinte e cinco milésimos por cento) ao ano sobre o Patrimônio
+    Líquido do Fundo que for superior ou igual a R$ 500.000.000,01
+    (quinhentos milhões de reais e um centavo) até R$1.000.000.000,00
+    (um bilhão de reais); acrescido de 0,015% (quinze milésimos por
+    cento) ao ano sobre o Patrimônio Líquido do Fundo que for superior
+    ou igual a R$ 1.000.000.000,01 (um bilhão de reais e um centavo),
+    pagáveis mensalmente à razão de 1/12 (um doze avos), apurado sobre o
+    Patrimônio Líquido no último dia útil de cada mês, devida a primeira
+    no segundo dia útil do mês subsequente da primeira integralização de
+    cotas e as demais no segundo dia útil dos meses subsequentes,
+    atendo-se ao piso de R$ 15.000,00 (quinze mil reais) mensais;
+
+(ii) o valor de R$ 1.750,00 (um mil, setecentos e cinquenta reais)
+     mensais a título de escrituração das cotas; e
+
+Será acrescido à remuneração do CUSTODIANTE o valor de R$ 5.000,00
+(cinco mil reais) mensais, referente à verificação do lastro dos
+direitos creditórios integrantes da carteira do Fundo, bem como os
+valores referentes à empresa de guarda da Documentação Comprobatória.
+
+1.1 Será devido ao CONTROLADOR a remuneração prevista no item 7.3.3. do
+Regulamento do Fundo.
+
+2. A taxa de custódia, controladoria e escrituração é calculada e
+apropriada diariamente, com base em um ano de 252 (duzentos e cinquenta
+e dois) Dias Úteis, conforme o percentual referido no caput deste Artigo
+sobre o valor do patrimônio líquido do Fundo do dia imediatamente
+anterior à data da apuração, e será paga mensalmente no o 5º (quinto)
+Dia Útil do mês subsequente ao vencido.
+
+a) As despesas de manutenção mensal das contas de custódia nos diversos
+sistemas de liquidação (CETIP/SELIC, CBLC, BMF e Banco Central) serão
+repassadas ao FUNDO;
+
+b) Se aplicável, as despesas para o pagamento de taxas CVM e outras
+taxas oficiais para órgãos de regulamentação do mercado, conforme
+exigido pela regulamentação em vigor, serão repassados ao FUNDO;
+
+c) Caso seja contratado, o banco cobrador (cobrança bancária), será
+cobrada do FUNDO uma taxa fixa mensal a ser definida, por banco
+cobrador, pelos custos de conversão e conciliação dos arquivos
+recebidos;
+
+d) Os eventuais custos decorrentes de cobrança bancária, arrecadação,
+etc., tais como emissão e postagem de boletos, entre outros, serão
+cobrados do FUNDO, como custo adicional de custódia;
+
+3. Todos os valores em reais (R$) constantes desta proposta serão
+corrigidos anualmente, sempre no mês de Janeiro, pela variação do Índice
+de Preços ao consumidor da FIPE (IPC - FIPE) do ano anterior, ou na sua
+falta, pela variação do IGPM (Índice Geral de Preços de Mercado), ou, na
+falta de ambos, do IGP-DI (Índice Geral de Preços – Disponibilidade
+Interna), publicados pela Fundação Getúlio Vargas (FGV).
+
+1.  Despesas por operação: despesas com Docs, Teds, Extratos, Cadastros
+    de Cotistas, Movimentações de Cotistas deverão ser suportados pelo
+    FUNDO.
+
+2.  Demais despesas, inclusive, mas não se limitando a, despesas de
+    auditoria e verificação do lastro, serão cobradas à parte, sendo
+    debitadas do FUNDO ou pagas pela parte interessada, conforme
+    acordado.
+
+ANEXO II
+
+HORÁRIO DE OPERACIONALIZAÇÃO DE OPERAÇÕES
+
+Para o cumprimento dos serviços estabelecidos no presente Contrato, o
+ADMINISTRADOR deverá enviar as Instruções ao CONTRATADO, obedecendo os
+seguintes horários:
+
++-------------------------+-------+-----------------------------------+
+| Atividade               | Ho    | Obs.                              |
+|                         | rário |                                   |
++-------------------------+-------+-----------------------------------+
+| Aplicações e Resgates   | 15:30 | Exceto amortizações               |
+| de Cotistas             |       |                                   |
++-------------------------+-------+-----------------------------------+
+| Despesas do FUNDO       | 15:30 | Os pagamentos devem ser enviados  |
+|                         |       | com 03 dias de antecedência       |
++-------------------------+-------+-----------------------------------+
+| Pagamento de cessão     | 15:30 |                                   |
++-------------------------+-------+-----------------------------------+
+| Operações de Renda Fixa | 15:30 |                                   |
++-------------------------+-------+-----------------------------------+
+| Operações de Cotas do   | 15:30 |                                   |
+| FUNDO                   |       |                                   |
++-------------------------+-------+-----------------------------------+
+| Depósito para Cobertura | 11:00 | Títulos Públicos com conta Selic  |
+| de Margem               |       | aberta                            |
++-------------------------+-------+-----------------------------------+
+| Depósito de Margem      | 15:30 | Títulos Públicos com conta Selic  |
+| Adicional:              |       | aberta                            |
+|                         |       |                                   |
+| - Títulos Públicos      |       |                                   |
++-------------------------+-------+-----------------------------------+
+| Retirada de Margem      | 15:30 | Títulos Públicos com conta Selic  |
+| Excedente:              |       | aberta                            |
+|                         |       |                                   |
+| - Títulos Públicos      |       |                                   |
++-------------------------+-------+-----------------------------------+
+
+Observações:
+
+1)  para todas as operações devem ser considerados os horários limites
+    do dia da respectiva Instrução;
+
+2)  para depósito de margem em garantia devem ser considerados os
+    horários limites das clearings.
+
+O CONTRATADO reserva-se ao direito de alterar os horários a qualquer
+momento, mediante correspondência prévia por escrito, desde que tais
+alterações sejam aceitas pelo ADMINISTRADOR e não prejudiquem o
+funcionamento do FUNDO, de acordo com os parâmetros e praxes de mercado.
+
+Quaisquer Instruções recebidas fora do horário estabelecido neste Anexo,
+não deverão ser cumpridas pelo CONTRATADO. Ficará, entretanto, a
+critério deste, a prática dos seus melhores esforços para liquidar tais
+operações, sob responsabilidade integral do ADMINISTRADOR.
+
+ANEXO III
+
+MANUAL DE PRECIFICAÇÃO DOS ATIVOS
+
+O Manual de Precificação dos Ativos encontra-se à disposição do
+Administrador no WEBSITE do CONTRATADO
+
+ANEXO IV
+
+FLUXO DE AQUISIÇÃO DOS DIREITOS CREDITÓRIOS
+
++-------------------------+-------+-----------------------------------+
+| Responsável             | Ho    | Obs.                              |
+|                         | rário |                                   |
+|                         | L     |                                   |
+|                         | imite |                                   |
++-------------------------+-------+-----------------------------------+
+| CEDENTE                 | Até   | Receber dois dias antes da        |
+|                         | as    | aquisição de Direitos Creditórios |
+|                         | 09:00 | pelo FUNDO, via FTP, arquivo      |
+|                         |       | contendo os documentos            |
+|                         |       | comprobatórios dos Direitos       |
+|                         |       | Creditórios a serem adquiridos    |
+|                         |       | pelo FUNDO, bem como, o arquivo   |
+|                         |       | contendo as informações relativas |
+|                         |       | aos Direitos Creditórios que a    |
+|                         |       | CEDENTE está disposta a ceder ao  |
+|                         |       | FUNDO (Arquivo Remessa).          |
++-------------------------+-------+-----------------------------------+
+| CUSTODIANTE             | Até   | Após rodar os critérios de        |
+|                         | as    | elegibilidade deverá              |
+|                         | 14:00 |                                   |
+|                         |       | enviar o Arquivo Retorno para     |
+|                         |       | CEDENTE, ADMINISTRADOR, contendo  |
+|                         |       | os Direitos Creditórios elegíveis |
+|                         |       | e inelegíveis.                    |
++-------------------------+-------+-----------------------------------+
+| CEDENTE                 | Até   | O envio, por meio eletrônico, do  |
+|                         | as    | Contrato de Cessão e o Termo de   |
+|                         | 14:30 | Cessão.                           |
++-------------------------+-------+-----------------------------------+
+| ADMINISTRADOR           | Até   | O envio, por meio eletrônico, das |
+|                         | as    | instruções para a aquisição dos   |
+|                         | 15:00 | Direitos Creditórios.             |
++-------------------------+-------+-----------------------------------+
+| CUSTODIANTE             | Até   | A liquidação do pagamento da      |
+|                         | as    | cessão deverá ser realizada.      |
+|                         | 15:30 |                                   |
++-------------------------+-------+-----------------------------------+
+
+Observações:
+
+1)  para todas as operações devem ser considerados os horários limites
+    do dia da respectiva Instrução;
+
+O CONTRATADO reserva-se ao direito de alterar os horários a qualquer
+momento, mediante correspondência prévia por escrito, desde que tais
+alterações sejam aceitas pelo ADMINISTRADOR e não prejudiquem o
+funcionamento do FUNDO, de acordo com os parâmetros e praxes de mercado.
+
+ANEXO V
+
+HORÁRIOS DE OPERACIONALIZAÇÃO DAS OPERAÇÕES
+
+Para o cumprimento dos serviços estabelecidos no presente Contrato, o
+ADMINISTRADOR ou investidor, conforme o caso deverá enviar as Instruções
+ao CONTRATADO, obedecendo aos seguintes horários:
+
+  ------------------------------------------------------------------------
+  Atividade                  Prazo    Obs.
+  -------------------------- -------- ------------------------------------
+  Distribuição de            D-3      Formulário de Tratamento de Evento
+  Rendimentos e Amortização           deverá ser enviado
+
+  Ordem de Transferência de  D-2      
+  Ativos (Depósito e                  
+  Retirada) e negociação no           
+  escritural                          
+
+  Geração, Envelopamento e   D-5      
+  Envio de Correspondências           
+  aos Investidores                    
+
+  Registro/Liberação de      D-2      No caso de gravames decorrentes de
+  Gravames sob as Cotas               decisão judicial, o movimento será
+                                      realizado em D0.
+
+  Registro/Liberação de      D-2      
+  Direitos sob as Cotas               
+  ------------------------------------------------------------------------
+
+Observações:
+
+1)  para todas as operações o horário limite a ser considerado é 12:00
+    do dia da respectiva Instrução;
+
+2)  para todas as operações deverão ser enviados os documentos
+    necessários para a realização dos procedimentos.
+
+O CONTRATADO reserva-se ao direito de alterar os horários a qualquer
+momento, mediante correspondência prévia por escrito, desde que tais
+alterações sejam aceitas pelo ADMINISTRADOR e não prejudiquem o
+funcionamento do FUNDO, de acordo com os parâmetros e praxes de mercado.
+
+Quaisquer Instruções recebidas fora do horário estabelecido neste Anexo,
+não deverão ser cumpridas pelo CONTRATADO. Ficará, entretanto, a
+critério deste, a prática dos seus melhores esforços para realizar tais
+operações, sob responsabilidade integral do ADMINISTRADOR.

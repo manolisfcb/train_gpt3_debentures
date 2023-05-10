@@ -1,0 +1,3496 @@
+INSTRUMENTO PARTICULAR DE ESCRITURA DA 1ª (PRIMEIRA) EMISSÃO DE
+DEBÊNTURES SIMPLES, NÃO CONVERSÍVEIS EM AÇÕES, DA ESPÉCIE COM GARANTIA
+REAL, COM GARANTIA ADICIONAL FIDEJUSSÓRIA, EM SÉRIE ÚNICA, PARA
+DISTRIBUIÇÃO PÚBLICA, COM ESFORÇOS RESTRITOS DE DISTRIBUIÇÃO, DA
+AUTOPASS S.A.
+
+Pelo presente “Instrumento Particular de Escritura da 1ª (Primeira)
+Emissão de Debêntures Simples, Não Conversíveis em Ações, da Espécie com
+Garantia Real, com Garantia Adicional Fidejussória, em Série Única, para
+Distribuição Pública, com Esforços Restritos de Distribuição, da
+Autopass S.A.” (“Escritura de Emissão”):
+
+na qualidade de emissora das Debêntures (conforme definido abaixo)
+objeto desta Escritura de Emissão:
+
+(1) AUTOPASS S.A., sociedade por ações sem registro de emissor de
+    valores mobiliários perante a Comissão de Valores Mobiliários
+    (“CVM”), com sede na Cidade de São Paulo, Estado de São Paulo, na
+    Avenida Engenheiro Luiz Carlos Berrini, n° 105, 3º andar, Cidade
+    Monções, CEP 04571-010, inscrita no Cadastro Nacional da Pessoa
+    Jurídica do Ministério da Economia (“CNPJ/ME”) sob o nº
+    07.140.538/0001-40 e na Junta Comercial do Estado de São Paulo
+    (“JUCESP”) sob o NIRE 35300319826, neste ato representada na forma
+    do seu estatuto social, por seus representantes legais abaixo
+    assinados (“Emissora”);
+
+    na qualidade de agente fiduciário representando a comunhão dos
+    Debenturistas (conforme definido abaixo):
+
+(2) OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,
+    instituição financeira autorizada a exercer as funções de agente
+    fiduciário pelo Banco Central do Brasil (“BACEN”), por meio de sua
+    filial com endereço na Cidade de São Paulo, Estado de São Paulo, na
+    Rua Joaquim Floriano, nº 1.052, 13º andar, Itaim Bibi, CEP
+    04534-004, inscrita no CNPJ/ME sob o nº 36.113.876/0004-34, neste
+    ato representada na forma do seu estatuto social, por seus
+    representantes legais abaixo assinados (“Agente Fiduciário”);
+
+    e, ainda, na qualidade de fiadoras:
+
+(3) MONDOPASS S.A., sociedade por ações sem registro de emissor de
+    valores mobiliários perante a CVM, com sede na Cidade de São Paulo,
+    Estado de São Paulo, na Avenida Engenheiro Luiz Carlos Berrini, n°
+    105, 3º andar, Bairro Cidade Monções, CEP 04571-010, inscrita no
+    CNPJ/ME sob o nº 22.162.569/0001-96, neste ato representada na forma
+    do seu estatuto social, por seus representantes legais abaixo
+    assinados (“Mondopass”);
+
+(4) ANBEMA PARTICIPAÇÕES S.A., sociedade por ações sem registro de
+    emissor de valores mobiliários perante a CVM, com sede na Cidade de
+    São Paulo, Estado de São Paulo, na Avenida Cabo Adão Pereira, n°
+    648, sala 1 – Centro Comercial São José, Vila Pereira Barreto, CEP
+    02936-010, inscrita no CNPJ/ME sob o n° 26.563.283/0001-73, neste
+    ato representada na forma do seu estatuto social, por seus
+    representantes legais abaixo assinados (“Anbema”);
+
+(5) FELTECH PARTICIPAÇÕES S.A., sociedade por ações sem registro de
+    emissor de valores mobiliários perante a CVM, com sede na Cidade de
+    São Paulo, Estado de São Paulo, na Alameda Santos, n° 2.441, 3º
+    andar, conjunto 31 – Edifício Bela Santos, Cerqueira Cesar, CEP
+    01419-101, inscrita no CNPJ/ME sob n° 33.684.509/0001-50, neste ato
+    representada na forma do seu estatuto social, por seus
+    representantes legais abaixo assinados (“Feltech”);
+
+(6) GUIDE ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA., sociedade empresária
+    limitada, com sede na Cidade de Bauru, Estado de São Paulo, na Rua
+    Engenheiro Alpheu José Ribas Sampaio, n° 3-26, sala 212, Jardim
+    Infante Dom Henrique, CEP 17012-631, inscrita no CNPJ/ME sob n°
+    24.545.368/0001-01, neste ato representada na forma do seu contrato
+    social, por seus representantes legais abaixo assinados (“Guide”);
+
+(7) IKATU ADMINISTRAÇÃO E PARTICIPAÇÕES S.A., sociedade por ações sem
+    registro de emissor de valores mobiliários perante a CVM, com sede
+    na Cidade de São Paulo, Estado de São Paulo, na Avenida Paulista, n°
+    37, conjunto 41, Bela Vista, CEP 01311-000, inscrita no CNPJ/ME sob
+    n° 25.268.211/0001-30, neste ato representada na forma do seu
+    estatuto social, por seus representantes legais abaixo assinados
+    (“Ikatu”);
+
+(8) NV9 CONSULTORIA E PARTICIPAÇÕES LTDA., sociedade empresária
+    limitada, com sede na Cidade de Itapecerica da Serra, Estado de São
+    Paulo, na Rua Virgílio Busnello, n° 127, sala 03, Centro, CEP
+    06850-700, inscrita no CNPJ/ME sob n° 26.333.258/0001-01, neste ato
+    representada na forma do seu contrato social, por seus
+    representantes legais abaixo assinados (“NV9” e, quando referida em
+    conjunto com Mondopass, Anbema, Feltech, Guide e Ikatu, “Fiadoras”);
+
+(sendo a Emissora, o Agente Fiduciário e as Fiadoras, designados em
+conjunto como “Partes” e, individual e indistintamente, como “Parte”)
+
+vêm, por esta e na melhor forma de direito, celebrar a presente
+Escritura de Emissão, mediante as cláusulas e condições a seguir.
+
+I.  
+    AUTORIZAÇÕES
+
+    1.  Autorizações da Emissora.
+
+        1.  A presente Escritura de Emissão é celebrada com base nas
+            deliberações tomadas na Assembleia Geral Extraordinária da
+            Emissora, realizada em 16 de novembro de 2020, em
+            conformidade com o estatuto social vigente da Emissora e nos
+            termos do artigo 59, caput, da Lei 6.404, de 15 de dezembro
+            de 1976, conforme alterada (“Lei das Sociedades por Ações”),
+            na qual foram aprovadas, dentre outras matérias: (i) a
+            realização da Emissão (conforme definido abaixo) e da Oferta
+            Restrita (conforme definido abaixo), bem como seus termos e
+            condições; e (ii) a outorga e constituição da Garantia Real
+            (conforme definido abaixo), bem como a celebração do
+            Contrato de Garantia (conforme definido abaixo) (“AGE
+            Emissora”).
+
+    2.  Autorizações das Fiadoras.
+
+        1.  A Fiança (conforme definido abaixo) é outorgadas e a
+            presente Escritura de Emissão é celebrada por cada uma das
+            Fiadoras, com base nas deliberações tomadas, conforme o
+            caso, na (i) Reunião do Conselho de Administração da
+            Mondopass realizada em 16 de novembro de 2020 (“RCA
+            Mondopass”); (ii) Assembleia Geral Extraordinária da Anbema
+            realizada em 16 de novembro de 2020 (“AGE Anbema”); (iii)
+            Assembleia Geral Extraordinária da Feltech realizada em 16
+            de novembro de 2020 (“AGE Feltech”); (iv) Reunião de Sócios
+            da Guide realizada em 16 de novembro de 2020 (“RS
+            Guide”); (v) Assembleia Geral Extraordinária da Ikatu
+            realizada em 16 de novembro de 2020 (“AGE Ikatu”); e (vi)
+            Reunião de Sócios da NV9 realizada em 16 de novembro de 2020
+            (“RS NV9” e, em conjunto com RCA Mondopass, AGE Anbema, AGE
+            Feltech, RS Guide e AGE Ikatu, “Atos Societários Fiadoras”,
+            sendo a AGE Emissora em conjunto com os Atos Societários
+            Fiadoras, “Atos Societários”).
+
+II. 
+    REQUISITOS
+
+A 1ª (primeira) emissão de debêntures simples, não conversíveis em
+ações, da espécie com garantia real, com garantia adicional
+fidejussória, em série única, de emissão da Emissora (“Emissão” e
+“Debêntures”, respectivamente), para distribuição pública, com esforços
+restritos de distribuição, nos termos da Instrução CVM nº 476, de 16 de
+janeiro de 2009, conforme alterada (“Instrução CVM 476”) e demais leis e
+regulamentações aplicáveis (“Oferta Restrita”), deverá observar os
+seguintes requisitos:
+
+1.  Arquivamento na Junta Comercial e Publicação da AGE Emissora
+
+    1.  Nos termos do disposto no artigo 62, inciso I, e no artigo 289,
+        da Lei das Sociedades por Ações, e do disposto na Lei nº 14.030,
+        de 28 de julho de 2020 (“Lei 14.030”), a ata da AGE Emissora
+        será devidamente arquivada na JUCESP e devidamente publicada no
+        Diário Oficial do Estado de São Paulo (“DOESP”) e no jornal
+        “Valor Econômico”.
+
+    2.  As atas dos atos societários da Emissora relacionados à Emissão,
+        às Debêntures e/ou à Garantia Real que pela lei são passíveis de
+        serem arquivadas e publicadas e que, eventualmente, venham a ser
+        realizados após a celebração da presente Escritura de Emissão,
+        deverão ser (i) protocoladas na JUCESP no prazo de até 5 (cinco)
+        Dias Úteis (conforme definido abaixo) contado da data da sua
+        realização; (ii) arquivadas na JUCESP, no prazo de até 30
+        (trinta) dias contado da data da sua realização, observado o
+        disposto na Cláusula 2.1.2.1 abaixo; e (iii) publicadas no DOESP
+        e no jornal “Valor Econômico”, no prazo de até 30 (trinta) dias
+        contado da data da sua realização, para fins de atendimento ao
+        disposto na Lei das Sociedades por Ações.
+
+        1.  No caso de apresentação de eventuais exigências pela JUCESP
+            durante o processo arquivamento da atas dos atos societários
+            indicados na Cláusula 2.1.2 acima, a Emissora obriga-se e
+            compromete-se a atender tempestivamente às referidas
+            exigências, observado que a Emissora deverá enviar ao Agente
+            Fiduciário (i) cópia do inteiro teor das exigências, no
+            prazo de até 3 (três) dias contado da data do seu
+            recebimento; e (ii) cópia dos documentos e protocolos
+            evidenciando o cumprimento integral e tempestivo das
+            exigências, no prazo de até 3 (três) dias contado da data do
+            respectivo protocolo.
+
+    3.  A Emissora deverá enviar ao Agente Fiduciário, no prazo de até 5
+        (cinco) Dias Úteis contado da respectiva data de arquivamento, 1
+        (uma) via original da ata da AGE Emissora e/ou de qualquer outro
+        ato societário da Emissora indicado na Cláusula 2.1.2 acima,
+        devidamente arquivada na JUCESP, bem como 1 (uma) cópia digital
+        (arquivo pdf) das respectivas publicações, conforme aplicável.
+
+2.  Arquivamento na Junta Comercial e Publicação dos Atos Societários
+    Fiadoras.
+
+    1.  Observado o disposto na Lei 14.030, a ata da (i) RCA Mondopass
+        será devidamente arquivada na JUCESP e devidamente publicada no
+        DOESP e no jornal “Valor Econômico”; (ii) AGE Anbema será
+        devidamente arquivada na JUCESP e devidamente publicada no DOESP
+        e no jornal “Valor Econômico”; (iii) AGE Feltech será
+        devidamente arquivada na JUCESP e devidamente publicada no DOESP
+        e no jornal “Valor Econômico”; (iv) RS Guide será devidamente
+        arquivada na JUCESP e devidamente publicada no DOESP e no jornal
+        “Valor Econômico”; (v) AGE Ikatu será devidamente arquivada na
+        JUCESP e devidamente publicada no DOESP e no jornal “Valor
+        Econômico”; e (vi) RS NV9 será devidamente arquivada na JUCESP e
+        devidamente publicada no DOESP e no jornal “Valor Econômico”.
+
+    2.  As atas dos atos societários de qualquer das Fiadoras
+        relacionados à Emissão, às Debêntures e/ou à Fiança que pela lei
+        são passíveis de serem arquivadas e publicadas e que,
+        eventualmente, venham a ser realizados após a celebração da
+        presente Escritura de Emissão, deverão ser (i) protocoladas na
+        JUCESP no prazo de até 5 (cinco) Dias Úteis contado da data da
+        sua realização; (ii) arquivadas na JUCESP, no prazo de até 30
+        (trinta) dias contado da data da sua realização, observado o
+        disposto na Cláusula 2.2.2.1 abaixo; e (iii) publicadas no DOESP
+        e no respectivo jornal, no prazo de até 30 (trinta) dias contado
+        da data da sua realização, para fins de atendimento ao disposto
+        na Lei das Sociedades por Ações.
+
+        1.  No caso de apresentação de eventuais exigências pela JUCESP
+            durante o processo arquivamento da atas dos atos societários
+            indicados na Cláusula 2.2.2 acima, a respectiva Fiadora
+            obriga-se e compromete-se a atender tempestivamente às
+            referidas exigências, observado que a Emissora deverá enviar
+            ao Agente Fiduciário (i) cópia do inteiro teor das
+            exigências, no prazo de até 3 (três) dias contado da data do
+            seu recebimento; e (ii) cópia dos documentos e protocolos
+            evidenciando o cumprimento integral e tempestivo das
+            exigências, no prazo de até 3 (três) dias contado da data do
+            respectivo protocolo.
+
+    3.  As Fiadoras deverão enviar ao Agente Fiduciário, no prazo de até
+        5 (cinco) Dias Úteis contado da respectiva data de arquivamento,
+        1 (uma) via original das atas dos Atos Societários Fiadoras e/ou
+        de qualquer outro ato societário de qualquer das Fiadoras
+        indicado na Cláusula 2.2.2 acima, devidamente arquivada na
+        JUCESP, bem como 1 (uma) cópia digital (arquivo pdf) das
+        respectivas publicações, conforme aplicável.
+
+3.  Inscrição desta Escritura de Emissão e seus eventuais aditamentos na
+    JUCESP.
+
+    1.  Esta Escritura de Emissão e seus eventuais aditamentos serão
+        inscritos na JUCESP de acordo com o disposto no artigo 62,
+        inciso II e parágrafo 3º, da Lei das Sociedades por Ações.
+
+    2.  A Emissora deverá (i) protocolar esta Escritura de Emissão e
+        seus eventuais aditamentos na JUCESP no prazo de até 5 (cinco)
+        Dias Úteis contado da respectiva data de assinatura; (ii) obter
+        a inscrição desta Escritura de Emissão e de seus eventuais
+        aditamentos na JUCESP no prazo de até 30 (trinta) dias contado
+        da respectiva data de assinatura, observado o disposto na
+        Cláusula 2.3.2.1 abaixo; e (iii) enviar ao Agente Fiduciário 1
+        (uma) via original desta Escritura de Emissão e de seus
+        eventuais aditamentos devidamente inscritos na JUCESP no prazo
+        de até 5 (cinco) Dias Úteis contado da data da respectiva
+        inscrição.
+
+        1.  No caso de apresentação de eventuais exigências pela JUCESP
+            durante o processo de inscrição desta Escritura de Emissão
+            e/ou seus eventuais aditamentos, a Emissora obriga-se e
+            compromete-se a atender tempestivamente às referidas
+            exigências, observado que a Emissora deverá enviar ao Agente
+            Fiduciário (i) cópia do inteiro teor das exigências, no
+            prazo de até 3 (três) dias contado da data do seu
+            recebimento; e (ii) cópia dos documentos e protocolos
+            evidenciando o cumprimento integral e tempestivo das
+            exigências, no prazo de até 3 (três) dias contado da data do
+            respectivo protocolo.
+
+4.  Dispensa de Registro na CVM.
+
+    1.  A Oferta Restrita será realizada nos termos da Instrução CVM 476
+        e das demais disposições legais e regulamentares aplicáveis,
+        estando, portanto, automaticamente dispensada do registro de
+        distribuição de que trata o artigo 19 da Lei nº 6.385, de 7 de
+        dezembro de 1976, conforme alterada (“Lei 6.385”), por se tratar
+        de oferta pública de valores mobiliários, com esforços
+        restritos, não sendo objeto de protocolo, registro e
+        arquivamento perante a CVM, exceto pelo envio da comunicação
+        sobre o início da Oferta Restrita e a comunicação de seu
+        encerramento à CVM, nos termos dos artigos 7º-A e 8º,
+        respectivamente, da Instrução CVM 476 (“Comunicação de Início” e
+        “Comunicação de Encerramento”, respectivamente).
+
+5.  Registro na Associação Brasileira das Entidades dos Mercados
+    Financeiro e de Capitais.
+
+    1.  Nos termos do inciso II do artigo 16 e do inciso V do artigo 18
+        do “Código ANBIMA de Regulação e Melhores Práticas para Ofertas
+        Públicas”, atualmente em vigor (“Código ANBIMA”), a Oferta
+        Restrita será objeto de registro na ANBIMA – Associação
+        Brasileira das Entidades dos Mercados Financeiro e de Capitais
+        (“ANBIMA”), no prazo de até 15 (quinze) dias contado da data da
+        Comunicação de Encerramento.
+
+    2.  Esta Escritura de Emissão foi elaborada, inicialmente, segundo
+        as regras e procedimentos do Guia ANBIMA de Melhores Práticas de
+        padronização para cálculo de debêntures não conversíveis, sendo
+        passível de modificação por meio de eventuais aditamentos e
+        alterações posteriores a partir desta data.
+
+6.  Constituição da Fiança.
+
+    1.  Nos termos dos artigos 129 e 130 da Lei nº 6.015, de 31 de
+        dezembro de 1973, conforme alterada (“Lei de Registros
+        Públicos”), em virtude da Fiança, esta Escritura de Emissão e
+        seus eventuais aditamentos serão registrados ou averbados,
+        conforme o caso, pela Emissora, nos cartórios de registro de
+        títulos e documentos da Cidade de São Paulo, Estado de São Paulo
+        (“Cartório RTD SP”), da Cidade de Bauru, Estado de São Paulo
+        (“Cartório RTD Bauru”) e da Cidade de Itapecerica da Serra,
+        Estado de São Paulo (“Cartório RTD Itapecerica”, e, em conjunto
+        com o Cartório RTD SP e o Cartório RTD Bauru, “Cartórios RTD
+        Competentes”).
+
+    2.  A Emissora deverá (i) protocolar esta Escritura de Emissão e
+        seus eventuais aditamentos nos Cartórios RTD Competentes no
+        prazo de até 5 (cinco) Dias Úteis contado da respectiva data de
+        assinatura; (ii) obter o registro ou a averbação, conforme o
+        caso, desta Escritura de Emissão e seus eventuais aditamentos
+        nos Cartórios RTD Competentes no prazo de até 20 (vinte) dias
+        contado da respectiva data de assinatura, observado o disposto
+        na Cláusula 2.5.2.1 abaixo; e (iii) enviar ao Agente Fiduciário
+        1 (uma) via original desta Escritura de Emissão e de seus
+        eventuais aditamentos devidamente registrados ou averbados,
+        conforme o caso, nos Cartórios RTD Competentes, no prazo de até
+        5 (cinco) Dias Úteis contado da data do respectivo registro e/ou
+        averbação.
+
+        1.  No caso de apresentação de eventuais exigências pelos
+            Cartórios RTD Competentes durante o processo de registro da
+            Escritura de Emissão e seus eventuais aditamentos, a
+            Emissora obriga-se e compromete-se a atender tempestivamente
+            às referidas exigências, observado que a Emissora deverá
+            enviar ao Agente Fiduciário (i) cópia do inteiro teor das
+            exigências, no prazo de até 3 (três) dias contado da data do
+            seu recebimento; e (ii) cópia dos documentos e protocolos
+            evidenciando o cumprimento integral e tempestivo das
+            exigências, no prazo de até 3 (três) dias contado da data do
+            respectivo protocolo.
+
+7.  Constituição da Garantia Real.
+
+    1.  O Contrato de Garantia e seus eventuais aditamentos serão
+        registrados no Cartório RTD SP, nos termos e nos prazos
+        determinados no referido instrumento.
+
+    2.  A Garantia Real deverá estar devidamente constituída, mediante a
+        conclusão do registro do Contrato de Garantia previsto na
+        Cláusula 2.7.1 acima, anteriormente à primeira Data de
+        Integralização (conforme definido abaixo).
+
+8.  Distribuição, Negociação e Custódia Eletrônica.
+
+    1.  As Debêntures serão depositadas para (i) distribuição no mercado
+        primário por meio do MDA – Módulo de Distribuição de Ativos
+        (“MDA”), administrado e operacionalizado pela B3 S.A – Brasil,
+        Bolsa, Balcão – Segmento Cetip UTVM (“B3”), sendo a distribuição
+        liquidada financeiramente por meio da B3; e (ii) negociação no
+        mercado secundário por meio do CETIP21 – Títulos e Valores
+        Mobiliários (“CETIP 21”), também administrado e operacionalizado
+        pela B3, sendo as negociações liquidadas financeiramente e as
+        Debêntures custodiadas eletronicamente na B3.
+
+    2.  Não obstante o disposto na Cláusula 2.8.1 acima, as Debêntures
+        somente poderão ser negociadas entre Investidores Qualificados
+        (conforme definido abaixo) nos mercados regulamentados de
+        valores mobiliários, depois de decorridos 90 (noventa) dias
+        contados de cada subscrição ou aquisição por Investidores
+        Profissionais (conforme definido abaixo), conforme disposto nos
+        artigos 13 e 15 da Instrução CVM 476, salvo na hipótese de
+        exercício da garantia firme pelos Coordenadores (conforme
+        definido abaixo) no momento da subscrição, nos termos do inciso
+        II, artigo 13 da Instrução CVM 476, e observado o cumprimento
+        pela Emissora das obrigações de que trata o artigo 17 da
+        Instrução CVM 476, sendo certo ainda que a negociação deverá
+        respeitar as disposições legais e regulamentares aplicáveis.
+
+    3.  Para fins desta Escritura de Emissão consideram-se
+        (i) “Investidor(es) Qualificado(s)” aqueles investidores
+        referidos no artigo 9º-B da Instrução CVM nº 539, de 13 de
+        novembro de 2013, conforme alterada (“Instrução CVM 539”); e
+        (ii) “Investidor(es) Profissional(is)” aqueles investidores
+        referidos no artigo 9º-A da Instrução CVM 539, sendo certo que
+        nos termos do artigo 9º-C da Instrução CVM 539, os regimes
+        próprios de previdência social instituídos pela União, pelos
+        Estados, pelo Distrito Federal ou por Municípios são
+        considerados Investidores Profissionais ou Investidores
+        Qualificados apenas se reconhecidos como tais conforme
+        regulamentação específica do Ministério da Previdência Social.
+
+III. 
+     CARACTERÍSTICAS DA EMISSÃO
+
+     1.  Objeto Social. A Emissora tem por objeto social (i) automação e
+         gestão de operação de pagamento antecipado de viagens realizada
+         por qualquer modal de transporte coletivo, compreendendo a
+         emissão, comercialização, administração, compensação e
+         processamento de créditos eletrônicos de transporte e de outros
+         meios de pagamento eletrônico de viagens, não sujeitos a
+         regulamentação do BACEN, ou outro órgão do Sistema Financeiro
+         Nacional; (ii) desenvolvimento de atividades conexas e
+         complementares às operações de transporte e pagamento de
+         cartões magnéticos ou de outros meios utilizados como forma de
+         pagamento de viagens e ao desenvolvimento, licenciamento e
+         venda de sistemas e instrumentos de segurança para combate a
+         fraudes no sistema de bilhetagem eletrônica; (iii)
+         intermediação de negócios vinculados à atividade de transporte
+         de passageiros e à comercialização de cartões e créditos de
+         vale-refeição, vale-alimentação e de cartões pré-pagos com ou
+         sem função de transporte; (iv) gestão e administração de
+         contrato de adquirência entre operadores do serviço de
+         transporte coletivo de passageiros e adquirente, e garantia do
+         negócio por meio de reembolso de operações recusadas pelo
+         adquirente, desde que fora do âmbito de arranjo de pagamento,
+         desde que não caracterizem atividade regulada pelo BACEN, ou
+         outro órgão do Sistema Financeiro Nacional; (v) prestação de
+         serviços de análise de perfis e correspondência bancária; (vi)
+         locação e manutenção de terminais e de validadores eletrônicos
+         para venda, captura e processamento de transações eletrônicas
+         de transporte, equipamentos de validação e identificação por
+         biometria facial, entre outros equipamentos relacionados com as
+         atividades desenvolvidas pela Emissora; e (vii) agenciamento de
+         espaços para publicidade, exceto em veículos de comunicação.
+
+     2.  Número da Emissão. A presente Escritura de Emissão representa a
+         1ª (primeira) emissão de debêntures da Emissora.
+
+     3.  Número de Séries. A Emissão será realizada em série única.
+
+     4.  Valor Total da Emissão. O valor total da Emissão será de R$
+         120.000.000,00 (cento e vinte milhões de reais) na Data de
+         Emissão (“Valor Total da Emissão”).
+
+     5.  Destinação dos Recursos. A totalidade dos recursos líquidos
+         captados por meio da presente Emissão deverão ser utilizados
+         para a financiamento da implementação e operacionalização de
+         sistema de bilhetagem eletrônica na região metropolitana da
+         Cidade de São Paulo, Estado de São Paulo e outras regiões e
+         cidades do Estado de São Paulo (“Projeto SBE-SP”), inclusive,
+         mas não se limitando, para pagamento (antecipado ou não) do
+         saldo devedor de outras dívidas tomadas pela Emissora para
+         financiamento do Projeto SBE-SP anteriormente à Data de
+         Emissão, até o limite de R$40.000.000,00 (quarenta milhões de
+         reais).
+
+         1.  Para fins do disposto na Cláusula 3.5 acima, entende-se por
+             “recursos líquidos” a totalidade dos recursos captados pela
+             Emissora por meio da integralização das Debêntures,
+             descontados os custos incorridos para pagamento de despesas
+             decorrentes da Emissão e da Oferta Restrita.
+
+         2.  A Emissora deverá enviar ao Agente Fiduciário declaração
+             atestando a destinação da totalidade dos recursos líquidos
+             captados por meio da presente Emissão nos termos da
+             Cláusula 3.5 acima, no prazo de até 10 (dez) Dias Úteis
+             contado da data da efetiva destinação da totalidade de tais
+             recursos líquidos, ou na Data de Vencimento, o que ocorrer
+             primeiro, a qual deverá indicar ainda, os custos incorridos
+             para pagamento de despesas decorrentes da Emissão e da
+             Oferta Restrita, podendo o Agente Fiduciário, em
+             conformidade com a legislação e regulamentação aplicáveis,
+             solicitar à Emissora os eventuais esclarecimentos e
+             documentos adicionais que se façam necessários.
+
+             1.  A Emissora deverá, no prazo de até 90 (noventa) Dias
+                 Úteis contado da primeira Data de Integralização,
+                 encaminhar uma declaração ao Agente Fiduciário, caso
+                 ainda não tenha encaminhado a declaração prevista na
+                 Cláusula 3.5.2 acima, informando que ainda não utilizou
+                 a totalidade dos recursos líquidos captados por meio da
+                 presente Emissão nos termos da Cláusula 3.5 acima.
+
+     6.  Banco Liquidante. A instituição prestadora de serviços de banco
+         liquidante das Debêntures será o Itaú Unibanco S.A.,
+         instituição financeira com sede na Cidade de São Paulo, Estado
+         de São Paulo, na Praça Alfredo Egydio de Souza Aranha 100,
+         Torre Olavo Setúbal, Parque Jabaquara, CEP 04344-902, inscrita
+         no CNPJ/ME sob o nº 60.701.190/0001-04 (“Banco Liquidante”,
+         cuja definição inclui qualquer outra instituição que venha a
+         suceder o Banco Liquidante na prestação dos serviços relativos
+         às Debêntures).
+
+     7.  Escriturador. A instituição prestadora de serviços de
+         escrituração das Debêntures será o Itaú Corretora de Valores
+         S.A., instituição financeira, com sede na Cidade de São Paulo,
+         Estado de São Paulo, na Avenida Brigadeiro Faria Lima, nº
+         3.500, 3º andar, parte, CEP 04538-132, inscrita no CNPJ/ME sob
+         o nº 61.194.353/0001-64 (“Escriturador”, cuja definição inclui
+         qualquer outra instituição que venha a suceder o Escriturador
+         na prestação dos serviços relativos às Debêntures).
+
+     8.  Colocação e Procedimento de Distribuição. As Debêntures serão
+         objeto de distribuição pública, com esforços restritos de
+         distribuição, nos termos da Instrução CVM 476, sob o regime de
+         garantia firme de colocação para a totalidade das Debêntures,
+         com a intermediação de instituições financeiras integrantes do
+         sistema de distribuição de valores mobiliários
+         (“Coordenadores”, sendo a instituição intermediária líder,
+         “Coordenador Líder”), por meio do MDA, administrado e
+         operacionalizado pela B3, nos termos do “Instrumento Particular
+         de Coordenação, Colocação e Distribuição Pública, com Esforços
+         Restritos, Sob o Regime de Garantia Firme de Colocação, de
+         Debêntures Simples, Não Conversíveis em Ações, da Espécie com
+         Garantia Real, Com Garantia Adicional Fidejussória, em Série
+         Única, da 1ª (Primeira) Emissão da Autopass S.A.”, a ser
+         celebrado entre a Emissora e os Coordenadores (“Contrato de
+         Distribuição”).
+
+         1.  Plano de Distribuição. O plano de distribuição será
+             organizado pelos Coordenadores e seguirá os procedimentos
+             descritos na Instrução CVM 476 e no Contrato de
+             Distribuição, tendo como público alvo exclusivamente
+             Investidores Profissionais (“Plano de Distribuição”). O
+             Plano de Distribuição será estabelecido mediante os
+             seguintes termos:
+
+(i) os Coordenadores poderão acessar, no máximo, 75 (setenta e cinco)
+    Investidores Profissionais, sendo possível a subscrição ou aquisição
+    das Debêntures por, no máximo, 50 (cinquenta) Investidores
+    Profissionais;
+
+(ii) os fundos de investimento (independentemente da qualificação de
+     seus cotistas) e carteiras administradas de valores mobiliários
+     cujas decisões de investimento sejam tomadas pelo mesmo gestor
+     serão considerados como um único investidor para os fins dos
+     limites previstos no inciso (i) acima, conforme disposto no artigo
+     3º, parágrafo 1º, da Instrução CVM 476;
+
+(iii) não existirão reservas antecipadas, nem fixação de lotes mínimos
+      ou máximos para a subscrição das Debêntures;
+
+(iv) não haverá preferência para subscrição das Debêntures pelos atuais
+     acionistas da Emissora;
+
+(v) não será concedido qualquer tipo de desconto por qualquer dos
+    Coordenadores aos Investidores Profissionais interessados em
+    adquirir as Debêntures;
+
+(vi) não será constituído fundo de manutenção de liquidez e não será
+     firmado contrato de estabilização de preços com relação às
+     Debêntures;
+
+(vii) os Investidores Profissionais deverão assinar “Declaração de
+      Investidor Profissional” atestando, dentre outros, estarem cientes
+      de que (a) a Oferta Restrita (1) não será objeto de registro na
+      CVM; (2) não será objeto de análise prévia pela ANBIMA, sendo
+      registrada na ANBIMA somente após o envio da Comunicação de
+      Encerramento à CVM, nos termos do inciso II do artigo 16 e do
+      inciso V do artigo 18 do Código ANBIMA; (b) as Debêntures estão
+      sujeitas às restrições de negociação previstas na regulamentação
+      aplicável e nesta Escritura de Emissão; (c) efetuou sua própria
+      análise com relação à capacidade de pagamento da Emissora e das
+      Fiadoras e sobre a constituição, suficiência e exequibilidade da
+      Fiança e da Garantia Real; (d) que o investimento nas Debêntures é
+      adequado ao seu nível de sofisticação e ao seu perfil de risco;
+      e (e) que as informações recebidas são suficientes para sua tomada
+      de decisão a respeito da Oferta Restrita, devendo, ainda, por meio
+      de tal declaração, manifestar sua concordância expressa a todos os
+      termos e condições desta Escritura de Emissão e do Contrato de
+      Garantia;
+
+(viii) não será admitida a distribuição parcial das Debêntures;
+
+(ix) o prazo de colocação e distribuição pública das Debêntures seguirá
+     as regras definidas na Instrução CVM 476; e
+
+(x) a Emissora compromete-se a não realizar a busca de investidores por
+    meio de lojas, escritórios ou estabelecimentos abertos ao público ou
+    com a utilização de serviços públicos de comunicação, como a
+    imprensa, o rádio, a televisão e páginas abertas ao público na rede
+    mundial de computadores, nos termos da Instrução CVM 476.
+
+IV. CARACTERÍSTICAS GERAIS DAS DEBÊNTURES
+
+    1.  Data de Emissão. Para todos os fins e efeitos, a data de emissão
+        das Debêntures será o dia 25 de novembro de 2020 (“Data de
+        Emissão”).
+
+    2.  Data de Início da Rentabilidade. Para todos os fins e efeitos
+        legais, a data de início da rentabilidade das Debêntures será a
+        primeira Data de Integralização (“Data de Início da
+        Rentabilidade”).
+
+    3.  Forma, Tipo e Comprovação de Titularidade. As Debêntures serão
+        emitidas sob a forma nominativa e escritural, sem emissão de
+        cautelas ou certificados. Para todos os fins de direito, a
+        titularidade das Debêntures será comprovada pelo extrato de
+        conta de depósito emitido pelo Escriturador, onde serão
+        inscritos os nomes dos respectivos titulares das Debêntures
+        (“Debenturistas”). Adicionalmente, será reconhecido, como
+        comprovante de titularidade das Debêntures, o extrato emitido
+        pela B3, em nome do Debenturista, quando as Debêntures estiverem
+        custodiadas eletronicamente na B3.
+
+    4.  Conversibilidade. As Debêntures serão simples, ou seja, não
+        conversíveis em ações de emissão da Emissora.
+
+    5.  Espécie. As Debêntures serão da espécie com garantia real, com
+        garantia adicional fidejussória, nos termos do artigo 58, caput,
+        da Lei das Sociedades por Ações.
+
+    6.  Prazo e Data de Vencimento. Ressalvadas as hipóteses de resgate
+        antecipado das Debêntures ou vencimento antecipado das
+        obrigações decorrentes das Debêntures, nos termos previstos
+        nesta Escritura de Emissão, as Debêntures terão prazo de
+        vigência de 5 (cinco) anos contado da Data de Emissão, vencendo,
+        portanto, em 25 de novembro de 2025 (“Data de Vencimento”).
+
+    7.  Valor Nominal Unitário. O valor nominal unitário das Debêntures
+        será de R$1.000,00 (mil reais), na Data de Emissão (“Valor
+        Nominal Unitário”).
+
+    8.  Quantidade de Debêntures. Serão emitidas 120.000 (cento e vinte
+        mil) Debêntures.
+
+    9.  Prazo de Subscrição, Forma de Integralização e Preço de
+        Integralização. As Debêntures serão subscritas e integralizadas
+        dentro do período de distribuição previsto nos artigos 7-A e 8º
+        da Instrução CVM 476, de acordo com os procedimentos da B3 e
+        observado o Plano de Distribuição, à vista, em moeda corrente
+        nacional, (i) na primeira Data de Integralização (conforme
+        definido abaixo), pelo seu Valor Nominal Unitário; e (ii) nas
+        Datas de Integralização posteriores à primeira Data de
+        Integralização, pelo seu Valor Nominal Unitário, acrescido da
+        Remuneração, calculada pro rata temporis desde a Data de Início
+        da Rentabilidade até a efetiva Data de Integralização (“Preço de
+        Integralização”).
+
+        1.  Para os fins desta Escritura de Emissão, define-se “Data de
+            Integralização” a data em que ocorrerá a subscrição e a
+            integralização das Debêntures.
+
+        2.  Sobre o Preço de Integralização poderá incidir ágio ou
+            deságio, a ser definido no ato de subscrição das Debêntures,
+            sendo certo que, caso aplicável, o ágio ou deságio, será o
+            mesmo para todas as Debêntures. Em relação às
+            integralizações realizadas em Datas de Integralização
+            diferentes, eventual ágio ou deságio poderá ser aplicado de
+            forma diferente.
+
+    10. Atualização Monetária das Debêntures. As Debêntures não terão
+        seu Valor Nominal Unitário atualizado monetariamente.
+
+    11. Remuneração das Debêntures. Sobre o Valor Nominal Unitário ou
+        saldo do Valor Nominal Unitário, conforme o caso, incidirão
+        juros remuneratórios correspondentes à variação acumulada de
+        100% (cem por cento) das taxas médias diárias dos DI – Depósitos
+        Interfinanceiros de um dia, "over extra-grupo", expressas na
+        forma percentual ao ano, base 252 (duzentos e cinquenta e dois)
+        Dias Úteis, calculadas e divulgadas diariamente pela B3 S.A. –
+        Brasil, Bolsa, Balcão, no informativo diário disponível em sua
+        página na rede mundial de computadores
+        (http://www.b3.com.br) (“Taxa DI”), acrescida de sobretaxa
+        (spread) equivalente à 3,75% (três inteiros e setenta e cinco
+        centésimos por cento) ao ano, base 252 (duzentos e cinquenta e
+        dois) Dias Úteis (“Sobretaxa” e, em conjunto com a Taxa DI,
+        “Remuneração”), calculada de forma exponencial e cumulativa pro
+        rata temporis por Dias Úteis decorridos, desde a Data de Início
+        da Rentabilidade ou a Data de Pagamento da Remuneração (conforme
+        definido abaixo) imediatamente anterior, conforme o caso, até a
+        data do efetivo pagamento.
+
+        1.  O cálculo da Remuneração obedecerá à seguinte fórmula:
+
+J = VNe x (FatorJuros – 1)
+
+onde:
+
+  ------------ --- --------------------------------------------------------
+  J            =   valor unitário da Remuneração devida, calculada com
+                   8 (oito) casas decimais sem arredondamento;
+
+  VNe          =   Valor Nominal Unitário ou o saldo do Valor Nominal
+                   Unitário, conforme o caso, calculado com 8 (oito) casas
+                   decimais, sem arredondamento;
+
+  FatorJuros   =   fator de juros calculado com 9 (nove) casas decimais,
+                   com arredondamento, apurado da seguinte forma:
+  ------------ --- --------------------------------------------------------
+
+FatorJuros = (FatorDI x FatorSpread)
+
+onde:
+
+  ----------- --- -------------------------------------------------------
+  FatorDI     =   produtório das Taxas DI desde a Data de Início da
+                  Rentabilidade ou Data de Pagamento da Remuneração
+                  imediatamente anterior, o que ocorrer por último,
+                  inclusive, até a data de cálculo, exclusive, calculado
+                  com 8 (oito) casas decimais, com arredondamento,
+                  apurado da seguinte forma:
+
+                  []
+
+  onde:           
+
+  n           =   número total de Taxas DI consideradas na apuração do
+                  produtório, sendo “n” um número inteiro.
+
+  k           =   número de ordem das Taxas DI, variando de 1 (um) até
+                  “n”
+
+  TDI[]       =   Taxa DI, de ordem k, expressa ao dia, calculada com
+                  8 (oito) casas decimais com arredondamento, da seguinte
+                  forma
+
+                  []
+
+  DI[]        =   Taxa DI de ordem k divulgada pela B3 S.A. – Brasil,
+                  Bolsa, Balcão, válida por 1 (um) Dia Útil (overnight),
+                  utilizada com 2 (duas) casas decimais
+  ----------- --- -------------------------------------------------------
+
+FatorSpread = sobretaxa de juros fixos calculada com 9 (nove) casas
+decimais, com arredondamento, apurado da seguinte forma:
+
+[]
+
+Onde:
+
+  ----------- --- --------------------------------------------------------
+  Spread      =   3,7500;
+
+  DP          =   número de Dias Úteis entre a Data de Início da
+                  Rentabilidade ou a Data de Pagamento da Remuneração
+                  imediatamente anterior, conforme o caso, e a data de
+                  cálculo, sendo “DP” um número inteiro;
+  ----------- --- --------------------------------------------------------
+
+Observações:
+
+(i) efetua-se o produtório dos fatores diários (1 + TDIk), sendo que a
+    cada fator diário acumulado, trunca-se o resultado com
+    16 (dezesseis) casas decimais, aplicando-se o próximo fator diário,
+    e assim por diante até o último considerado;
+
+(ii) a Taxa DI deverá ser utilizada considerando idêntico número de
+     casas decimais divulgado pela entidade responsável pelo seu
+     cálculo;
+
+(iii) estando os fatores acumulados, considera-se o fator resultante
+      "FatorDI" com 8 (oito) casas decimais, com arredondamento; e
+
+(iv) o fator resultante da expressão (FatorDI x FatorSpread) deve ser
+     considerado com 9 (nove) casas decimais, com arredondamento.
+
+     1.  Observado o quanto estabelecido na Cláusula 4.11.3 abaixo, no
+         caso de indisponibilidade temporária da Taxa DI, será
+         utilizada, em sua substituição, a última Taxa DI divulgada até
+         a data do cálculo, não sendo devidas quaisquer compensações
+         financeiras, tanto por parte da Emissora quanto por parte dos
+         Debenturistas, quando da divulgação posterior da Taxa DI que
+         seria aplicável (“Indisponibilidade da Taxa DI”).
+
+     2.  Na ausência de apuração e/ou divulgação da Taxa DI por prazo
+         superior a 10 (dez) Dias Úteis da data esperada para sua
+         divulgação, ou, ainda, no caso de sua extinção por imposição
+         legal ou determinação judicial, o Agente Fiduciário deverá
+         convocar no primeiro Dia Útil subsequente ao término do prazo
+         de 10 (dez) Dias Úteis acima ou da data de sua extinção por
+         imposição legal ou determinação judicial, Assembleia Geral de
+         Debenturistas (conforme definido abaixo) para os Debenturistas
+         definirem, de comum acordo com a Emissora, o parâmetro a ser
+         aplicado. Até a deliberação desse parâmetro, serão utilizadas,
+         para o cálculo do valor de quaisquer obrigações pecuniárias
+         previstas nesta Escritura de Emissão, as fórmulas da Cláusula
+         4.11.1 acima e na apuração de TDIk será utilizada a última Taxa
+         DI divulgada oficialmente, não sendo devidas quaisquer
+         compensações entre a Emissora e os Debenturistas, quando da
+         divulgação posterior da Taxa DI ou da definição do novo
+         parâmetro.
+
+     3.  Caso a Taxa DI venha a ser divulgada antes da realização da
+         Assembleia Geral de Debenturistas, a referida assembleia não
+         será mais realizada, e a Taxa DI, a partir da data de sua
+         divulgação, passará a ser utilizada para o cálculo da
+         Remuneração.
+
+     4.  Caso não haja acordo sobre o novo parâmetro a ser utilizado
+         para fins de cálculo da Remuneração entre a Emissora e os
+         Debenturistas representando, no mínimo, 75% (setenta e cinco
+         por cento) das Debêntures em Circulação (conforme definido
+         abaixo), a Emissora deverá resgatar a totalidade das
+         Debêntures, no prazo de até 5 (cinco) Dias Úteis contado da
+         data da realização da respectiva Assembleia Geral de
+         Debenturistas, pelo seu Valor Nominal Unitário ou saldo do
+         Valor Nominal Unitário, conforme o caso, acrescido da
+         Remuneração calculada pro rata temporis desde a Data de Início
+         da Rentabilidade ou a Data de Pagamento da Remuneração
+         imediatamente anterior, conforme o caso, até a data do efetivo
+         resgate. Neste caso, para cálculo da Remuneração com relação às
+         Debêntures a serem resgatadas, será utilizado para a apuração
+         de TDIk o valor da última Taxa DI divulgada oficialmente,
+         observadas ainda as demais disposições previstas nesta Cláusula
+         4.11 para fins de cálculo da Remuneração.
+
+     1.  Pagamento da Remuneração. Ressalvadas as hipóteses de resgate
+         antecipado das Debêntures ou vencimento antecipado das
+         obrigações decorrentes das Debêntures, nos termos previstos
+         nesta Escritura de Emissão, a Remuneração será paga
+         mensalmente, sempre no dia 25 (vinte e cinco) de cada mês,
+         sendo o primeiro pagamento em 25 de dezembro de 2020 e o último
+         na Data de Vencimento (cada uma, uma “Data de Pagamento da
+         Remuneração”).
+
+     2.  Amortização Programada. Sem prejuízo dos pagamentos em
+         decorrência do resgate antecipado ou do vencimento antecipado
+         das obrigações decorrentes das Debêntures, nos termos desta
+         Escritura de Emissão, o saldo do Valor Nominal Unitário será
+         amortizado em parcelas mensais consecutivas, devidas sempre no
+         dia 25 (vinte e cinco) de cada mês, sendo a primeira parcela
+         devida em 25 de março de 2021 e a última na Data de Vencimento
+         (cada uma, uma “Data de Amortização Programada”), de acordo com
+         a tabela abaixo:
+
+  ------------------------------------------------------------------------
+  Parcela           Data de Amortização     Percentual do saldo do Valor
+                    Programada              Nominal Unitário a ser
+                                            amortizado
+  ----------------- ----------------------- ------------------------------
+  1ª                25/03/2021              1,7544%
+
+  2ª                25/04/2021              1,7857%
+
+  3ª                25/05/2021              1,8182%
+
+  4ª                25/06/2021              1,8519%
+
+   5ª               25/07/2021              1,8868%
+
+  6ª                25/08/2021              1,9231%
+
+  7ª                25/09/2021              1,9608%
+
+  8ª                25/10/2021              2,0000%
+
+  9ª                25/11/2021              2,0408%
+
+  10ª               25/12/2021              2,0834%
+
+  11ª               25/01/2022              2,1277%
+
+  12ª               25/02/2022              2,1739%
+
+  13ª               25/03/2022              2,2222%
+
+  14ª               25/04/2022              2,2728%
+
+  15ª               25/05/2022              2,3256%
+
+  16ª               25/06/2022              2,3810%
+
+  17ª               25/07/2022              2,4391%
+
+  18ª               25/08/2022              2,5000%
+
+  19ª               25/09/2022              2,5641%
+
+  20ª               25/10/2022              2,6316%
+
+  21ª               25/11/2022              2,7027%
+
+  22ª               25/12/2022              2,7778%
+
+  23ª               25/01/2023              2,8572%
+
+  24ª               25/02/2023              2,9412%
+
+  25ª               25/03/2023              3,0303%
+
+  26ª               25/04/2023              3,1250%
+
+  27ª               25/05/2023              3,2259%
+
+  28ª               25/06/2023              3,3334%
+
+  29ª               25/07/2023              3,4483%
+
+  30ª               25/08/2023              3,5715%
+
+  31ª               25/09/2023              3,7038%
+
+  32ª               25/10/2023              3,8462%
+
+  33ª               25/11/2023              4,0001%
+
+  34ª               25/12/2023              4,1667%
+
+  35ª               25/01/2024              4,3479%
+
+  36ª               25/02/2024              4,5455%
+
+  37ª               25/03/2024              4,7620%
+
+  38ª               25/04/2024              5,0001%
+
+  39ª               25/05/2024              5,2633%
+
+  40ª               25/06/2024              5,5557%
+
+  41ª               25/07/2024              5,8825%
+
+  42ª               25/08/2024              6,2502%
+
+  43ª               25/09/2024              6,6669%
+
+  44ª               25/10/2024              7,1431%
+
+  45ª               25/11/2024              7,6926%
+
+  46ª               25/12/2024              8,3337%
+
+  47ª               25/01/2025              9,0913%
+
+  48ª               25/02/2025              10,0005%
+
+  49ª               25/03/2025              11,1117%
+
+  50ª               25/04/2025              12,5007%
+
+  51ª               25/05/2025              14,2866%
+
+  52ª               25/06/2025              16,6679%
+
+  53ª               25/07/2025              20,0018%
+
+  54ª               25/08/2025              25,0029%
+
+  55ª               25/09/2025              33,3384%
+
+  56ª               25/10/2025              50,0114%
+
+  57ª               Data de Vencimento      100,0000%
+  ------------------------------------------------------------------------
+
+3.  Local de Pagamento. Os pagamentos a que fizerem jus as Debêntures
+    serão efetuados pela Emissora na respectiva data do pagamento,
+    utilizando-se, conforme o caso: (i) os procedimentos adotados pela
+    B3 para as Debêntures custodiadas eletronicamente na B3; ou (ii) na
+    hipótese de as Debêntures não estarem custodiadas eletronicamente na
+    B3, os procedimentos adotados pelo Escriturador ou, com relação aos
+    pagamentos que não possam ser realizados por meio do Escriturador,
+    na sede da Emissora, conforme o caso.
+
+    1.  Farão jus ao recebimento de qualquer valor devido aos
+        Debenturistas nos termos desta Escritura de Emissão aqueles que
+        sejam Debenturistas ao final do Dia Útil imediatamente anterior
+        à respectiva data do pagamento.
+
+4.  Prorrogação dos Prazos. Considerar-se-ão automaticamente prorrogados
+    os prazos referentes ao pagamento de qualquer obrigação prevista
+    nesta Escritura de Emissão até o Dia Útil imediatamente subsequente,
+    se o seu vencimento coincidir com dia que não seja Dia Útil, não
+    sendo devido qualquer acréscimo aos valores a serem pagos.
+
+    1.  Exceto quando previsto expressamente de modo diverso na presente
+        Escritura de Emissão, entende-se por “Dia(s) Útil(eis)” (i) com
+        relação a qualquer obrigação pecuniária realizada por meio da
+        B3, inclusive para fins de cálculo, qualquer dia que não seja
+        sábado, domingo ou feriado declarado nacional; (ii) com relação
+        a qualquer obrigação pecuniária que não seja realizada por meio
+        da B3, inclusive para fins de cálculo, qualquer dia no qual haja
+        expediente nos bancos comerciais na Cidade de São Paulo, Estado
+        de São Paulo, e que não seja sábado ou domingo; e (iii) com
+        relação a qualquer obrigação não pecuniária prevista nesta
+        Escritura de Emissão, qualquer dia que não seja sábado ou
+        domingo ou feriado na Cidade de São Paulo, Estado de São Paulo.
+
+        1.  Quando a indicação de prazo contado por dia na presente
+            Escritura de Emissão não vier acompanhada da indicação de
+            “Dia(s) Útil(eis)”, entende-se que o prazo é contado em dias
+            corridos.
+
+5.  Encargos Moratórios. Sem prejuízo da Remuneração, ocorrendo
+    impontualidade no pagamento, pela Emissora, de qualquer quantia
+    devida aos Debenturistas, os débitos em atraso vencidos e não pagos
+    pela Emissora ficarão sujeitos, desde a data do inadimplemento até a
+    data do efetivo pagamento, independentemente de aviso ou notificação
+    ou interpelação judicial ou extrajudicial, a: (i) juros moratórios
+    de 1% (um por cento) ao mês; e (ii) multa convencional, irredutível
+    e de natureza não compensatória, de 2% (dois por cento), ambos
+    calculados sobre o montante devido e não pago (“Encargos
+    Moratórios”).
+
+6.  Decadência dos Direitos aos Acréscimos. O não comparecimento do
+    Debenturista para receber o valor correspondente a quaisquer das
+    obrigações pecuniárias da Emissora, nas datas previstas nesta
+    Escritura de Emissão, ou em comunicado publicado pela Emissora no
+    jornal indicado na Cláusula 4.19 abaixo, não lhe dará direito ao
+    recebimento da Remuneração e/ou Encargos Moratórios no período
+    relativo ao atraso no recebimento, sendo-lhe, todavia, assegurados
+    os direitos adquiridos até a data do respectivo vencimento ou
+    pagamento.
+
+7.  Repactuação Programada. Não haverá repactuação programada das
+    Debêntures.
+
+8.  Publicidade. Todos os atos e decisões a serem tomados decorrentes
+    desta Emissão que, de qualquer forma, vierem a envolver interesses
+    dos Debenturistas, deverão ser obrigatoriamente comunicados na forma
+    de avisos, no DOESP e no jornal “Valor Econômico”, bem como na
+    página da Emissora na rede mundial de computadores
+    (www.autopass.com.br), observado o estabelecido no artigo 289 da Lei
+    das Sociedades por Ações e as limitações impostas pela Instrução CVM
+    476 em relação à publicidade da oferta e os prazos legais, devendo a
+    Emissora comunicar o Agente Fiduciário e a B3 a respeito de qualquer
+    publicação na data da sua realização, sendo certo que, caso a
+    Emissora altere seu jornal de publicação após a Data de Emissão,
+    deverá enviar notificação ao Agente Fiduciário informando o novo
+    veículo para divulgação de suas informações.
+
+9.  Tratamento Tributário e Imunidade de Debenturistas. Caso qualquer
+    Debenturista goze de algum tipo de imunidade ou isenção tributária,
+    este deverá encaminhar ao Banco Liquidante e à Emissora, com, no
+    mínimo, 10 (dez) Dias Úteis de antecedência em relação à data
+    prevista para recebimento de quaisquer valores relativos às
+    Debêntures, documentação comprobatória dessa imunidade ou isenção
+    tributária, sendo certo que, caso o Debenturista não envie referida
+    documentação, a Emissora fará as retenções dos tributos previstos na
+    legislação tributária em vigor nos rendimentos de tal Debenturista.
+
+    1.  O Debenturista que tenha apresentado documentação comprobatória
+        de sua condição de imunidade ou isenção tributária, nos termos
+        da Cláusula 4.20 acima, e que tiver essa condição alterada por
+        disposição normativa, ou por deixar de atender às condições e
+        requisitos porventura prescritos no dispositivo legal aplicável,
+        ou ainda, tiver essa condição questionada por autoridade
+        judicial, fiscal ou regulamentar competente, deverá comunicar
+        esse fato, de forma detalhada e por escrito, ao Banco
+        Liquidante, com cópia para a Emissora, bem como prestar qualquer
+        informação adicional em relação ao tema que lhe seja solicitada
+        pelo Banco Liquidante ou pela Emissora.
+
+10. Classificação de Risco. Não será contratada agência de classificação
+    de risco (rating) no âmbito da Oferta Restrita para atribuir
+    classificação de risco (rating) às Debêntures.
+
+11. Garantia Real.
+
+    1.  Em garantia do fiel, integral e pontual pagamento e cumprimento
+        de todas e quaisquer obrigações, principais e acessórias,
+        presentes ou futuras, decorrentes das Debêntures, desta
+        Escritura de Emissão e/ou do Contrato de Garantia, inclusive o
+        pagamento do Valor Nominal Unitário ou saldo do Valor Nominal
+        Unitário, conforme o caso, acrescido da Remuneração, calculada
+        pro rata temporis desde a Data de Início da Rentabilidade ou a
+        Data de Pagamento de Remuneração imediatamente anterior,
+        conforme o caso, até a data do efetivo pagamento, sem prejuízo,
+        dos Encargos Moratórios, se houver, bem como das demais
+        obrigações pecuniárias previstas nesta Escritura de Emissão e/ou
+        no Contrato de Garantia, inclusive os honorários do Agente
+        Fiduciário e/ou dos demais prestadores de serviços contratados
+        no âmbito da Emissão, e, ainda, a totalidade das eventuais
+        indenizações, custos, despesas e demais encargos comprovadamente
+        incorridos pelo Agente Fiduciário, na qualidade de representante
+        dos Debenturistas, ou pelos Debenturistas, em decorrência de
+        quaisquer medidas judiciais ou extrajudiciais necessárias à
+        salvaguarda dos seus direitos e prerrogativas decorrentes das
+        Debêntures, desta Escritura de Emissão e/ou do Contrato de
+        Garantia (“Obrigações Garantidas”), será outorgada e
+        constituída, pela Emissora, em favor dos Debenturistas,
+        representados pelo Agente Fiduciário, garantia real, na forma de
+        cessão fiduciária, sobre:
+
+(i) a totalidade dos direitos creditórios de titularidade da Emissora
+    oriundos do “Contrato de Prestação de Serviços, Locação de
+    Equipamentos e Outras Avenças” celebrado entre a Emissora e o
+    Consórcio Metropolitano de Transportes (“CMT”) em 27 de outubro de
+    2015, conforme aditado de tempos em tempos (“Cessão Fiduciária
+    Direitos Creditórios CMT”, “Direitos Creditórios CMT” e “Contrato
+    CMT”, respectivamente);
+
+(ii) a totalidade dos direitos creditórios de titularidade da Emissora
+     oriundos do “Contrato de Prestação de Serviços de Implementação e
+     Operacionalização de Sistema de Bilhetagem Eletrônica e Outras
+     Avenças” celebrado entre a Emissora e a Associação de Apoio e
+     Estudo da Bilhetagem e Arrecadação nos Serviços Públicos de
+     Transporte de Passageiros do Estado de São Paulo – ABASP (“ABASP”)
+     em 27 de abril de 2020, conforme aditado de tempos em tempos
+     (“Cessão Fiduciária Direitos Creditórios ABASP”, “Direitos
+     Creditórios ABASP” e “Contrato ABASP”, respectivamente); e
+
+(iii) a totalidade dos direitos da Emissora, inclusive creditórios, em
+      relação à conta bancária vinculada aberta junto ao Itaú Unibanco
+      S.A. (“Banco Depositário”), de titularidade da Emissora, a ser
+      movimentada, única e exclusivamente, pelo Banco Depositário, nos
+      termos do contrato de administração de contas a ser celebrado
+      entre a Emissora, o Agente Fiduciário e o Banco Depositário
+      (“Contrato de Depositário”), na qual deverão ser depositados os
+      Direitos Creditórios CMT e os Direitos Creditórios ABASP (“Cessão
+      Fiduciária Conta Vinculada” e “Conta Vinculada”, respectivamente,
+      sendo, a Cessão Fiduciária Direitos Creditórios CMT, a Cessão
+      Fiduciária Direitos Creditórios ABASP e a Cessão Fiduciária Conta
+      Vinculada, em conjunto, “Garantia Real”).
+
+      1.  Nos termos do Contrato de Garantia, até a quitação integral
+          das Obrigações Garantidas, deverão ser mantidos na Conta
+          Vinculada, de forma cumulativa, recursos em montante
+          equivalente a (i) 30% (trinta por cento) do saldo do Valor
+          Nominal Unitário (“Montante Mínimo Cash Collateral”); e (ii)
+          soma do percentual do saldo do Valor Nominal Unitário a ser
+          amortizado na Data de Amortização Programada imediatamente
+          subsequente e do valor da Remuneração devida na Data de
+          Pagamento de Remuneração imediatamente anterior (“Montante
+          Mínimo Conta Vinculada”).
+
+      1.  A outorga da Garantia Real será constituída nos termos do
+          “Instrumento Particular de Cessão Fiduciária de Direitos
+          Creditórios e de Direitos sobre Conta Vinculada e Outras
+          Avenças” a ser celebrado entre a Emissora e o Agente
+          Fiduciário (“Contrato de Garantia”).
+
+          1.  O registro do Contrato de Garantia e demais formalidades
+              referentes à constituição da Garantia Real, conforme
+              aplicável, serão realizados na forma e prazo previstos no
+              Contrato de Garantia, conforme previsto na Cláusula 2.7
+              acima.
+
+      2.  Cabe ao Agente Fiduciário requerer a execução, judicial ou
+          extrajudicial, da Garantia Real, observados os termos e
+          condições desta Escritura de Emissão e/ou do Contrato de
+          Garantia, em caso de descumprimento das Obrigações Garantidas.
+
+      3.  Fica desde já certo e ajustado que a inobservância, pelo
+          Agente Fiduciário, dos prazos para execução da Garantia Real
+          ou de quaisquer garantias constituídas em favor dos
+          Debenturistas não ensejará, sob hipótese nenhuma, perda de
+          qualquer direito ou faculdade prevista nesta Escritura de
+          Emissão e/ou no Contrato de Garantia.
+
+      4.  As Partes reconhecem que a Garantia Real será constituída em
+          caráter autônomo e adicional em relação à Fiança e/ou qualquer
+          outra garantia ou direito real de garantia constituído ou a
+          ser constituído no âmbito da Emissão, e poderá ser executada
+          de forma isolada, alternativa ou conjuntamente com a Fiança
+          e/ou qualquer outra garantia ou direito real de garantia
+          constituído ou a ser constituído no âmbito da Emissão,
+          independentemente de qualquer ordem ou preferência.
+
+      1.  Fiança.
+
+          1.  Em garantia do fiel, integral e pontual pagamento e
+              cumprimento das Obrigações Garantidas, as Fiadoras, neste
+              ato, prestam garantia fidejussória, na forma de fiança, em
+              favor dos Debenturistas, representados pelo Agente
+              Fiduciário, assumindo, a partir da presente data e
+              independentemente de qualquer condição, em caráter
+              irrevogável e irretratável, a condição de fiadoras,
+              principais pagadoras e responsáveis, solidariamente com a
+              Emissora, pelo pagamento integral das Obrigações
+              Garantidas, nas datas previstas nesta Escritura de Emissão
+              (“Fiança”, e, em conjunto com a Garantia Real,
+              “Garantias”).
+
+          2.  As Fiadoras expressamente renunciam aos benefícios de
+              ordem, novação, direitos e faculdades de exoneração de
+              qualquer natureza previstos nos artigos 333, parágrafo
+              único, 364, 366, 368, 821, 824, 827, 829, 830, 834, 835,
+              837, 838 e 839, todos da Lei nº 10.406, de 10 de janeiro
+              de 2002, conforme alterada (“Código Civil”) e artigos 130
+              e 794, da Lei n° 13.105, de 16 de março de 2015, conforme
+              alterada (“Código de Processo Civil”).
+
+          3.  As Obrigações Garantidas deverão ser pagas pelas Fiadoras
+              no prazo de até de 1 (um) Dia Útil contado da data do
+              inadimplemento da Emissora.
+
+              1.  Os pagamentos relativos à Fiança serão realizados
+                  pelas Fiadoras fora do âmbito da B3.
+
+          4.  Todos e quaisquer pagamentos realizados em decorrência da
+              Fiança serão efetuados livres e líquidos, sem a dedução de
+              quaisquer tributos, impostos, taxas, contribuições de
+              qualquer natureza, encargos ou retenções, presentes ou
+              futuros, bem como de quaisquer juros, multas ou demais
+              exigibilidades fiscais, devendo as Fiadoras pagar as
+              quantias adicionais que sejam necessárias para que os
+              Debenturistas recebam, após tais deduções, recolhimentos
+              ou pagamentos, uma quantia equivalente à que teria sido
+              recebida se tais deduções, recolhimentos ou pagamentos não
+              fossem aplicáveis.
+
+          5.  A Fiança permanecerá válida e eficaz em todos os seus
+              termos até o completo, efetivo e irrevogável pagamento e
+              cumprimento das Obrigações Garantidas, inclusive em caso
+              de aditamentos, alterações e quaisquer outras modificações
+              nesta Escritura de Emissão, no Contrato de Garantia e/ou
+              nos demais documentos da Oferta Restrita.
+
+          6.  As Fiadoras desde já reconhecem como prazo determinado,
+              para fins do artigo 835 do Código Civil, a data da
+              quitação integral das Obrigações Garantidas.
+
+          7.  A Fiança poderá ser executada pelo Agente Fiduciário,
+              judicial e extrajudicialmente, quantas vezes for
+              necessário até a quitação integral das Obrigações
+              Garantidas.
+
+          8.  Fica desde já certo e ajustado que a inobservância, pelo
+              Agente Fiduciário, dos prazos para execução da Fiança ou
+              de quaisquer garantias constituídas em favor dos
+              Debenturistas não ensejará, sob hipótese nenhuma, perda de
+              qualquer direito ou faculdade prevista nesta Escritura de
+              Emissão.
+
+          9.  As Partes reconhecem que a Fiança é constituída em caráter
+              autônomo e adicional em relação à Garantia Real, e poderá
+              ser executada de forma isolada, alternativa ou
+              conjuntamente com a Garantia Real e/ou qualquer outra
+              garantia ou direito real de garantia constituído ou a ser
+              constituído no âmbito da Emissão, independentemente de
+              qualquer ordem ou preferência.
+
+          10. As Fiadoras sub-rogar-se-ão nos direitos dos Debenturistas
+              caso venham a honrar a Fiança, total ou parcialmente,
+              sendo certo que as Fiadoras obrigam-se a (i) somente após
+              a quitação integral das Obrigações Garantidas, exigir e/ou
+              demandar o reembolso de valores da Emissora, em
+              decorrência de qualquer valor que tiver sido honrado em
+              decorrência da Fiança; e (ii) caso receba qualquer valor
+              da Emissora em reembolso de qualquer valor que tenha sido
+              honrado em decorrência da Fiança antes da quitação
+              integral das Obrigações Garantidas, repassar tal valor, no
+              prazo de até 2 (dois) Dias Úteis contado da data de seu
+              recebimento, ao Agente Fiduciário, para pagamento aos
+              Debenturistas.
+
+V.  RESGATE ANTECIPADO FACULTATIVO, AMORTIZAÇÃO EXTRAORDINÁRIA
+    FACULTATIVA, OFERTA DE RESGATE ANTECIPADO E AQUISIÇÃO FACULTATIVA
+
+    1.  Resgate Antecipado Facultativo.
+
+        1.  Não será admitido o resgate antecipado facultativo total ou
+            parcial das Debêntures.
+
+    2.  Amortização Extraordinária Facultativa.
+
+        1.  Não será admitida a amortização extraordinária das
+            Debêntures.
+
+    3.  Oferta de Resgate Antecipado Total.
+
+        1.  A Emissora poderá, a seu exclusivo critério, a qualquer
+            tempo, realizar oferta de resgate antecipado da totalidade
+            (sendo vedada a oferta facultativa de resgate antecipado
+            parcial) das Debêntures, endereçada a todos os
+            Debenturistas, sem distinção, sendo assegurada a igualdade
+            de condições a todos os Debenturistas para aceitar ou não o
+            resgate antecipado das Debêntures por eles detidas, nos
+            termos e condições abaixo (“Oferta de Resgate Antecipado
+            Total”).
+
+        2.  A Oferta de Resgate Antecipado Total deverá ser realizada
+            pela Emissora por meio de comunicação individual enviada aos
+            Debenturistas, com cópia para o Agente Fiduciário, ou
+            publicação de aviso aos Debenturistas, nos termos da
+            Cláusula 4.19 acima (“Comunicação de Oferta de Resgate
+            Antecipado Total”), com, no mínimo, 30 (trinta) dias de
+            antecedência da data em que se pretende realizar o efetivo
+            resgate.
+
+            1.  A Comunicação de Oferta de Resgate Antecipado Total
+                deverá conter, no mínimo, as seguintes informações:
+                (i) a data efetiva para o resgate das Debêntures e
+                pagamento aos Debenturistas, que deverá,
+                obrigatoriamente, ser um Dia Útil, observado ainda o
+                disposto na Cláusula 5.3.3 abaixo; (ii) a forma e prazo
+                para manifestação, à Emissora, do Debenturista que
+                aceitar a Oferta de Resgate Antecipado Total, observado
+                ainda o disposto na Cláusula 5.3.3 abaixo; (iii) a
+                estimativa do Valor da Oferta de Resgate Antecipado
+                Total (conforme definido abaixo); e (iv) quaisquer
+                outras informações necessárias à operacionalização do
+                resgate antecipado e à tomada de decisão pelos
+                Debenturistas.
+
+        3.  Após o envio ou publicação, conforme o caso, da Comunicação
+            de Oferta de Resgate Antecipado Total, os Debenturistas que
+            optarem pela adesão à Oferta de Resgate Antecipado Total
+            terão que se manifestar à Emissora no prazo e forma
+            dispostos na Comunicação de Oferta de Resgate Antecipado
+            Total, sendo certo que o resgate antecipado ocorrerá em uma
+            única data para todas as Debêntures e observado que a
+            Emissora somente poderá resgatar antecipadamente a
+            quantidade de Debêntures que tenha sido indicada pelos
+            Debenturistas que expressamente manifestaram sua adesão à
+            referida Oferta de Resgate Antecipado Total.
+
+        4.  O valor a ser pago pela Emissora aos Debenturistas que
+            aderirem ao resgate antecipado no âmbito da Oferta de
+            Resgate Antecipado Total será equivalente ao Valor Nominal
+            Unitário ou saldo do Valor Nominal Unitário, conforme o
+            caso, acrescido (i) da Remuneração, calculada pro rata
+            temporis desde a Data de Início da Rentabilidade ou da Data
+            de Pagamento da Remuneração imediatamente anterior, conforme
+            o caso, até a data do efetivo resgate, e dos Encargos
+            Moratórios, se houver; e (ii) de eventual prêmio de resgate
+            oferecido aos Debenturistas, a exclusivo critério da
+            Emissora, o qual não poderá, em nenhuma hipótese, ser
+            negativo (“Valor da Oferta de Resgate Antecipado Total”).
+
+        5.  As Debêntures resgatadas pela Emissora no âmbito da Oferta
+            de Resgate Antecipado Total deverão ser canceladas pela
+            Emissora.
+
+        6.  O pagamento do Valor da Oferta de Resgate Antecipado Total
+            com relação às Debêntures (i) que estejam custodiadas
+            eletronicamente na B3, será realizado em conformidade com os
+            procedimentos operacionais da B3; e (ii) que não estejam
+            custodiadas eletronicamente na B3, será realizado em
+            conformidade com os procedimentos operacionais do
+            Escriturador.
+
+        7.  A Emissora deverá comunicar à B3, por meio de
+            correspondência em conjunto com o Agente Fiduciário, sobre a
+            realização do resgate no âmbito da Oferta de Resgate
+            Antecipado Total com, no mínimo, 3 (três) Dias Úteis de
+            antecedência da data da efetiva realização do referido
+            resgate.
+
+    4.  Aquisição Facultativa.
+
+        1.  A Emissora poderá, a qualquer tempo, adquirir Debêntures no
+            mercado secundário, de acordo com os procedimentos
+            estabelecidos na regulamentação aplicável, observados os
+            termos do artigo 13 da Instrução CVM 476 e o disposto no
+            artigo 55, parágrafo 3º, da Lei das Sociedades por Ações, e,
+            a partir de sua vigência, os termos e condições da Instrução
+            CVM n° 620, de 17 de março de 2020, conforme alterada
+            (“Instrução CVM 620”) e ainda, condicionado ao aceite do
+            respectivo Debenturista vendedor. As Debêntures objeto deste
+            procedimento poderão (i) ser canceladas; (ii) permanecer em
+            tesouraria da Emissora; ou (iii) ser novamente colocadas no
+            mercado. As Debêntures adquiridas pela Emissora para
+            permanência em tesouraria, nos termos desta Cláusula, se e
+            quando recolocadas no mercado, farão jus à mesma remuneração
+            das demais Debêntures.
+
+VI. 
+    VENCIMENTO ANTECIPADO
+
+    1.  Observado o disposto nas Cláusulas 6.2 a 6.4 abaixo, o Agente
+        Fiduciário deverá declarar antecipadamente vencidas as
+        Debêntures e demais obrigações decorrentes desta Escritura de
+        Emissão, e exigir o imediato pagamento do Valor Nominal Unitário
+        ou saldo do Valor Nominal Unitário, conforme o caso, acrescido
+        da Remuneração, calculada pro rata temporis desde a Data de
+        Início da Rentabilidade ou a Data de Pagamento de Remuneração
+        imediatamente anterior, conforme o caso, até a data do efetivo
+        pagamento, sem prejuízo dos Encargos Moratórios, se houver, bem
+        como de quaisquer outros valores eventualmente devidos nos
+        termos desta Escritura de Emissão, na ocorrência de quaisquer
+        dos eventos indicados nas Cláusulas 6.1.1 e 6.1.2 abaixo, desde
+        que respeitados os prazos de cura nelas estabelecidos, quando
+        existentes (cada evento, “Evento de Vencimento Antecipado”).
+
+        1.  Constituem Eventos de Vencimento Antecipado que acarretam o
+            vencimento automático das Debêntures e demais obrigações
+            decorrentes desta Escritura de Emissão, aplicando-se o
+            disposto na Cláusula 6.2 abaixo, quaisquer dos eventos
+            abaixo (cada um, um “Evento de Vencimento Antecipado
+            Automático”):
+
+(i) inadimplemento, pela Emissora e/ou pelas Fiadoras, de qualquer
+    obrigação pecuniária prevista nesta Escritura de Emissão e/ou no
+    Contrato de Garantia, que não seja integralmente sanado no prazo de
+    até 1 (um) Dia Útil contado da respectiva data de inadimplemento;
+
+(ii) a ocorrência, conforme aplicável, de (a) extinção, encerramento das
+     atividades ou dissolução, da Emissora, de qualquer das sociedades
+     controladas pela Emissora, de qualquer das Fiadoras, da Mondo
+     Holding S.A., inscrita no CNPJ/ME sob o nº 32.754.215/0001-94
+     (“Mondo Holding”) e/ou do Mondo Fundo de Investimento em
+     Participações Multiestratégia, inscrito no CNPJ/ME sob o nº
+     34.031.790/0001-94 (“Mondo FIP”); (b) intervenção, liquidação ou a
+     decretação de falência, da Emissora, de qualquer das sociedades
+     controladas pela Emissora, de qualquer das Fiadoras, da Mondo
+     Holding e/ou do Mondo FIP; (c) requerimento de autofalência
+     formulado pela Emissora, por qualquer das sociedades controladas
+     pela Emissora, por qualquer das Fiadoras, pela Mondo Holding e/ou
+     pelo Mondo FIP; (d) requerimento de falência relativo à Emissora, à
+     qualquer das sociedades controladas pela Emissora, à qualquer das
+     Fiadoras, à Mondo Holding e/ou ao Mondo FIP, formulado por
+     terceiros, que não tenha sido elidido no prazo legal; ou (e)
+     qualquer evento análogo que caracterize estado de insolvência da
+     Emissora, de qualquer das sociedades controladas pela Emissora, de
+     qualquer das Fiadoras, da Mondo Holding e/ou do Mondo FIP, nos
+     termos da legislação aplicável;
+
+(iii) (a) se a Emissora, qualquer das sociedades controladas pela
+      Emissora, qualquer das Fiadoras, a Mondo Holding e/ou o Mondo FIP,
+      conforme aplicável, propuser plano de recuperação judicial ou
+      extrajudicial ou qualquer outra modalidade de concurso de credores
+      prevista em lei específica, a qualquer credor ou classe de
+      credores, independentemente de ter sido requerida ou obtida
+      homologação judicial do referido plano; ou (b) se a Emissora,
+      qualquer das sociedades controladas pela Emissora, qualquer das
+      Fiadoras, a Mondo Holding e/ou o Mondo FIP, conforme aplicável,
+      ingressar em juízo com requerimento de recuperação judicial,
+      independentemente de deferimento do processamento da recuperação
+      ou de sua concessão pelo juiz competente;
+
+(iv) transformação da Emissora de sociedade por ações para qualquer
+     outro tipo societário, nos termos dos artigos 220 a 222 da Lei das
+     Sociedades por Ações;
+
+(v) declaração de vencimento antecipado de qualquer obrigação pecuniária
+    assumida pela Emissora, por qualquer das Fiadoras, pela Mondo
+    Holding e/ou pelo Mondo FIP, ainda que na condição de garantidoras,
+    no âmbito do mercado financeiro ou mercado de capitais, local ou
+    internacional, cujo valor, individual ou agregado, seja igual ou
+    superior a (a) R$1.000.000,00 (um milhão de reais), ou seu valor
+    equivalente em outras moedas, em relação à Emissora; ou (b)
+    R$1.000.000,00 (um milhão de reais), ou seu valor equivalente em
+    outras moedas, em relação cada uma das Fiadoras, a Mondo Holding
+    e/ou o Mondo FIP;
+
+(vi) inadimplemento de qualquer obrigação pecuniária assumida pela
+     Emissora, por qualquer das Fiadoras, pela Mondo Holding e/ou pelo
+     Mondo FIP, ainda que na condição de garantidoras, no âmbito do
+     mercado financeiro ou mercado de capitais, local ou internacional,
+     cujo valor, individual ou agregado, seja igual ou superior a (a)
+     R$1.000.000,00 (um milhão de reais), ou seu valor equivalente em
+     outras moedas, em relação à Emissora, ou (b) R$1.000.000,00 (um
+     milhão de reais), ou seu valor equivalente em outras moedas, em
+     relação a cada uma das Fiadoras, a Mondo Holding e/ou o Mondo FIP;
+
+(vii) redução de capital social da Emissora, de qualquer das Fiadoras,
+      da Mondo Holding e/ou do Mondo FIP, exceto para fins de absorção
+      de prejuízos acumulados;
+
+(viii) declaração, distribuição e/ou remessa de quaisquer recursos, pela
+       Emissora, por qualquer das Fiadoras, pela Mondo Holding e/ou pelo
+       Mondo FIP, aos seus acionistas ou quotistas, diretos ou
+       indiretos, sob a forma de resgate, recompra, amortização ou
+       bonificação de ações ou quotas de emissão da Emissora, de
+       qualquer das Fiadoras, da Mondo Holding e/ou do Mondo FIP,
+       dividendos, juros sobre capital próprio, pagamento de juros e/ou
+       amortização da dívida subordinada, ou qualquer outra participação
+       no lucro estatutariamente prevista, exceto (a) pelos dividendos
+       mínimos obrigatórios, nos termos do artigo 202 da Lei das
+       Sociedades por Ações, de acordo com o estatuto ou contrato social
+       da Emissora, da respectiva Fiadora e/ou da Mondo Holding, vigente
+       na Data de Emissão; ou (b) pelos dividendos fixos ou mínimos das
+       ações preferenciais de emissão da Emissora detidas por seus
+       administradores em decorrência de política de remuneração dos
+       administradores da Emissora, em qualquer hipótese, limitados ao
+       valor total de R$4.000.000,00 (quatro milhões de reais) por
+       exercício social;
+
+(ix) não utilização, pela Emissora, dos recursos líquidos captados por
+     meio da presente Emissão estritamente nos termos da Cláusula 3.5
+     acima;
+
+(x) cessão, promessa de cessão ou qualquer forma de transferência ou
+    promessa de transferência a terceiros, no todo ou em parte, pela
+    Emissora e/ou por qualquer das Fiadoras, conforme o caso, de
+    qualquer de suas obrigações nos termos desta Escritura de Emissão
+    e/ou do Contrato de Garantia, conforme aplicável;
+
+(xi) invalidade, nulidade, ineficácia ou inexequibilidade, total ou
+     parcial, desta Escritura de Emissão, da Fiança, do Contrato de
+     Garantia e/ou dos demais documentos da Oferta Restrita, decretada
+     por decisão judicial, arbitral ou administrativa;
+
+(xii) questionamento na esfera judicial, arbitral ou administrativa
+      iniciado pela Emissora e/ou por qualquer das Fiadoras e/ou por
+      suas sociedades controladoras, coligadas, sob controle comum e/ou
+      controladas, bem como seus respectivos acionistas,
+      administradores, funcionários e/ou representantes, a respeito da
+      validade, eficácia ou exequibilidade desta Escritura de Emissão,
+      da Fiança, do Contrato de Garantia e/ou dos demais documentos da
+      Oferta Restrita;
+
+(xiii) descumprimento de decisão judicial transitada em julgado ou
+       arbitral final, pela Emissora, por qualquer das Fiadoras, pela
+       Mondo Holding e/ou pelo Mondo FIP, independentemente do valor;
+
+(xiv) alteração do objeto social da Emissora que implique na exclusão da
+      atividade principal da Emissora ou inclua atividade relevante que
+      esteja fora dos segmentos de mercado correspondentes às atividades
+      atualmente desenvolvidas pela Emissora;
+
+(xv) comprovarem-se falsas ou enganosas quaisquer das declarações ou
+     garantias prestadas pela Emissora e/ou por qualquer das Fiadoras
+     nesta Escritura de Emissão, no Contrato de Garantia e/ou nos demais
+     documentos da Oferta Restrita; e
+
+(xvi) existência de sentença condenatória contra a Emissora, qualquer
+      das Fiadoras, a Mondo Holding e/ou o Mondo FIP, por violação da
+      legislação e/ou regulamentação em vigor relativa à não utilização
+      ou incentivo, direta ou indiretamente, do trabalho infantil, do
+      trabalho análogo ao escravo ou do proveito criminoso da
+      prostituição ou ainda relativa aos direitos dos silvícolas, em
+      especial, mas não se limitando, ao direito sobre as áreas de
+      ocupação indígena, assim declaradas pela autoridade competente.
+
+      1.  Constituem Eventos de Vencimento Antecipado que podem
+          acarretar o vencimento das Debêntures e demais obrigações
+          decorrentes desta Escritura de Emissão, quaisquer dos eventos
+          previstos em lei e/ou quaisquer dos eventos abaixo,
+          aplicando-se o disposto na Cláusula 6.3 abaixo (cada um, um
+          “Evento de Vencimento Não Automático”):
+
+(i) descumprimento, pela Emissora e/ou por qualquer das Fiadoras, de
+    qualquer obrigação não pecuniária prevista na Escritura de Emissão,
+    no Contrato de Garantia e/ou nos demais documentos da Emissão, não
+    sanada no prazo de até 10 (dez) Dias Úteis contado da data do
+    respectivo descumprimento, ou no respectivo prazo de cura específico
+    previsto nesta Escritura de Emissão e/ou no Contrato de Garantia,
+    conforme o caso, o que for maior;
+
+(ii) inadimplemento de qualquer obrigação pecuniária assumida pela
+     Emissora, por qualquer das Fiadoras, pela Mondo Holding e/ou pelo
+     Mondo FIP, ainda que na condição de garantidoras, contraída perante
+     qualquer terceiro (exceto aquelas contraídas no âmbito do mercado
+     financeiro ou mercado de capitais, local ou internacional), cujo
+     valor, individual ou agregado, seja igual ou superior a (a)
+     R$1.000.000,00 (um milhão de reais), ou seu valor equivalente em
+     outras moedas, em relação à Emissora; ou (b) R$1.000.000,00 (um
+     milhão de reais), ou seu valor equivalente em outras moedas, em
+     relação a cada uma das Fiadoras, a Mondo Holding e/ou o Mondo FIP,
+     que não seja devidamente sanado no prazo de cura previsto no
+     respectivo instrumento;
+
+(iii) protestos de títulos contra a Emissora, qualquer das Fiadoras, a
+      Mondo Holding e/ou o Mondo FIP, cujo valor, individual ou
+      agregado, seja igual ou superior a (a) R$3.000.000,00 (três
+      milhões de reais), ou seu valor equivalente em outras moedas, em
+      relação à Emissora, ou (b) R$3.000.000,00 (três milhões de reais),
+      ou seu valor equivalente em outras moedas, em relação às Fiadoras,
+      a Mondo Holding e/ou o Mondo FIP, salvo se for validamente
+      comprovado pela Emissora, por qualquer das Fiadoras, pela Mondo
+      Holding e/ou pelo Mondo FIP, ao Agente Fiduciário, no prazo de até
+      5 (cinco) Dias Úteis contado da data em que a Emissora e/ou as
+      Fiadoras for notificada do protesto, (1) que o protesto foi
+      efetuado por erro ou má-fé de terceiros e desde que tenha sido
+      cancelado e/ou suspenso, em qualquer hipótese, (2) que o protesto
+      teve seus efeitos suspensos judicialmente, ou (3) que foi
+      apresentada garantia em juízo, aceita pelo poder judiciário;
+
+(iv) questionamento na esfera judicial, arbitral ou administrativa
+     iniciado por terceiro, a respeito da validade, eficácia ou
+     exequibilidade desta Escritura de Emissão, da Fiança, do Contrato
+     de Garantia e/ou dos demais documentos da Oferta Restrita;
+
+(v) existência de decisão judicial ou arbitral, de exigibilidade
+    imediata, contra a Emissora, qualquer das Fiadoras, a Mondo Holding
+    e/ou o Mondo FIP, cujo valor, individual ou agregado, seja igual ou
+    superior a (a) R$1.000.000,00 (um milhão de reais), ou seu valor
+    equivalente em outras moedas, em relação à Emissora, ou (b)
+    R$1.000.000,00 (um milhão de reais), ou seu valor equivalente em
+    outras moedas, em relação a cada uma das Fiadoras, a Mondo Holding
+    e/ou o Mondo FIP;
+
+(vi) existência decisão administrativa, de exigibilidade imediata,
+     contra a Emissora, qualquer das Fiadoras, a Mondo Holding e/ou o
+     Mondo FIP, cujo valor, individual ou agregado, seja igual ou
+     superior a (a) R$1.000.000,00 (um milhão de reais), ou seu valor
+     equivalente em outras moedas, em relação à Emissora, ou (b)
+     R$1.000.000,00 (um milhão de reais), ou seu valor equivalente em
+     outras moedas, em relação a cada uma das Fiadoras, a Mondo Holding
+     e/ou o Mondo FIP;
+
+(vii) alteração no controle acionário (conforme definição de controle
+      prevista no artigo 116 da Lei das Sociedades por Ações), direto ou
+      indireto, da Emissora, da Mondopass ou da Mondo Holding;
+
+(viii) caso a Mondo Holding deixe de ser titular de 100% (cem por cento)
+       das cotas de emissão do Mondo FIP;
+
+(ix) alteração no controle acionário (conforme definição de controle
+     prevista no artigo 116 da Lei das Sociedades por Ações) indireto da
+     Anbema, Feltech, Guide, Ikatu ou NV9;
+
+(x) cisão, fusão ou incorporação (inclusive incorporação de ações) da
+    Emissora e/ou de qualquer das Fiadoras ou, ainda, qualquer outra
+    forma de operação societária envolvendo a Emissora e/ou qualquer das
+    Fiadoras, exceto no caso de operação societária que implique na
+    alteração da composição societária da Mondo Holding e desde que (a)
+    Anbema, Feltech, Guide, Ikatu e NV9 mantenham, no mínimo, as suas
+    respectivas participações diretas no capital social da Mondo Holding
+    detidas na presente data; e (b) tal operação não implique no
+    endividamento da Mondo Holding;
+
+(xi) a Emissora deixar de ter suas demonstrações financeiras
+     consolidadas anuais auditadas por um dos seguintes auditores
+     independentes: (a) Pricewaterhousecoopers Auditores
+     Independentes; (b) Deloitte Touche Tohmatsu Auditores
+     Independentes; (c) KPMG Auditores Independentes; (d) Ernst & Young
+     Auditores Independentes S/S; (e) BDO RCS Auditores Independentes
+     S/S; ou (f) Grant Thornton Auditores Independentes;
+
+(xii) não constituição das Garantias nos termos e prazo estabelecidos
+      nesta Escritura de Emissão ou no Contrato de Garantia, conforme o
+      caso;
+
+(xiii) (a) constituição, pela Emissora, por qualquer das Fiadoras, pela
+       Mondo Holding e/ou pelo Mondo FIP, a qualquer tempo, ainda que
+       sob condição suspensiva, de hipoteca, penhor, alienação
+       fiduciária, usufruto, fideicomisso, promessa de venda, opção de
+       compra, direito de preferência, encargo, gravame ou ônus,
+       arresto, sequestro ou penhora, judicial ou extrajudicial,
+       voluntário ou involuntário, ou outro ato que tenha o efeito
+       prático similar a qualquer das expressões acima (“Ônus”) sobre
+       quaisquer dos seus bens ou direitos de sua propriedade ou
+       titularidade; ou (b) prestação, pela Emissora, por qualquer das
+       Fiadoras, pela Mondo Holding e/ou pelo Mondo FIP, de fiança, aval
+       ou qualquer outra forma de garantia fidejussória a terceiro;
+
+(xiv) se as Garantias se tornarem total ou parcialmente ineficazes,
+      inexequíveis, inválidas, nulas ou insuficientes, ou se as
+      Garantias forem canceladas e/ou rescindidas e/ou se ocorrer
+      quaisquer eventos que afetem de forma adversa as Garantias ou o
+      cumprimento das disposições contidas nesta Escritura de Emissão,
+      no Contrato de Garantia e de seus eventuais aditamentos, exceto na
+      hipótese de término do Contrato CMT para fins de transferência
+      total do seu objeto para o Contrato ABASP;
+
+(xv) medida de autoridade governamental com o objetivo de efetuar o
+     sequestro de bens, expropriar, nacionalizar ou desapropriar
+     compulsoriamente a totalidade ou parte substancial dos ativos da
+     Emissora, de qualquer das Fiadoras, da Mondo Holding e/ou do Mondo
+     FIP, desde que tal medida de autoridade governamental com o
+     objetivo de efetuar o sequestro de bens, expropriar, nacionalizar
+     ou desapropriar compulsoriamente a totalidade ou parte substancial
+     dos ativos não seja revertida ou legalmente suspensa no prazo de
+     até 10 (dez) dias contado da data da referida medida;
+
+(xvi) venda, cessão, locação ou qualquer forma de alienação ou
+      transferência de ativos, pela Emissora, por qualquer das Fiadoras,
+      pela Mondo Holding e/ou pelo Mondo FIP, exceto nos casos de (a)
+      substituição em razão de sinistro, desgaste, depreciação e/ou
+      obsolescência; ou (b) alienações já concluídas e onerações já
+      existentes antes da presente Emissão;
+
+(xvii) contratação, pela Emissora, por qualquer das Fiadoras, pela Mondo
+       Holding e/ou pelo Mondo FIP, de quaisquer contratos, incluindo,
+       sem limitação, empréstimos ou mútuos, como credores ou devedoras,
+       com qualquer de suas sociedades controladoras, coligadas, sob
+       controle comum e/ou controladas, bem como seus respectivos
+       acionistas, administradores, funcionários e/ou representantes;
+
+(xviii) (a) transferência (total ou parcial), suspensão, rescisão,
+        anulação, advento do termo final sem a devida prorrogação, ou
+        qualquer outra forma de perda (total ou parcial) ou término do
+        Contrato CMT ou do Contrato ABASP; ou (b) alteração ou outorga
+        de anuência (waiver) no âmbito do Contrato CMT ou do Contrato
+        ABASP que possa impactar a Garantia Real, em ambos os casos,
+        exceto na hipótese de término do Contrato CMT para fins de
+        transferência total do seu objeto para o Contrato ABASP;
+
+(xix) descumprimento, pela Emissora, do patamar mínimo de 0,6 (seis
+      décimos) do índice de desempenho “FATOR SLA” (conforme definido no
+      Contrato ABASP) previsto no Contrato ABASP, por 4 (quatro) meses
+      consecutivos;
+
+(xx) descumprimento, pela Emissora, de qualquer índice de desempenho
+     previsto no Contrato ABASP que possa configurar uma hipótese de
+     rescisão motivada do referido instrumento conforme seus termos e
+     condições;
+
+(xxi) descumprimento, pela Emissora, de qualquer de suas obrigações
+      constantes do Contrato CMT e/ou do Contrato ABASP que resulte ou
+      possa resultar na ocorrência de qualquer evento ou situação que
+      implique ou possa implicar (a) em qualquer efeito adverso
+      relevante na situação financeira, econômica, operacional ou de
+      outra natureza, da Emissora e/ou de qualquer das Fiadoras, nas
+      suas atividades, nos seus negócios, bens, ativos, resultados
+      operacionais e/ou perspectivas; (b) no pontual cumprimento das
+      obrigações assumidas pela Emissora e/ou por qualquer das Fiadoras
+      nos termos desta Escritura de Emissão, do Contrato de Garantia
+      e/ou dos demais documentos da Oferta Restrita; e/ou (c) nos seus
+      poderes ou capacidade jurídica e/ou econômico-financeira da
+      Emissora e/ou de qualquer das Fiadoras para cumprir qualquer de
+      suas obrigações nos termos desta Escritura de Emissão, do Contrato
+      de Garantia e/ou dos demais documentos da Oferta Restrita (“Efeito
+      Adverso Relevante”);
+
+(xxii) caso não seja outorga e constituída, pela Mondo Holding e pelo
+       Mondo FIP, a Fiança nos termos aqui previstos, por meio da
+       celebração de instrumento de aditamento à presente Escritura de
+       Emissão e do registro do referido instrumento perante os
+       Cartórios RTD Competentes, no prazo de até 30 (trinta) dias
+       contado da primeira Data de Integralização;
+
+(xxiii) descumprimento, pela Emissora, por qualquer das Fiadoras, pela
+        Mondo Holding e/ou pelo Mondo FIP, de qualquer Legislação
+        Socioambiental (conforme definido abaixo);
+
+(xxiv) instauração de investigação, inquérito ou procedimento
+       administrativo ou judicial contra a Emissora, qualquer das
+       Fiadoras e/ou qualquer de suas sociedades controladoras,
+       coligadas, sob controle comum e/ou controladas, bem como seus
+       respectivos acionistas, administradores, funcionários, agentes,
+       representantes, fornecedores, contratados, subcontratados ou
+       terceiros agindo em nome ou em benefício da Emissora, de qualquer
+       das Fiadoras e/ou de qualquer de suas sociedades controladoras,
+       coligadas, sob controle comum e/ou controladas, decorrente
+       eventual violação ou indício de violação de qualquer Legislação
+       Anticorrupção (conforme definido abaixo); e
+
+(xxv) não observância, pela Emissora, do seguinte índice financeiro:
+      razão entre a Dívida Financeira Líquida (conforme definido abaixo)
+      e EBITDA (conforme definido abaixo) inferior a 2,00 (dois
+      inteiros) (“Índice Financeiro”), o qual deverá ser anualmente
+      calculado pela Emissora ao término de cada exercício social, com
+      base nas demonstrações financeiras consolidadas e auditadas da
+      Emissora relativas ao respectivo exercício social, preparadas de
+      acordo com a Lei das Sociedades por Ações, com os princípios
+      contábeis geralmente aceitos no Brasil, e as regras emitidas pela
+      CVM, acompanhadas do relatório da administração e do parecer dos
+      auditores independentes com registro válido na CVM, e acompanhado
+      pelo Agente Fiduciário, com base nos documentos e informações
+      fornecidos pela Emissora ao Agente Fiduciário, juntamente com a
+      memória de cálculo, elaborada pela Emissora, com as contas
+      abertas, explicitando as rubricas necessárias para apuração do
+      referido Índice Financeiro (“Memória de Cálculo”), sendo a
+      primeira apuração referente ao exercício social a ser encerrado em
+      31 de dezembro de 2021.
+
+      1.  Para os efeitos desta Escritura de Emissão, aplicar-se-ão as
+          seguintes definições:
+
+(i) “Dívida Financeira Líquida” significa, o somatório das dívidas
+    onerosas consolidadas junto a pessoas físicas e/ou jurídicas, exceto
+    contas a pagar com fornecedores e dívidas decorrentes de operações
+    de arrendamento mercantil (leasing) contratadas pela Emissora,
+    incluindo, mas não limitado a: empréstimos e financiamentos com
+    terceiros, emissão de títulos de renda fixa, conversíveis ou não, no
+    mercado de capitais local e/ou internacional, o somatório dos avais,
+    fianças e demais garantias prestadas em benefício de pessoas físicas
+    e/ou empresas não consolidadas nas demonstrações financeiras
+    consolidadas da Emissora, antecipação de recebíveis com coobrigação,
+    dividendos declarados e ainda não pagos e o saldo a pagar de
+    operações de derivativos (incluindo operações de hedge) menos Caixa
+    (conforme definido abaixo) e Aplicações Financeiras (conforme
+    definido abaixo);
+
+(ii) “Caixa” significa dinheiro em caixa, depósitos à vista e caixa
+     aplicado em ativo financeiro com a expectativa de geração de valor
+     ao longo do tempo disponíveis no curto prazo (inferior a 360 dias);
+
+(iii) “Aplicações Financeiras” significa Caixa aplicado em ativo
+      financeiro com a expectativa de geração de valor ao longo do tempo
+      disponíveis no curto prazo (inferior a 360 dias);
+
+(iv) “EBITDA” significa, o resultado relativo aos 12 (doze) meses
+     anteriores à data de apuração, apurado de acordo com os princípios
+     contábeis geralmente aceitos no Brasil, porém excluindo os efeitos
+     do CPC 06 (R2) e correlacionado à norma Internacional de
+     Contabilidade – IFRS 16, antes de: (a) imposto de renda e
+     contribuição social sobre o lucro líquido; (b) despesas de
+     depreciação do imobilizado (excluindo-se
+     imobilização/manutenção); (c) do resultado financeiro; (d) da
+     equivalência patrimonial; (e) da participação de acionistas
+     minoritários; e (f) do Resultado Não Operacional; e
+
+(v) “Resultado Não Operacional”: (a) a venda de ativos; (b)
+    provisões/reversões de contingências; (c) impairment; e (d) despesas
+    pontuais de reestruturação.
+
+    1.  A ocorrência de quaisquer dos Eventos de Vencimento Antecipado
+        Automático, observados os respectivos prazos de cura, se
+        aplicável, acarretará o vencimento antecipado automático das
+        Debêntures e demais obrigações decorrentes desta Escritura de
+        Emissão, independentemente de qualquer aviso ou notificação,
+        judicial ou extrajudicial.
+
+    2.  Na ocorrência de quaisquer dos Eventos de Vencimento Antecipado
+        Não Automático, o Agente Fiduciário deverá convocar, no prazo de
+        até 3 (três) Dias Úteis contado da data de ciência da ocorrência
+        do evento, Assembleia Geral de Debenturistas, a se realizar nos
+        prazos e demais condições descritas na Cláusula XI abaixo, para
+        deliberar sobre a eventual não declaração de vencimento
+        antecipado das Debêntures e demais obrigações decorrentes desta
+        Escritura de Emissão.
+
+        1.  Na Assembleia Geral de Debenturistas de que trata a Cláusula
+            6.3 acima, os Debenturistas representando, no mínimo, 75%
+            (setenta e cinco por cento) das Debêntures em Circulação, em
+            primeira ou segunda convocação, poderão decidir não declarar
+            o vencimento antecipado das obrigações decorrentes das
+            Debêntures e demais obrigações decorrentes desta Escritura
+            de Emissão, sendo certo que tal decisão terá caráter
+            irrevogável e irretratável.
+
+        2.  Na hipótese: (i) não instalação ou não obtenção de quórum
+            para deliberação, em segunda convocação, da Assembleia Geral
+            de Debenturistas mencionada na Cláusula 6.3 acima; ou (ii)
+            de não ser aprovada a não declaração de vencimento
+            antecipado prevista na Cláusula 6.3 acima; o Agente
+            Fiduciário deverá declarar o vencimento antecipado das
+            Debêntures e demais obrigações decorrentes desta Escritura
+            de Emissão.
+
+    3.  Na ocorrência do vencimento antecipado das Debêntures e demais
+        obrigações decorrentes desta Escritura de Emissão nos termos das
+        Cláusula 6.2 ou 6.3 acima, a Emissora obriga-se a realizar o
+        pagamento da totalidade das Debêntures, pelo Valor Nominal
+        Unitário ou saldo do Valor Nominal Unitário, conforme o caso,
+        acrescido da Remuneração, calculada pro rata temporis desde a
+        Data de Início da Rentabilidade ou a Data de Pagamento da
+        Remuneração imediatamente anterior, conforme o caso, até a data
+        do efetivo pagamento, sem prejuízo dos Encargos Moratórios, se
+        houver, e de quaisquer outros valores eventualmente devidos pela
+        Emissora nos termos desta Escritura de Emissão, no prazo de até
+        3 (três) Dias Úteis contado da data da ocorrência do vencimento
+        antecipado das Debêntures e demais obrigações decorrentes desta
+        Escritura de Emissão.
+
+        1.  Caso o pagamento da totalidade das Debêntures previsto na
+            Cláusula 6.4 acima seja realizado por meio da B3, a Emissora
+            deverá comunicar a B3, por meio de correspondência em
+            conjunto com o Agente Fiduciário, sobre o tal pagamento,
+            com, no mínimo, 3 (três) Dias Úteis de antecedência da data
+            estipulada para a sua realização.
+
+VII. OBRIGAÇÕES ADICIONAIS DA EMISSORA E DAS FIADORAS
+
+     1.  Obrigações da Emissora.
+
+         1.  Sem prejuízo das demais obrigações previstas nesta
+             Escritura de Emissão e/ou no Contrato de Garantia, enquanto
+             o saldo devedor das Debêntures não for integralmente pago,
+             a Emissora obriga-se, ainda, a:
+
+(i) fornecer ao Agente Fiduciário:
+
+(a) dentro de, no máximo, 90 (noventa) dias após o término de cada
+      exercício social, ou no prazo de até 5 (cinco) Dias Úteis contado
+      da data de sua divulgação, o que ocorrer primeiro, (1) cópia das
+      demonstrações financeiras consolidadas e auditadas da Emissora
+      relativas ao respectivo exercício social, preparadas de acordo com
+      a Lei das Sociedades por Ações, com os princípios contábeis
+      geralmente aceitos no Brasil, e as regras emitidas pela CVM,
+      acompanhadas do relatório da administração e do parecer dos
+      auditores independentes com registro válido na CVM; (2) a Memória
+      de Cálculo, sob pena de impossibilidade de acompanhamento pelo
+      Agente Fiduciário, podendo este solicitar à Emissora e/ou aos seus
+      auditores independentes todos os eventuais esclarecimentos
+      adicionais que se façam necessários; e (3) declaração, assinada
+      pelo(s) representante(s) legal(is) da Emissora, na forma do seu
+      estatuto social, atestando: (I) que permanecem válidas as
+      disposições contidas na Escritura de Emissão; e (II) não
+      ocorrência de qualquer Evento de Vencimento Antecipado e
+      inexistência de descumprimento de obrigações perante os
+      Debenturistas;
+
+(b) no prazo de até 45 (quarenta e cinco) dias contado do fechamento de
+      cada trimestre do ano fiscal, suas informações financeiras
+      trimestrais (balanço patrimonial e demonstração do resultado do
+      referido período não auditados);
+
+(c) no prazo de até 5 (cinco) Dias Úteis contado do recebimento da
+      solicitação pelo Agente Fiduciário, qualquer informação que venha
+      a ser solicitada pelo Agente Fiduciário, a fim de que este possa
+      cumprir as suas obrigações nos termos desta Escritura de Emissão,
+      da Instrução CVM nº 583, de 20 de dezembro de 2016, conforme
+      alterada (“Instrução CVM 583”) e demais leis e regulamentações
+      aplicáveis, exceto se especificamente previsto outro prazo nesta
+      Escritura de Emissão;
+
+(d) no prazo de até 1 (um) Dia Útil contado da data de ciência ou
+      recebimento, conforme o caso, (1) informações a respeito da
+      ocorrência de qualquer Evento de Vencimento Antecipado; (2) cópia
+      de qualquer correspondência ou notificação, judicial ou
+      extrajudicial, recebida pela Emissora relacionada a um Evento de
+      Vencimento Antecipado; ou (3) informações a respeito da ocorrência
+      de qualquer Efeito Adverso Relevante;
+
+(e) no prazo de até 3 (três) Dias Úteis contado da sua publicação,
+      notificação da convocação de qualquer assembleia geral, com a data
+      de sua realização e a ordem do dia, e, tão logo disponíveis,
+      cópias de todas as atas das assembleias gerais, reuniões de
+      conselho de administração, diretoria e conselho fiscal que, de
+      alguma forma, envolvam interesse dos Debenturistas; e
+
+(f) os dados financeiros, atos societários e o organograma de seu grupo
+      societário, o qual deverá conter, inclusive, a identificação dos
+      controladores diretos, das controladas diretas, das sociedades sob
+      controle comum, as coligadas (nos termos do artigo 243, § 1º, da
+      Lei das Sociedades por Ações), conforme aplicável, no encerramento
+      de cada exercício social, e prestar todas as informações, que
+      venham a ser solicitadas pelo Agente Fiduciário para a realização
+      do relatório citado no inciso (xii) da Cláusula 8.3.1 abaixo, com,
+      no mínimo, 30 (trinta) dias de antecedência da data do
+      encerramento do prazo previsto no inciso (xii) abaixo da Cláusula
+      8.3.1 abaixo;
+
+(ii) manter, sob a sua guarda, por 5 (cinco) anos, ou por prazo maior se
+     solicitado pela CVM, todos os documentos e informações relacionados
+     à Oferta Restrita;
+
+(iii) não divulgar ao público informações referentes à Emissora, à
+      Emissão ou às Debêntures, em desacordo com o disposto na
+      regulamentação aplicável, incluindo, mas não se limitando, ao
+      disposto na Instrução CVM 476 e no artigo 48 da Instrução CVM nº
+      400, de 29 de dezembro de 2003, conforme alterada (“Instrução CVM
+      400”);
+
+(iv) abster-se de negociar valores mobiliários de sua emissão, até o
+     envio da Comunicação de Encerramento à CVM, salvo nas hipóteses
+     previstas no artigo 48 da Instrução CVM 400;
+
+(v) efetuar pontualmente o pagamento dos serviços relacionados ao
+    depósito das Debêntures para negociação e custódia eletrônica na B3;
+
+(vi) contratar e manter contratados, às suas expensas, durante todo o
+     prazo de vigência das Debêntures, os prestadores de serviços
+     inerentes às obrigações previstas nesta Escritura de Emissão,
+     incluindo: (a) Banco Liquidante; (b) Escriturador; (c) Agente
+     Fiduciário; e (d) os sistemas de negociação das Debêntures no
+     mercado secundário da B3;
+
+(vii) manter seus sistemas de contabilidade, de controle e de
+      informações gerenciais, bem como seus livros contábeis e demais
+      registros em conformidade com os princípios contábeis normalmente
+      aceitos no Brasil e de maneira que reflitam, fiel e adequadamente,
+      sua situação financeira e os resultados de suas respectivas
+      operações;
+
+(viii) manter atualizados e em ordem seus livros e registros
+       societários;
+
+(ix) cumprir todas as determinações da CVM e da B3;
+
+(x) arcar com todos os custos decorrentes (a) da distribuição das
+    Debêntures, incluindo todos os custos relativos ao seu depósito na
+    B3, (b) de registro e de publicação dos atos necessários à Emissão,
+    conforme aplicável, tais como esta Escritura de Emissão, seus
+    eventuais aditamentos e as Aprovações Societárias, (c) de registro
+    do Contrato de Garantia, bem como de seus respectivos aditamentos,
+    e (d) das despesas e remuneração com a contratação de Agente
+    Fiduciário, Banco Liquidante e/ou Escriturador;
+
+(xi) no prazo de até 5 (cinco) Dias Úteis contado do término de cada
+     bimestre, enviar ao Agente Fiduciário memória de cálculo
+     demonstrativa do índice de desempenho “FATOR SLA” (conforme
+     definido no Contrato ABASP) atingido pela Emissora em cada um dos
+     meses do respectivo bimestre;
+
+(xii) convocar, nos termos da Cláusula XI e seguintes desta Escritura de
+      Emissão, Assembleia Geral de Debenturistas para deliberar sobre
+      quaisquer das matérias que se relacionem com a presente Emissão,
+      caso o Agente Fiduciário deva fazer, nos termos da presente
+      Escritura de Emissão, mas não o faça;
+
+(xiii) comparecer às Assembleias Gerais de Debenturistas sempre que
+       solicitado;
+
+(xiv) não realizar operações fora de seu objeto social, observadas as
+      disposições legais e regulamentares em vigor;
+
+(xv) cumprir todas as leis, regras, regulamentos, normas administrativas
+     e determinações dos órgãos governamentais, autarquias ou instâncias
+     judiciais aplicáveis ao exercício de suas atividades;
+
+(xvi) efetuar recolhimento de quaisquer tributos ou contribuições que
+      incidam ou venham a incidir sobre a Emissão e que sejam de
+      responsabilidade da Emissora, entregando ao Agente Fiduciário os
+      comprovantes, se assim solicitado pelos Debenturistas;
+
+(xvii) pagar nos seus respectivos vencimentos, de acordo com os termos
+       estabelecidos pela legislação em vigor, todas as suas respectivas
+       obrigações e responsabilidades (inclusive todas as obrigações de
+       natureza tributária, trabalhista, ambiental e previdenciária),
+       exceto por aquelas questionadas de nas esferas administrativa
+       e/ou judicial com obtenção de efeito suspensivo;
+
+(xviii) cumprir e fazer com que as suas sociedades controladas, bem como
+        seus respectivos administradores, funcionários, agentes e/ou
+        representantes, agindo em nome ou em benefício da Emissora, e/ou
+        de qualquer de suas sociedades controladas, cumpram, durante o
+        prazo de vigência das Debêntures (a) a legislação ambiental,
+        incluindo, sem limitação, o disposto na Política Nacional do
+        Meio Ambiente e Resoluções do CONAMA – Conselho Nacional do Meio
+        Ambiente e nas demais legislações e regulamentações ambientais
+        supletivas, adotando as medidas e ações preventivas ou
+        reparatórias, destinadas a evitar e corrigir eventuais danos
+        ambientais, bem como proceder a todas as diligências exigidas
+        para a atividade da espécie, preservando o meio ambiente e
+        atendendo às determinações dos órgãos municipais, estaduais e
+        federais que subsidiariamente venham a legislar ou regulamentar
+        as normas ambientais em vigor; e (b) a legislação e/ou
+        regulamentação trabalhista e previdenciária em vigor,
+        especialmente aquelas relativas a saúde e segurança ocupacional,
+        à não utilização ou incentivo, direta ou indiretamente, do
+        trabalho infantil, do trabalho análogo ao escravo ou do proveito
+        criminoso da prostituição, ou ainda relativa aos direitos dos
+        silvícolas, em especial, mas não se limitando, ao direito sobre
+        as áreas de ocupação indígena, assim declaradas pela autoridade
+        competente (“Legislação Socioambiental”);
+
+(xix) obter e/ou manter válidas, eficazes, em perfeita ordem e em pleno
+      vigor todas as autorizações e licenças, inclusive as ambientais,
+      aplicáveis ao regular exercício de suas atividades, exigidas pelas
+      autoridades federais, estaduais e municipais;
+
+(xx) executar e observar políticas e procedimentos destinados a
+     assegurar a observância e cumprimento da Legislação Socioambiental
+     por seus respectivos fornecedores, contratados, subcontratados ou
+     terceiros agindo em seu nome ou em seu benefício;
+
+(xxi) observar, cumprir e fazer cumprir, por si, e por qualquer de suas
+      sociedades controladas, bem como seus respectivos administradores,
+      funcionários, agentes e/ou representantes, agindo em nome ou em
+      benefício da Emissora e/ou de qualquer de suas sociedades
+      controladas, toda e qualquer lei que trata de corrupção, crimes
+      contra a ordem econômica ou tributária, de “lavagem” ou ocultação
+      de bens, direitos e valores, ou contra o sistema financeiro
+      nacional, o mercado de capitais ou a administração pública,
+      nacional ou estrangeira, incluindo, sem limitação, atos ilícitos
+      que possam ensejar responsabilidade administrativa, civil ou
+      criminal nos termos das Leis nº 6.385, de 7 de dezembro de 1976,
+      nº 7.492, de 16 de junho de 1986, nº 8.137, de 27 de dezembro de
+      1990, nº 8.429, de 2 de junho de 1992, nº 8.666, de 21 de junho de
+      1993 (ou outras normas de licitações e contratos da administração
+      pública), nº 9.613, de 3 de março de 1998, nº 12.529, de 30 de
+      novembro de 2011, nº 12.846, de 1º de agosto de 2013, o Decreto nº
+      8.420, de 18 de março de 2015, o Decreto-Lei n° 2.848/40, Decreto
+      nº 5.687, de 31 de janeiro de 2006 que promulgou a Convenção das
+      Nações Unidas contra a Corrupção, adotada pela Assembleia Geral
+      das Nações Unidas em 31 de outubro de 2003, U.S. Foreign Corrupt
+      Practices Act of 1977, e a UK Bribery Act, as portarias e
+      instruções normativas expedidas pela Controladoria Geral da União
+      nos termos da lei e decreto acima mencionados, bem como todas as
+      leis, decretos, regulamentos e demais atos normativos expedidos
+      por autoridade governamental relacionados a estas matérias,
+      conforme aplicável (“Legislação Anticorrupção”), devendo
+      (a) adotar e manter políticas próprias para estabelecer
+      procedimentos de verificação de conformidade com a Legislação
+      Anticorrupção; (b) abster-se de praticar atos de corrupção e de
+      agir de forma lesiva à administração pública, nacional e
+      estrangeira, conforme aplicável, no seu interesse ou para seu
+      benefício, exclusivo ou não, em violação à Legislação
+      Anticorrupção; (c) dar conhecimento pleno de tais normas as suas
+      sociedades controladoras, coligadas, sob controle comum e/ou
+      controladas, bem como seus respectivos acionistas,
+      administradores, funcionários, agentes, representantes,
+      fornecedores, contratados, subcontratados ou terceiros agindo em
+      nome ou em benefício da Emissora, e/ou de qualquer de suas
+      sociedades controladoras, coligadas, sob controle comum e/ou
+      controladas, previamente ao início de sua atuação no âmbito da
+      Oferta Restrita; (d) caso tenha conhecimento de qualquer ato ou
+      fato que viole aludidas normas, comunicará imediatamente ao Agente
+      Fiduciário que poderá tomar todas as providências que os
+      Debenturistas entenderem necessárias; e (e) realizará eventuais
+      pagamentos devidos aos Debenturistas na forma prevista nesta
+      Escritura de Emissão;
+
+(xxii) assegurar que os recursos líquidos obtidos com a Emissão e a
+       Oferta Restrita não sejam empregados por si, e por qualquer de
+       suas sociedades controladas, bem como seus respectivos
+       administradores, funcionários, agentes e/ou representantes,
+       agindo em nome ou em benefício da Emissora e/ou de qualquer de
+       suas sociedades controladas (a) para o pagamento de
+       contribuições, presentes ou atividades de entretenimento ilegais
+       ou qualquer outra despesa ilegal relativa a atividade
+       política; (b) para o pagamento ilegal, direto ou indireto, a
+       empregados ou funcionários públicos, partidos políticos,
+       políticos ou candidatos políticos (incluindo seus familiares),
+       nacionais ou estrangeiros; (c) em ação destinada a facilitar uma
+       oferta, pagamento ou promessa ilegal de pagar, bem como ter
+       aprovado ou aprovar o pagamento, a doação de dinheiro,
+       propriedade, presente ou qualquer outro bem de valor, direta ou
+       indiretamente, para qualquer “oficial do governo” (incluindo
+       qualquer oficial ou funcionário de um governo ou de entidade de
+       propriedade ou controlada por um governo ou organização pública
+       internacional ou qualquer pessoa agindo na função de
+       representante do governo ou candidato de partido político) a fim
+       de influenciar qualquer ação política ou obter uma vantagem
+       indevida com violação da lei aplicável; (d) em quaisquer atos
+       para obter ou manter qualquer negócio, transação ou vantagem
+       comercial indevida; (e) em qualquer pagamento ou tomar qualquer
+       ação que viole a Legislação Anticorrupção; ou (f) em um ato de
+       corrupção, pagamento de propina ou qualquer outro valor ilegal,
+       bem como influenciado o pagamento de qualquer valor indevido;
+
+(xxiii) executar e observar políticas e procedimentos destinados a
+        assegurar a observância e cumprimento da Legislação
+        Anticorrupção, conforme aplicável, por seus respectivos
+        fornecedores, contratados, subcontratados ou terceiros agindo em
+        seu nome ou em seu benefício;
+
+(xxiv) informar, por escrito ao Agente Fiduciário, no prazo de até
+       5 (cinco) Dias Úteis contado data da ciência, pela Emissora,
+       sobre a violação à Legislação Anticorrupção pela Emissora ou por
+       suas sociedades controladoras, coligadas, sob controle comum e/ou
+       controladas, bem como seus respectivos acionistas,
+       administradores, funcionários, agentes, representantes,
+       fornecedores, contratados, subcontratados ou terceiros agindo em
+       nome ou em benefício da Emissora, de qualquer das Fiadoras e/ou
+       de qualquer de suas sociedades controladoras, coligadas, sob
+       controle comum e/ou controladas exceto quando o dever de sigilo e
+       confidencialidade estiver prescrito em leis e regulamentação
+       aplicáveis;
+
+(xxv) não oferecer, prometer, dar, autorizar, solicitar ou aceitar
+      qualquer vantagem indevida, pecuniária ou de qualquer natureza,
+      relacionada de qualquer forma com a finalidade desta Escritura de
+      Emissão;
+
+(xxvi) manter-se adimplente com relação à presente Escritura de Emissão
+       e o Contrato de Garantia;
+
+(xxvii) não contratar e/ou assumir qualquer dívida que resulte no
+        descumprimento do Índice Financeiro na data da respectiva
+        contratação e/ou assunção, considerando suas demonstrações
+        financeiras consolidadas mais recentes na referida data;
+
+(xxviii) não emitir debêntures conversíveis, partes beneficiárias ou
+         qualquer outro título ou valor mobiliário conversível em ações
+         de sua emissão;
+
+(xxix) não terminar o Contrato ABASP e/ou o Contrato CMT, exceto na
+       hipótese de término do Contrato CMT para fins de transferência
+       total do seu objeto para o Contrato ABASP;
+
+(xxx) na hipótese de rescisão do Contrato ABASP /ou do Contrato CMT,
+      destinar todo e qualquer recurso recebido no âmbito dos referidos
+      instrumentos para o pagamento do saldo devedor das Debêntures; e
+
+(xxxi) sem prejuízo das demais obrigações previstas acima ou de outras
+       obrigações expressamente previstas na regulamentação em vigor e
+       nesta Escritura de Emissão, nos termos do artigo 17 da Instrução
+       CVM 476:
+
+       a.  preparar as demonstrações financeiras consolidadas da
+             Emissora relativas a cada exercício social, em conformidade
+             com a Lei das Sociedades por Ações e com as regras emitidas
+             pela CVM;
+
+       b.  submeter as demonstrações financeiras consolidadas da
+             Emissora a auditoria, por auditor independente registrado
+             na CVM;
+
+       c.  divulgar, em sua página na rede mundial de computadores
+             (www.autopass.com.br) e no sistema disponibilizado pela B3,
+             até o dia anterior ao início das negociações das
+             Debêntures, as demonstrações financeiras consolidadas da
+             Emissora, acompanhadas de notas explicativas e do relatório
+             dos auditores independentes, relativas aos 3 (três) últimos
+             exercícios sociais encerrados;
+
+       d.  divulgar, em sua página na rede mundial de computadores
+             (www.autopass.com.br) e no sistema disponibilizado pela B3,
+             as demonstrações financeiras consolidadas da Emissora
+             subsequentes, acompanhadas de notas explicativas e
+             relatório dos auditores independentes, dentro de 3 (três)
+             meses contados do encerramento do exercício social;
+
+       e.  observar as disposições da Instrução CVM nº 358, de 3 de
+             janeiro de 2002, conforme alterada (“Instrução CVM 358”),
+             no que se refere ao dever de sigilo e às vedações à
+             negociação;
+
+       f.  divulgar, em sua página na rede mundial de computadores
+             (www.autopass.com.br) e no sistema disponibilizado pela B3,
+             a ocorrência de qualquer ato ou fato relevante, conforme
+             definido no artigo 2º da Instrução CVM 358;
+
+       g.  fornecer todas as informações solicitadas pela CVM e pela B3;
+
+       h.  divulgar, em sua página na rede mundial de computadores
+             (www.autopass.com.br), o relatório anual do Agente
+             Fiduciário e demais comunicações enviadas pelo Agente
+             Fiduciário na mesma data do seu recebimento, observado,
+             ainda, o disposto na alínea (d) acima; e
+
+       i.  observar as disposições da regulamentação específica editada
+             pela CVM, caso seja convocada, para realização de modo
+             parcial ou exclusivamente digital, Assembleia Geral de
+             Debenturistas.
+
+       1.  Obrigações das Fiadoras.
+
+           1.  Sem prejuízo das demais obrigações previstas nesta
+               Escritura de Emissão e no Contrato de Garantia de que
+               sejam parte, enquanto o saldo devedor das Debêntures não
+               for integralmente pago, as Fiadoras, individualmente,
+               obrigam-se, ainda, a:
+
+(i) fornecer ao Agente Fiduciário, dentro de, no máximo, 90 (noventa)
+    dias após o término de cada exercício social, ou no prazo de até 5
+    (cinco) Dias Úteis contado da data de sua divulgação, o que ocorrer
+    primeiro, cópia das demonstrações financeiras consolidadas das
+    Fiadoras relativas ao respectivo exercício social, preparadas de
+    acordo com os princípios contábeis geralmente aceitos no Brasil;
+
+(ii) manter seus sistemas de contabilidade, de controle e de informações
+     gerenciais, bem como seus livros contábeis e demais registros em
+     conformidade com os princípios contábeis normalmente aceitos no
+     Brasil e de maneira que reflitam, fiel e adequadamente, sua
+     situação financeira e os resultados de suas respectivas operações;
+
+(iii) fornecer ao Agente Fiduciário, no prazo de até 1 (um) Dia Útil
+      contado da data de ciência ou recebimento, conforme o caso,
+      (a) informações a respeito da ocorrência de qualquer Evento de
+      Vencimento Antecipado; ou (b) cópia de qualquer correspondência ou
+      notificação, judicial ou extrajudicial, recebida por qualquer das
+      Fiadoras relacionada a um Evento de Vencimento Antecipado; ou (c)
+      informações a respeito da ocorrência de qualquer Efeito Adverso
+      Relevante;
+
+(iv) não realizar operações fora de seu objeto social, observadas as
+     disposições legais e regulamentares em vigor;
+
+(v) cumprir todas as leis, regras, regulamentos, normas administrativas
+    e determinações dos órgãos governamentais, autarquias ou instâncias
+    judiciais aplicáveis ao exercício de suas atividades;
+
+(vi) pagar nos seus respectivos vencimentos, de acordo com os termos
+     estabelecidos pela legislação em vigor, todas as suas respectivas
+     obrigações e responsabilidades (inclusive todas as obrigações de
+     natureza tributária, trabalhista, ambiental e previdenciária),
+     exceto por aquelas questionadas de nas esferas administrativa e/ou
+     judicial com obtenção de efeito suspensivo;
+
+(vii) cumprir, e fazer com que a Mondo Holding e o Mondo FIP cumpram,
+      todos os atos e providências necessários e/ou convenientes para a
+      outorga e constituição, pela Mondo Holding e pelo Mondo FIP, da
+      Fiança nos termos aqui previstos, no prazo de até 30 (trinta) dias
+      contado da primeira Data de Integralização, incluindo, mas não se
+      limitando a (a) aprovação da outorga e constituição da Fiança
+      pelos órgãos deliberativos da Mondo Holding e do Mondo FIP,
+      conforme aplicável; e (b) celebração de instrumento de aditamento
+      à presente Escritura de Emissão pela Mondo Holding e pelo Mondo
+      FIP, bem como a realização do registro do referido instrumento
+      perante os Cartórios RTD Competentes;
+
+(viii) cumprir e fazer com que as suas sociedades controladas, bem como
+       seus respectivos administradores, funcionários, agentes e/ou
+       representantes agindo em nome ou em benefício de qualquer das
+       Fiadoras, e/ou de qualquer de suas sociedades controladas,
+       cumpram, durante o prazo de vigência das Debêntures, Legislação
+       Socioambiental;
+
+(ix) executar e observar políticas e procedimentos destinados a
+     assegurar a observância e cumprimento da Legislação Socioambiental
+     por seus respectivos fornecedores, contratados, subcontratados ou
+     terceiros agindo em seu nome ou em seu benefício;
+
+(x) observar, cumprir e fazer cumprir, por si, e por qualquer de suas
+    sociedades controladas, bem como seus respectivos administradores,
+    funcionários, agentes e/ou representantes, agindo em nome ou em
+    benefício de qualquer das Fiadoras, e/ou de qualquer de suas
+    sociedades controladas, a Legislação Anticorrupção, devendo
+    (a) adotar e manter políticas próprias para estabelecer
+    procedimentos de verificação de conformidade com a Legislação
+    Anticorrupção; (b) abster-se de praticar atos de corrupção e de agir
+    de forma lesiva à administração pública, nacional e estrangeira,
+    conforme aplicável, no seu interesse ou para seu benefício,
+    exclusivo ou não, em violação à Legislação Anticorrupção; (c) dar
+    conhecimento pleno de tais normas as suas sociedades controladas
+    controladoras, coligadas, sob controle comum e/ou controladas, bem
+    como seus respectivos acionistas, administradores, funcionários,
+    agentes, representantes, fornecedores, contratados, subcontratados
+    ou terceiros agindo em nome ou em benefício de qualquer das Fiadoras
+    e/ou de qualquer de suas sociedades controladoras, coligadas, sob
+    controle comum e/ou controladas, previamente ao início de sua
+    atuação no âmbito da Oferta Restrita; (d) caso tenha conhecimento de
+    qualquer ato ou fato que viole aludidas normas, comunicará
+    imediatamente ao Agente Fiduciário que poderá tomar todas as
+    providências que os Debenturistas entenderem necessárias; e
+    (e) realizará eventuais pagamentos devidos aos Debenturistas na
+    forma prevista nesta Escritura de Emissão;
+
+(xi) executar e observar políticas e procedimentos destinados a
+     assegurar a observância e cumprimento da Legislação Anticorrupção,
+     conforme aplicável, por seus respectivos fornecedores, contratados,
+     subcontratados ou terceiros agindo em seu nome ou em seu benefício;
+
+(xii) informar, por escrito ao Agente Fiduciário, no prazo de até
+      5 (cinco) Dias Úteis contado da ciência, pela Emissora, sobre a
+      violação à Legislação Anticorrupção pela Emissora ou por suas
+      sociedades controladoras, coligadas, sob controle comum e/ou
+      controladas, bem como seus respectivos acionistas,
+      administradores, funcionários, agentes, representantes,
+      fornecedores, contratados, subcontratados ou terceiros agindo em
+      nome ou em benefício da Emissora, de qualquer das Fiadoras e/ou de
+      qualquer de suas sociedades controladoras, coligadas, sob controle
+      comum e/ou controladas exceto quando o dever de sigilo e
+      confidencialidade estiver prescrito em leis e regulamentação
+      aplicáveis; e
+
+(xiii) não oferecer, prometer, dar, autorizar, solicitar ou aceitar
+       qualquer vantagem indevida, pecuniária ou de qualquer natureza,
+       relacionada de qualquer forma com a finalidade desta Escritura de
+       Emissão.
+
+VIII. 
+      AGENTE FIDUCIÁRIO
+
+      1.  Nomeação.
+
+          1.  A Emissora, neste ato, constitui e nomeia o Agente
+              Fiduciário, qualificado no preâmbulo desta Escritura de
+              Emissão, o qual, neste ato e pela melhor forma de direito,
+              aceita a nomeação para, nos termos da lei e desta
+              Escritura de Emissão, representar a comunhão dos
+              Debenturistas, observado o disposto na Instrução CVM 583.
+
+      2.  Substituição.
+
+          1.  Nas hipóteses de impedimento, intervenção ou liquidação
+              judicial ou extrajudicial, falência ou vacância do Agente
+              Fiduciário, dentro do prazo máximo de 30 (trinta) dias do
+              evento que a determinar, deverá ser realizada Assembleia
+              Geral de Debenturistas para a escolha de novo agente
+              fiduciário, a qual poderá ser convocada pelo próprio
+              Agente Fiduciário a ser substituído, pela Emissora, por
+              Debenturistas que representem 10% (dez por cento), no
+              mínimo, das Debêntures em Circulação, ou pela CVM. Na
+              hipótese de a convocação não ocorrer até 15 (quinze) dias
+              antes do término do prazo acima citado, caberá à Emissora
+              efetuá-la. A CVM poderá, em casos excepcionais, nomear
+              substituto provisório enquanto não se consumar o processo
+              de escolha do novo agente fiduciário ou proceder à
+              convocação da Assembleia Geral de Debenturistas para
+              escolha do novo agente fiduciário.
+
+          2.  Na hipótese de não poder o Agente Fiduciário continuar a
+              exercer as suas funções por circunstâncias supervenientes
+              a esta Escritura de Emissão, inclusive no caso do
+              inciso (iii) da Cláusula 8.3.1 abaixo, o Agente Fiduciário
+              deverá comunicar imediatamente o fato à Emissora e aos
+              Debenturistas, mediante convocação de Assembleia Geral de
+              Debenturistas, com cópia para a Emissora, solicitando sua
+              substituição.
+
+          3.  É facultado aos Debenturistas, a qualquer tempo, proceder
+              à substituição do Agente Fiduciário e à indicação de seu
+              substituto.
+
+          4.  A substituição do Agente Fiduciário deverá ser objeto de
+              aditamento à presente Escritura de Emissão, que deverá ser
+              arquivado na JUCESP, nos termos da Cláusula 2.3.1 acima, e
+              registrado nos Cartórios RTD Competentes, conforme
+              previsto na Cláusula 2.6.1 acima.
+
+          5.  O Agente Fiduciário entrará no exercício de suas funções a
+              partir da data de assinatura desta Escritura de Emissão ou
+              de eventual aditamento relativo à sua substituição, no
+              caso de agente fiduciário substituto, devendo permanecer
+              no exercício de suas funções até a efetiva substituição ou
+              até o cumprimento de todas as suas obrigações decorrentes
+              desta Escritura de Emissão e da legislação em vigor.
+
+          6.  O Agente Fiduciário, se substituído nos termos desta
+              Cláusula 8.2, sem qualquer custo adicional para a Emissora
+              ou para os Debenturistas, deverá colocar à disposição da
+              instituição que vier a substituí-lo, com, no mínimo, 10
+              (dez) Dias Úteis de antecedência da data da sua efetiva
+              substituição, cópia digitalizada de todos os registros,
+              relatórios, extratos, bancos de dados e demais informações
+              sobre a Emissão e sobre a Emissora que tenham sido
+              obtidos, gerados, preparados ou desenvolvidos pelo Agente
+              Fiduciário ou por qualquer de seus agentes envolvidos,
+              direta ou indiretamente, com a Emissão ou que quaisquer
+              das pessoas acima referidas tenham tido acesso por força
+              da execução de suas funções, independentemente do meio em
+              que as mesmas estejam armazenadas ou disponíveis, de forma
+              que a instituição substituta cumpra, sem solução de
+              continuidade, os deveres e as obrigações do Agente
+              Fiduciário substituído, nos termos desta Escritura de
+              Emissão.
+
+          7.  Em qualquer hipótese, a substituição do Agente Fiduciário
+              será comunicada à CVM, assim como o atendimento dos
+              requisitos previstos nas normas e preceitos aplicáveis da
+              CVM, nos termos do artigo 9º da Instrução CVM 583.
+
+      3.  Deveres.
+
+          1.  Além de outros previstos em lei ou nesta Escritura de
+              Emissão, em especial a Instrução CVM 583, ou na presente
+              Escritura de Emissão, constituem deveres e atribuições do
+              Agente Fiduciário:
+
+(i) exercer suas atividades com boa fé, transparência e lealdade para
+    com os Debenturistas;
+
+(ii) proteger os direitos e interesses dos Debenturistas, empregando, no
+     exercício da função, o cuidado e a diligência que toda pessoa ativa
+     e proba costuma empregar na administração de seus próprios bens;
+
+(iii) renunciar à função na hipótese de superveniência de conflitos de
+      interesse ou de qualquer outra modalidade de inaptidão e realizar
+      imediata convocação da Assembleia Geral de Debenturistas prevista
+      no artigo 7 da Instrução CVM 583;
+
+(iv) conservar em boa guarda toda a documentação relativa ao exercício
+     demais papéis relacionados ao exercício de suas funções;
+
+(v) verificar, no momento de aceitar a função, a veracidade das
+    informações relativas as garantias e a consistência das demais
+    informações contidas nesta Escritura de Emissão, diligenciando para
+    que sejam sanadas as omissões, falhas ou defeitos de que tenha
+    conhecimento;
+
+(vi) diligenciar, junto à Emissora, para que a Escritura de Emissão e
+     seus respectivos aditamentos sejam registrados na JUCESP e nos
+     Cartórios RTD Competentes, adotando, no caso de omissão da
+     Emissora, as medidas previstas em lei;
+
+(vii) acompanhar a prestação das informações periódicas obrigatórias
+      pela Emissora, alertando os Debenturistas, no relatório anual,
+      acerca de eventuais omissões ou inverdades constantes de tais
+      informações;
+
+(viii) opinar sobre a suficiência das informações prestadas nas
+       propostas de modificação das condições nas Debêntures;
+
+(ix) verificar a regularidade da constituição das Garantias, incluindo
+     os devidos registros e averbações mencionados nesta Escritura de
+     Emissão e no Contrato de Garantia, bem como o valor dos bens dados
+     em garantia, observando, ainda, a manutenção de sua suficiência e
+     exequibilidade, nos termos das disposições estabelecidas nesta
+     Escritura de Emissão;
+
+(x) examinar proposta de substituição dos bens dados em garantia,
+    manifestando sua opinião a respeito do assunto, de forma
+    justificada;
+
+(xi) solicitar, quando julgar necessário para o fiel desempenho de suas
+     funções ou se assim solicitado pelos Debenturistas, certidões
+     atualizadas dos distribuidores cíveis, das Varas de Fazenda
+     Pública, Cartórios de Protesto, Varas do Trabalho, Procuradoria da
+     Fazenda Pública da localidade onde se situem os bens dados em
+     garantia ou do domicílio ou sede da Emissora e/ou de qualquer das
+     Fiadoras, conforme o caso;
+
+(xii) elaborar o relatório anual, nos termos do artigo 68, parágrafo
+      primeiro, alínea “b”, da Lei das Sociedades por Ações e do Anexo
+      15 da Instrução CVM 583, o qual deverá conter, ao menos, as
+      informações abaixo:
+
+      a.  cumprimento, pela Emissora, das suas obrigações de prestação
+            de informações periódicas, indicando as inconsistências ou
+            omissões de que tenha conhecimento;
+
+      b.  alterações estatutárias da Emissora ocorridas no exercício com
+            efeitos relevantes para os Debenturistas;
+
+      c.  comentários sobre os indicadores econômicos, financeiros e de
+            estrutura de capital da Emissora relacionados a cláusulas
+            contratuais destinadas a proteger o interesse dos
+            Debenturistas e que estabelecem condições que não devem ser
+            descumpridas pela Emissora;
+
+      d.  quantidade de Debêntures emitidas, quantidade de Debêntures em
+            Circulação e saldo cancelado no período;
+
+      e.  resgate, amortização, conversão, repactuação e pagamento de
+            juros das Debêntures realizados no período, conforme
+            informações prestadas pela Emissora;
+
+      f.  acompanhamento da destinação dos recursos captados por meio
+            das Debêntures, conforme informações prestadas pela
+            Emissora;
+
+      g.  relação dos bens e valores entregues à sua administração;
+
+      h.  cumprimento de outras obrigações assumidas pela Emissora e/ou
+            pelas Fiadoras nesta Escritura de Emissão e, conforme o
+            caso, no Contrato de Garantia;
+
+      i.  manutenção da suficiência e exequibilidade das Garantias;
+
+      j.  existência de outras emissões de valores mobiliários, públicas
+            ou privadas, feitas pela Emissora ou por suas sociedades
+            controladoras, coligadas, sob controle comum e/ou
+            controladas em que tenha atuado no mesmo exercício como
+            agente fiduciário, bem como os seguintes dados sobre tais
+            emissões: (1) denominação da companhia ofertante; (2) valor
+            da emissão; (3) quantidade de valores mobiliários
+            emitidos; (4) espécie e garantias envolvidas; (5) prazo de
+            vencimento e taxa de juros; e (6) inadimplemento no período;
+            e
+
+      k.  declaração sobre a não existência de situação de conflito de
+            interesses que impeça o Agente Fiduciário de continuar a
+            exercer sua função.
+
+(xiii) disponibilizar aos Debenturistas o relatório de que trata o
+       inciso (xii) acima, no prazo máximo de 5 (cinco) meses a contar
+       do encerramento do exercício social da Emissora, na sua página na
+       rede mundial de computadores, mantendo-o disponível para consulta
+       pública pelo prazo de 3 (três) anos; e, no mesmo prazo de 4
+       (quatro) meses a contar do encerramento do exercício social da
+       Emissora, enviar o relatório anual à Emissora, para divulgação na
+       forma prevista na regulamentação específica;
+
+(xiv) fiscalizar o cumprimento das cláusulas e itens constantes desta
+      Escritura de Emissão e no Contrato de Garantia, especialmente
+      daqueles que impõem obrigações de fazer e de não fazer à Emissora;
+
+(xv) solicitar, quando considerar necessário, auditoria externa na
+     Emissora;
+
+(xvi) convocar, quando necessário, Assembleia Geral de Debenturistas,
+      mediante anúncio publicado, pelo menos 3 (três) vezes, nos órgãos
+      de imprensa nos quais a Emissora deve efetuar suas publicações,
+      conforme Cláusula XI abaixo;
+
+(xvii) comparecer às Assembleias Gerais de Debenturistas a fim de
+       prestar as informações que lhe forem solicitadas;
+
+(xviii) manter atualizada a relação dos Debenturistas e seus endereços,
+        mediante, inclusive, gestões junto à Emissora, ao Banco
+        Liquidante, ao Escriturador e à B3, sendo que, para fins de
+        atendimento ao disposto neste inciso, a Emissora e os
+        Debenturistas, mediante subscrição e integralização das
+        Debêntures expressamente autorizam, desde já, o Banco
+        Liquidante, o Escriturador e a B3 a atenderem quaisquer
+        solicitações feitas pelo Agente Fiduciário, inclusive referente
+        à divulgação, a qualquer momento, da posição de Debêntures e dos
+        Debenturistas;
+
+(xix) comunicar os Debenturistas a respeito de qualquer inadimplemento,
+      pela Emissora e/ou pelas Fiadoras, de obrigações financeiras
+      assumidas na presente Escritura de Emissão, incluindo as
+      obrigações relativas a garantia e a cláusulas contratuais
+      destinadas a proteger o interesse dos Debenturistas e que
+      estabelecem condições que não devem ser descumpridas pela Emissora
+      e/ou pelas Fiadoras, indicando as consequências para os
+      Debenturistas e as providências que pretende tomar a respeito do
+      assunto, no prazo de até 7 (sete) Dias Úteis contado da data em
+      que tomar ciência do inadimplemento;
+
+(xx) acompanhar o resgate das Debêntures nos casos previstos nesta
+     Escritura de Emissão;
+
+(xxi) disponibilizar o preço unitário, de acordo com a metodologia desta
+      Escritura de Emissão, calculado pela Emissora por meio de sua
+      página na rede mundial de computadores;
+
+(xxii) assegurar, nos termos do parágrafo 1° do artigo 6 da Instrução
+       CVM 583, tratamento equitativo aos Debenturistas e a todos os
+       titulares de valores mobiliários de emissão da Emissora ou de
+       suas sociedades controladoras, coligadas, sob controle comum e/ou
+       controladas, respeitadas as garantias, obrigações e direitos
+       específicos atribuídos aos respectivos titulares de valores
+       mobiliários, em que atue como agente fiduciário;
+
+(xxiii) manter disponível em sua página na rede mundial de computadores
+        lista atualizada das emissões em que exerce a função de Agente
+        Fiduciário;
+
+(xxiv) divulgar, em sua página na rede mundial de computadores, as
+       informações eventuais previstas no artigo 16 da Instrução CVM
+       583, mantendo-as disponíveis para consulta pública pelo prazo de
+       3 (três) anos;
+
+(xxv) manter, pelo prazo mínimo de 5 (cinco) anos, ou por prazo superior
+      por determinação expressa da CVM, todos os documentos e
+      informações exigidas pela Instrução CVM 583, podendo tais
+      documentos ser guardados em meio físico ou eletrônico,
+      admitindo-se a substituição de documentos pelas respectivas
+      imagens digitalizadas; e
+
+(xxvi) acompanhar a manutenção do Índice Financeiro, podendo o Agente
+       Fiduciário solicitar à Emissora todos os eventuais
+       esclarecimentos adicionais que se façam necessários.
+
+       1.  Atribuições Específicas.
+
+           1.  Os atos ou manifestações por parte do Agente Fiduciário
+               que criarem responsabilidade para os Debenturistas ou
+               exonerarem terceiros de obrigações para com eles, bem
+               como aqueles relacionados ao devido cumprimento das
+               obrigações assumidas nesta Escritura de Emissão, somente
+               serão válidos quando previamente deliberados pelos
+               Debenturistas reunidos em Assembleia Geral de
+               Debenturistas, nos termos da Cláusula XI abaixo.
+
+           2.  Sem prejuízo do seu dever de diligência, o Agente
+               Fiduciário assumirá que os documentos originais ou cópias
+               autenticadas de documentos encaminhados pela Emissora ou
+               por terceiros a seu pedido não foram objeto de fraude ou
+               adulteração. O Agente Fiduciário não será, sob qualquer
+               hipótese, responsável pela elaboração de documentos
+               societários da Emissora, a qual permanecerá sob obrigação
+               legal e regulamentar da Emissora, nos termos da
+               legislação aplicável.
+
+           3.  A atuação do Agente Fiduciário limita-se ao escopo da
+               Instrução CVM 583, e dos artigos aplicáveis da Lei das
+               Sociedades por Ações, e dos documentos no qual figure
+               como parte, estando o Agente Fiduciário isento, sob
+               qualquer forma ou pretexto, de qualquer responsabilidade
+               adicional que não tenha decorrido da legislação aplicável
+               e dos referidos documentos.
+
+       2.  Remuneração do Agente Fiduciário.
+
+           1.  Será devido, ao Agente Fiduciário, honorários pelo
+               desempenho dos deveres e atribuições que lhe competem,
+               nos termos da legislação em vigor e desta Escritura de
+               Emissão, correspondentes, a parcelas anuais de R$
+               18.000,00 (dezoito mil reais), sendo a primeira parcela
+               devida no 5º (quinto) dia após a data da assinatura desta
+               Escritura de Emissão, e as demais parcelas na mesma data
+               dos anos subsequentes. As parcelas anuais serão devidas
+               mesmo após o vencimento final das Debêntures, caso o
+               Agente Fiduciário ainda esteja exercendo atividades
+               inerentes à sua função em relação à Emissão, e deverão
+               ser pagas na sua totalidade, não sendo cabível o
+               pagamento pro rata de tais parcelas.
+
+               1.  A primeira parcela de honorários prevista na Cláusula
+                   8.5.1 acima será devida ainda que as Debêntures não
+                   sejam integralizadas, a título de estruturação e
+                   implantação.
+
+           2.  No caso de inadimplemento no pagamento das Debêntures ou
+               de reestruturação das condições das Debêntures após a
+               Data de Emissão ou a participação em reuniões ou
+               conferências telefônicas, antes ou depois da Data de
+               Emissão, bem como atendimento à solicitações
+               extraordinárias, será devido ao Agente Fiduciário,
+               adicionalmente, o valor de R$500,00 (quinhentos reais)
+               por hora-homem de trabalho dedicados a tais fatos bem
+               como à (i) comentários aos documentos da Emissão durante
+               a estrutura da mesma, caso a operação não venha a se
+               efetivar; (ii) execução de garantia; (iii) participação
+               em reuniões formais ou virtuais com a Emissora e/ou com
+               investidores; e (iv) implementação das consequentes
+               decisões tomadas em tais eventos, a ser pago no prazo de
+               até 5 (cinco) dias contado da data de comprovação da
+               entrega, pelo Agente Fiduciário, de “relatório de horas”
+               à Emissora. Entende-se por reestruturação das Debêntures
+               os eventos relacionados a alteração de garantias, prazos
+               de pagamento ou condições relacionadas ao vencimento
+               antecipado das Debêntures. Os eventos relacionados a
+               amortização das Debêntures não são considerados
+               reestruturação das Debêntures.
+
+           3.  No caso de celebração de aditamentos à Escritura de
+               Emissão, ao Contrato de Garantia ou a qualquer outro
+               documento relacionado à Emissão, bem como nas horas
+               externas ao escritório do Agente Fiduciário, será
+               cobrado, adicionalmente, o valor de R$500,00 (quinhentos
+               reais) por hora-homem de trabalho dedicado a tais
+               alterações/serviços.
+
+               1.  O pagamento da remuneração do Agente Fiduciário será
+                   feito mediante crédito na conta corrente a ser
+                   indicada pelo Agente Fiduciário.
+
+           4.  A remuneração devida ao Agente Fiduciário nos termos das
+               Cláusulas 8.5.1 a 8.5.3 acima será atualizada a partir da
+               Data de Emissão, com base na variação positiva acumulada
+               do Índice Geral de Preços – Mercado, divulgado pela
+               Fundação Getúlio Vargas (“IGP-M”), ou do índice que
+               eventualmente o substitua, calculada pro rata die, se
+               necessário, sempre na menor periodicidade permitida em
+               lei.
+
+           5.  Em caso de mora no pagamento da remuneração devida, os
+               débitos em atraso ficarão sujeitos a (i) juros de mora de
+               1% a.m. (um por cento ao mês), calculados pro rata
+               temporis desde a data de inadimplemento até a data do
+               efetivo pagamento; (ii) multa moratória, irredutível e de
+               natureza não compensatória, de 2% (dois por cento);
+               e (iii) atualização monetária pelo IGP-M, calculada pro
+               rata die desde a data de inadimplemento até a data do
+               efetivo pagamento.
+
+           6.  Os serviços do Agente Fiduciário previstos nesta
+               Escritura de Emissão são aqueles descritos na Instrução
+               CVM 583 e na Lei das Sociedades por Ações.
+
+           7.  No caso de eventuais obrigações adicionais atribuídas ao
+               Agente Fiduciário, ou no caso de alteração nas
+               características da Emissão ficará facultada a revisão dos
+               honorários do Agente Fiduciário.
+
+           8.  As parcelas citadas nos itens acima, serão acrescidas dos
+               seguintes impostos: ISS (Imposto Sobre Serviços de
+               Qualquer Natureza), PIS (Contribuição ao Programa de
+               Integração Social), COFINS (Contribuição para o
+               Financiamento da Seguridade Social), CSLL (Contribuição
+               Social sobre o Lucro Líquido), IRRF (Imposto de Renda
+               Retido na Fonte) e quaisquer outros impostos que venham a
+               incidir sobre a remuneração do Agente Fiduciário nas
+               alíquotas vigentes nas datas de cada pagamento.
+
+           9.  Não haverá devolução de valores já recebidos pelo Agente
+               Fiduciário a título da prestação de serviços, exceto se o
+               valor tive sido pago incorretamente.
+
+       3.  Despesas.
+
+           1.  A remuneração do Agente Fiduciário prevista na Cláusula
+               8.5.1 acima não inclui as despesas necessárias ao
+               exercício da função de agente fiduciário durante a
+               implantação e vigência do serviço, as quais serão
+               cobertas pela Emissora, mediante pagamento das
+               respectivas cobranças acompanhadas dos respectivos
+               comprovantes, emitidas diretamente em nome da Emissora ou
+               mediante reembolso, após, sempre que possível, prévia
+               aprovação, quais sejam: publicações em geral, quando
+               exigidas pela legislação aplicável, notificações,
+               extração de certidões, despesa cartorárias, fotocópias,
+               digitalizações, envio de documentos, viagens,
+               alimentação, estadias, transporte, despesas com
+               especialistas, tais como auditoria e/ou fiscalização,
+               entre outros, ou assessoria legal aos Debenturistas.
+               Todas as despesas em que o Agente Fiduciário venha a
+               incorrer para resguardar os interesses dos Debenturistas
+               deverão ser, sempre que possível, previamente aprovadas e
+               adiantadas pelos Debenturistas e posteriormente, conforme
+               previsto em lei, ressarcidas pela Emissora. Essas
+               despesas a serem adiantadas pelos Debenturistas,
+               correspondem a depósitos, indenizações, custas e taxas
+               judiciárias de ações propostas pelo Agente Fiduciário,
+               enquanto representante dos Debenturistas. Os honorários
+               de sucumbência em ações judiciais serão igualmente
+               suportados pelos Debenturistas, bem como a remuneração do
+               Agente Fiduciário na hipótese de a Emissora permanecer em
+               inadimplência com relação ao pagamento desta por um
+               período superior a 10 (dez) dias, podendo o Agente
+               Fiduciário solicitar garantia dos Debenturistas para
+               cobertura do risco de sucumbência.
+
+           2.  Em atendimento ao Ofício-Circular CVM/SRE Nº 01/20, o
+               Agente Fiduciário poderá, às expensas da Emissora,
+               contratar terceiro especializado para avaliar ou
+               reavaliar, conforme o caso, o valor das garantias
+               prestadas no âmbito da Emissão, bem como solicitar
+               informações e comprovações que entender necessárias, na
+               forma prevista no referido ofício.
+
+       4.  Declarações do Agente Fiduciário.
+
+           1.  O Agente Fiduciário declara que, sob as penas da lei,
+               nesta data:
+
+(i) não ter qualquer impedimento legal, sob as penas da lei, para
+    exercer a função que lhe é conferida, conforme artigo 66, parágrafo
+    3º, da Lei das Sociedades por Ações;
+
+(ii) que não se encontra em nenhuma das situações de conflito de
+     interesse previstas no artigo 6 da Instrução CVM 583;
+
+(iii) aceitar a função que lhe é conferida, assumindo integralmente os
+      deveres e atribuições previstos na legislação específica e nesta
+      Escritura de Emissão;
+
+(iv) aceitar integralmente esta Escritura de Emissão e todas as suas
+     cláusulas e condições;
+
+(v) não ter qualquer ligação com a Emissora que o impeça de exercer suas
+    funções;
+
+(vi) estar devidamente autorizado a celebrar esta Escritura de Emissão e
+     a cumprir com suas obrigações previstas neste instrumento, tendo
+     sido satisfeitos todos os requisitos legais e estatutários
+     necessários para tanto;
+
+(vii) estar devidamente qualificado a exercer as atividades de Agente
+      Fiduciário, nos termos da regulamentação aplicável vigente;
+
+(viii) que esta Escritura de Emissão constitui obrigação legal, válida,
+       vinculativa e eficaz do Agente Fiduciário, exequível de acordo
+       com os seus termos e condições;
+
+(ix) que a celebração desta Escritura de Emissão, do Contrato de
+     Garantia e o cumprimento de suas obrigações nela previstas não
+     infringem qualquer obrigação anteriormente assumida pelo Agente
+     Fiduciário;
+
+(x) que verificou a veracidade das informações relacionas às garantias e
+    a consistência das demais informações contidas nesta Escritura de
+    Emissão e no Contrato de Garantia, diligenciando no sentido de que
+    fossem sanadas as omissões, falhas ou defeitos de que tivesse
+    conhecimento;
+
+(xi) que a pessoa que o representa na assinatura desta Escritura de
+     Emissão tem poderes bastantes para tanto;
+
+(xii) que, com base no organograma disponibilizado pela Emissora, para
+      os fins do disposto no artigo 6º, parágrafo 2°, e Anexo 15, inciso
+      XI, da Instrução CVM 583, não atua como agente fiduciário em
+      outras emissões da Emissora, controladores diretos, controladas
+      diretas, sociedades sob controle comum ou coligadas; e
+
+(xiii) que a manutenção da suficiência da Garantia Real será verificada
+       de acordo com o disposto no Contrato de Garantia.
+
+IX. 
+    ASSEMBLEIA GERAL DE DEBENTURISTAS
+
+    1.  Disposições Gerais.
+
+        1.  Os Debenturistas poderão, a qualquer tempo, reunir-se em
+            assembleia geral, de acordo com o disposto no artigo 71 da
+            Lei das Sociedades por Ações, a fim de deliberar sobre
+            matérias de interesse da comunhão dos Debenturistas
+            (“Assembleia Geral de Debenturistas”). As Assembleias Gerais
+            de Debenturistas deverão ser realizadas de forma presencial
+            e, caso venha a ser regulamentado pela CVM, poderão ser
+            alternativamente realizadas por conferência telefônica,
+            vídeo conferência ou por qualquer outro meio de comunicação,
+            desde que nos termos da legislação aplicável.
+
+        2.  Aplica-se à Assembleia Geral de Debenturistas, no que
+            couber, o disposto na Lei das Sociedades por Ações sobre
+            assembleia geral de acionistas.
+
+    2.  Convocação.
+
+        1.  As Assembleias Gerais de Debenturistas podem ser convocadas
+            pelo Agente Fiduciário, pela Emissora, pela CVM ou por
+            Debenturistas que representem, no mínimo, 10% (dez por
+            cento) das Debêntures em Circulação.
+
+        2.  A convocação se dará mediante anúncio publicado, pelo menos,
+            3 (três) vezes, nos termos da Cláusula 4.19 acima,
+            respeitadas outras regras relacionadas à publicação de
+            anúncio de convocação de assembleias gerais constantes da
+            Lei das Sociedades por Ações, da regulamentação aplicável e
+            desta Escritura de Emissão.
+
+        3.  Todas as Assembleias Gerais de Debenturistas deverão ser
+            realizadas, em primeira convocação, no prazo mínimo de 15
+            (quinze) dias contado da data da primeira publicação da
+            convocação, ou, não se realizando a Assembleia Geral de
+            Debenturistas em primeira convocação, em segunda convocação,
+            no prazo mínimo de 8 (oito) dias contado da data da
+            publicação do novo anúncio de convocação.
+
+        4.  As deliberações tomadas por Debenturistas no âmbito de sua
+            competência legal, observados os quóruns estabelecidos nesta
+            Escritura de Emissão, serão existentes, válidas e eficazes
+            perante a Emissora e obrigarão a todos os Debenturistas,
+            independentemente de terem comparecido à Assembleia Geral de
+            Debenturistas ou do voto proferido na referida Assembleia
+            Geral de Debenturistas.
+
+        5.  Independentemente das formalidades previstas na legislação
+            aplicável e nesta Escritura de Emissão para convocação, será
+            considerada regular a Assembleia Geral de Debenturistas a
+            que comparecerem os titulares de todas as Debêntures em
+            Circulação.
+
+    3.  Quórum de Instalação.
+
+        1.  Nos termos do artigo 71, parágrafo terceiro, da Lei das
+            Sociedades por Ações, as Assembleias Gerais de Debenturistas
+            se instalarão, em primeira convocação, com a presença de
+            Debenturistas que representem, no mínimo, 75% (setenta e
+            cinco por cento) das Debêntures em Circulação, e, em segunda
+            convocação, com qualquer quórum.
+
+        2.  Para efeito da constituição de todos e quaisquer dos quóruns
+            de instalação ou deliberação das Assembleias Gerais de
+            Debenturistas previstos nesta Escritura de Emissão,
+            “Debêntures em Circulação” significam todas as Debêntures
+            subscritas e integralizadas e não resgatadas, excluídas as
+            Debêntures (i) mantidas em tesouraria pela Emissora; ou (ii)
+            de titularidade de: (a) sociedades controladas ou coligadas
+            pela Emissora (diretas ou indiretas), (b) controladoras
+            (diretas ou indiretas) da Emissora ou sociedades sob
+            controle comum, e (c) administradores da Emissora,
+            incluindo, mas não se limitando a, pessoas direta ou
+            indiretamente relacionadas a qualquer das pessoas
+            anteriormente mencionadas, incluindo seus cônjuges,
+            companheiros ou parentes até o 2º (segundo) grau.
+
+    4.  Quórum de Deliberação.
+
+        1.  Nas deliberações das Assembleias Gerais de Debenturistas, a
+            cada Debênture em Circulação caberá um voto, admitida a
+            constituição de mandatário, Debenturista ou não. Exceto
+            pelos demais quóruns expressamente previstos em outras
+            cláusulas desta Escritura de Emissão, qualquer matéria a ser
+            deliberada pelos Debenturistas deverá ser aprovada por
+            Debenturistas representando, no mínimo, em primeira ou
+            segunda convocação, 75% (setenta e cinco por cento) das
+            Debêntures em Circulação.
+
+        2.  Mediante proposta da Emissora, a Assembleia Geral de
+            Debenturistas poderá, por deliberação favorável de
+            Debenturistas representando, no mínimo, 90% (noventa por
+            cento) das Debêntures em Circulação, em primeira ou segunda
+            convocação, aprovar qualquer modificação proposta pela
+            Emissora relativa às características das Debêntures que
+            implique na alteração: (i) da Remuneração; (ii) das Datas de
+            Pagamento da Remuneração ou de quaisquer valores previstos
+            nesta Escritura de Emissão; (iii) da Data de Vencimento e
+            prazo de vigência das Debêntures; (iv) dos valores,
+            montantes e Datas de Amortização Programada; (v) da redação
+            de quaisquer dos Eventos de Vencimento Antecipado, inclusive
+            sua exclusão; (vi) da alteração dos quóruns de deliberação
+            previstos nesta Escritura de Emissão; (vii) das obrigações
+            da Emissora e/ou das Fiadoras relacionadas ao cumprimento da
+            Legislação Anticorrupção e/ou Legislação Socioambiental
+            previstas nas Cláusulas 7.1 e 7.2 acima; (viii) das
+            disposições desta Cláusula; (ix) da liberação de qualquer
+            das Garantias, assim como redução de ser valor; (x) criação
+            de evento de repactuação, e (xi) da espécie das Debêntures.
+
+        3.  Caso a Emissora, por qualquer motivo, solicite aos
+            Debenturistas, antes da sua ocorrência do fato ou evento, a
+            concessão de renúncia prévia ou perdão temporário, tal
+            solicitação poderá ser aprovada por Debenturistas, reunidos
+            em Assembleia Geral de Debenturistas, em primeira ou segunda
+            convocação, que representem, no mínimo, 75% (setenta e cinco
+            por cento) das Debêntures em Circulação.
+
+        4.  Será facultada a presença dos representantes legais da
+            Emissora nas Assembleias Gerais de Debenturistas, a não ser
+            quando ela seja solicitada pelos Debenturistas e pelo Agente
+            Fiduciário nos termos desta Escritura de Emissão, ou quando
+            ela for convocada, hipótese em que será obrigatória.
+
+        5.  O Agente Fiduciário deverá comparecer às Assembleias Gerais
+            de Debenturistas para prestar a quaisquer dos Debenturistas
+            as informações que lhe forem solicitadas.
+
+    5.  Mesa Diretora.
+
+        1.  A presidência e secretaria das Assembleias Gerais de
+            Debenturistas caberão aos representantes dos Debenturistas
+            eleitos por Debenturistas presentes (podendo, para tal
+            finalidade, ser eleito o representante do Agente Fiduciário
+            presente a qualquer Assembleia Geral de Debenturistas, para
+            atuar na presidência ou secretaria da Assembleia Geral de
+            Debenturistas) ou àqueles que forem designados pela CVM.
+
+X.  DECLARAÇÕES E GARANTIAS DA EMISSORA E DAS FIADORAS
+
+    1.  A Emissora e as Fiadoras, conforme aplicável declaram e
+        garantem, individualmente, cada uma em relação a si própria,
+        conforme aplicável, nesta data, que:
+
+(i) a Emissora e as Fiadoras são sociedades devidamente organizadas,
+    constituídas e existentes de acordo com as leis da República
+    Federativa do Brasil, com prazo indeterminado de duração, com seus
+    atos constitutivos devidamente registrados pelos órgãos competentes,
+    e estão devidamente autorizadas a conduzir os seus negócios como
+    atualmente conduzidos, com plenos poderes para deter, possuir e
+    operar seus bens;
+
+(ii) estão devidamente autorizadas, nos termos da lei e de seus
+     respectivos estatutos sociais e/ou contratos sociais, conforme
+     aplicável, a celebrar esta Escritura de Emissão e o Contrato de
+     Garantia, de que sejam parte, assim como a cumprir todas as
+     obrigações nestes previstas, tendo, então, sido satisfeitos todos
+     os requisitos e obtidas todas as autorizações necessárias para
+     tanto;
+
+(iii) os seus representantes legais que assinam esta Escritura de
+      Emissão e os demais documentos da Oferta Restrita têm poderes
+      estatutários ou delegados para assumir, em seu nome, as obrigações
+      aqui e ali estabelecidas e, sendo mandatários, tiveram os poderes
+      legitimamente outorgados, estando os respectivos mandatos em pleno
+      vigor e efeito;
+
+(iv) a celebração desta Escritura de Emissão e do Contrato de Garantia
+     pela Emissora, de que sejam parte, pelas Fiadoras, e o cumprimento
+     das obrigações previstas em tais instrumentos, bem como a
+     constituição da Garantia Real e da Fiança, não infringem, nesta
+     data, (a) seus documentos constitutivos, (b) nenhuma lei, ato
+     administrativo, ordem, decisão ou sentença administrativa, judicial
+     ou arbitral, disposição legal, contrato ou instrumento do qual seja
+     parte, (c) nem resultarão em (1) vencimento antecipado de qualquer
+     obrigação estabelecida em qualquer destes contratos ou
+     instrumentos; (2) criação de qualquer ônus sobre qualquer ativo ou
+     bem da Emissora ou das Fiadoras, exceto por aqueles decorrentes do
+     Contrato de Garantia; ou (3) rescisão de qualquer desses contratos
+     ou instrumentos;
+
+(v) inexiste, inclusive em relação às suas respectivas sociedades
+    controladas: (a) descumprimento de qualquer disposição contratual,
+    legal ou de qualquer outra ordem judicial, administrativa ou
+    arbitral; ou (b) qualquer processo, judicial, administrativo ou
+    arbitral, inquérito ou qualquer outro tipo de investigação
+    governamental, em qualquer dos casos deste inciso (1) que possa
+    resultar em um Efeito Adverso Relevante; ou (2) visando a anular,
+    alterar, invalidar, questionar ou de qualquer forma afetar esta
+    Escritura de Emissão, as Debêntures e/ou as Garantias;
+
+(vi) as obrigações assumidas pela Emissora e pelas Fiadoras nesta
+     Escritura de Emissão e no Contrato de Garantia, de que sejam parte,
+     constituem obrigações legalmente válidas e vinculantes da Emissora
+     e das Fiadoras exequíveis de acordo com os seus termos e condições,
+     com força de título executivo extrajudicial nos termos dos incisos
+     I e III do artigo 784 do Código de Processo Civil;
+
+(vii) estão adimplentes com o cumprimento das obrigações constantes
+      desta Escritura de Emissão, e não ocorreu e não existe, na
+      presente data, qualquer Evento de Vencimento Antecipado;
+
+(viii) não omitiram nenhum fato, de qualquer natureza, que seja de seu
+       conhecimento e que possa resultar em Efeito Adverso Relevante;
+
+(ix) as demonstrações financeiras consolidadas da Emissora e das
+     Fiadoras, relativas ao exercício social encerrado em 31 de dezembro
+     de 2019, representam corretamente a posição patrimonial e
+     financeira da Emissora e das Fiadoras nas datas respectivas e foram
+     devidamente elaboradas em conformidade com os princípios
+     fundamentais de contabilidade do Brasil e refletem corretamente os
+     ativos, passivos e contingências da Emissora e das Fiadoras. Desde
+     a data das demonstrações financeiras consolidadas relativas ao
+     exercício social encerrado em 31 de dezembro de 2019 e até a
+     presente data não houve nenhum Efeito Adverso Relevante na situação
+     financeira e nos resultados operacionais em questão, não houve
+     qualquer operação envolvendo a Emissora e/ou as Fiadoras, fora do
+     curso normal de seus negócios, que seja relevante para a Emissora
+     e/ou para as Fiadoras;
+
+(x) os bens dados em garantia no âmbito do Contrato de Garantia são de
+    sua respectiva titularidade e estão sob sua posse mansa e pacífica e
+    estão livres e desembaraçados de qualquer ônus, gravames ou
+    restrições, exceto pela Garantia Real a ser constituída conforme
+    previsto no Contrato de Garantia e nesta Escritura de Emissão;
+
+(xi) não têm qualquer ligação com o Agente Fiduciário ou conhecimento de
+     fato que impeça o Agente Fiduciário de exercer, plenamente, suas
+     funções, nos termos da Lei das Sociedades por Ações, e demais
+     normas aplicáveis, inclusive regulamentares;
+
+(xii) cumprem as leis, regras, regulamentos, normas administrativas e
+      determinações dos órgãos governamentais, autarquias ou instâncias
+      judiciais aplicáveis ao exercício de suas atividades, exceto por
+      aquelas questionadas nas esferas administrativa e/ou judicial com
+      obtenção de efeito suspensivo;
+
+(xiii) cumprem e fazem com que as suas sociedades controladas, bem como
+       seus respectivos administradores, funcionários, agentes e/ou
+       representantes, agindo em nome ou em benefício da Emissora, de
+       qualquer das Fiadoras e/ou de qualquer de suas sociedades
+       controladas cumpram, a Legislação Socioambiental, bem como (a)
+       não utilizam ou incentivam, direta ou indiretamente, trabalho em
+       condições análogas às de escravidão ou trabalho infantil; (b) não
+       utilizam ou incentivam, direta ou indiretamente, proveito
+       criminoso da prostituição; (c) não violam, direta ou
+       indiretamente, os direitos dos silvícolas, em especial, mas não
+       se limitando, ao direito sobre as áreas de ocupação indígena,
+       assim declaradas pela autoridade competente; (d) os seus
+       empregados são devidamente registrados nos termos da legislação
+       em vigor; (e) cumprem as obrigações decorrentes dos respectivos
+       contratos de trabalho e da legislação trabalhista e
+       previdenciária em vigor; e (f) cumprem a legislação aplicável à
+       proteção do meio ambiente, bem como à saúde e segurança do
+       trabalho;
+
+(xiv) possuem válidas, eficazes, em perfeita ordem e em pleno vigor
+      todas as autorizações e licenças, inclusive as ambientais,
+      aplicáveis ao regular exercício de suas atividades, exigidas pelas
+      autoridades federais, estaduais e municipais, estando todas elas
+      válidas e vigentes e tendo todos os protocolos de requerimento
+      sido realizados dentro dos prazos definidos pelos órgãos das
+      jurisdições em que atua, exceto por aquelas em processo tempestivo
+      de obtenção ou renovação;
+
+(xv) executam e observam políticas e procedimentos destinados a
+     assegurar a observância e cumprimento da Legislação Socioambiental
+     por seus respectivos fornecedores, contratados, subcontratados ou
+     terceiros agindo em seu nome ou em seu benefício;
+
+(xvi) cumprem e fazem com que suas sociedades controladas, bem como seus
+      respectivos administradores, funcionários, agentes e/ou
+      representantes agindo em nome ou em benefício da Emissora, de
+      qualquer das Fiadoras e/ou de qualquer de suas sociedades
+      controladas cumpram, a Legislação Anticorrupção, bem como
+      (a) adotam e mantém políticas próprias para estabelecer
+      procedimentos rigorosos de verificação de conformidade com a
+      Legislação Anticorrupção; (b) abstém-se de praticar atos de
+      corrupção e de agir de forma lesiva à administração pública,
+      nacional e estrangeira, conforme aplicável, no seu interesse ou
+      para seu benefício, exclusivo ou não, em violação à Legislação
+      Anticorrupção; (c) dão conhecimento pleno de tais normas as suas
+      sociedades controladoras, coligadas, sob controle comum e/ou
+      controladas, bem como seus respectivos acionistas,
+      administradores, funcionários, agentes, representantes,
+      fornecedores, contratados, subcontratados ou terceiros agindo em
+      nome ou em benefício da Emissora, e/ou de qualquer de suas
+      sociedades controladoras, coligadas, sob controle comum e/ou
+      controladas, previamente ao início de sua atuação no âmbito da
+      Oferta Restrita; (d) caso tenham conhecimento de qualquer ato ou
+      fato que viole aludidas normas, comunicará imediatamente o Agente
+      Fiduciário que poderá tomar todas as providências que os
+      Debenturistas entenderem necessárias; e (e) realizará eventuais
+      pagamentos devidos aos Debenturistas na forma prevista nesta
+      Escritura de Emissão;
+
+(xvii) executam e observam políticas e procedimentos destinados a
+       assegurar a observância e cumprimento da Legislação
+       Anticorrupção, conforme aplicável, por seus respectivos
+       fornecedores, contratados, subcontratados ou terceiros agindo em
+       seu nome ou em seu benefício;
+
+(xviii) nenhum registro, consentimento, autorização, aprovação, licença,
+        ordem de, ou qualificação junto a qualquer autoridade
+        governamental ou órgão regulatório é exigido para o cumprimento
+        de suas obrigações nos termos da presente Escritura de Emissão
+        ou das Debêntures, ou para a realização da Emissão e da Oferta
+        Restrita, ou ainda para a outorga e constituição das Garantias,
+        exceto (a) pelo depósito das Debêntures junto aos sistemas de
+        distribuição, negociação e custódia eletrônica da B3, o qual
+        estará em pleno vigor e efeito na primeira Data de
+        Integralização; (b) pelo arquivamento das atas dos Atos
+        Societários nas competentes juntas comerciais (que deverão
+        ocorrer em observância ao prazo máximo constante da Lei 14.030)
+        e respectivas publicações nos termos da Lei das Sociedades por
+        Ações, conforme aplicável; (c) pela inscrição desta Escritura de
+        Emissão na JUCESP (que deverá ocorrer em observância ao prazo
+        máximo constante da Lei 14.030); (d) pelo registro desta
+        Escritura de Emissão nos Cartórios RTD Competentes; e (e) pela
+        celebração e registro do Contrato de Garantia no Cartório RTD
+        SP, nos termos e prazos previstos nesta Escritura de Emissão e
+        no Contrato de Garantia;
+
+(xix) as informações prestadas até o encerramento da Oferta Restrita com
+      a divulgação no site da CVM da Comunicação de Encerramento são
+      verdadeiras, consistentes, corretas e suficientes para que os
+      investidores interessados em subscrever ou adquirir as Debêntures
+      tenham conhecimento da Emissora, suas respectivas atividades e
+      situações financeiras, das responsabilidades da Emissora, além dos
+      riscos a suas atividades e quaisquer outras informações relevantes
+      à tomada de decisões de investimento dos investidores interessados
+      em adquirir as Debêntures, na extensão exigida pela legislação
+      aplicável;
+
+(xx) os documentos e informações fornecidos ao Agente Fiduciário são
+     materialmente corretos e estão atualizados até a data em que foram
+     fornecidos e incluem os documentos e informações relevantes para a
+     tomada de decisão de investimento sobre a Emissora;
+
+(xxi) possuem justo título de propriedade e/ou de uso, conforme
+      aplicável, todos os seus bens imóveis e demais direitos e ativos
+      por elas detidos;
+
+(xxii) mantêm os seus bens e de suas controladas adequadamente segurados
+       de acordo com as práticas correntes de mercado;
+
+(xxiii) prepararam e entregaram todas as declarações de tributos,
+        relatórios e outras informações que, de acordo com o seu
+        conhecimento, devem ser apresentadas, ou receberam dilação dos
+        prazos para apresentação destas declarações, sendo certo que
+        todas as taxas, impostos e demais tributos e encargos
+        governamentais devidos de qualquer forma por si, ou por suas
+        Controladas, ou, ainda, impostas a si ou a quaisquer de seus
+        bens, direitos, propriedades ou ativos, ou relativo aos seus
+        negócios, resultados e lucros foram integralmente pagos quando
+        devidos, exceto por aquelas questionadas de nas esferas
+        administrativa e/ou judicial com obtenção de efeito suspensivo;
+        e
+
+(xxiv) a Emissora tem plena ciência de que, nos termos do artigo 9 da
+       Instrução CVM 476, a Emissora não poderá realizar outra oferta
+       pública da mesma espécie de valores mobiliários dentro do prazo
+       de 4 (quatro) meses contados da data da comunicação à CVM do
+       encerramento ou cancelamento da Oferta Restrita, a menos que a
+       nova oferta seja submetida a registro na CVM.
+
+       1.  A Emissora e as Fiadoras ficam responsáveis por (i) eventuais
+           prejuízos que decorram comprovadamente da inveracidade,
+           inconsistência, incorreção ou insuficiência das declarações
+           aqui prestadas, sem prejuízo da possibilidade do direito do
+           Agente Fiduciário de declarar vencidas antecipadamente todas
+           as obrigações objeto desta Escritura de Emissão, nos termos
+           da Cláusula 6.1.1 acima; e (ii) notificar, no prazo de até 5
+           (cinco) Dias Úteis, os Debenturistas e o Agente Fiduciário
+           caso quaisquer das declarações aqui prestadas tornem-se,
+           total ou parcialmente, inverídicas, inconsistentes,
+           incorretas ou insuficientes.
+
+XI. 
+    DISPOSIÇÕES GERAIS
+
+    1.  Comunicações. Quaisquer notificações, instruções ou comunicações
+        a serem realizadas por qualquer das Partes em virtude desta
+        Escritura de Emissão deverão ser realizadas por escrito e
+        encaminhadas para os seguintes endereços:
+
+(i) Para a Emissora:
+    AUTOPASS S.A.
+    Avenida Engenheiro Luiz Carlos Berrini, n° 105, 3º andar, Bairro
+    Cidade Monções
+    CEP 04571-010, São Paulo, SP
+    At.: Rodney Freitas
+    Telefone: (11) 3060-4048
+    E-mail: rodney.freitas@autopass.com.br
+
+  Com cópia para (que não constituirá uma notificação):
+  At.: Bruno Berezin
+  Avenida Engenheiro Luís Carlos Berrini, 105, 3º andar
+  CEP 04571-010, São Paulo, SP
+  E-mail: bruno.berezin@autopass.com.br / juridico@autopass.com.br
+
+(ii) Para o Agente Fiduciário:
+     OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.
+     Avenida das Américas, nº 3.434, Bloco 7, 2º Andar, Sala 201, Barra
+     da Tijuca
+     CEP 22604-102, Rio de Janeiro, RJ
+     At.: Maria Carolina Abrantes
+     Telefone: (21) 3514-0000
+     E-mail: ger2.agente@oliveiratrust.com.br
+
+(iii) Para as Fiadoras:
+      MONDOPASS S.A., ANBEMA PARTICIPAÇÕES S.A., FELTECH PARTICIPAÇÕES
+      S.A., GUIDE ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA., IKATU
+      ADMINISTRAÇÃO E PARTICIPAÇÕES S.A. e/ou NV9 CONSULTORIA E
+      PARTICIPAÇÕES LTDA.
+      Avenida Engenheiro Luiz Carlos Berrini, n° 105, 3º andar, Bairro
+      Cidade Monções
+      CEP 04571-010, São Paulo, SP
+      At.: Rodney Freitas
+      Telefone: (11) 3060-4048
+      E-mail: rodney.freitas@autopass.com.br
+
+  Com cópia para (que não constituirá uma notificação):
+  At.: Bruno Berezin
+  Avenida Engenheiro Luís Carlos Berrini, 105, 3º andar
+  CEP 04571-010, São Paulo, SP
+  E-mail: bruno.berezin@autopass.com.br / juridico@autopass.com.br
+
+(iv) Para o Banco Liquidante:
+     ITAÚ UNIBANCO S.A.
+     Praça Alfredo Egydio de Souza Aranha 100, Torre Olavo Setúbal,
+     Parque Jabaquara
+     CEP 04344-902, São Paulo, SP
+     At.: Melissa Braga
+     Telefone: (11) 2740-2919
+     E-mail: escrituracaorf@itau-unibanco.com.br
+
+(v) Para o Escriturador:
+    ITAÚ CORRETORA DE VALORES S.A.
+    Rua Ururaí, nº 111, Prédio B, Térreo, Tatuapé
+    CEP 03084-010, São Paulo, SP
+    At.: DISO – SPGE – GOE – Gerência de Operações de Escrituração
+    Telefone: (11) 2740-2919
+    E-mail: escrituracaorf@itau-unibanco.com.br
+
+(vi) Para a B3:
+     B3 S.A. – BRASIL, BOLSA, BALCÃO – SEGMENTO CETIP UTVM
+     Praça Antônio Prado, nº 48, 4º andar, Centro
+     CEP 01010-901, São Paulo, SP
+     At.: Superintendência de Ofertas de Títulos Corporativos e Fundos
+     Telefone: (11) 2565-5061
+     E-mail: valores.mobiliarios@b3.com.br
+
+     1.  As notificações, instruções e comunicações referentes a esta
+         Escritura de Emissão serão consideradas entregues quando
+         recebidas sob protocolo ou com “aviso de recebimento” expedido
+         pela Empresa Brasileira de Correios, ou por telegrama nos
+         endereços acima e, se enviada por correio eletrônico, na data
+         de seu envio, desde que seu recebimento seja confirmado por
+         meio de recibo emitido pelo remetente. Os respectivos originais
+         deverão ser encaminhados para os endereços acima no prazo de
+         até 5 (cinco) Dias Úteis contado do envio da mensagem.
+
+     2.  A mudança de qualquer dos endereços acima deverá ser
+         imediatamente comunicada às demais Partes pela Parte que tiver
+         seu endereço alterado.
+
+     1.  Irrevogabilidade. Esta Escritura de Emissão é celebrada em
+         caráter irrevogável e irretratável, obrigando as Partes e seus
+         sucessores a qualquer título.
+
+     2.  Renúncia. Não se presume a renúncia a qualquer dos direitos
+         decorrentes desta Escritura de Emissão. Desta forma, nenhum
+         atraso, omissão ou liberalidade no exercício de qualquer
+         direito, faculdade ou remédio que caiba a qualquer das Partes
+         ou aos Debenturistas em razão de qualquer inadimplemento das
+         disposições desta Escritura de Emissão prejudicará tais
+         direitos, faculdades ou remédios, ou será interpretado como
+         constituindo uma renúncia aos mesmos ou concordância com tal
+         inadimplemento, nem constituirá novação ou modificação de
+         quaisquer outras obrigações assumidas pela Parte inadimplente
+         nesta Escritura de Emissão ou precedente no tocante a qualquer
+         outro inadimplemento ou atraso.
+
+     3.  Independência das Disposições desta Escritura de Emissão. Caso
+         qualquer das disposições desta Escritura de Emissão venha a ser
+         julgada ilegal, inválida ou ineficaz, prevalecerão todas as
+         demais disposições não afetadas por tal julgamento,
+         comprometendo-se as Partes, em boa fé, a substituir a
+         disposição afetada por outra que, na medida do possível,
+         produza o mesmo efeito.
+
+         1.  As Partes concordam que a presente Escritura de Emissão,
+             assim como os demais documentos da Emissão poderão ser
+             alterados, sem a necessidade de qualquer aprovação dos
+             Debenturistas, sempre que e somente (i) quando tal
+             alteração decorrer exclusivamente da necessidade de
+             atendimento a exigências de adequação a normas legais,
+             regulamentares ou exigências da CVM, ANBIMA, B3, conforme
+             aplicável; (ii) quando verificado erro material, seja ele
+             um erro grosseiro, de digitação ou aritmético; ou ainda;
+             (iii) em virtude da atualização dos dados cadastrais das
+             Partes, tais como alteração na razão social, endereço e
+             telefone, entre outros, desde que as alterações ou
+             correções referidas nos itens acima, não acarretem qualquer
+             prejuízo aos Debenturistas e não haja qualquer custo ou
+             despesa adicional para os Debenturistas.
+
+     4.  Título Executivo Extrajudicial e Execução Específica. Esta
+         Escritura de Emissão e as Debêntures constituem títulos
+         executivos extrajudiciais nos termos dos incisos I e III do
+         artigo 784 do Código de Processo Civil, reconhecendo as Partes,
+         desde já, que independentemente de quaisquer outras medidas
+         cabíveis, as obrigações assumidas nos termos desta Escritura de
+         Emissão comportam execução específica, submetendo-se às
+         disposições dos artigos 814 e seguintes do Código de Processo
+         Civil, sem prejuízo do direito de declarar o vencimento
+         antecipado das Debêntures nos termos desta Escritura de
+         Emissão.
+
+     5.  Cômputo dos Prazos. Exceto se de outra forma especificamente
+         disposto nesta Escritura de Emissão, os prazos estabelecidos na
+         presente Escritura de Emissão serão computados de acordo com a
+         regra prescrita no artigo 132 do Código Civil, sendo excluído o
+         dia do começo e incluído o do vencimento.
+
+     6.  Despesas. A Emissora arcará com todos os custos decorrentes (i)
+         da distribuição das Debêntures, incluindo, mas sem se limitar,
+         a todos os custos relativos ao seu depósito na B3, (ii) de
+         registro e de publicação dos atos societários necessários à
+         realização da Emissão, da Oferta Restrita e da constituição da
+         Garantia Real, nos termos desta Escritura de Emissão; (iii) de
+         registro da presente Escritura de Emissão e do Contrato de
+         Garantia, bem como de seus respectivos aditamentos, nos termos
+         desta Escritura de Emissão, e (iv) das despesas e remuneração
+         com a contratação de Agente Fiduciário, Banco Liquidante e/ou
+         Escriturador.
+
+     7.  Lei Aplicável e Foro.
+
+         1.  Esta Escritura de Emissão é regida pelas leis da República
+             Federativa do Brasil.
+
+         2.  Fica eleito o foro da comarca de São Paulo, Estado de São
+             Paulo, para dirimir quaisquer dúvidas ou controvérsias
+             oriundas desta Escritura de Emissão, com renúncia a
+             qualquer outro, por mais privilegiado que seja.
+
+E, por estarem assim justas e contratadas, as Partes firmam a presente
+Escritura de Emissão, em 6 (seis) vias de igual teor e forma, juntamente
+com 2 (duas) testemunhas, que também a assinam.
+
+São Paulo, 16 de novembro de 2020.
+
+(as assinaturas seguem nas páginas seguintes)
+
+(restante desta página intencionalmente deixado em branco)
+
+(Página de Assinaturas 1/9 do “Instrumento Particular de Escritura da 1ª
+(Primeira) Emissão de Debêntures Simples, Não Conversíveis em Ações, da
+Espécie com Garantia Real, com Garantia Adicional Fidejussória, em Série
+Única, para Distribuição Pública, com Esforços Restritos de
+Distribuição, da Autopass S.A.”)
+
+AUTOPASS S.A.
+
+  --------------------------------------------------------------------------
+  __________________________________   ___________________________________
+  Nome:                                Nome:
+  Cargo:                               Cargo:
+  ------------------------------------ -------------------------------------
+
+  --------------------------------------------------------------------------
+
+(Página de Assinaturas 2/9 do “Instrumento Particular de Escritura da 1ª
+(Primeira) Emissão de Debêntures Simples, Não Conversíveis em Ações, da
+Espécie com Garantia Real, com Garantia Adicional Fidejussória, em Série
+Única, para Distribuição Pública, com Esforços Restritos de
+Distribuição, da Autopass S.A.”)
+
+OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.
+
++-----------------------------------------------------------------------+
+|   -----                                                               |
+| --------------------------------------------------------------------- |
+|   ___                                                                 |
+| _______________________________   ___________________________________ |
+|   Nome:                                Nome:                          |
+|   Cargo:                               Cargo:                         |
+|   -----                                                               |
+| ------------------------------- ------------------------------------- |
+|                                                                       |
+|   -----                                                               |
+| --------------------------------------------------------------------- |
++-----------------------------------------------------------------------+
+
+(Página de Assinaturas 3/9 do “Instrumento Particular de Escritura da 1ª
+(Primeira) Emissão de Debêntures Simples, Não Conversíveis em Ações, da
+Espécie com Garantia Real, com Garantia Adicional Fidejussória, em Série
+Única, para Distribuição Pública, com Esforços Restritos de
+Distribuição, da Autopass S.A.”)
+
+MONDOPASS S.A.
+
+  ---------------------------------- -- ---------------------------------
+                                        
+
+  Nome:                                 Nome:
+  Cargo:                                Cargo:
+  ---------------------------------- -- ---------------------------------
+
+(Página de Assinaturas 4/9 do “Instrumento Particular de Escritura da 1ª
+(Primeira) Emissão de Debêntures Simples, Não Conversíveis em Ações, da
+Espécie com Garantia Real, com Garantia Adicional Fidejussória, em Série
+Única, para Distribuição Pública, com Esforços Restritos de
+Distribuição, da Autopass S.A.”)
+
+ANBEMA PARTICIPAÇÕES S.A.
+
+  ---------------------------------- -- ---------------------------------
+                                        
+
+  Nome:                                 Nome:
+  Cargo:                                Cargo:
+  ---------------------------------- -- ---------------------------------
+
+(Página de Assinaturas 5/9 do “Instrumento Particular de Escritura da 1ª
+(Primeira) Emissão de Debêntures Simples, Não Conversíveis em Ações, da
+Espécie com Garantia Real, com Garantia Adicional Fidejussória, em Série
+Única, para Distribuição Pública, com Esforços Restritos de
+Distribuição, da Autopass S.A.”)
+
+FELTECH PARTICIPAÇÕES S.A.
+
+  ------------------------------------------------------------------ ----
+                                                                     
+
+  Nome:                                                              
+  Cargo:                                                             
+  ------------------------------------------------------------------ ----
+
+(Página de Assinaturas 6/9 do “Instrumento Particular de Escritura da 1ª
+(Primeira) Emissão de Debêntures Simples, Não Conversíveis em Ações, da
+Espécie com Garantia Real, com Garantia Adicional Fidejussória, em Série
+Única, para Distribuição Pública, com Esforços Restritos de
+Distribuição, da Autopass S.A.”)
+
+GUIDE ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA.
+
+  ---------------------------------- -- ---------------------------------
+                                        
+
+  Nome:                                 Nome:
+  Cargo:                                Cargo:
+  ---------------------------------- -- ---------------------------------
+
+(Página de Assinaturas 7/9 do “Instrumento Particular de Escritura da 1ª
+(Primeira) Emissão de Debêntures Simples, Não Conversíveis em Ações, da
+Espécie com Garantia Real, com Garantia Adicional Fidejussória, em Série
+Única, para Distribuição Pública, com Esforços Restritos de
+Distribuição, da Autopass S.A.”)
+
+IKATU ADMINISTRAÇÃO E PARTICIPAÇÕES S.A.
+
+  ---------------------------------- -- ---------------------------------
+                                        
+
+  Nome:                                 Nome:
+  Cargo:                                Cargo:
+  ---------------------------------- -- ---------------------------------
+
+(Página de Assinaturas 8/9 do “Instrumento Particular de Escritura da 1ª
+(Primeira) Emissão de Debêntures Simples, Não Conversíveis em Ações, da
+Espécie com Garantia Real, com Garantia Adicional Fidejussória, em Série
+Única, para Distribuição Pública, com Esforços Restritos de
+Distribuição, da Autopass S.A.”)
+
+NV9 CONSULTORIA E PARTICIPAÇÕES LTDA.
+
+  ---------------------------------- -- ---------------------------------
+                                        
+
+  Nome:                                 Nome:
+  Cargo:                                Cargo:
+  ---------------------------------- -- ---------------------------------
+
+(Página de Assinaturas 9/9 do “Instrumento Particular de Escritura da 1ª
+(Primeira) Emissão de Debêntures Simples, Não Conversíveis em Ações, da
+Espécie com Garantia Real, com Garantia Adicional Fidejussória, em Série
+Única, para Distribuição Pública, com Esforços Restritos de
+Distribuição, da Autopass S.A.”)
+
+Testemunhas:
+
++--------------------------------+-------------------------------------+
+| __                             | __________________________________  |
+| ______________________________ |                                     |
++--------------------------------+-------------------------------------+
+| Nome:                          | Nome:                               |
++--------------------------------+-------------------------------------+
+| RG:                            | RG:                                 |
+|                                |                                     |
+| CPF/ME:                        | CPF/ME:                             |
++--------------------------------+-------------------------------------+

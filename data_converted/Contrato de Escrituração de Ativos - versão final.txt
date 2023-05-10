@@ -1,0 +1,681 @@
+[Descrição: SeloServQualificados - Anbima.JPG]
+
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE ESCRITURAÇÃO DE CERTIFICADOS DE
+RECEBÍVEIS DO AGRONEGÓCIO “CRAS”
+
+Pelo presente Contrato de Escrituração de Certificados de Recebíveis do
+Agronegócio as partes (doravante denominadas simplesmente “Partes” ou,
+isoladamente, “Parte”):
+
++-----------------------------------+--------------+--------+---------+
+| OLIVEIRA TRUST DTVM S.A.          |              | CNPJ   |         |
+| (“OLIVEIRA TRUST”)                |              |        |         |
+|                                   |              | 36.113 |         |
+|                                   |              | .876/0 |         |
+|                                   |              | 001-91 |         |
++-----------------------------------+--------------+--------+---------+
+| Endereço                          | Cidade       | Estado | CEP     |
+|                                   |              |        |         |
+| Avenida das Américas nº 3434,     | Rio de       | RJ     | 22      |
+| bloco 07, Sala 201                | Janeiro      |        | 640-102 |
++-----------------------------------+--------------+--------+---------+
+
+  e
+
++---------------------------------+-------------+-----------+---------+---+
+|   ECO SECURITIZADORA DE         |             |   CNPJ    |         |   |
+|   DIREITOS CREDITÓRIOS DO       |             |           |         |   |
+|   AGRONEGÓCIO S.A (“EMISSORA”)  |             |           |         |   |
+|                                 |             | 10.753.16 |         |   |
+|                                 |             | 4/0001-43 |         |   |
++---------------------------------+-------------+-----------+---------+---+
+|   Endereço                      |   Cidade    |   Estado  |   CEP   |   |
+|                                 |             |           |         |   |
+|   Av. Pedroso de Morais, 1553 – |   São Paulo |   SP      |   05    |   |
+|   3º Andar – CJ 32              |             |           | 419-001 |   |
++---------------------------------+-------------+-----------+---------+---+
+
+  CONSIDERANDO QUE
+
+  I - A Emissora é companhia aberta com sede na, CEP, cidade de, Estado
+  de, inscrita no CNPJ/MF sob o nº 10.753.164/0001-43, neste ato
+  representada na forma de seu Estatuto Social
+
+  II - a Emissora tem interesse em contratar a Oliveira Trust, entidade
+  habilitada e autorizada pela CVM para o exercício das atividades
+  relativas à escrituração dos Ativos referidos na Cláusula I abaixo
+  (“Ativos”), na forma abaixo detalhada, podendo, para tanto, praticar
+  todos os atos previstos na legislação vigente para os fins previstos
+  neste contrato, conforme disposto na Instrução da CVM nº 543, de 20 de
+  dezembro de 2013 ("Instrução CVM 543"); e
+
+  III - A Oliveira Trust concorda e aceita prestar os serviços acima
+  indicados em favor da Emissora, no âmbito da emissão dos Ativos;
+
+  As partes acima nomeadas e qualificadas, ao final assinadas,
+  devidamente representadas por seus representantes legais, conforme
+  disposto em seus atos constitutivos ou demais documentos, têm entre si
+  certo e ajustado o presente Contrato, nos termos das cláusulas e das
+  condições seguintes:
+
+CLÁUSULA I
+
+DO OBJETO
+
+  1. A Oliveira Trust, prestará à Emissora, de forma exclusiva, serviços
+  de escrituração dos Ativos da 122ª Série da1ª Emissão de Certificados
+  de Recebíveis do Agronegócio S.A, nos termos da Instrução CVM 543,
+  incluindo o controle da titularidade dos Ativos em nome dos
+  respectivos investidores, registrados em contas de depósito na
+  Oliveira Trust ou nos termos dos manuais da respectiva Depositária
+  Central.
+
+  1.1. Nos termos do inciso I do artigo 11 da Instrução CVM 543, somente
+  a Oliveira Trust poderá praticar os atos de escrituração dos Ativos
+  exceto na hipótese de rescisão deste Contrato, nos termos da Cláusula
+  VII, abaixo.
+
+  1.2. A Oliveira Trust deverá efetuar a escrituração, conforme o caso,
+  dos Ativos emitidos, devendo a Emissora fornecer à Oliveira Trust toda
+  a documentação que o agente escriturador entender necessária para
+  comprovar a regularidade dos Ativos, seus registros em cartório,
+  quando necessário, e qualquer outro documento que comprove a sua
+  perfeita formalização, de acordo com a legislação aplicável.
+
+CLÁUSULA II
+
+DISCRIMINAÇÃO DOS SERVIÇOS DE ESCRITURAÇÃO
+
+1.  IMPLANTAÇÃO DOS DADOS
+
+  2.1.1. A Oliveira Trust implantará em seu sistema de escrituração, com
+  a finalidade de formar o banco de dados dos titulares da totalidade
+  dos Ativos, informações obtidas da Emissora no âmbito da liquidação da
+  distribuição dos Ativos, a saber:
+
+-   Identificação dos investidores;
+
+-   Quantidades por investidores;
+
+-   Qualquer ônus que recaia sobre os Ativos;
+
+-   Escritura de Emissão;
+
+-   Boletim de Subscrição; e
+
+-   Extrato da Conta, caso aplicável.
+
+  2.1.2. A Emissora encaminhará a Oliveira Trust, por meio eletrônico
+  (via internet, e-mail ou fac-símile) ou físico, os dados constantes no
+  item 2.1.1. acima, com relação à liquidação da distribuição dos Ativos
+  .
+
+  2.1.3. Quando a integralização ocorrer por meio do Depositário Central
+  fica sob a responsabilidade dessa a divulgação à Oliveira Trust dos
+  dados dos titulares e respectivas quantidades dos Ativos emitidas.
+
+  2.2. INFORMAÇÃO AOS INVESTIDORES
+
+  2.2.1. A Oliveira Trust será responsável pelo tratamento das
+  instruções de movimentação recebidas dos titulares dos Ativos, ou de
+  pessoas legitimadas por contrato ou mandato, e fornecerá aos
+  investidores, ou seus representantes legais com poderes específicos,
+  extrato da conta de depósito dos ativos, ao menos 01 (uma) vez por
+  ano.
+
+  2.3. REGISTRO EM CONTAS DE DEPÓSITO
+
+  2.3.1. A Oliveira Trust escriturará nas contas de depósito relativas à
+  titularidade dos Ativos, incluindo, sem limitação, os registros de
+  atualização de dados cadastrais, com base em informações encaminhadas
+  pela Emissora, órgão regulador ou pelo investidor, transferências e
+  gravames, desde que cumpridas as exigências legais e documentação
+  pertinente à cada processo.
+
+  2.4. DELIBERAÇÕES DE EVENTOS
+
+  2.4.1. A Oliveira Trust dará cumprimento às deliberações da Emissora,
+  assim como procederá o registro de emissão dos Ativos, dos direitos
+  gerados, e outras alterações nas contas de depósito em nome dos
+  investidores decorrente de atos de responsabilidade da Emissora, bem
+  como, outros eventos que possam ser deliberados, devendo ser
+  observados os seguintes requisitos:
+
+  2.4.1.1. A Emissora deverá cientificar a Oliveira Trust, por escrito,
+  em até 5 (cinco) Dias Úteis contados do evento que der causa à
+  presente cláusula, da realização de qualquer assembleia geral de
+  titulares dos Ativos ou qualquer evento que possa afetar os Ativos,
+  sua titularidade e a vigência de sua emissão, de forma que a Oliveira
+  Trust tenha tempo hábil para tomar as providências cabíveis ao seu
+  cumprimento.
+
+  2.4.1.2 Os eventos deliberados deverão estar em conformidade com a
+  legislação vigente à época em que ocorrer.
+
+  2.4.3. Em caso de dolo ou culpa exclusiva da Emissora, a Oliveira
+  Trust ficará desobrigada por eventuais responsabilidades a ela
+  imputadas pelo não cumprimento das deliberações comunicadas.
+
+  CLÁUSULA III
+
+  DAS PESSOAS AUTORIZADAS, PESSOAS DE CONTATO E DA TRANSMISSÃO DE
+  INFORMAÇÕES.
+
+  3. A Oliveira Trust somente prestará informações e/ou acatará as
+  ordens da Emissora, respeitadas as regras e procedimentos definidos
+  neste contrato, desde que não contrariem as previsões dos Termos e
+  Condições dos Ativos e que tais solicitações sejam realizadas por
+  escrito e assinadas: (i) por 2 Diretores Executivos ou por 2
+  representantes legais comprovados da Emissora, (ii) pelos mandatários
+  da Emissora, constituídos por procuração; ou (iii) por pessoa indicada
+  na Lista de Pessoas Autorizadas indicadas no anexo do presente
+  Contrato, que poderá ser atualizada a qualquer momento pela Emissora,
+  sem necessidade de aditivo a este instrumento, mediante o envio de
+  notificação por escrito à Oliveira Trust (“Pessoas Autorizadas”).
+
+  3.1. As solicitações de informações e/ou ordens poderão ser enviadas
+  por escrito ou por meio eletrônico (via Internet, E-mail ou
+  fac-símile), desde que os meios utilizados possam identificar o
+  representante legal e/ou a Pessoa Autorizada pela Emissora.
+
+  3.2. A Emissora obriga-se a comunicar à Oliveira Trust, as alterações,
+  as inclusões e as exclusões de quaisquer Pessoas Autorizadas ou dos
+  dados informados, promovendo a substituição do formulário.
+
+  3.3. As instruções transmitidas por Pessoas Autorizadas, presumem-se
+  verdadeiras pela Oliveira Trust, até que este seja notificado do
+  contrário, por escrito, pela Emissora.
+
+  3.4. Em caso de ambiguidade das instruções e/ou solicitações de
+  informações, transmitidas por quaisquer das Pessoas Autorizadas,
+  deverá a Oliveira Trust, na mesma data em que for verificada tal
+  ambiguidade, informar, por escrito, seja por correspondência e/ou por
+  meio eletrônico, imediatamente, à Emissora a respeito dessa
+  ambiguidade. A Oliveira Trust poderá se recusar a cumprir essas
+  instruções até que a ambiguidade seja esclarecida pela Emissora.
+
+  3.5. Fica convencionado entre as Partes que as instruções e as
+  solicitações de informação, previstas neste Contrato, como necessárias
+  à consecução da prestação do serviço aqui avençados, para serem
+  consideradas válidas, devem ser feitas tempestivamente, de forma
+  clara, completa e segura, pelos meios previstos neste Contrato,
+  direcionadas e recebidas por pessoas com poderes para tanto.
+
+  3.6. A Oliveira Trust cumprirá as instruções que acreditar de boa-fé
+  terem sido dadas por Pessoas Autorizadas, sem que implique a assunção
+  de responsabilidade por tais instruções e seus efeitos, desde que
+  sejam implementadas exatamente na forma instruída pela Emissora.
+
+  3.7. A Oliveira Trust poderá se pautar em quaisquer avisos, instruções
+  ou solicitações, por escrito, que lhe sejam enviados, dentro das
+  especificações contidas nesta Cláusula III, e que tenha motivos para
+  acreditar que sejam documentos firmados ou apresentados pela Emissora
+  ou seus representantes legais, não sendo responsável por quaisquer
+  atos ou omissões amparados em tais documentos, salvo em caso de dolo
+  ou culpa comprovada da Oliveira Trust.
+
+CLÁUSULA IV
+
+  DAS RESPONSABILIDADES E OBRIGAÇÕES DA OLIVEIRA TRUST
+
+  4.1. A Oliveira Trust obriga-se a prestar todos os serviços objeto
+  deste Contrato de seus Anexos, da regulamentação e legislação
+  aplicável
+
+  4.2. A Oliveira Trust não será responsabilizada por operações
+  realizadas pela Emissora e/ou respectivos titulares das contas de
+  depósito em desconformidade com a legislação vigente.
+
+  4.4. A Oliveira Trust não assumirá a responsabilidade pelo conteúdo,
+  exatidão, veracidade, legitimidade dos Ativos emitidos pela Emissora,
+  objeto da prestação dos serviços ora contratados, bem como por
+  qualquer prejuízo causado aos investidores e a terceiros nestas
+  hipóteses.
+
+  4.5. Fica certa e definida para ambas as Partes que celebram este
+  instrumento a inexistência de qualquer responsabilidade ou garantia da
+  Oliveira Trust pelo pagamento de qualquer evento objeto deste Contrato
+  aos investidores, cabendo a ela apenas e tão somente a
+  responsabilidade pela execução dos atos e procedimentos previstos
+  neste Contrato, em conformidade com as ordens dadas pela Emissora.
+
+CLÁUSULA V
+
+DAS OBRIGAÇÕES E RESPONSABILIDADES DA CONTRATANTE
+
+  5.1. A Emissora é a única responsável pela emissão dos Ativos e,
+  portanto, única titular dos direitos e obrigações decorrentes de tal
+  condição, devendo a Emissora e seus atos estarem enquadrada e em
+  conformidade com toda a legislação e regulamentação pertinentes.
+
+  5.2. As Partes obrigam-se a observar as disposições e obrigações deste
+  Contrato, de seus Anexos e da regulamentação e legislação aplicável.
+
+  5.3. Constatada eventual irregularidade de escrituração ou de execução
+  das instruções dadas pela Emissora, a Oliveira Trust deverá
+  corrigi-la, no prazo de até 3 (três) dias úteis, a contar do envio de
+  notificação nesse sentido pela Emissora, de maneira a não causar
+  maiores prejuízos.
+
+CLÁUSULA VI
+
+DA REMUNERAÇÃO
+
+  6.1. Pelos serviços ora contratados, a Emissora pagará a Oliveira
+  Trust, às expensas da Devedora, nos termos da cláusula 8.5 do
+  Instrumento Particular de Cessão de Créditos do Agronegócio e Outras
+  Avenças, celebrado em 08 de maio de 2017 (“Contrato de Cessão”), ou do
+  Patrimônio Separado, a importância constante no Anexo I, conforme as
+  considerações ali previstas.
+
+CLÁUSULA VII
+
+DO PRAZO DE VIGÊNCIA E DA RESCISÃO
+
+  7.1. O presente Contrato entrará em vigor a partir da data do registro
+  da distribuição pública dos Ativos, e vigorará até 1 (um) mês após o
+  vencimento dos Ativos ou, conforme o caso, até 1 (um) mês após o
+  resgate integral dos Ativos.
+
+  7.2. Este Contrato pode ser resilido a qualquer momento, por qualquer
+  das partes, sem direito a compensações ou indenizações, mediante
+  notificação da Parte interessada para a outra Parte, por escrito, com
+  no mínimo 30 (trinta) dias de antecedência, contados do recebimento do
+  comunicado pela outra Parte, período em que as Partes deverão cumprir
+  regularmente com as obrigações ora assumidas.
+
+  7.3. Na resilição, a Oliveira Trust, prestará conta de todos os
+  serviços que até então tenham sido prestados/executados, recebendo, em
+  seguida, a importância a que eventualmente fizer jus, perecendo o
+  direito a qualquer pagamento pelo serviços que não tenham sido
+  concluídos.
+
+  7.3.1 Sendo da Emissora a iniciativa de romper o Contrato, serão
+  devidos somente os valores em relação aos serviços das etapas já
+  concluídas e que estejam, ainda, pendentes de pagamento.
+
+  7.4. Além das situações previstas neste instrumento e na legislação,
+  este Contrato será rescindido/resilido de imediato e sem qualquer
+  aviso, nas seguintes hipóteses:
+
+  (i) na superveniência de qualquer normativo ou instrução das
+  autoridades competentes, notadamente do BACEN, que impeça a
+  contratação objeto deste Contrato;
+
+  se qualquer das Partes tiver sua falência, intervenção ou liquidação
+  decretada;
+
+  (ii) se qualquer das Partes tiver cassada sua autorização para
+  execução dos serviços ora contratados;
+
+  (iv) se qualquer das Partes suspender suas atividades por qualquer
+  período de tempo igual ou superior a 30 (trinta) dias, ou por período
+  inferior, desde que impacte negativamente os titulares dos Ativos;
+
+  (v) se for constatada a ocorrência de práticas irregulares por
+  qualquer uma das Partes; e
+
+  (vi) se não houver o pagamento da remuneração devida à Oliveira Trust,
+  desde que tal inadimplemento não seja sanado em até 5 (cinco) dias
+  úteis do recebimento de solicitação nesse sentido.
+
+  7.5. A infração de qualquer das cláusulas ou das condições aqui
+  estipuladas poderá ensejar a imediata rescisão/resilição deste
+  Contrato, mediante o envio de notificação escrita à Parte infratora,
+  que terá o prazo de 15 (quinze) dias úteis após o recebimento da
+  notificação para sanar a falta. Decorrido o prazo acima descrito e não
+  tendo sido sanada a falta, este Contrato será considerado rescindido
+  de pleno direito, respondendo ainda a Parte infratora, pelas perdas e
+  danos decorrentes do ato da rescisão que serão apuradas na forma
+  prevista na legislação em vigor, quanto à culpa, o dolo, a
+  negligência, imprudência ou imperícia praticada.
+
+CLÁUSULA VIII
+
+DA CONFIDENCIALIDADE
+
+  8.1. As Partes, por si, seus empregados e prepostos, sob as penas da
+  lei, manterão, inclusive após a rescisão deste Contrato, o mais
+  completo e absoluto sigilo sobre quaisquer dados, materiais,
+  pormenores, documentos, especificações técnicas e comerciais de
+  produtos e de informações das demais Partes, ou de terceiros, de que
+  venham a ter conhecimento ou acesso, ou que lhes venham a ser
+  confiados,sejam relacionados ou não com a prestação/execução de
+  serviços objeto deste Contrato. A inobservância do disposto nesta
+  cláusula acarretará sanções legais respondendo a infratora e quem mais
+  tiver dado causa à violação, no âmbito civil e criminal, salvo quando
+  a divulgação for imposta por lei, por ordem judicial, por autoridade
+  fiscalizadora ou ainda se fizer necessário para a elaboração de algum
+  relatório ou processo diretamente relativo ao escopo dos serviços
+  prestados.
+
+  8.1.1. Excluem-se deste Contrato as informações: (i) de domínio
+  público; e, (ii) que já eram do conhecimento da Parte receptora
+  anteriormente à celebração do presente Contrato.
+
+  8.2. Se uma das Partes, por determinação legal ou em decorrência de
+  ordem judicial ou de autoridade fiscalizadora, tiver que revelar algo
+  sigiloso, conforme especificado na Cláusula 9.1. supra, sem prejuízo
+  do atendimento tempestivo à determinação legal ou administrativa,
+  imediatamente dará notícia desse fato à outra Parte e lhe prestará as
+  informações e subsídios que possam ser necessários para que a seu
+  critério, possa defender-se contra a divulgação de qualquer das
+  informações sigilosas.
+
+  8.3. As obrigações de confidencialidade previstas nesta Cláusula IX
+  permanecerão válidas pelo prazo de 1 (um) ano a contar da resilição ou
+  rescisão do presente Contrato.
+
+CLÁUSULA IX
+
+DAS PENALIDADES
+
+  9.1. O inadimplemento, pela Emissora, de quaisquer das obrigações de
+  pagamento previstas neste Contrato caracterizará, de pleno direito,
+  independentemente de qualquer aviso ou notificação, a mora da mesma,
+  sujeitando-a ao pagamento dos seguintes encargos pelo atraso: (i)
+  juros de mora de 1% (um por cento) ao mês, calculados pro rata
+  temporis desde a data em que o pagamento era devido até o seu integral
+  recebimento pela Parte credora; (ii) multa convencional, não
+  compensatória, de 2% (dois  por cento), calculada sobre o respectivo
+  valor devido; e (iii) em qualquer hipótese, o valor devido será
+  atualizado monetariamente a partir da data do seu vencimento original
+  com base no índice acumulado de variação do IGP-M, conforme divulgado
+  pela Fundação Getúlio Vargas ou outro que venha a substituí-lo.
+
+  9.2  O descumprimento de qualquer condição prevista neste Contrato,
+  por qualquer das Partes, desde que devidamente comprovado, obrigará a
+  parte inadimplente a responder por eventuais perdas e/ou danos
+  resultantes de dolo, fraude e/ou culpa, responsabilizando-se ademais
+  pelas multas, atualizações monetárias e juros daí decorrentes,
+  apurados na forma prevista na legislação em vigor.
+
+CLÁUSULA X
+
+DAS DISPOSIÇÕES GERAIS E DAS DECLARAÇÕES
+
+  10.1. A omissão ou tolerância das Partes em exigir o estrito
+  cumprimento dos termos e condições deste Contrato, não constituirá
+  novação ou renúncia, nem afetará os seus direitos que poderão ser
+  exercidos a qualquer tempo.
+
+  10.2. Todas e quaisquer correspondências ou comunicações trocadas
+  entre as Partes deverão ser encaminhadas para os endereços indicados
+  no preâmbulo deste Contrato.
+
+  10.3. Eventuais inclusões, exclusões ou alterações das cláusulas
+  existentes serão consignadas em aditivo devidamente assinado pelas
+  Partes, que passará a fazer parte integrante deste Contrato.
+
+  10.4. Nenhuma Parte poderá ceder, transferir para terceiros, total ou
+  parcialmente, os direitos e obrigações decorrentes deste Contrato, sem
+  o prévio e expresso consentimento, por escrito, da outra Parte.
+
+  10.5. As Partes são consideradas contratantes independentes e nada do
+  presente Contrato criará qualquer outro vínculo entre elas, seja pelo
+  aspecto empregatício, seja por quaisquer outros aspectos, tais como
+  agente comercial, sociedade subsidiária, representação legal ou
+  associação de negócios.
+
+  10.6. As Partes reconhecem, expressamente, que a execução/prestação
+  dos serviços ora contratados não gerará qualquer relação de emprego
+  entre as Partes ou seus empregados ou prepostos.
+
+  10.7. Os tributos que forem devidos em decorrência direta ou indireta
+  do presente Contrato, ou de sua execução, constituem ônus de
+  responsabilidade do contribuinte, conforme definido na legislação
+  tributária.
+
+  10.8. A Emissora reconhece, neste ato, que o serviço ora contratado
+  está sujeito às leis, normas, costumes, procedimentos e práticas que
+  podem vir a ser alterados. Na hipótese de ocorrer uma alteração na
+  legislação que no todo ou em parte limite a prestação do serviço ora
+  contratado, a Oliveira Trust deverá solicitar à Emissora novas
+  instruções quanto aos procedimentos a serem tomados para o cumprimento
+  das obrigações contraídas por meio deste Contrato, que sejam de comum
+  acordo entre as Partes.
+
+  10.9. A Oliveira Trust em hipótese alguma será responsabilizado por
+  quaisquer atos e/ou atividades descritos no presente Contrato, que
+  tenham sido praticados por terceiros anteriormente contratados pela
+  Emissora.
+
+  10.9.1 Nos casos de transferência, a Emissora deverá enviar na data de
+  corte todo os documentos devidamente regularizados os quais são
+  necessários para a devida implantação do ativo.
+
+  10.10. Com exceção das obrigações imputadas a cada uma das Partes
+  neste Contrato e do disposto no Código Civil Brasileiro em vigor, a
+  outra Parte deverá ser mantido indene de qualquer outra
+  responsabilidade decorrente de atos ou fatos por parte da Parte, seus
+  administradores, representantes e empregados, a não ser no caso de
+  culpa manifesta relacionada às responsabilidades da outra Parte
+  previstas neste Contrato, seu dolo ou má-fé devidamente comprovados.
+
+  10.11.A Emissora assume, neste ato, de maneira irrevogável e
+  irretratável, total e integral responsabilidade por quaisquer perdas e
+  danos vierem a ser sofridos pela Oliveira Trust, em razão da prestação
+  do serviço ora avençada, que decorram de culpa exclusiva ou dolo
+  comprovado da Emissora.
+
+  10.12. Este Contrato obriga as Partes e seus sucessores a qualquer
+  título.
+
+  10.13. Exceto para os fins exigidos pela regulamentação da CVM no que
+  se refere à divulgação de informações necessárias para implementação
+  da distribuição pública dos Ativos, fica expressamente vedado às
+  Partes a utilização dos termos deste Contrato em divulgação ou
+  publicidade, bem como, o uso do nome, marca e logomarca uma da
+  outra,  para qualquer finalidade e em qualquer meio de
+  comunicação,  quer seja na mídia impressa, escrita, falada ou
+  eletrônica, incluindo-se, porém, sem se limitar, a publicação
+  em portfólio de produtos e serviços, links, etc., sendo que a sua
+  infração poderá ensejar a rescisão automática do presente Contrato, 
+  além de  sujeitar-se a Parte infratora,  ao pagamento de perdas e
+  danos que forem apuradas.
+
+  10.14. As Partes não manterão qualquer vínculo empregatício com
+  administradores, representantes, empregados e/ou prepostos umas das
+  outras, nem tampouco se estabelecerá entre elas qualquer forma de
+  associação, competindo, portanto, a cada uma delas, particularmente e
+  com exclusividade, o cumprimento de suas respectivas obrigações
+  trabalhistas, sociais, previdenciárias e infortunísticas em função do
+  objeto deste Contrato ou seus eventuais aditamentos, mesmo que houver
+  legislação, jurisprudência e/ou outra qualquer circunstância de
+  caráter judicial ou extrajudicial que possa provocar interpretação
+  diferente.
+
+  10.15. Todos os custos e despesas, incluindo, mas não se limitando a
+  honorários e despesas de advogados, consultores financeiros e
+  auditores, incorridos com relação a esse Contrato e as operações aqui
+  contempladas serão ressarcidos pela Emissora, com recursos recebidos
+  da Devedora ou com recursos do Patrimônio Separado, à Oliveira Trust.
+
+  10.16. As Partes obrigam-se a observar as disposições e obrigações
+  deste Contrato, de seus Anexos, do Contrato de Distribuição e dos
+  Termos e Condições dos Ativos, e da Lei aplicável, cabendo à Emissora
+  verificar as responsabilidades quanto a emissão e distribuição dos
+  Ativos por ela emitidas em nome dos respectivos titulares e todos os
+  eventos deliberados, e a Oliveira Trust pela prestação dos serviços
+  ora contratados.
+
+  10.17. Todos os processos descritos na Cláusula II serão analisados
+  pela Oliveira Trust e, se for o caso, poderão ser exigidos documentos
+  complementares às partes envolvidas para o devido registro, bem como
+  os processos estão sujeitos à confirmação da autenticidade da ordem
+  dada, para sua liberação, e se não forem atendidas todas as exigências
+  em conformidade com a legislação vigente à época em que ocorrer o
+  registro e também que possibilite a correta identificação do titular
+  da conta de depósito, a Oliveira Trust poderá efetuar a devolução do
+  processo à origem, informando o motivo de tal recusa.
+
+  10.18. As PARTES declaram, conjunta e expressamente, que o presente
+  Contrato foi celebrado respeitando-se os princípios de probidade e de
+  boa-fé, por livre, consciente e firme manifestação de vontade e em
+  perfeita relação de equidade.
+
+  10.19. Se, em decorrência de qualquer decisão judicial irrecorrível,
+  qualquer disposição ou termo deste Contrato for declarada nula ou for
+  anulada, tal nulidade ou anulabilidade não prejudicará a vigência das
+  demais Cláusulas deste Contrato não atingidas pela declaração de
+  nulidade ou pela anulação.
+
+  10.20. Durante o prazo de aviso prévio da denúncia contratual, as
+  Partes continuarão a cumprir suas respectivas obrigações, facultando a
+  Emissora, se for a Parte denunciante, dispensar a Oliveira Trust do
+  cumprimento de qualquer obrigação.
+
+  10.21. Ocorrendo a extinção do presente Contrato por qualquer motivo
+  ou hipótese, a Oliveira Trust compromete-se a garantir a transmissão,
+  especialmente por via eletrônica, a Emissora e/ou pessoas por ela
+  indicadas, de todas as informações relativas aos investidores que
+  estejam em sua base de dados por conta do objeto deste Contrato, até a
+  data da resilição do mesmo, sem qualquer custo adicional a Emissora.
+
+  CLÁUSULA XI
+
+  DOS DOCUMENTOS INTEGRANTES
+
+  11.1. O Anexo I, II e o Anexo III, devidamente rubricados pelas
+  Partes, integram este Contrato para todos os fins e efeitos de
+  direito, como se nele estivessem transcritos.
+
+  CLÁUSULA XIII
+
+  DO FORO
+
+  12.1. Fica eleito pelas Partes o Foro da Cidade do Rio de Janeiro,
+  Estado do Rio de Janeiro, para dirimir quaisquer dúvidas ou questões
+  decorrentes deste Contrato.
+
+  E por estarem de acordo, assinam o presente, em 02 (duas) vias, de
+  igual teor e forma, juntamente com as 02 (duas) testemunhas abaixo.
+
+  Rio de Janeiro, 08 de maio de 2017.
+
+  ______________________________________________________________
+
+  OLIVEIRA TRUST DTVM S.A.
+
+  ______________________________________________________________
+
+  ECO SECURITIZADORA DE DIREITOS CREDITÓRIOS DO AGRONEGÓCIO S.A
+
+  TESTEMUNHAS:
+
+1...................................................
+2........................................
+
+Nome: Nome:
+
+RG: RG:
+
+CPF/MF: CPF/MF:
+
+ANEXO I - REMUNERAÇÃO
+
+1.  Prestação de Serviços de Escrituração dos Ativos
+
+(i) Pela prestação de serviços de escrituração dos Ativos, será cobrado
+    da Emissora, as expensas da Devedora, nos termos da cláusula 8.5 do
+    Contrato de Cessão, ou com recursos do Patrimônio Separado, em até 5
+    dias após a Integralização dos CRAs, parcelas anuais de R$ 5.000,00
+    (cinco mil reais), sendo a primeira em até 5 dias úteis após a
+    Integralização dos CRAS e as demais nas mesmas datas dos anos
+    subsequentes até o efetivo encerramento da operação.
+
+2. Custos Adicionais
+
+  As remunerações não incluem os custos adicionais para:
+
+(i) envio dos extratos e informes periódicos, de custo individual
+    equivalente a R$0,50, acrescido dos custos do correio.
+
+(ii) Cadastro dos titulares dos Ativos no sistema de escrituração da
+     Oliveira Trust (custo unitário de R$ 5,00, nos casos em que forem
+     escriturais)
+
+(iii) Todos os custos que a Oliveira Trust venha a incorrer para
+      manutenção da emissão serão reembolsados pela Emissora.
+
+3. Atualização dos valores de prestação de serviços.
+
+ Os custos apresentados neste anexo serão atualizados anualmente pelo IGP-M a partir de 08 de maio de 2018 e em caso de extinção, deverá ser adotado índice substituto constante da Lei, de comum acordo entre as partes.
+
+  4. Impostos
+
+  Os impostos incidentes sobre a remuneração serão acrescidos aos
+  valores devidos pela Emissora (ISS,PIS,COFINS,CSLL e IRFF).
+
+ANEXO II
+
+RELAÇÃO DE PESSOAS AUTORIZADAS PARA ENVIO DE INSTRUÇÕES
+
+Prezados Senhores, vimos pela presente nomear as seguintes pessoas, como
+autorizadas, as quais poderão, em conjunto ou isoladamente, assinar e
+enviar instruções relativas ao referido Contrato, observado todos os
+seus termos e condições:
+
+Nome ( ) EM CONJUNTO
+
+Endereço Internet ( ) E-MAIL - INTERNET
+
+2-
+
+Nome
+
+Endereço Internet
+
+3-
+
+Nome
+
+Endereço Internet
+
+4-
+
+Nome
+
+ANEXO III
+
+HORÁRIOS DE OPERACIONALIZAÇÃO DAS OPERAÇÕES
+
+Para o cumprimento dos serviços estabelecidos no presente Contrato, as instruções encaminhadas ao CONTRATADO deverão obedecer os seguintes horários:
+
+  ------------------------------------------------------------------------
+  Atividade                     Prazo     Obs.
+  ----------------------------- --------- --------------------------------
+  Ordem de Transferência de     D-2       
+  Ativos (Depósito e Retirada)            
+  e negociação no escritural              
+
+  Geração, Envelopamento e      D-5       
+  Envio de Correspondências aos           
+  Investidores                            
+
+  Registro/Liberação de         D-2       No caso de gravames decorrentes
+  Gravames sob os ativos                  de decisão judicial, o movimento
+                                          será realizado em D0.
+
+  Registro/Liberação de         D-2       
+  Direitos sob os ativos                  
+  ------------------------------------------------------------------------
+
+Observações:
+
+1)  para todas as operações o horário limite a ser considerado é 12:00
+    do dia da respectiva Instrução;
+
+2)  os prazos para efetivação das operações só começarão a contar a
+    partir do recebimento e validação de todos os documentos
+    necessários.
+
+O CONTRATADO reserva-se ao direito de alterar os horários a qualquer
+momento, mediante comunicação prévia por escrito, desde que tais
+alterações não prejudiquem o funcionamento do FUNDO, de acordo com os
+parâmetros e praxes de mercado.
+
+Quaisquer Instruções recebidas fora do horário estabelecido neste Anexo,
+não deverão ser cumpridas pelo CONTRATADO. Ficará, entretanto, a
+critério deste, a prática dos seus melhores esforços para realizar tais
+operações.

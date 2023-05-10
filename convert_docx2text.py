@@ -11,7 +11,7 @@ def convert_docx2text(src_path, dst_path):
             print(e)
             
 if __name__ == '__main__':
-    # convert_docx2text('data/', 'data_converted/')
+    convert_docx2text('data/debentures', 'data_converted/')
     
 
             

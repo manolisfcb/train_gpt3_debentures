@@ -1,0 +1,3345 @@
+INSTRUMENTO PARTICULAR DE ESCRITURA DA OITAVA EMISSÃO DE DEBÊNTURES, NÃO
+CONVERSÍVEIS EM AÇÕES, EM DUAS SÉRIES, DA ESPÉCIE COM GARANTIA REAL COM
+GARANTIA ADICIONAL FIDEJUSSÓRIA, PARA COLOCAÇÃO PRIVADA, DA VITACON
+PARTICIPAÇÕES S.A.
+
+celebrado entre
+
+VITACON PARTICIPAÇÕES S.A.
+
+como Devedora,
+
+VIRGO COMPANHIA DE SECURITIZAÇÃO
+
+como Debenturista,
+
+ALEXANDRE LAFER FRANKEL
+
+como Fiador
+
+e
+
+TANZANITA DESENVOLVIMENTO IMOBILIÁRIO LTDA., e
+
+PEDRA NEGRA DESENVOLVIMENTO IMOBILIÁRIO SPE LTDA.,
+
+como Intervenientes Anuentes
+
+__________________
+
+Datado de
+
+06 de junho de 2022
+
+___________________
+
+INSTRUMENTO PARTICULAR DE ESCRITURA DA OITAVA EMISSÃO DE DEBÊNTURES, NÃO
+CONVERSÍVEIS EM AÇÕES, EM DUAS SÉRIES, DA ESPÉCIE COM GARANTIA REAL COM
+GARANTIA ADICIONAL FIDEJUSSÓRIA, PARA COLOCAÇÃO PRIVADA, DA VITACON
+PARTICIPAÇÕES S.A.
+
+Pelo presente instrumento particular,
+
+VITACON PARTICIPAÇÕES S.A., com sede na cidade de São Paulo, estado de
+São Paulo, na Rua Haddock Lobo, 347 – 2º andar, Jardins, CEP 01414-001,
+inscrita no Cadastro Nacional das Pessoas Jurídicas do Ministério da
+Economia (“CNPJ/ME”) sob nº 11.144.772/0001-13, neste ato representada
+por seu diretor abaixo assinado, nos termos de seu estatuto social
+registrado perante a Junta Comercial do Estado de São Paulo (“JUCESP”)
+sob o NIRE 35.300.456.688 (“Devedora” ou “Companhia”);
+
+Na qualidade de Fiador:
+
+ALEXANDRE LAFER FRANKEL, cidadão brasileiro, casado no regime de
+separação de bens, empresário, portador da cédula de identidade RG nº
+28.925.289-1-SSP/SP, inscrito no CPF/ME sob nº 269.120.538-07, com
+domicílio profissional na cidade de São Paulo, no estado de São Paulo,
+na Rua Haddock Lobo, 347 – 2º andar, Jardins, CEP 01414-001 (“Fiador”);
+
+Na qualidade de debenturista:
+
+VIRGO COMPANHIA DE SECURITIZAÇÃO, sociedade por ações, com sede na
+cidade de São Paulo, estado de São Paulo, na Rua Tabapuã nº 1.123, Andar
+21, Conjunto 215, Itaim Bibi, inscrita no CNPJ sob nº
+08.769.451/0001-08, neste ato representada na forma de seu Estatuto
+Social (“Securitizadora” ou “Debenturista”);
+
+Na qualidade de intervenientes anuentes:
+
+TANZANITA DESENVOLVIMENTO IMOBILIÁRIO LTDA., sociedade empresária de
+responsabilidade limitada, com sede na Rua Gomes de Carvalho, nº 1.108,
+18º andar, Vila Olímpia, CEP 04547-004, na cidade de São Paulo, estado
+de São Paulo, inscrita no CNPJ/ME sob o nº 32.582.006/0001-00, com seus
+atos constitutivos registrados perante a JUCESP sob o NIRE 35235436584
+(“SPE Maracatins”); e
+
+PEDRA NEGRA DESENVOLVIMENTO IMOBILIÁRIO SPE LTDA., sociedade empresária
+de responsabilidade limitada, com sede na Avenida Brigadeiro Faria Lima,
+nº 1.309, 4º andar, parte, Jardim Paulistano, CEP 01452-001, na cidade
+de São Paulo, estado de São Paulo, inscrita no CNPJ/ME sob o nº
+19.166.242/0001-88, com seus atos constitutivos registrados perante a
+JUCESP sob o NIRE nº 35.227.938. 321 (“SPE Vila Olímpia” e, quando em
+conjunto com a SPE Maracatins, as “SPEs”);
+
+sendo a Devedora, o Fiador e a Debenturista doravante denominados, em
+conjunto, como “Partes” e, individual e indistintamente, como “Parte”;
+vêm, por meio desta e na melhor forma de direito, firmar o presente
+“Instrumento Particular de Escritura da Oitava Emissão de Debêntures,
+não Conversíveis em Ações, em Duas Séries, da Espécie com Garantia Real
+com Garantia Adicional Fidejussória, para Colocação Privada, da Vitacon
+Participações S.A.” (“Escritura”).
+
+Os termos aqui iniciados em letra maiúscula, estejam no singular ou no
+plural, terão o significado a eles atribuído nesta Escritura, ainda que
+anteriormente ao seu uso.
+
+Para fins desta Escritura, “Documentos da Operação” significam, em
+conjunto: (i) esta Escritura; (ii) o “Instrumento Particular de Emissão
+de Cédula de Crédito Imobiliário Integral, sem Garantia Real
+Imobiliária, sob a Forma Escritural e Outras Avenças” (“Escritura de
+Emissão CCI”); (iii) o “Termo de Securitização de Créditos Imobiliários
+das 1ª e 2ª Séries da 23ª Emissão da Virgo Companhia de Securitização
+Lastreado em Créditos Imobiliários Devidos Pela Vitacon Participações
+S.A.” (“Termo de Secutirização”); (iv) os Contratos de Garantia
+(conforme abaixo definido); (v) o “Instrumento Particular de Contrato de
+Distribuição Pública, de Certificados de Recebíveis Imobiliários, sob
+Regime de Melhores Esforços de Colocação, da 1ª e 2ª Séries da 23ª
+Emissão da Virgo Companhia de Securitização” (“Contrato de
+Distribuição”); (vi) as declarações de veracidade a serem emitidas pela
+Securitizadora, pela Devedora e pelo Fiador; (vii) as declarações
+exigidas pela Comissão de Valores Mobiliários (“CVM”); (viii) os
+boletins de subscrição dos CRI (conforme abaixo definido); e (ix) os
+demais documentos relativos à Oferta Restrita.
+
+1.  DAS AUTORIZAÇÕES
+
+    1.  A presente Escritura e a outorga das Alienações Fiduciárias de
+        Quotas (conforme definido abaixo) foram aprovadas pela Companhia
+        com base na deliberação da Assembleia Geral Extraordinária
+        realizada em 06 de junho de 2022 (“AGE da Devedora”), nos termos
+        do artigo 59 da Lei nº 6.404, de 15 de dezembro de 1976 (“Lei
+        6.404/76”), a ser arquivada na JUCESP e publicada no “Diário do
+        Comércio, Indústria e Serviços”, de acordo com o disposto no
+        artigo 62, I, e no artigo 289 da Lei 6.404/76.
+
+2.  REQUISITOS
+
+    1.  Esta Escritura e eventuais aditamentos serão inscritos na
+        JUCESP, de acordo com o disposto no artigo 62, II, da Lei
+        6.404/76.
+
+    2.  A presente Emissão não será objeto de registro perante a CVM,
+        bem como não será registrada na Associação Brasileira das
+        Entidades do Mercado Financeiro e de Capitais (“ANBIMA”), uma
+        vez que as Debêntures serão objeto de colocação privada, sem
+        qualquer intermediação ou esforço de venda realizado por
+        instituição integrante do sistema de distribuição perante
+        investidores.
+
+    3.  Não será contratado agente fiduciário para representar os
+        direitos e interesses da Debenturista. A Oliveira Trust
+        Distribuidora de Títulos e Valores Mobiliários S.A., será
+        contratada para prestar os serviços de agente fiduciário dos CRI
+        e representar os titulares dos CRI (“Agente Fiduciário dos
+        CRI”).
+
+    4.  Arquivamento e Registro desta Escritura. Observado o disposto no
+        artigo 62, inciso II e parágrafo 3º, da Lei das Sociedades por
+        Ações e do artigo 6º, inciso II da Lei 14.030, de 28 de julho de
+        2020 (conversão da Medida Provisória nº 931, de 30 de março
+        de 2020) (“Lei 14.030”), (i) a presente Escritura, bem como
+        quaisquer aditamentos a ela, serão protocoladas para registro na
+        JUCESP no prazo de 5 (cinco) Dias Úteis (conforme abaixo
+        definido) contados da data de assinatura da presente Escritura
+        e/ou do eventual aditamento, conforme aplicável; e (ii) a
+        Devedora deverá enviar à Debenturista e ao Agente Fiduciário dos
+        CRI 1 (uma) cópia desta Escritura, bem como de seus eventuais
+        aditamentos, devidamente arquivada na JUCESP, no prazo de até 2
+        (dois) Dias Úteis após a obtenção de referido arquivamento.
+
+        1.  Arquivamento e Registro desta Escritura no Cartório de
+            Títulos e Documentos da Comarca da Capital do estado de São
+            Paulo. Adicionalmente, em decorrência da constituição da
+            garantia fidejussória outorgada pelo Fiador, esta Escritura
+            e seus eventuais aditamentos deverão ser levados a registro
+            pela Devedora, em até 5 (cinco) dias Úteis contados da data
+            de sua assinatura, perante o cartório de títulos e
+            documentos da Cidade de São Paulo, Estado de São Paulo.
+
+        2.  Uma via original devidamente registrada desta Escritura e/ou
+            do eventual aditamento, nos termos da Cláusula 2.4.1 acima,
+            deverá ser encaminhada à Securitizadora e ao Agente
+            Fiduciário dos CRI, em até 2 (dois) Dias Úteis da obtenção
+            dos registros.
+
+    5.  Vinculação aos Certificados de Recebíveis Imobiliários. As
+        Debêntures serão subscritas pela Securitizadora, que emitirá
+        duas cédulas de crédito imobiliário (“CCI”), representativa da
+        totalidade dos créditos decorrentes das Debêntures (“Créditos
+        Imobiliários”), sendo cada CCI representativa de cada uma das
+        séries, que servirão de lastro para uma operação de
+        securitização. Os Créditos Imobiliários serão vinculados às
+        séries 1ª e 2ª Séries da 23ª emissão de certificados de
+        recebíveis imobiliários da Securitizadora (“CRI Sênior” e “CRI
+        Subordinado”, respectivamente, e quando referidos em conjunto e
+        indistintamente, os “CRI”), que serão distribuídos publicamente
+        com esforços restritos de colocação junto a investidores no
+        mercado de capitais (“Oferta Restrita”), nos termos da Medida
+        Provisória nº 1.103, de 15 de março de 2022, e da Resolução CVM
+        60 e da Instrução CVM n° 476, de 16 de janeiro de 2009
+        (“Instrução CVM 476”). A Devedora e o Fiador desde já autorizam
+        a realização dos demais atos necessários à operação de
+        securitização ora mencionada e se obrigam a tomar quaisquer
+        providências necessárias à viabilização da referida operação de
+        securitização (“Operação”).
+
+        1.  Em razão da vinculação dos Créditos Imobiliários aos CRI, a
+            transferência da titularidade das Debêntures e o exercício
+            de quaisquer direitos previstos nessa Escritura por parte da
+            Debenturista estará condicionada à prévia aprovação dos
+            titulares dos CRI, observadas as regras de Assembleia Geral
+            dos titulares dos CRI previstas no Termo de Securitização.
+
+3.  DAS CARACTERÍSTICAS GERAIS Da emissão E DAS DEBÊNTURES
+
+    1.  Objeto Social da Devedora
+
+3.1.1. A Devedora tem por objeto a incorporação imobiliária, a compra e
+venda de imóveis, a locação e a administração de imóveis próprios,
+consultoria em gestão empresarial, exceto consultoria técnica específica
+e a participação no capital de outras empresas, como acionista ou
+quotista, excluindo-se de seu objeto social a corretagem.
+
+2.  Número da Emissão
+
+    1.  A presente Emissão constitui a 8ª (oitava) emissão de debêntures
+        da Devedora.
+
+3.  Valor Total da Emissão, Quantidade de Debêntures, Séries e
+    Finalidade
+
+    1.  O valor total da Emissão será de R$ 125.000.000,00 (cento e
+        vinte e cinco milhões de reais), na Data de Emissão (conforme
+        abaixo definido) (“Valor da Emissão”).
+
+    2.  Serão emitidas 125.000 (cento e vinte e cinco mil) debêntures,
+        em duas séries, sendo (i) 100.000 (cem mil) debêntures da
+        primeira série (“Série Sênior” ou “Debêntures Sênior”), e (ii)
+        25.000 (vinte e cinco mil) Debêntures da segunda série (“Série
+        Subordinada” ou “Debêntures Subordinadas”). As Debêntures
+        Sênior, quando referidas em conjunto com as Debêntures
+        Subordinadas, as “Debêntures”. As Debêntures da mesma série
+        terão igual valor nominal e conferirão a seus titulares os
+        mesmos direitos.
+
+    3.  O valor nominal unitário das Debêntures será de R$ 1.000,00 (mil
+        reais).
+
+4.  Subordinação
+
+3.4.1. As Debêntures Sênior gozarão de prioridade em relação às
+Debêntures Subordinadas no que se refere (i) a qualquer pagamento de
+amortização e juros; e (ii) ao produto da excussão das Garantias
+(conforme abaixo definido), sempre observada a Cascata de Pagamentos.
+
+5.  Destinação dos Recursos
+
+1.  Os recursos líquidos captados pela Devedora por meio das Debêntures
+    serão destinados por ela ou por suas controladas, sociedades sob
+    controle comum, ou veículos do mesmo grupo econômico para a
+    expansão, o desenvolvimento e a construção dos empreendimentos
+    imobiliários listados no Anexo I à presente Escritura (os
+    “Empreendimentos Imobiliários”), na seguinte proporção: (i) 57%
+    (cinquenta e sete por cento) dos recursos serão utilizados para o
+    desenvolvimento do Empreendimento Imobiliário da SPE Maracatins e
+    (ii) 43% (quarenta e três por cento) dos recursos serão utilizados
+    para o desenvolvimento do Empreendimento Imobiliário da SPE Vila
+    Olímpia (“Destinação de Recursos”). A Destinação dos Recursos aqui
+    prevista poderá ser feita diretamente pela Devedora, por meio das
+    SPEs, ficando a Devedora e as SPEs, desde já, obrigadas, em caráter
+    irrevogável e irretratável, a aplicar, bem como assegurar que suas
+    controladas apliquem os recursos obtidos por meio da presente
+    Emissão, exclusivamente nos termos dessa cláusula.
+
+2.  A Devedora declara que, excetuados os recursos obtidos com as
+    Debêntures, os Empreendimentos Imobiliários não receberam quaisquer
+    recursos oriundos de qualquer outra captação por meio da emissão de
+    certificados de recebíveis imobiliários, lastreados em instrumentos
+    de dívida da Devedora.
+
+3.  A Devedora, por meio das SPEs, deverá alocar, na forma disposta na
+    Cláusula acima, a totalidade dos recursos líquidos obtidos por meio
+    da integralização das Debêntures até a Data de Vencimento dos CRI
+    (conforme definido no Termo de Securitização). Em caso de vencimento
+    antecipado das Debêntures ou nos casos de resgate antecipado total
+    previstos nesta Escritura, a Devedora e as SPEs permanecerão
+    solidariamente obrigadas a (i) aplicar os recursos líquidos obtidos
+    por meio das Debêntures até a Data de Vencimento dos CRI
+    originalmente prevista no Termo de Securitização ou até que se
+    comprove a aplicação da totalidade dos recursos líquidos captados
+    por meio das Debêntures, o que ocorrer primeiro, conforme Destinação
+    dos Recursos; e (ii) prestar contas ao Agente Fiduciário dos CRI
+    acerca da Destinação de Recursos e seu status, nos termos desta
+    Escritura incluindo o pagamento devido ao Agente Fiduciário dos CRI.
+
+4.  A Devedora estima, nesta data, que a Destinação dos Recursos
+    ocorrerá conforme cronograma estabelecido, de forma indicativa e não
+    vinculante, no Anexo II desta Escritura (“Cronograma Indicativo”),
+    sendo que, caso necessário, a Devedora, por meio das SPEs, poderá
+    destinar os recursos provenientes das Debêntures em datas diversas
+    das previstas no Cronograma Indicativo, observada a obrigação da
+    Devedora, por meio das SPEs, de realizar a integral destinação de
+    recursos até a Data de Vencimento dos CRI ou até que a Devedora
+    comprove a aplicação da totalidade dos recursos obtidos por meio das
+    Debêntures, o que ocorrer primeiro. Por se tratar de um cronograma
+    tentativo e indicativo, se, por qualquer motivo, ocorrer qualquer
+    atraso ou antecipação do Cronograma Indicativo, (i) não será
+    necessário notificar o Agente Fiduciário dos CRI, tampouco será
+    necessário aditar esta Escritura ou quaisquer outros Documentos da
+    Operação, e (ii) não será configurado qualquer Evento de
+    Inadimplemento, desde que a Devedora comprove a integral destinação
+    de recursos até a Data de Vencimento dos CRI.
+
+5.  A Devedora deverá enviar ao Agente Fiduciário dos CRI, com cópia
+    para a Securitizadora, declaração em papel timbrado e assinada por
+    representante legal, atestando a Destinação dos Recursos da presente
+    Emissão, semestralmente, até o último dia dos meses janeiro e julho,
+    a partir da Data de Emissão, devendo a primeira prestação de contas
+    ser realizada até o último dia do mês de janeiro de 2023, por meio
+    do envio de relatório substancialmente na forma do Anexo III desta
+    Escritura (“Relatório de Destinação dos Recursos”), e dos Relatórios
+    de Obras (conforme definido abaixo) que conterão cronogramas
+    físico-financeiros atualizados de avanço de obras dos
+    Empreendimentos do Imobiliários do respectivo semestre (“Cronograma
+    Físico Financeiro”), podendo o Agente Fiduciário dos CRI solicitar à
+    Devedora todos os eventuais esclarecimentos e documentos adicionais
+    que se façam necessários.
+
+6.  Adicionalmente, sempre que solicitado por escrito por qualquer
+    autoridade, pela CVM, Receita Federal do Brasil ou de qualquer outro
+    órgão regulador decorrente de solicitação ao Agente Fiduciário dos
+    CRI e/ou ao Debenturista, para fins de atendimento das obrigações
+    legais e exigências de órgãos reguladores e fiscalizadores, a
+    Devedora deverá enviar cópias das notas fiscais ou notas fiscais
+    eletrônicas e de seus arquivos no formato “XML” de autenticação das
+    notas fiscais (conforme o caso), comprovando os pagamentos e/ou
+    demonstrativos contábeis que demonstrem a correta Destinação dos
+    Recursos, atos societários, comprovantes, pedidos e demais
+    documentos comprobatórios que julgar necessário para acompanhamento
+    da utilização dos recursos oriundos da Debêntures (“Documentos
+    Comprobatórios”). A Devedora será responsável pela custódia e guarda
+    dos Documentos Comprobatórios e quaisquer outros documentos que
+    comprovem a utilização dos recursos relativos às Debêntures.
+
+7.  O Agente Fiduciário dos CRI deverá verificar, ao longo do prazo de
+    duração dos CRI, o direcionamento de todos os recursos obtidos por
+    meio da presente Emissão, a partir do Relatório de Destinação dos
+    Recursos e dos Documentos Comprobatórios. O Agente Fiduciário dos
+    CRI deverá envidar seus melhores esforços para obter a documentação
+    necessária a fim de proceder com a verificação da Destinação de
+    Recursos.
+
+8.  Caberá à Devedora a verificação e análise da veracidade dos
+    documentos encaminhados, atestando, inclusive, que estes não foram
+    objeto de fraude ou adulteração, não cabendo ao Agente Fiduciário
+    dos CRI e à Securitizadora a responsabilidade de verificar a sua
+    suficiência, validade, qualidade, veracidade ou completude das
+    informações técnicas e financeiras neles constantes, tais como notas
+    fiscais, faturas e/ou comprovantes de pagamento e/ou demonstrativos
+    contábeis da Devedora, ou ainda qualquer outro documento que lhe
+    seja enviado com o fim de complementar, esclarecer, retificar ou
+    ratificar as informações do mencionado no relatório mencionado
+    acima.
+
+9.  A Securitizadora e o Agente Fiduciário dos CRI não realizarão
+    diretamente o acompanhamento físico das obras do Empreendimento
+    Imobiliários, estando tal fiscalização restrita ao envio, pela
+    Devedora ao Agente Fiduciário dos CRI, com cópia à Securitizadora,
+    dos Documentos Comprobatórios. Adicionalmente, caso entenda
+    necessário, o Agente Fiduciário dos CRI poderá contratar terceiro
+    especializado para avaliar ou reavaliar os Documentos
+    Comprobatórios.
+
+10. A Devedora se obriga, em caráter irrevogável e irretratável, a
+    indenizar a Securitizadora, os titulares dos CRI e o Agente
+    Fiduciário dos CRI por todos e quaisquer prejuízos, danos, perdas,
+    custos e/ou despesas (incluindo custas judiciais e honorários
+    advocatícios) que vierem a, comprovadamente, incorrer em decorrência
+    da utilização dos recursos oriundos das Debêntures de forma diversa
+    da estabelecida nesta cláusula, exceto em caso de comprovada fraude,
+    dolo, culpa grave ou má-fé da Securitizadora, dos titulares de CRI
+    ou do Agente Fiduciário dos CRI.
+
+11. Sem prejuízo do dever de diligência, o Agente Fiduciário dos CRI
+    poderá assumir que as informações e os documentos encaminhados pela
+    Devedora para verificação da Destinação dos Recursos são verídicos e
+    não foram objeto de fraude ou adulteração, não sendo o Agente
+    Fiduciário dos CRI responsável por verificar a suficiência,
+    validade, qualidade, veracidade ou completude das informações
+    técnicas e financeiras constantes dos Documentos Comprobatórios ou,
+    ainda, em qualquer outro documento que lhe seja enviado com o fim de
+    complementar, esclarecer, retificar ou ratificar as informações
+    prestadas ou a serem prestadas.
+
+6.  Data de Emissão
+
+    1.  Para todos os fins, a data de emissão das Debêntures será o dia
+        06 de junho de 2022 (“Data de Emissão”).
+
+7.  Data de Vencimento
+
+    1.  Observado o disposto nesta Escritura, (i) as Debêntures Sênior
+        terão vencimento em 21 de maio de 2026 (“Data de Vencimento
+        Série Sênior”), ou seja, 1.445 (mil quatrocentos e quarenta e
+        cinco) dias entre Data de Emissão e Data de Vencimento Série
+        Sênior; e (ii) as Debêntures Subordinadas terão vencimento em 21
+        de maio de 2027 (“Data de Vencimento Série Subordinada” e,
+        quando em conjunto com a Data de Vencimento Série Sênior, as
+        “Datas de Vencimento”), ou seja, 1.810 (mil oitocentos e dez)
+        dias entre Data de Emissão e Data de Vencimento Série
+        Subordinada.
+
+8.  Espécie
+
+    1.  As Debêntures são da espécie com garantia real, com garantia
+        adicional fidejussória, nos termos do artigo 58, caput, da Lei
+        6.404/76.
+
+9.  Garantias
+
+    1.  Em garantia do integral, fiel e pontual pagamento e/ou
+        cumprimento (a) de todas as obrigações principais, acessórias e
+        moratórias, presentes ou futuras, no seu vencimento original ou
+        antecipado, inclusive decorrentes dos juros, multas, penalidades
+        e indenizações relativas às Debêntures, bem como das demais
+        obrigações assumidas pela Devedora perante a Debenturista no
+        âmbito desta Escritura, incluindo, sem limitação, o Valor
+        Nominal Unitário ou saldo do Valor Nominal Unitário, conforme o
+        caso, a Remuneração, bem como os Encargos Moratórios (conforme
+        abaixo definido), incluindo penas convencionais, honorários
+        advocatícios, custas e despesas judiciais ou extrajudiciais e
+        tributos, bem como todo e qualquer custo ou despesa incorrido em
+        razão da CCI ou pelo Agente Fiduciário dos CRI (incluindo suas
+        remunerações) e/ou pelos titulares de CRI, inclusive no caso de
+        utilização do Patrimônio Separado (conforme definido no Termo de
+        Securitização) para arcar com tais custos (em conjunto, as
+        “Obrigações Garantidas”) serão constituídas, por meio da
+        assinatura e registro junto aos cartórios competentes, as
+        seguintes garantias (as “Garantias Reais”):
+
+(i) alienação fiduciária (i.a) de certos imóveis listados no respectivo
+    Contrato de Alienação Fiduciária de Imóveis (conforme definido
+    abaixo), de propriedade da SPE Maracatins (“Alienação Fiduciária de
+    Imóveis SPE Maracatins”), e (i.b) de certos imóveis listados no
+    respectivo Contrato de Alienação Fiduciária de Imóveis, de
+    propriedade da SPE Vila Olímpia (“Alienação Fiduciária de Imóveis
+    Vila Olímpia” e, em conjunto com a Alienação Fiduciária de Imóveis
+    Maracatins, as “Alienações Fiduciárias de Imóveis” e os imóveis
+    objeto da Alienação Fiduciária dos Imóveis, os “Imóveis Alienados
+    Fiduciariamente”), ambos nos termos do respectivo “Instrumento
+    Particular de Alienação Fiduciária de Bens Imóveis em Garantia e
+    Outras Avenças“ (cada respectivo contrato, um “Contrato de Alienação
+    Fiduciária de Imóveis”);
+
+(ii) cessão fiduciária (ii.a) dos recebíveis decorrentes das vendas,
+     passadas ou futuras, dos imóveis objeto da Alienação Fiduciária de
+     Imóveis SPE Maracatins (“Cessão Fiduciária de Recebíveis SPE
+     Maracatins”); e (ii.b) dos recebíveis decorrentes das vendas,
+     passadas ou futuras, dos imóveis objeto da Alienação Fiduciária de
+     Imóveis SPE Vila Olímpia (“Cessão Fiduciária de Recebíveis SPE Vila
+     Olímpia” e, em conjunto com a Cessão Fiduciária de Recebíveis SPE
+     Maracatins, as “Cessões Fiduciárias de Recebíveis”), (ii.c) sobejo
+     da excussão da Alienação Fiduciária de Imóveis (conforme definido
+     abaixo) (“Recebíveis Sobejo”); e (ii.d) dos recebíveis decorrentes
+     de eventuais indenizações que venham a ser pagas no âmbito de
+     apólices de seguro contratadas pelas SPEs durante a fase de
+     construção dos Empreendimentos Imobiliários ou após a conclusão das
+     obras, conforme aplicável (“Recebíveis Indenizações” e, em conjunto
+     com as Cessões Fiduciárias de Recebíveis, os Recebíveis Sobejo e os
+     Recebíveis Indenização, a “Cessão Fiduciária”), nos termos do
+     “Instrumento Particular de Cessão Fiduciária de Créditos
+     Imobiliários em Garantia” (“Contrato de Cessão Fiduciária”); e
+
+(iii) alienação fiduciária de (iii.a) 100% (cem por cento) das quotas de
+      emissão da SPE Maracatins, presentes ou futuras, de titularidade
+      da Devedora, representativas da totalidade do capital social da
+      SPE Maracatins (“Alienação Fiduciária de Quotas Maracatins”); e
+      (iii.b) 100% (cem por cento) das quotas de emissão da SPE Vila
+      Olímpia, presentes ou futuras, de titularidade da Devedora,
+      representativas da totalidade do capital social da SPE Vila
+      Olímpia (“Alienação Fiduciária de Quotas Vila Olímpia” e, em
+      conjunto com a Alienação Fiduciária de Quotas Maracatins, as
+      “Alienações Fiduciárias de Quotas”), nos termos do “Instrumento
+      Particular de Alienação Fiduciária de Quotas em Garantia e Outras
+      Avenças” (“Contrato de Alienação Fiduciária de Quotas” e, quando
+      em conjunto com o Contrato de Alienação Fiduciária de Imóveis e o
+      Contrato de Cessão Fiduciária, os “Contratos de Garantia”).
+
+      1.  Em garantia das Obrigações Garantidas, o Fiador, por meio da
+          presente Escritura presta fiança em favor da Debenturista,
+          obrigando-se como fiador e principal pagador pelo fiel e
+          integral pagamento das Obrigações Garantidas (“Fiança” e, em
+          conjunto com as Garantias Reais, as “Garantias”).
+
+          1.  O valor devido em decorrência das Obrigações Garantidas,
+              será pago pelo Fiador, solidariamente, no prazo de 2
+              (dois) Dias Úteis, contado a partir da data de recebimento
+              de comunicação por escrito enviada pela Debenturista ao
+              Fiador informando o descumprimento de alguma das
+              Obrigações Garantidas, incluindo, sem limitação, o
+              descumprimento de obrigação pecuniária, na data de
+              pagamento respectiva, de qualquer valor devido pela
+              Devedora nos termos desta Escritura, incluindo, sem
+              limitação, os montantes devidos à Debenturista a título de
+              principal, remuneração ou encargos de qualquer natureza. A
+              obrigação de pagamento pelo Fiador poderá não ser
+              cumprida, caso após a comunicação por escrito e dentro do
+              prazo mencionado, a Devedora realize o pagamento do
+              montante devido.
+
+          2.  O Fiador expressamente renuncia aos benefícios de ordem,
+              direitos e/ou faculdades de exoneração de qualquer
+              natureza previstos nos artigos 277, 333, parágrafo único,
+              364, 366, 368, 821, 827, 830, 834 a 839, todos da Lei nº
+              10.406, de 10 de janeiro de 2002, conforme alterada
+              (“Código Civil”), e dos artigos 130, 131 e 794 da Lei nº
+              13.105, de 16 de março de 2015, conforme alterada ("Código
+              de Processo Civil").
+
+          3.  Cabe à Debenturista requerer a execução, judicial ou
+              extrajudicial, da Fiança, conforme função que lhe é
+              atribuída, uma vez verificado o descumprimento de qualquer
+              uma das Obrigações Garantidas, inclusive, mas não
+              exclusivamente, na hipótese de insuficiência de pagamento
+              de quaisquer valores, principais ou acessórios, devidos
+              pela Devedora nos termos desta Escritura. Fica desde já
+              certo e ajustado que a inobservância, pela Debenturista,
+              dos prazos para execução da Fiança em seu favor não
+              ensejará a perda de qualquer direito ou faculdade previsto
+              nesta Escritura.
+
+          4.  Após a excussão da Fiança aqui prevista, o Fiador
+              sub-rogar-se-á nos direitos da Debenturista perante a
+              Devedora, conforme aplicável.
+
+          5.  O Fiador desde já concorda e obriga-se a somente exigir
+              e/ou demandar da Devedora qualquer valor por ele honrado
+              nos termos da Fiança após o atendimento e quitação
+              integral de todas as Obrigações Garantidas.
+
+          6.  A Fiança aqui prevista entrará em vigor na Data de
+              Emissão, vigendo até o pagamento integral das Obrigações
+              Garantidas.
+
+          7.  O Fiador desde já reconhece como prazo determinado, para
+              fins do artigo 835 do Código Civil, a data de pagamento
+              integral das Obrigações Garantidas.
+
+          8.  A Fiança aqui prevista poderá ser excutida e exigida pela
+              Debenturista quantas vezes for necessário até a integral
+              liquidação das Obrigações Garantidas.
+
+          9.  A Fiança ora prestada considera-se prestada a título
+              oneroso, uma vez que o Fiador pertence ao mesmo grupo
+              econômico da Devedora, de forma que possuem interesse
+              econômico no resultado da Operação, dela beneficiando-se
+              indiretamente.
+
+      2.  As Partes reconhecem o caráter não excludente, mas cumulativo
+          entre si, das Garantias, podendo a Debenturista, a seu
+          exclusivo critério, excutir as Garantias em conjunto ou cada
+          uma delas individualmente, indiscriminadamente, para os fins
+          de amortizar ou liquidar as Obrigações Garantidas, ficando
+          ainda estabelecido que a excussão das Garantias independerá de
+          qualquer providência preliminar por parte da Debenturista,
+          tais como aviso, protesto, notificação, interpelação ou
+          prestação de contas, de qualquer natureza.
+
+      1.  Venda dos Imóveis Alienados Fiduciariamente e Cascata de
+          Pagamentos
+
+          1.  Observado o disposto nos Contratos de Alienação Fiduciária
+              de Imóveis, no Contrato de Cessão Fiduciária e na presente
+              Escritura, os Imóveis Alienados Fiduciariamente poderão
+              ser alienados pelas SPEs, observado que as SPEs e/ou a
+              Devedora deverão fazer com que os recursos oriundos das
+              vendas dos Imóveis Alienados Fiduciariamente ocorridas
+              entre o primeiro e o último dia de um mês calendário
+              (“Período de Apuração”) sejam utilizados na Data de
+              Pagamento subsequente para o pagamento das obrigações
+              oriundas das Debêntures (“Recursos Cedidos Mensais”). O
+              montante dos Recursos Cedidos Mensais obtidos em um
+              Período de Apuração (i) será verificado pela
+              Securitizadora em até 1 (um) Dia Útil do recebimento do
+              relatório mensal de acompanhamento a ser emitido pela Arke
+              Serviços Administrativos e Recuperação de Crédito Ltda.
+              (CNPJ/ME nº 17.409.378/0001-46) (“Data de Checagem do
+              Relatório Mensal do Servicer”; “Relatório Mensal do
+              Servicer”, e “Servicer”, respectivamente) nos termos do
+              Contrato de Prestação de Serviços de Administração
+              Financeira Imobiliária, celebrado na presente data, entre
+              o Servicer, a Securitizadora, a Devedora e as SPEs, que
+              deverá ser recebido pela Securitizadora até o 8º (oitavo)
+              Dia Útil de cada mês-calendário, e (ii) serão utilizados
+              em cada Data de Pagamento na seguinte ordem (“Cascata de
+              Pagamentos”):
+
+(i) recomposição do Fundo de Despesas (conforme definido abaixo), se
+    necessário nos termos da presente Escritura;
+
+(ii) se houver Recursos Cedidos Mensais excedentes após o pagamento dos
+     valores mencionados no item (i) acima, tais recursos deverão ser
+     integralmente aplicados na Amortização Extraordinária Obrigatória
+     do Valor Nominal Unitário ou saldo do Valor Nominal Unitário das
+     Debêntures Sênior, sendo certo que os Recursos Cedidos Mensais não
+     deverão ser utilizados para pagamento da Remuneração Série Sênior,
+     exceto em caso de declaração de vencimento antecipado;
+
+(iii) após a integral quitação das obrigações oriundas das Debêntures
+      Sênior, os Recursos Cedidos Mensais deverão ser aplicados no
+      pagamento dos valores devidos a título de Remuneração Série
+      Subordinada incorridos desde a Data de Pagamento ou Incorporação
+      Série Subordinada imediatamente anterior; e
+
+(iv) se houver Recursos Cedidos Mensais excedentes após o pagamento dos
+     valores mencionados no item (iii) acima, tais recursos passarão a
+     ser utilizados para a Amortização Extraordinária Obrigatória do
+     Valor Nominal Unitário ou saldo do Valor Nominal Unitário das
+     Debêntures Subordinadas, em montante não inferior ao valor
+     disponível ou que deveria estar disponível na Conta do Patrimônio
+     Separado ao fim de um Período de Apuração (conforme definido acima)
+     imediatamente anterior.
+
+     1.  Os rendimentos oriundos dos Investimentos Permitidos realizados
+         com os recursos disponíveis no Fundo de Obras deverão ser
+         utilizados mensalmente para pagamento da Remuneração da Série
+         Sênior. A Securitizadora deverá verificar na Data de Checagem
+         do Relatório Mensal do Servicer o valor total dos rendimentos
+         oriundos dos Investimentos Permitidos realizados com os
+         recursos disponíveis no Fundo de Obras, e o valor total
+         verificado naquela data deverá ser utilizado mensalmente para
+         pagamento da Remuneração da Série Sênior. Qualquer rendimento
+         oriundo de um Investimento Permitido que venha a ser apurado
+         após a Data de Checagem do Relatório Mensal do Servicer deverá
+         ser utilizado para pagamento da Remuneração da Série Sênior do
+         mês subsequente. Caso o valor da Remuneração da Série Sênior
+         devido em uma Data de Pagamento Série Sênior exceda o valor dos
+         Investimentos Permitidos realizados com os recursos do Fundo de
+         Obras, conforme verificação na Data de Checagem do Relatório
+         Mensal do Servicer, a Securitizadora deverá até o Dia Útil
+         subsequente informar a diferença que deverá ser paga pela
+         Devedora com recursos próprios (“Notificação de Complementação
+         de Juros”). A Devedora deverá depositar os montantes
+         necessários na Conta do Patrimônio Separado em até 2 (dois)
+         Dias Úteis do envio da Notificação de Complementação de Juros,
+         ou seja, até a próxima Data de Pagamento Série Sênior.
+
+     1.  Razão de Garantia
+
+1.  As SPEs e a Devedora se obrigam, solidariamente, a fazer com que a
+    até a integral quitação das Obrigações Garantidas a razão entre (i)
+    o somatório do Valor Médio de Venda do Estoque e do Valor Presente
+    dos Créditos Cedidos Fiduciariamente Elegíveis; e (ii) o saldo do
+    Valor Nominal Unitário das Debêntures da Série Sênior, acrescido da
+    Remuneração da Série Sênior, subtraindo os Recursos Pagos Créditos
+    Cedidos Fiduciariamente e que tenham sido depositados na Conta do
+    Patrimônio Separado (“Saldo Devedor RG”), seja, a todo tempo, igual
+    ou superior a 125% (cento e vinte e cinco por cento) (“Razão de
+    Garantia”), a ser apurado pelo Servicer e informado à Securitizadora
+    e em cópia ao Agente Fiduciário dos CRI por meio do Relatório Mensal
+    do Servicer.
+
+Para os fins de cálculo da Razão de Garantia:
+
+“Créditos Cedidos Fiduciariamente Elegíveis” significa os Créditos
+Cedidos Fiduciariamente devidos por devedores que não estejam
+inadimplentes por mais de 90 (noventa) dias.
+
+“INCC” significa o Índice Nacional de Custo de Construção calculado
+mensalmente pela Fundação Getúlio Vargas (FGV).
+
+“Valor Médio de Venda do Estoque” significa a soma (i) do Produto Venda
+Residencial R2V x Estoque, (ii) do Produto Venda Residencial HIS x
+Estoque; (iii) do Produto Venda Não Residencial NR1-12 x Estoque (iv) do
+Produto Venda Comercial x Estoque;
+
+“Valor Presente dos Créditos Cedidos Fiduciariamente” significa o valor
+total dos Créditos Cedidos Fiduciariamente (conforme definido no
+Contrato de Cessão Fiduciária) vincendos (presentes e futuros), trazido
+a valor presente pela última Taxa DI disponível na Data de Verificação
+(conforme definido abaixo) acrescida da Sobretaxa Série Sênior,
+subtraída a variação acumulada do INCC no período de 12 (doze) meses
+anteriores à Data de Verificação, todos na base 252 (duzentos e
+cinquenta e dois) Dias Úteis, pelo prazo de Dias Úteis entre cada data
+de pagamento de cada contrato de compra e venda cedido fiduciariamente
+no âmbito da Cessão Fiduciária e o último Dia Útil de cada Período de
+Apuração, sendo certo que caso o cálculo acima mencionado resulte em um
+percentual menor que 4,50% (quatro inteiros e cinco centésimos por
+cento), o valor total dos Créditos Cedidos Fiduciariamente vincendos
+será trazido a valor presente pela Sobretaxa Série Sênior (“Data de
+Verificação”);
+
+“Produto Venda Residencial R2V x Estoque” significa o produto da (i)
+média do valor de venda do metro quadrado privativo das unidades de
+habitação residenciais R2V de cada Empreendimento Imobiliário vendidas
+nos 6 (seis) meses anteriores à última venda, observado o disposto na
+Cláusula 3.11.3 abaixo, e (ii) a quantidade de metros quadrados
+privativos das unidades de habitação residenciais R2V de cada
+Empreendimento Imobiliário em estoque ainda não vendidas e alienadas
+fiduciariamente nos termos dos Contratos de Alienação Fiduciária de
+Imóveis;
+
+“Produto Venda Residencial HIS x Estoque” significa o produto da (i)
+média do valor de venda do metro quadrado privativo das unidades de
+habitação residenciais HIS de cada Empreendimento Imobiliário vendidas
+nos 6 (seis) meses anteriores à última venda, observado o disposto na
+Cláusula 3.11.3 abaixo, e (ii) a quantidade de metros quadrados
+privativos das unidades de habitação residenciais R2V de cada
+Empreendimento Imobiliário em estoque ainda não vendidas e alienadas
+fiduciariamente nos termos dos Contratos de Alienação Fiduciária de
+Imóveis;
+
+“Produto Venda Não Residencial NR1-12 x Estoque” significa o produto da
+(i) média do valor de venda do metro quadrado privativo das unidades de
+habitação não residenciais de cada Empreendimento Imobiliário Maracatins
+vendidas nos 6 (seis) meses anteriores à última venda, observado o
+disposto na Cláusula 3.11.3 abaixo, e (ii) a quantidade de metros
+quadrados privativos das unidades de habitação não residenciais de cada
+Empreendimento Imobiliário em estoque ainda não vendidas e alienadas
+fiduciariamente nos termos dos Contratos de Alienação Fiduciária de
+Imóveis;
+
+“Produto Venda Comercial x Estoque” significa o produto da (i) média do
+valor de venda do metro quadrado privativo das unidades comerciais
+vendidas nos últimos 6 (seis) meses anteriores à última venda (ou no
+caso da primeira verificação, com base nos valores atualmente praticados
+pela Devedora ou pelas SPEs e informado até a presente data à
+Securitizadora e ao Servicer), e (ii) a quantidade de metros quadrados
+privativos das unidades comerciais em estoque ainda não vendidas e
+alienadas fiduciariamente nos termos dos Contratos de Alienação
+Fiduciária de Imóveis.
+
+“Recursos Pagos Créditos Cedidos Fiduciariamente” significa os recursos
+pagos no âmbito dos Créditos Cedidos Fiduciariamente em um Período de
+Apuração, que tenham sido depositados na Conta do Patrimônio Separado,
+conforme informado pelo Servicer.]
+
+2.  Caso ainda não tenha sido realizada uma venda de unidade de
+    habitação residencial ou não residencial ou de uma unidade comercial
+    na primeira Data de Verificação ou Datas de Verificação
+    subsequentes, o Servicer deverá considerar para fins da Razão de
+    Garantia acima descrita o valor da tabela de venda que a Devedora
+    e/ou as SPEs pretendem vender.
+
+3.  Uma vez vendida a primeira unidade de habitação residencial, não
+    residencial ou de uma unidade comercial, o (i) Produto Venda
+    Residencial R2V x Estoque, (ii) Produto Venda Residencial HIS x
+    Estoque, (iii) Produto Venda Não Residencial NR1-12 x Estoque, e
+    (iv) Produto Venda Comercial x Estoque, passarão a ser calculados
+    sempre com base no valor de venda do metro quadrado privativo das
+    respectivas unidades autônomas de cada Empreendimento Imobiliário
+    vendidas nos 6 (seis) meses anteriores à última venda. No entanto,
+    em cada Data de Verificação a Securitizadora deverá analisar as
+    vendas realizadas no período de 12 (meses) anteriores à Data de
+    Verificação para confirmar que houve pelo menos uma venda do
+    respectivo tipo de unidade autônoma em pelo 6 (seis) desses 12 (doze
+    meses).
+
+    1.  Caso não tenha havido pelo menos uma venda de um determinado
+        tipo de unidade autônoma em pelo 6 (seis) desses 12 (doze
+        meses), a Securitizadora deverá solicitar, às expensas da
+        Devedora, um laudo de avaliação de pelo menos 1 (uma) unidade
+        daquele determinado tipo de unidade autônoma (“Laudo de
+        Avaliação Extraordinário”), passando o valor do Laudo de
+        Avaliação Extraordinário a ser considerado para fins de cálculo
+        da Razão de Garantia, com relação exclusivamente àquele
+        determinado tipo de unidade autônoma, durante o período de 1
+        (um) ano contado a partir de sua data de emissão.
+
+4.  Nas hipóteses em que a Securitizadora verificar a não observância da
+    Razão de Garantia em uma Data de Verificação, a Devedora deverá
+    realizar uma Amortização Extraordinária Obrigatória na Data de
+    Pagamento subsequente, no valor necessário para restaurar a Razão de
+    Garantia (“Valor de Amortização Obrigatória para Reenquadrar a Razão
+    de Garantia”), que será calculado pela Securitizadora e será
+    informado em até 2 (dois) Dias Úteis pela Securitizadora à Devedora.
+    A Devedora se obriga a realizar o pagamento do Valor de Amortização
+    Obrigatória para Reenquadrar a Razão de Garantia em até 2 (dois)
+    Dias Úteis contados da data em que tal valor lhe for informado pela
+    Securitizadora, sendo o Valor de Amortização Obrigatória para
+    Reenquadrar a Razão de Garantia calculado de acordo com a fórmula
+    abaixo:
+
+Saldo Devedor RG - (Valor Médio de Venda do Estoque + Valor Presente dos
+Créditos Cedidos Fiduciariamente) / 125,00%
+
+Se o Valor de Amortização Obrigatória para Reenquadrar a Razão de
+Garantia for negativo, não há obrigação de realizar a Amortização
+Extraordinária Obrigatória em questão. Nas hipóteses em que a Devedora
+deixar, em uma Data de Pagamento, de realizar uma Amortização
+Extraordinária Obrigatória no Valor de Amortização Obrigatória para
+Reenquadrar que seja devida para fins de reenquadramento da Razão de
+Garantia, configurar-se-á o Evento de Inadimplemento previsto no item
+(xv) da Cláusula 6.1.2.
+
+2.  Remuneração
+
+    1.  Remuneração das Debêntures da Série Sênior. As Debêntures Sênior
+        não serão atualizadas monetariamente. A remuneração das
+        Debêntures Sênior, incidente sobre o Valor Nominal Unitário,
+        será composta pela variação acumulada equivalente a 100% (cem
+        por cento) das taxas médias diárias da Taxa DI, acrescida de
+        spread ou sobretaxa de 4,50% (quatro inteiros e cinquenta
+        centésimos por cento) (“Sobretaxa Série Sênior” e, em conjunto
+        com a Taxa, a “Remuneração Série Sênior”), desde a Data da
+        Primeira Integralização dos CRI da Série Sênior (inclusive) ou
+        última Data de Pagamento Série Sênior (inclusive), conforme o
+        caso, até a próxima Data de Pagamento Série Sênior (exclusive).
+        A Remuneração Série Sênior será paga mensalmente conforme tabela
+        constante do Anexo IV (Cronograma de Pagamentos e Tabela de
+        Amortização), ocorrendo o primeiro pagamento em 21 de julho de
+        2022 e o último na Data de Vencimento Série Sênior e será
+        calculada de acordo com a fórmula abaixo:
+
+[]
+
+Onde:
+
+J: Valor unitário de juros acumulado no período, calculado com 8 (oito)
+casas decimais, sem arredondamento.
+
+VNb: Valor Nominal Unitário da Emissão ou da data da última amortização
+ou incorporação de juros, se houver calculado com 8 (oito) casas
+decimais, sem arredondamento.
+
+Fator de Juros: Fator de juros composto pelo parâmetro de flutuação
+acrescido de sobretaxa (spread), calculado com 9 (nove) casas decimais,
+com arredondamento, apurado da seguinte forma:
+
+[]
+
+Onde:
+
+Fator DI: Produtório das taxas DI over, da Data da Primeira
+Integralização dos CRI Série Sênior (conforme definido abaixo),
+incorporação ou última Data de Pagamento Série Sênior, inclusive, até a
+próxima Data de Pagamento Série Sênior ou data de cálculo, exclusive,
+calculado com 8 (oito) casas decimais, com arrendamento, apurado da
+seguinte forma:
+
+[]
+
+Onde:
+
+n: Número de taxas DI over utilizadas.
+
+k: Número de ordem da Taxa DI, variando de 1 (um) até n.
+
+TDIk: Taxa DI over, de ordem k, expressa ao dia, calculada com 8 (oito)
+casas decimais, com arredondamento, da seguinte forma:
+
+[]
+
+Onde:
+
+DIk: Taxa DI over divulgada pela B3, com duas casas decimais.
+
+Fator Spread: Sobretaxa de juros fixos calculados com 9 (nove) casas
+decimais, com arredondamento, da seguinte forma:
+
+$$\mathbf{Fator\ Spread =}\left( \frac{\mathbf{Spread}}{\mathbf{100}}\mathbf{+ 1} \right)^{\frac{\mathbf{dup}}{\mathbf{252}}}$$
+
+Onde:
+
+Spread Série Sênior: 4,50 (quatro inteiros e cinquenta centésimos).
+
+dup: Número de dias úteis entre a Data da Primeira Integralização dos
+CRI Série Sênior, ou a última Data de Pagamento Série Sênior, inclusive,
+e a próxima Data de Pagamento Série Sênior ou data de cálculo,
+exclusive.
+
+Observações:
+
+(i) a “Taxa DI” deverá ser utilizada considerando idêntico número de
+casas decimais divulgada pela B3;
+
+(ii) o fator resultante da expressão (1+TDIk) é considerado com 16
+(dezesseis) casas decimais sem arredondamento;
+
+(iii) efetua-se o produtório dos fatores diários (1+TDIk), sendo que a
+cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis)
+casas decimais, aplicando-se o próximo fator diário, e assim por diante
+até o último considerado;
+
+(iv) uma vez os fatores estando acumulados, considera-se o fator
+resultante do produtório Fator DI com 8 (oito) casas decimais, com
+arredondamento;
+
+(v) o fator resultante da expressão: Fator DI ×Fator Spread deve ser
+considerado com 9 (nove) casas decimais, com arredondamento;
+
+(vi) para a aplicação de “DIk” será sempre considerado a “Taxa DI”
+divulgada no 2º (segundo) Dia Útil imediatamente anterior à data de
+cálculo (exemplo: para cálculo no dia 12, a Taxa DI considerada será a
+divulgada no dia 10 pela B3, pressupondo-se que tanto os dias 10, 11 e
+12 são Dias Úteis);
+
+(vii) Excepcionalmente, na primeira Data de Pagamento Série Sênior
+deverá ser capitalizado ao “Fator de Juros” um prêmio de remuneração
+equivalente ao produtório de 2 (dois) dias úteis que antecedem a Data da
+Primeira Integralização dos CRI Série Sênior dos recursos pro rata
+temporis. O cálculo deste prêmio ocorrerá de acordo com as regras de
+apuração, respectivamente, do “Fator DI” e do “Fator Spread”, acima
+descritas;
+
+(viii) para os fins desta Escritura o termo “Data de Pagamento Série
+Sênior” significa cada data de pagamento da Remuneração Série Sênior,
+conforme Anexo IV;
+
+(ix) para os fins desta Escritura o termo “Data da Primeira
+Integralização dos CRI Série Sênior” corresponde a data em que ocorrer a
+primeira integralização dos CRI Série Sênior (conforme definido no Termo
+de Securitização).
+
+2.  Se na data de vencimento de quaisquer obrigações pecuniárias da
+    Devedora não houver divulgação da Taxa DI pela B3, será aplicada a
+    última Taxa DI divulgada, não sendo devidas quaisquer compensações
+    entre a Devedora e a Debenturista quando da divulgação posterior da
+    Taxa DI que seria aplicável.
+
+3.  Nas hipóteses de restrição de uso, ausência de publicação, suspensão
+    do cálculo ou extinção da Taxa DI, será convocada pela Debenturista
+    a Assembleia Geral dos titulares dos CRI para a definição do novo
+    índice, em comum acordo com a Devedora. Na hipótese da Devedora e da
+    Debenturista não chegarem a um acordo, as Debêntures serão vencidas
+    antecipadamente.
+
+4.  Amortização Programada das Debêntures Sênior: Ressalvados os
+    pagamentos eventualmente efetuados em razão de Amortização
+    Extraordinária Facultativa, Amortização Extraordinária Obrigatória,
+    Amortização Extraordinária Obrigatória Habite-se, Resgate Antecipado
+    Facultativo e Resgate Antecipado Obrigatório, o pagamento do saldo
+    do Valor Nominal Unitário das Debêntures Sênior (“Amortização das
+    Debêntures Sênior”) será realizado na Data de Vencimento Série
+    Sênior.
+
+5.  Remuneração das Debêntures da Série Subordinada. As Debêntures
+    Subordinadas não serão atualizadas monetariamente. A remuneração das
+    Debêntures Subordinadas, incidente sobre o Valor Nominal Unitário,
+    será composta pela variação acumulada equivalente a 100% (cem por
+    cento) das taxas médias diárias da Taxa DI, acrescida do spread ou
+    sobretaxa de 4,50% (quatro inteiros e cinquenta centésimos por
+    cento) (“Remuneração Série Subordinada” e, quando referida em
+    conjunto e indistintamente com a Remuneração Série Sênior, a
+    “Remuneração”), desde a Data da Primeira Integralização dos CRI
+    Subordinados (inclusive), ou a última Data de Pagamento ou
+    Incorporação Série Subordinada (conforme definido abaixo)
+    (inclusive), conforme o caso, até a próxima Data de Pagamento ou
+    Incorporação Série Subordinada (exclusive) ou Data de Vencimento
+    Série Subordinada.
+
+    1.  A Remuneração Série Subordinada será devida (i) em cada uma das
+        Datas de Pagamento ou Incorporação Série Subordinada se houver
+        recursos disponíveis na Conta do Patrimônio Separado após a
+        recomposição do Fundo de Despesas e a integral quitação das
+        obrigações oriundas das Debêntures Sênior, conforme previsto na
+        Cascata de Pagamentos, ou (ii) na Data de Vencimento Série
+        Subordinada, qual seja o dia 21 de maio de 2027, conforme tabela
+        constante do Anexo IV.
+
+    2.  Caso, em uma Data de Pagamento ou Incorporação Série
+        Subordinada, observada a Cascata de Pagamentos, não tenha havido
+        a integral quitação das obrigações oriundas das Debêntures
+        Sênior ou os recursos disponíveis na Conta do Patrimônio
+        Separado não sejam suficientes para cobrir o montante da parcela
+        de Remuneração Série Subordinada devida desde a Data da Primeira
+        Integralização dos CRI Subordinados (inclusive) ou última Data
+        de Pagamento ou Incorporação Série Subordinada (inclusive), o
+        montante da parcela da Remuneração Série Subordinada incorrida e
+        não paga deverá ser incorporado ao saldo do Valor Nominal
+        Unitário das Debêntures Série Subordinada, sem que haja a
+        incidência de Encargos Moratórios. A Remuneração Série
+        Subordinada será calculada de acordo com a seguinte fórmula:
+
+[]
+
+Onde:
+
+J: Valor unitário de Remuneração Série Subordinada acumulado desde a
+Data da Primeira Integralização dos CRI Subordinados (inclusive) ou a
+última Data de Pagamento ou Incorporação Série Subordinada (inclusive)
+até a próxima Data de Pagamento ou Incorporação Série Subordinada
+(exclusive) ou Data de Vencimento Série Subordinada, calculado com 8
+(oito) casas decimais, sem arredondamento.
+
+VNb: Valor Nominal Unitário das Debêntures Série Subordinada ou saldo do
+Valor Nominal Unitário das Debêntures Série Subordinada na data da
+última amortização das Debêntures Série Subordinada, se aplicável, ou
+Data de Pagamento ou Incorporação Série Subordinada, calculado com 8
+(oito) casas decimais, sem arredondamento.
+
+Fator de Juros: Fator de juros composto pelo parâmetro de flutuação
+acrescido de sobretaxa (spread), calculado com 9 (nove) casas decimais,
+com arredondamento, apurado da seguinte forma:
+
+[]
+
+Onde:
+
+Fator DI: Produtório das taxas DI over, da Data da Primeira
+Integralização dos CRI Subordinados ou última Data de Pagamento ou
+Incorporação Série Subordinada, inclusive, até a próxima Data de
+Pagamento ou Incorporação Série Subordinada ou data de cálculo,
+exclusive, calculado com 8 (oito) casas decimais, com arrendamento,
+apurado da seguinte forma:
+
+[]
+
+Onde:
+
+n: Número de taxas DI over utilizadas.
+
+k: Número de ordem da Taxa DI, variando de 1 (um) até n.
+
+TDIk: Taxa DI over, de ordem k, expressa ao dia, calculada com 8 (oito)
+casas decimais, com arredondamento, da seguinte forma:
+
+[]
+
+Onde:
+
+DIk: Taxa DI over divulgada pela B3, com duas casas decimais.
+
+Fator Spread: Sobretaxa de juros fixos calculados com 9 (nove) casas
+decimais, com arredondamento, da seguinte forma:
+
+$$\mathbf{Fator\ Spread =}\left( \frac{\mathbf{Spread}}{\mathbf{100}}\mathbf{+ 1} \right)^{\frac{\mathbf{dup}}{\mathbf{252}}}$$
+
+Onde:
+
+Spread Série Subordinada: 4,50 (quatro inteiros e cinquenta centésimos).
+
+dup: Número de dias úteis entre a Data da Primeira Integralização dos
+CRI Subordinados ou última Data de Pagamento ou Incorporação Série
+Subordinada, inclusive, até a Data de Vencimento, exclusive.
+
+Observações:
+
+(i) a “Taxa DI” deverá ser utilizada considerando idêntico número de
+casas decimais divulgada pela B3;
+
+(ii) o fator resultante da expressão (1+TDIk) é considerado com 16
+(dezesseis) casas decimais sem arredondamento;
+
+(iii) efetua-se o produtório dos fatores diários (1+TDIk), sendo que a
+cada fator diário acumulado, trunca-se o resultado com 16 (dezesseis)
+casas decimais, aplicando-se o próximo fator diário, e assim por diante
+até o último considerado;
+
+(iv) uma vez os fatores estando acumulados, considera-se o fator
+resultante do produtório Fator DI com 8 (oito) casas decimais, com
+arredondamento;
+
+(v) o fator resultante da expressão: Fator DI ×Fator Spread deve ser
+considerado com 9 (nove) casas decimais, com arredondamento;
+
+(vi) para a aplicação de “DIk” será sempre considerado a “Taxa DI”
+divulgada no 2º (segundo) Dia Útil imediatamente anterior à data de
+cálculo (exemplo: para cálculo no dia 12, a Taxa DI considerada será a
+divulgada no dia 10 pela B3, pressupondo-se que tanto os dias 10, 11 e
+12 são Dias Úteis);
+
+(vii) deverá ser capitalizado ao “Fator de Juros” um prêmio de
+remuneração equivalente ao produtório de 2 (dois) dias úteis que
+antecedem a Data da Primeira Integralização dos CRI dos recursos pro
+rata temporis. O cálculo deste prêmio ocorrerá de acordo com as regras
+de apuração, respectivamente, do “Fator DI” e do “Fator Spread”, acima
+descritas;
+
+(viii) para os fins desta Escritura o termo “Data de Pagamento ou
+Incorporação Série Subordinada” (e se referida conjunta e
+indistintamente com a Data de Pagamento Série Sênior, uma “Data de
+Pagamento”) significa cada data de pagamento da Remuneração Série
+Subordinada, quais sejam (a) cada umas datas listadas no Anexo IV à
+presente Escritura em que a Remuneração Série Subordinada será paga com
+Recursos Cedidos Mensais (hipótese de Amortização Extraordinária
+Obrigatória), observada a Cascata de Pagamentos, ou a Remuneração Série
+Subordinada será incorporada ao saldo do Valor Nominal Unitário das
+Debêntures Série Subordinada, e/ou (b) a Data de Vencimento Série
+Subordinada;
+
+(ix) para os fins desta Escritura o termo “Data da Primeira
+Integralização dos CRI Série Subordinada” corresponde a data em que
+ocorrer a primeira integralização dos CRI Série Subordinada (conforme
+definido no Termo de Securitização).
+
+6.  Se na data de vencimento de quaisquer obrigações pecuniárias da
+    Devedora não houver divulgação da Taxa DI pela B3, será aplicada a
+    última Taxa DI divulgada, não sendo devidas quaisquer compensações
+    entre a Devedora e a Debenturista quando da divulgação posterior da
+    Taxa DI que seria aplicável.
+
+7.  Nas hipóteses de restrição de uso, ausência de publicação, suspensão
+    do cálculo ou extinção da Taxa DI, será convocada pela Debenturista
+    a Assembleia Geral dos titulares dos CRI para a definição do novo
+    índice, em comum acordo com a Devedora. Na hipótese da Devedora e da
+    Debenturista não chegarem a um acordo, as Debêntures serão vencidas
+    antecipadamente.
+
+8.  Amortização Programada das Debêntures Subordinadas: Ressalvados os
+    pagamentos eventualmente efetuados em razão do vencimento antecipado
+    das obrigações decorrentes das Debêntures ou de Amortização
+    Extraordinária Facultativa, Amortização Extraordinária Obrigatória,
+    Amortização Extraordinária Obrigatória Habite-se, Resgate Antecipado
+    Facultativo e Resgate Antecipado Obrigatório, o pagamento do saldo
+    do Valor Nominal Unitário das Debêntures Subordinadas (“Amortização
+    das Debêntures Subordinadas”) será efetuado na Data de Vencimento
+    Série Subordinada.
+
+3.  Encargos Moratórios
+
+    1.  O atraso no pagamento de qualquer importância devida pela
+        Devedora, inclusive na hipótese de declaração de vencimento
+        antecipado, seja referente ao Valor Nominal Unitário ou saldo do
+        Valor Nominal Unitário das Debêntures, seja referente aos
+        encargos previstos, sem prejuízo da Remuneração, implicará na
+        obrigação da Devedora de pagar à Debenturista (“Encargos
+        Moratórios”):
+
+(i) juros de mora à taxa de 1% (um por cento) ao mês ou fração de mês,
+    calculado pro rata temporis desde a data de inadimplemento até a
+    data do efetivo pagamento;
+
+(ii) multa não compensatória de 2% (dois por cento) incidente sobre o
+     montante do débito apurado, incluídos os encargos acima; e
+
+(iii) na hipótese de a Debenturista vir a ser compelida a recorrer a
+      meios administrativos e/ou judiciais para receber o seu crédito,
+      honorários advocatícios fixados em 10% (dez por cento) do valor do
+      saldo devedor das Debêntures, e despesas de cobrança, inclusive
+      custas, e as demais despesas, taxas, encargos e tributos
+      decorrentes dos procedimentos para recebimento do crédito
+      cumprimento e execução das obrigações oriundas das Debêntures.
+
+      1.  Forma e Conversibilidade
+
+          1.  As Debêntures serão nominativas e registradas no Livro de
+              Registros de Debêntures Nominativas da Companhia. Não
+              haverá a emissão de certificados de debêntures. A Devedora
+              se obriga a providenciar e enviar à Securitizadora e ao
+              Agente Fiduciário dos CRI, em até 05 (cinco) dias úteis
+              após a respectiva subscrição das Debêntures, cópia
+              autenticada do respectivo termo lavrado no Livro de
+              Transferência de Debêntures Nominativas. A transferência
+              das Debêntures à Debenturista deverá ocorrer na data da
+              respectiva subscrição, independentemente da efetiva
+              liberação dos recursos decorrentes da integralização.
+
+          2.  As Debêntures não serão conversíveis em ações de emissão
+              da Devedora.
+
+      2.  Forma de Subscrição e Comprovação de Titularidade
+
+          1.  Para todos os fins e efeito legais, as Debêntures serão
+              adquiridas mediante a assinatura de boletim de subscrição
+              conforme modelo constante do Anexo V à presente Escritura
+              e a titularidade das Debêntures será comprovada pelo seu
+              registro, em nome da Debenturista, no Livro de Registro de
+              Debêntures Nominativas, e a sua transferência operar-se-á
+              por termo lavrado no Livro de Transferência de Debêntures
+              Nominativas, datado e assinado pelo cedente e pelo
+              cessionário, ou seus legítimos representantes.
+
+          2.  O Livro de Registro de Debêntures Nominativas e o Livro de
+              Transferência de Debêntures Nominativas serão escriturados
+              e mantidos pela Companhia, com observância das normas
+              legais e regulamentares pertinentes.
+
+      3.  Procedimento de Colocação
+
+          1.  As Debêntures serão objeto de colocação privada e sem a
+              intermediação de instituições financeiras integrantes do
+              sistema de distribuição de valores mobiliários, não
+              estando sujeitas, portanto, ao registro de emissão perante
+              a CVM de que trata o artigo 19 da Lei n.º 6.385, de 7 de
+              dezembro de 1976, conforme alterada, e ao registro perante
+              a ANBIMA.
+
+      4.  Preço e Condições de Subscrição e Integralização
+
+          1.  As Debêntures Sênior e as Debêntures Subordinadas serão
+              subscritas e integralizadas pela Debenturista, em moeda
+              corrente nacional, pelo seu Valor Nominal Unitário na
+              primeira data de integralização, por meio de Transferência
+              Eletrônica Disponível – TED ou outra forma de
+              transferência eletrônica de recursos financeiros para a
+              Conta do Patrimônio Separado (conforme definido abaixo),
+              na mesma data em que ocorrer a integralização dos CRI, em
+              ambos os casos na primeira data da efetiva subscrição e
+              integralização (“Primeira Data de Integralização”). Caso a
+              totalidade das Debêntures não seja integralizada na
+              Primeira Data de Integralização, as Debêntures
+              remanescentes serão integralizadas, pelo seu respectivo
+              Valor Nominal Unitário, acrescido da Remuneração Série
+              Sênior ou Remuneração Série Subordinada, conforme
+              aplicável, calculada pro rata temporis desde a Primeira
+              Data de Integralização até a respectiva data de
+              integralização (cada uma, uma “Data de Integralização”).
+              Os recursos recebidos em qualquer Data de Integralização
+              serão mantidos na Conta do Patrimônio Separado até que
+              seja verificado, de forma satisfatória à Securitizadora e
+              o Agente Fiduciário dos CRI, o cumprimento da obrigação
+              prevista na Cláusula 3.17.4.1 da Escritura de Emissão. Uma
+              vez cumprida a obrigação prevista na Cláusula 3.17.4.1 da
+              Escritura de Emissão, os recursos recebidos em cada Data
+              de Integralização e disponíveis na Conta do Patrimônio
+              Separado, acrescidos de quaisquer rendimentos acumulados
+              entre a respectiva Data de Integralização e a data do
+              cumprimento de tal obrigação serão transferidos à Devedora
+              por meio de Transferência Eletrônica Disponível – TED ou
+              outra forma de transferência eletrônica de recursos
+              financeiros para a conta n° 08967-4, agência n° 3242, de
+              titularidade da Devedora, mantida junto ao Itaú Unibanco
+              S.A. (“Conta de Livre Movimentação”), observada as
+              retenções necessárias para os Fundos de Obras quando do
+              cumprimento da obrigação prevista na Clausula 3.17.4.1
+              conforme previsto nesta Escritura.
+
+          2.  Por ocasião do desembolso dos recursos das Debêntures à
+              Devedora, deverá ser descontado do valor devido à Devedora
+              pela integralização das Debêntures o valor referente às
+              despesas detalhadas no Anexo VI do presente Instrumento
+              (“Valor das Despesas da Emissão”), e eventuais comissões
+              ou despesas que venham a ser previstas no Contrato de
+              Distribuição, e os valores necessários à composição do
+              Fundo de Despesas e do Fundo de Obras.
+
+          3.  As Debêntures serão integralizadas em moeda corrente
+              nacional com os recursos oriundos da integralização dos
+              CRI na Conta do Patrimônio Separado.
+
+          4.  A liberação dos recursos da integralização das Debêntures
+              à Devedora, deduzido o Valor das Despesas da Emissão e os
+              valores necessários à composição do Fundo de Despesas e do
+              Fundo de Obras, será realizada de forma proporcional, e
+              somente será realizada após a comprovação do cumprimento
+              ou renuncia das seguintes condições precedentes:
+
+(i) perfeita formalização dos Documentos da Operação, entendendo-se como
+    tal a sua assinatura (incluindo seus anexos, quando for o caso)
+    pelas respectivas partes, bem como a verificação dos poderes dos
+    representantes dessas partes e todas as aprovações societárias
+    necessárias para tanto e a respectiva validação das assinaturas
+    digitais em conformidade com a regulamentação ICP-Brasil no
+    Verificador de Conformidade do Padrão de Assinatura Digital
+    ICP-Brasil disponibilizado pelo ITI – Instituto Nacional de
+    Tecnologia da Informação, caso os documentos sejam assinados de
+    forma digital;
+
+(ii) comprovação do arquivamento desta Escritura e das Aprovações
+     Societárias na JUCESP;
+
+(iii) registro desta Escritura no Cartório Registro de Títulos e
+      Documentos da cidade de São Paulo, estado de São Paulo;
+
+(iv) prenotação da Alienação Fiduciária de Imóveis junto aos cartórios
+     de registro de imóveis competentes e comprovação do registro dos
+     demais Contratos de Garantia junto aos cartórios competentes;
+
+(v) fornecimento, pela Devedora, em tempo hábil, de todo e qualquer
+    documento e informação verdadeiros, corretos, completos,
+    suficientes, precisos, necessários, previamente solicitados pela
+    Securitizadora, em relação às Debêntures, aos CRI e aos demais
+    Documentos da Operação previstos neste instrumento;
+
+(vi) depósito da CCI em sistema de registro e liquidação financeira
+     devidamente autorizado pelo Banco Central do Brasil;
+
+(vii) registro do Termo de Securitização na Instituição Custodiante
+      (conforme definido no Termo de Securitização);
+
+(viii) registro da titularidade das Debêntures no Livro de Registro de
+       Debêntures Nominativas da Devedora;
+
+(ix) emissão, subscrição e integralização da totalidade dos CRI, uma vez
+     que as Debêntures serão integralizadas exclusivamente com os
+     recursos captados junto a investidores no mercado de valores
+     mobiliários, objeto da Oferta Restrita;
+
+(x) finalização da auditoria legal (due diligence) em relação à Devedora
+    e ao Fiador e aos Imóveis objeto da garantia e recebimento pela
+    Securitizadora de parecer jurídico do assessor legal, confirmando a
+    validade e exequibilidade dos Documentos da Operação, em termos
+    satisfatórios à Securitizadora;
+
+(xi) não ocorrência de mudanças legais, regulatórias, tributárias e/ou
+     de força maior que afetem as Debêntures e/ou a colocação dos CRI; e
+
+(xii) não ocorrência de nenhum Evento de Inadimplemento.
+
+      1.  Os recursos mantidos na Conta do Patrimônio Separado, enquanto
+          não liberados à Devedora, poderão ser aplicados pela
+          Securitizadora em instrumentos financeiros de renda fixa com
+          classificação de baixo risco e liquidez diária, de emissão de
+          instituições financeiras de primeira linha, tais como títulos
+          públicos, títulos e valores mobiliários e outros instrumentos
+          financeiros de renda fixa de emissão de instituições
+          financeiras de primeira linha e/ou fundos de renda fixa
+          classificados como DI, administrados por instituições
+          financeiras de primeira linha (“Investimentos Permitidos”). Os
+          recursos oriundos dos rendimentos auferidos com tais
+          Investimentos Permitidos integrarão o Patrimônio Separado. A
+          Securitizadora não terá qualquer responsabilidade em relação a
+          quaisquer eventuais prejuízos, reivindicações, demandas,
+          danos, tributos, ou despesas resultantes das aplicações em
+          tais investimentos, inclusive, entre outros, qualquer
+          responsabilidade por demoras (não resultante de transgressão
+          deliberada) no investimento, reinvestimento ou liquidação dos
+          referidos Investimentos Permitidos, ou quaisquer lucros
+          cessantes inerentes a essas demoras.
+
+      2.  Na hipótese de não serem cumpridas as Condições Precedentes,
+          em até 90 (noventa) dias contados da presente data, de forma
+          que não tenha ocorrido nenhuma integralização,
+          independentemente de culpa, ação ou omissão da Devedora, a
+          Securitizadora estará automaticamente liberada da obrigação de
+          integralização acima prevista, tornando-se sem efeito a
+          presente Escritura, e retornando as partes ao status quo ante,
+          não cabendo às Partes indenização ou reembolso de qualquer
+          espécie, ressalvadas as obrigações assumidas em contratos
+          especificamente celebrados, que contenham este regramento e
+          pelo reembolso, pela Devedora, das despesas que tenham sido
+          incorridas pela Securitizadora em razão da operação de emissão
+          de CRI.
+
+      1.  Local de Pagamento
+
+          1.  Todos os pagamentos referentes às Debêntures serão
+              efetuados diretamente pela Devedora na conta corrente nº
+              39815-9, agência 3100, mantida junto ao Banco Itaú, conta
+              do patrimônio separado de titularidade da Securitizadora,
+              como condição para a realização da operação de
+              securitização (“Conta do Patrimônio Separado”).
+
+      2.  Prorrogação dos Prazos
+
+          1.  Considerar-se-ão prorrogados os prazos referentes aos
+              pagamentos de qualquer obrigação até o 1º (primeiro) Dia
+              Útil subsequente.
+
+          2.  Para os fins desta Escritura, “Dia Útil” significa
+              qualquer dia que não seja sábado, domingo, feriado
+              declarado nacional na República Federativa do Brasil.
+
+3.20. Repactuação Programada
+
+3.20.1. As Debêntures não serão objeto de repactuação programada.
+
+4.  Despesas Gerais, Fundo de Despesas e Fundo de Obras
+
+    1.  A Devedora se responsabiliza por todas as demais despesas
+        previstas nesta Escritura e nos demais Documentos da Operação a
+        serem efetivamente incorridas pela Securitizadora exclusivamente
+        às expensas do Patrimônio Separado, as quais deverão ser
+        reembolsadas pela Devedora à Securitizadora e/ou aos prestadores
+        de serviços contratados, conforme o caso, em até 5 (cinco) Dias
+        Úteis do recebimento de comunicação neste sentido, incluindo,
+        mas não se limitando a (“Despesas”):
+
+(i) Todos os emolumentos da B3 S.A. – Brasil, Bolsa, Balcão (“B3”),
+    relativos à CCI e aos CRI;
+
+(ii) Remuneração devida ao assessor legal da Operação;
+
+(iii) Remuneração devida à Securitizadora;
+
+(iv) Taxa de administração devida à Securitizadora, durante o período de
+     vigência dos CRI;
+
+(v) Remuneração devida ao Agente Fiduciário dos CRI;
+
+(vi) Remuneração devida à Instituição Custodiante;
+
+(vii) Todas as despesas incorridas e devidamente comprovadas pela
+      Securitizadora e/ou pelo Agente Fiduciário dos CRI, inclusive
+      despesas vinculadas aos eventuais aditamentos aos Documentos da
+      Operação, ou que sejam necessárias para proteger os direitos e
+      interesses dos Titulares dos CRI ou para realização dos seus
+      créditos, a serem pagas no prazo de até 5 (cinco) Dias Úteis
+      contados da apresentação de cobrança pela Securitizadora e/ou pelo
+      Agente Fiduciário dos CRI nesse sentido, conforme previsto no
+      Termo de Securitização;
+
+(viii) Em virtude da instituição do regime fiduciário e da gestão e
+       administração do Patrimônio Separado, as despesas mensais de
+       contratação de auditor independente, contador, ou seja,
+       profissionais para realizar a escrituração contábil e elaboração
+       de balanço auditado, os quais serão realizados na periodicidade
+       exigida pela legislação em vigor e serão reembolsados à
+       Securitizadora, e quaisquer prestadores de serviços contratados
+       para a Oferta, mediante apresentação dos comprovantes de
+       pagamento ou notas fiscais;
+
+(ix) Os honorários, despesas e custos de terceiros especialistas,
+     advogados, auditores ou fiscais relacionados com procedimentos
+     legais incorridos para resguardar os interesses dos titulares dos
+     CRI, na defesa de eventuais processos administrativos, arbitrais
+     e/ou judiciais propostos contra o Patrimônio Separado ou, ainda,
+     realização do Patrimônio Separado;
+
+(x) As eventuais despesas, depósitos e custas judiciais decorrentes da
+    sucumbência em ações judiciais ajuizadas com a finalidade de
+    resguardar os interesses dos Titulares dos CRI e a realização dos
+    créditos do Patrimônio Separado;
+
+(xi) Remuneração de todas as verbas e tarifas devidas à instituição
+     financeira onde se encontra aberta a conta corrente do Patrimônio
+     Separado;
+
+(xii) Despesas com registros e movimentação perante instituições
+      autorizadas à prestação de serviços de liquidação e custódia,
+      escrituração, câmaras de compensação e liquidação, juntas
+      comerciais e cartórios de registro de títulos e documentos,
+      conforme o caso, da documentação societária relacionada aos CRI,
+      ao Termo de Securitização e aos demais Documentos da Operação, bem
+      como de seus eventuais aditamentos;
+
+(xiii) Despesas necessárias à realização de assembleias gerais dos
+       Titulares dos CRI, na forma da regulamentação aplicável;
+
+(xiv) Honorários e despesas incorridas na contratação de serviços para
+      procedimentos extraordinários especificamente previstos nos
+      Documentos da Operação e que sejam atribuídos às Debêntures;
+
+(xv) Quaisquer outros honorários, custos e despesas previstos no Termo
+     de Securitização; e
+
+(xvi) Quaisquer outros honorários, comissões, custos e despesas
+      previstos no Contrato de Distribuição.
+
+      1.  Todos os valores referidos na Cláusula 3.16 serão acrescidos
+          dos impostos: ISS (Impostos sobre Serviços de Qualquer
+          Natureza), CSSL (Contribuição Social Sobre o Lucro Líquido),
+          PIS (Contribuição ao Programa de Integração Social), COFINS
+          (Contribuição para Financiamento da Seguridade Social), IRRF
+          (Imposto de Renda Retido na Fonte) e quaisquer outros tributos
+          que venham a incidir, nas alíquotas vigentes na data de cada
+          pagamento.
+
+      1.  Fundo de Despesas
+
+          1.  Para a garantia do pagamento das Despesas a Devedora se
+              obriga a constituir um fundo de despesas (“Fundo de
+              Despesas”) no valor de R$ 90.000,00 (noventa mil reais)
+              (“Valor do Fundo de Despesas”) e manter, na Conta do
+              Patrimônio Separado, mediante a retenção dos recursos da
+              integralização das Debêntures à Devedora, o Valor do Fundo
+              de Despesas. Caso, a qualquer momento, o saldo do Fundo de
+              Despesas se torne inferior R$ 40.000,00 (quarenta mil
+              reais) (“Saldo Mínimo do Fundo de Despesas”), a Devedora,
+              observada a Cascata de Pagamentos, se obriga a recompor o
+              Saldo Mínimo do Fundo de Despesas até o Valor do Fundo de
+              Despesas, mediante depósito na Conta do Patrimônio
+              Separado em até 5 (cinco) Dias Úteis contados da data em
+              que a Securitizadora verificar a inobservância do Saldo
+              Mínimo do Fundo de Despesas.
+
+      2.  Fundo de Obras
+
+          1.  A Devedora concorda que parte dos recursos decorrentes da
+              integralização das Debêntures, no valor total de R$[=]
+              ([=]), será retida na Data da Primeira Integralização dos
+              CRI Série Sênior para a composição de dois fundos de obras
+              relacionados a cada um dos Empreendimentos Imobiliários,
+              sendo (i) o fundo de obras referente ao Empreendimento
+              Imobiliário da SPE Vila Olímpia no valor de R$ [=] ([=])
+              (“Fundo de Obras SPE SPE Vila Olimpia”) e (ii) o fundo de
+              obras referente ao Empreendimento Imobiliário da SPE
+              Maracatins no valor de valor de R$ [=] ([=]) (“Fundo de
+              Obras SPE Maracatins” e, quando referido em conjunto e
+              indistintamente com Fundo de Obras SPE Vila Olimpia, os
+              “Fundos de Obras”).
+
+          2.  A Devedora deverá disponibilizar à Securitizadora, com
+              cópia para o Agente Fiduciário dos CRI, até o 5º (quinto)
+              Dia Útil de cada mês, um novo relatório das obras,
+              contendo o Cronograma Físico Financeiro atualizado e a
+              avaliação da evolução das obras dos Empreendimentos
+              Imobiliários, a ser preparado pela BYM Gerenciamento,
+              Planejamento e Orçamento de Obras Ltda. (CNPJ:
+              17.338.368/0001-67) ou por outra empresa independente de
+              engenharia que venha a ser aprovada em Assembleia Geral
+              dos titulares dos CRI, substancialmente nos mesmos termos
+              do Relatório de Obras inicial constante do Anexo VII à
+              presente Escritura (“Relatório de Obras”).
+
+          3.  Os recursos dos Fundos de Obras serão mantidos na Conta do
+              Patrimônio Separado e serão liberados mensalmente,
+              conforme o caso, para a conta corrente nº 12.083-4,
+              agência 3242, mantida junto ao Itaú Unibanco S.A., de
+              titularidade da SPE Vila Olímpia e/ou para a conta
+              corrente nº 16.475-8, agência 3242, mantida junto ao Itaú
+              Unibanco S.A., de titularidade da SPE Maracatins, pela
+              Securitizadora em até 5 (cinco) Dias Úteis do envio do
+              Relatório de Obras à Securitizadora, de forma proporcional
+              ao avanço físico mensal obtido no respectivo mês de
+              avaliação, conforme informação constante do item 6 do
+              modelo de Relatório de Obras na coluna “Realizado Mensal
+              %”.
+
+          4.  Fica estabelecido, ainda, que caso um dos Empreendimentos
+              Imobiliários obtenha o “habite-se”, os recursos
+              remanescentes no respectivo Fundo de Obras serão
+              destinados pela Securitizadora à realização de uma
+              Amortização Extraordinária Obrigatória Habite-se.
+
+          5.  Os valores mantidos no Fundo de Obras deverão ser
+              aplicados tempestivamente, pela Securitizadora, em
+              Investimentos Permitidos. Os rendimentos resultantes dos
+              Investimentos Permitidos realizados com os recursos do
+              Fundo de Obras deverão ser utilizados mensalmente para a
+              realização exclusiva de pagamentos de Remuneração Série
+              Sênior.
+
+5.  AMORTIZAÇÃO EXTRAORDINÁRIA E RESGATE ANTECIPADO
+
+    1.  Amortização Extraordinária Obrigatória
+
+        1.  A Emissora deverá, tempestivamente, aplicar todos e
+            quaisquer Recursos Cedidos Mensais, incluindo, sem
+            limitação, os recursos objeto da Cessão Fiduciária, na
+            amortização extraordinária obrigatória das Debêntures
+            (“Amortização Extraordinária Obrigatória”), observada a
+            Cascata de Pagamentos, e sendo certo que os Recursos Cedidos
+            Mensais não poderão ser utilizados para o pagamento da
+            Remuneração Série Sênior, exceto em caso de declaração de
+            vencimento antecipado.
+
+        2.  Observado o previsto no Contrato de Cessão Fiduciária, os
+            Recursos Cedidos Mensais foram cedidos fiduciariamente à
+            Securitizadora e, até a integral quitação das Obrigações
+            Garantidas, deverão ser pagos na Conta do Patrimônio
+            Separado. A Amortização Extraordinária Obrigatória será
+            realizada na Data de Pagamento imediatamente subsequente ao
+            recebimento do Relatório Mensal do Servicer e no valor dos
+            Recursos Cedidos Mensais recebidos em um Período de
+            Apuração.
+
+        3.  Após o integral pagamento das obrigações oriundas das
+            Debêntures Sênior, o procedimento descrito na Cláusula 5.1.1
+            acima será aplicado com relação às Debêntures Subordinadas,
+            observada a Cascata de Pagamentos, até a integral quitação
+            das Debêntures Subordinadas de acordo com os termos e
+            condições da presente Escritura.
+
+        4.  As Amortizações Extraordinárias Obrigatórias serão limitadas
+            a 98% (noventa e oito por cento) do Valor Nominal Unitário e
+            serão realizadas mediante transferência dos Recursos Cedidos
+            Mensais para a Conta do Patrimônio Separado.
+
+        5.  As Partes concordam que enquanto a Devedora e/ou o Fiador se
+            mantiverem adimplentes as qualquer das Obrigações
+            Garantidas, 100% (cem por cento) do valor depositado na
+            Conta do Patrimônio Separado será destinado à Amortização
+            Extraordinária Obrigatória das Debêntures, observadas as
+            regras de subordinação das Debêntures Subordinadas e a
+            Cascata de Pagamentos.
+
+        6.  Após a obtenção do “Habite-se” ou documento equivalente à
+            conclusão das obras dos Imóveis Alienados Fiduciariamente,
+            caso ainda haja recursos disponíveis no Fundo de Obras, tais
+            recursos deverão ser destinados pela Securitizadora à
+            Amortização Extraordinária Obrigatória do Valor Nominal
+            Unitário ou saldo do Valor Nominal Unitário das Debêntures
+            da Série Sênior e, posteriormente à quitação integral das
+            Debêntures Sênior, os recursos remanescentes serão
+            utilizados para quitação das Debêntures Subordinadas,
+            respeitada sempre a Cascata de Pagamento (“Amortização
+            Extraordinária Obrigatória Habite-se”).
+
+    2.  Amortização Extraordinária Facultativa
+
+        1.  A Devedora poderá, ainda, após a obtenção do “Habite-se” ou
+            documento equivalente à conclusão das obras dos Imóveis
+            Alienados Fiduciariamente, realizar uma amortização
+            extraordinária facultativa das Debêntures, desde que com
+            recursos que não sejam oriundos dos Créditos Cedidos
+            Fiduciariamente (“Amortização Extraordinária Facultativa”)
+            das Debêntures. A Amortização Extraordinária Facultativa
+            deverá ser realizada nas Datas de Pagamento estabelecidas
+            nesta Escritura, desde que observadas a Cascata de
+            Pagamentos e as seguintes condições:
+
+(i) Envio de notificação à Securitizadora, com cópia para o Agente
+Fiduciário dos CRI, devidamente assinada pelos representantes legais da
+Devedora, com, pelo menos, 30 (trinta) dias de antecedência da data da
+efetiva Amortização Extraordinária Facultativa informando (a) a sua
+intenção de realizar a Amortização Extraordinária Facultativa das
+Debêntures (observado que somente após a integral quitação do Valor
+Nominal Unitário ou saldo do Valor Nominal Unitário das Debêntures
+Sênior é que as Debêntures Subordinadas poderão ser objeto de
+Amortização Extraordinária Facultativa), conforme Cascata de Pagamentos,
+(b) o valor da Amortização Extraordinária Facultativa; e (c) a Data de
+Pagamento em que se efetivará a Amortização Extraordinária Facultativa
+(“Notificação de Amortização”).
+
+l
+
+2.  O valor devido pela Devedora em razão de uma Amortização
+    Extraordinária Facultativa será equivalente, observada a Cascata de
+    Pagamentos, à (i) parcela do Valor Nominal Unitário ou do saldo do
+    Valor Nominal Unitário, conforme o caso, das Debêntures a serem
+    amortizadas acrescida (ii) da respectiva Remuneração, calculada pro
+    rata temporis desde a Data da Primeira Integralização dos CRI ou a
+    Data de Pagamento imediatamente anterior (inclusive), conforme o
+    caso, até a data da Amortização Extraordinária Facultativa
+    (exclusive), incidente sobre a parcela do Valor Nominal Unitário ou
+    saldo do Valor Nominal Unitário, conforme o caso; e acrescidas
+    (iii) de prêmio equivalente a 1,50% (um inteiro e cinquenta
+    centésimos por cento) ao ano, multiplicados pelo prazo remanescente
+    das Debêntures em questão, considerando a data da efetiva
+    Amortização Extraordinária Facultativa, de acordo com a fórmula
+    abaixo:
+
+$$Prêmio = VR*\lbrack(1 + i)^{\frac{d}{252}} - 1\rbrack$$
+
+onde:
+
+P = Prêmio de Amortização Extraordinária Facultativa, calculado com 8
+casas decimais, sem arredondamento;
+
+VR = parcela do Valor Nominal Unitário ou saldo do Valor Nominal
+Unitário, conforme o caso, a ser amortizada, acrescido da Remuneração,
+calculado, pro rata temporis, desde a Data da Primeira Integralização
+dos CRI, Data de Pagamento ou Incorporação Série Subordinada
+imediatamente anterior (inclusive) ou data de pagamento de uma
+Amortização Extraordinária Obrigatória, conforme o caso, até a data da
+efetiva amortização (exclusive);
+
+d = quantidade de Dias Úteis a transcorrer entre a data da efetiva
+Amortização Extraordinária Facultativa (inclusive) e a Data de
+Vencimento das Debêntures em questão (exclusive); e
+
+𝑖 = 1,50% (um inteiro e setenta centésimos por cento)
+
+3.  A Amortização Extraordinária Facultativa será limitada a 98%
+    (noventa e oito por cento) do Valor Nominal Unitário das Debêntures.
+
+3.  Resgate Antecipado Obrigatório
+
+    1.  Caso, a qualquer tempo durante a vigência das Debêntures, ocorra
+        o recebimento de quaisquer Recursos Cedidos Mensais e seja
+        necessário realizar uma Amortização Extraordinária Obrigatória,
+        de modo que o cumprimento das obrigações previstas na Cláusula
+        5.1 acima faça com que o saldo do Valor Nominal Unitário das
+        Debêntures de qualquer das Séries fique abaixo de 2% (dois por
+        cento) do Valor Nominal Unitário de tal série na Data de
+        Emissão, a Devedora ficará obrigada a realizar o resgate
+        antecipado total das Debêntures daquela determinada série, caso
+        os recursos disponíveis na Conta do Patrimônio Separado sejam
+        suficientes para tanto. Caso não haja disponíveis recursos na
+        Conta do Patrimônio Separado suficientes, a Devedora não poderá
+        realizar o Resgate Antecipado Obrigatório, sendo certo que o
+        resgate antecipado total das Debêntures só poderá ser realizado
+        uma vez que a Conta do Patrimônio Separado esteja composta com
+        os respectivos recursos suficientes para o resgate total das
+        debêntures em questão (“Resgate Antecipado Obrigatório”), sendo
+        certo que não haverá necessidade de realizar nenhuma Amortização
+        Extraordinária Obrigatória nesse caso, de modo que os recursos
+        fiquem disponíveis na Conta do Patrimônio Separado até que sejam
+        suficientes para realização do Resgate Antecipado Obrigatório. O
+        Resgate Antecipado Obrigatório deverá ser realizado em até 5
+        (cinco) Dias Úteis do recebimento, na Conta do Patrimônio
+        Separado dos valores mencionados acima.
+
+4.  Resgate Antecipado Facultativo
+
+    1.  A Devedora poderá, a seu exclusivo critério e independentemente
+        da vontade da Debenturista, observados os termos e condições
+        estabelecidos a seguir, realizar o resgate antecipado
+        facultativo total das Debêntures, com o consequente cancelamento
+        das Debêntures (“Resgate Antecipado Facultativo”).
+
+    2.  O Resgate Antecipado Facultativo somente poderá ocorrer após a
+        obtenção do “Habite-se” ou documento equivalente à conclusão das
+        obras dos Imóveis Alienados Fiduciariamente, mediante envio de
+        notificação à Securitizadora, com cópia para o Agente Fiduciário
+        dos CRI, devidamente assinada pelos representantes legais da
+        Devedora, com pelo menos 30 (trinta) dias de antecedência da
+        data do efetivo Resgate Antecipado Facultativo (“Comunicação de
+        Resgate Antecipado Facultativo”), sendo certo que as Debêntures
+        Subordinadas somente poderão ser resgatadas após o resgate das
+        Debêntures Sênior.
+
+    3.  O valor devido pela Devedora em razão de um Resgate Antecipado
+        Facultativo será equivalente, à (i) parcela do Valor Nominal
+        Unitário ou do saldo do Valor Nominal Unitário, conforme o caso,
+        das Debêntures a serem amortizadas acrescida (ii) da
+        Remuneração, calculada pro rata temporis desde a Data da
+        Primeira Integralização dos CRI ou a Data de Pagamento
+        imediatamente anterior (inclusive), conforme o caso, até a data
+        da Amortização Extraordinária Facultativa (exclusive), incidente
+        sobre a parcela do Valor Nominal Unitário ou saldo do Valor
+        Nominal Unitário, conforme o caso; e acrescida (iii) de prêmio
+        equivalente a 1,50% (um inteiro e cinquenta centésimos por
+        cento) ao ano, multiplicados pelo prazo remanescente das
+        Debêntures em questão, considerando a data do efetivo Resgate
+        Antecipado Facultativo, de acordo com a fórmula abaixo:
+
+$$Prêmio = VR*\lbrack(1 + i)^{\frac{d}{252}} - 1\rbrack$$
+
+onde:
+
+P = Prêmio de Resgate Antecipado Facultativo, calculado com 8 casas
+decimais, sem arredondamento;
+
+VR = parcela do Valor Nominal Unitário ou saldo do Valor Nominal
+Unitário, conforme o caso, a ser amortizada, acrescido da Remuneração,
+calculado, pro rata temporis, desde a Data da Primeira Integralização
+dos CRI, Data de Pagamento ou Incorporação Série Subordinada (inclusive)
+ou data de pagamento de uma Amortização Extraordinária Obrigatória,
+conforme o caso, até a data do efetivo Resgate Antecipado Facultativo
+(exclusive);
+
+d = quantidade de Dias Úteis a transcorrer entre a data do efetivo
+Resgate Antecipado Facultativo (inclusive) e a Data de Vencimento das
+Debêntures em questão (exclusive); e
+
+𝑖 = 1,50% (um inteiro e setenta centésimos por cento).
+
+4.  Na Comunicação de Resgate Antecipado Facultativo deverá constar:
+    (a) a data e o procedimento de Resgate Antecipado Facultativo,
+    observada a legislação pertinente, bem como os termos e condições
+    estabelecidos nesta Escritura; (b) menção ao valor projetado do
+    pagamento devido à Debenturista; e (c) as demais informações
+    consideradas relevantes pela Devedora para conhecimento da
+    Debenturista.
+
+5.  A Data do Resgate Antecipado Facultativo deverá, obrigatoriamente,
+    ser um Dia Útil.
+
+6.  do vencimento ANTECIPADO
+
+    1.  As obrigações decorrentes das Debêntures serão consideradas
+        antecipadamente vencidas, devendo o Debenturista declarar, para
+        fins formais, e exigir o imediato pagamento, pela Devedora, do
+        Valor Nominal Unitário ou saldo do Valor Nominal Unitário,
+        acrescido da respectiva Remuneração, calculada pro rata temporis
+        desde a Data de Integralização ou a Data de Pagamento
+        imediatamente anterior, conforme o caso, até a data do efetivo
+        pagamento, sem prejuízo, quando for o caso, dos Encargos
+        Moratórios e quaisquer despesas devidas pela Emissora, na
+        ocorrência de quaisquer dos eventos previstos nas Cláusulas
+        6.1.1 e 6.1.2 abaixo (cada um, um “Evento de Inadimplemento”):
+
+        1.  Constituem Eventos de Inadimplemento que acarretam o
+            vencimento antecipado automático das obrigações decorrentes
+            das Debêntures, independentemente de aviso ou notificação,
+            judicial ou extrajudicial, aplicando-se o disposto na
+            Cláusula 6.2 abaixo:
+
+(i) atraso no pagamento pela Devedora ou pelo Fiador de qualquer valor
+    devido à Debenturista, nos termos ou em decorrência desta Escritura
+    e/ou dos demais instrumentos da Operação, não sanado no prazo de até
+    02 (dois) Dias Úteis contados da data em que a obrigação era
+    exigida;
+
+(ii) liquidação, dissolução, extinção, pedido de falência formulado pela
+     Devedora, pelo Fiador ou por terceiros em face da Devedora,
+     decretação de falência ou insolvência da Devedora, ou pedido de
+     autofalência pela Devedora, independente do deferimento do
+     respectivo pedido, ou pedido de recuperação judicial ou
+     extrajudicial apresentado pela Devedora, independentemente do
+     deferimento do respectivo pedido, ou acordo com seus credores
+     suspendendo ou prorrogando o pagamento de suas dívidas, ou
+     indicação de administrador ou síndico para Devedora ou parte
+     substancial de seus ativos ou negócios, ou concordância da Devedora
+     e/ou Garantidores com quaisquer das medidas acima apontadas ou sua
+     declaração, por escrito, de que não tem condições financeiras de
+     arcar com suas obrigações;
+
+(iii) pagamento de dividendos pela Devedora, observado o disposto no
+      artigo 202 da Lei 6.404/76, ou, por qualquer forma, distribuição
+      pela Devedora no todo ou parte de seu resultado, mesmo que para
+      pagamento de debêntures com participação nos lucros, apenas se a
+      Devedora e/ou Garantidores estiver em mora em relação ao pagamento
+      de quaisquer valores devidos à Debenturista, relativos às
+      Debêntures objeto desta Emissão;
+
+(iv) alteração ou transferência do controle (conforme definição de
+     controle prevista no artigo 116 da Lei das Sociedades por Ações)
+     direto ou indireto da Devedora (“Grupo Econômico”);
+
+(v) declaração de vencimento antecipado de qualquer dívida da Devedora
+    e/ou do Fiador em razão de inadimplemento contratual, em valor
+    unitário ou agregado igual ou superior a R$ 15.000.000,00 (quinze
+    milhões de reais), atualizado mensalmente pela variação positiva do
+    IPCA (IBGE), respeitados eventuais prazos de cura previstos nos
+    contratos, salvo se o não pagamento tiver a concordância do
+    respectivo credor;
+
+(vi) transferência ou qualquer forma de cessão ou promessa de cessão a
+     terceiros, pela Devedora ou pelo Fiador, no todo ou em parte, das
+     obrigações assumidas nesta Escritura, sem prévia autorização da
+     Debenturista;
+
+(vii) não aplicação dos recursos oriundos da Emissão conforme Cláusula
+      3.5.1 acima, que dispõe sobre a destinação de recursos da Emissão;
+
+(viii) declaração judicial de invalidade, ineficácia, nulidade ou
+       inexequibilidade total ou parcial desta Escritura, da Fiança, dos
+       Contratos de Garantia, bem como de seus aditamentos e/ou de
+       quaisquer de suas disposições;
+
+(ix) questionamento judicial, pela Devedora, seus controladores,
+     controladas ou coligadas, e/ou pelo Fiador de quaisquer termos e
+     condições desta Escritura, da Fiança, dos Contratos de Garantia
+     e/ou seus aditamentos; e
+
+(x) redução de capital social da Devedora, sem observância do disposto
+    no §3º do artigo 174 da Lei das Sociedades por Ações, exceto para
+    absorção de prejuízos.
+
+    1.  Constituem Eventos de Inadimplemento que podem acarretar o
+        vencimento antecipado das obrigações decorrentes das Debêntures,
+        aplicando-se o disposto nas Cláusulas 6.3, 6.3.1 e 6.4.2 abaixo,
+        quaisquer dos eventos previstos em lei e/ou qualquer dos
+        seguintes Eventos de Inadimplemento:
+
+(i) atraso no cumprimento ou descumprimento, pela Devedora e/ou Fiador,
+    de qualquer obrigação não pecuniária ou compromisso previsto nesta
+    Escritura e/ou nos demais instrumentos da Operação, incluindo os
+    Contratos de Garantia, não sanado no prazo de cura estabelecido, e
+    caso não haja prazo de cura definido, até 20 (vinte) Dias Úteis;
+
+(ii) morte, incapacidade total ou parcial, pedido de insolvência ou de
+     interdição do Fiador, salvo se a Devedora apresentar substituto(s)
+     idôneo(s) em até 10 dias contados do evento aceito(s) pela
+     Debenturista em Assembleia Geral dos titulares dos CRI (conforme
+     previsto no Termo de Securitização);
+
+(iii) caso se comprove que qualquer declaração ou garantia prestada pela
+      Devedora e/ou pelo Fiador no âmbito da Emissão são ou foram
+      incorretas, enganosas ou falsas;
+
+(iv) protestos de títulos contra a Devedora e/ou Garantidores em valor
+     individual ou agregado, igual ou superiora R$ 15.000.000,00 (quinze
+     milhões de reais), atualizado mensalmente pela variação positiva do
+     IPCA (IBGE), a partir da Data de Emissão, e (a) exceto se a
+     Devedora ou o Fiador comprovarem ao Agente Fiduciário dos CRI que
+     referido protesto foi indevidamente efetuado, decorreu de erro ou
+     má-fé de terceiros, ou tiver sido comprovado ao Agente Fiduciário
+     dos CRI que o(s) protesto(s) foi(ram) suspenso(s) por decisão
+     judicial em até 5 (cinco) Dias Úteis; ou (b) for cancelado por
+     decisão judicial, no prazo máximo de 15 (quinze) dias de sua
+     ocorrência, desde que validamente comprovado;
+
+(v) não pagamento pela Devedora e/ou Garantidores de decisão, arbitral
+    ou judicial transitada em julgado contra a Devedora e/ou
+    Garantidores, cujo valor, individual ou agregado, seja igual ou
+    superior a R$ 15.000.000,00 (quinze milhões de reais), atualizado
+    mensalmente pela variação positiva do IPCA (IBGE), a partir da Data
+    de Emissão, ou caso referido não pagamento possa, de qualquer
+    maneira, vir a prejudicar o cumprimento das obrigações pecuniárias
+    da Devedora decorrentes desta Escritura e/ou dos demais instrumentos
+    da Operação;
+
+(vi) transformação do tipo societário da Devedora, nos termos dos
+     artigos 220 a 222 da Lei das Sociedades por Ações, sem prévia e
+     expressa anuência da Debenturista;
+
+(vii) não obtenção, não renovação, cancelamento, revogação ou suspensão
+      das autorizações, concessões, alvarás e/ou licenças (incluindo
+      ambientais) necessárias para a atividade da Devedora;
+
+(viii) alteração no objeto social da Devedora e/ou dos Garantidores que
+       descaracterize as atividades principais previstas no objeto
+       social da Devedora e/ou dos Garantidores, salvo se previamente
+       aprovado pela Debenturista;
+
+(ix) não apresentar à Securitizadora, em até 6 (seis) meses após a
+     previsão de entrega dos Empreendimentos Imobiliários (conforme
+     Relatório de Obras constante do Anexo VII à presente Escritura), o
+     “Habite-se” (ou documento equivalente) expedido pela Prefeitura
+     Municipal atestando a conclusão da obra do respectivo
+     empreendimento e sua averbação no Cartório de Registro de Imóveis
+     competente, sendo certo que, a data prevista para conclusão do
+     empreendimento da SPE Maracatins é o dia e a data prevista para
+     conclusão do empreendimento da SPE Vila Olímpia é o dia;
+
+(x) verificação, em qualquer relatório mensal de medição de obra, de
+    atraso superior a 10% (dez por cento), mensal ou acumulado, no
+    Cronograma Físico Financeiro dos Empreendimentos Imobiliários
+    (conforme Relatório de Obras constante do Anexo VII à presente
+    Escritura), em relação ao cronograma elaborado após avaliação
+    inicial da empresa de engenharia responsável;
+
+(xi) ocorrência de cisão, fusão, incorporação (incluindo incorporação de
+     ações) envolvendo a Devedora;
+
+(xii) a Devedora deixar de ter suas demonstrações financeiras auditadas
+      por auditor independente registrado na CVM
+
+(xiii) desapropriação, arresto, sequestro, confisco ou qualquer outro
+       ato de qualquer entidade ou autoridade governamental de qualquer
+       jurisdição que resulte na efetiva perda, pela Devedora, da
+       propriedade e/ou da posse direta ou indireta da totalidade ou de
+       parte substancial de seus bens ou ativos, mediante a imissão da
+       posse pela respectiva autoridade governamental;
+
+(xiv) mora ou inadimplemento de qualquer obrigação da Devedora e/ou do
+      Fiador assumida perante outras instituições financeiras
+      integrantes do Sistema Financeiro Nacional, em valor, individual
+      ou agregado, igual ou superior a R$15.000.000,00 (quinze milhões
+      de reais), observados os prazos de cura constantes dos respectivos
+      instrumentos; e
+
+(xv) caso a Razão de Garantia deixe de ser observada a qualquer tempo e
+     a Devedora não efetue a correspondente Amortização Extraordinária
+     Obrigatória tempestivamente.
+
+     1.  Ocorrendo quaisquer dos Eventos de Inadimplemento previstos na
+         Cláusula 6.1.1 acima, as obrigações decorrentes das Debêntures
+         tornar-se-ão automaticamente vencidas, independentemente de
+         aviso ou notificação, judicial ou extrajudicial, devendo o
+         Debenturista exigir o pagamento do que for devido em até 1 (um)
+         Dia Útil, contados da sua ciência do inadimplemento.
+
+     2.  Na ocorrência de quaisquer dos Eventos de Inadimplemento
+         previstos na Cláusula 6.1.2 acima, a Debenturista convocará, em
+         até 2 (dois) dias úteis contados da data em que tomar
+         conhecimento do respectivo evento, uma Assembleia Geral dos
+         titulares dos CRI (conforme definido no Termo de Securitização)
+         para que seja deliberada a orientação da manifestação da
+         Debenturista em relação a tal evento.
+
+1.  Caso os titulares dos CRI Sênior que representem 50% (cinquenta por
+    cento) mais um dos CRI em Circulação (conforme definido no Termo de
+    Securitização) votem por orientar a Debenturista a manifestar-se
+    contrariamente ao vencimento antecipado das Debêntures, a
+    Debenturista deverá assim manifestar-se. Caso contrário ou caso não
+    haja instalação da Assembleia Geral dos titulares dos CRI, em
+    primeira e em segunda convocação, por qualquer motivo, o vencimento
+    antecipado das Debêntures deverá ser declarado pela Debenturista,
+    quando se tornarão imediata e automaticamente, exigíveis.
+
+3.  Na hipótese de ocorrência dos Eventos de Inadimplemento, a
+    Debenturista poderá tomar todas as medidas cabíveis necessárias à
+    defesa de seus direitos, interesses e prerrogativas.
+
+    1.  A Devedora obriga-se a informar a Debenturista sobre a
+        ocorrência de qualquer Evento de Inadimplemento que vier a tomar
+        conhecimento, tão logo quanto possível, mas em qualquer caso no
+        prazo máximo de até 5 (cinco) Dias Úteis após tal fato. No mesmo
+        prazo informará sobre a ocorrência de qualquer Evento de
+        Inadimplemento se assim solicitado pela Debenturista. A
+        inobservância desse prazo pela Debenturista não eximirá a
+        Devedora de suas obrigações no âmbito das Debêntures, nem
+        obstará o exercício dos direitos cabíveis à Securitizadora nos
+        termos da presente Escritura ou demais Documentos da Operação.
+
+    2.  Na ocorrência de qualquer dos Eventos de Inadimplemento
+        previstos na Cláusula 6.1.1 acima ou em caso de declaração de
+        vencimento antecipado decorrente de um Evento de Inadimplemento
+        previsto na Cláusula 6.1.2 acima, a Devedora se obriga a
+        resgatar a totalidade das Debêntures, com o seu consequente
+        cancelamento, mediante o pagamento do saldo do Valor Nominal
+        Unitário ou saldo do Valor Nominal Unitário, acrescido da
+        Remuneração, calculada pro rata temporis nos termos da presente
+        Escritura, sem prejuízo do pagamento dos Encargos Moratórios,
+        quando for o caso, e de quaisquer outros valores eventualmente
+        devidos pela Devedora nos termos desta Escritura, no prazo de
+        até 5 (cinco) Dias Úteis contados da data em que for declarado o
+        vencimento antecipado das obrigações decorrentes das Debêntures,
+        mediante comunicação por escrito a ser enviada pelo Debenturista
+        à Devedora.
+
+7.  DAS OBRIGAÇÕES ADICIONAIS DA Devedora E DO FIADOR
+
+    1.  A Devedora e o Fiador adicionalmente se obrigam a:
+
+(i) fornecer à Debenturista e ao Agente Fiduciário dos CRI:
+
+(a) no prazo de até 90 (noventa) dias corridos contados do término de
+      cada exercício social ou em até 1 (um) Dia Útil contado da data da
+      efetiva divulgação, o que ocorrer primeiro, cópia de suas
+      demonstrações financeiras completas e auditadas relativas aos 3
+      (três) últimos exercício sociais, conforme aplicável, acompanhadas
+      de notas explicativas e do relatório dos auditores independentes,
+      preparadas de acordo com os princípios contábeis determinados pela
+      legislação e regulamentação em vigor;
+
+(b) até o 45º (quadragésimo quinto) dia após o encerramento de cada
+      trimestre ou em até 05 (cinco) Dias Úteis após a sua divulgação, o
+      que ocorrer primeiro, balancete trimestral não auditado relativo
+      ao respectivo trimestre, em relação aos períodos de 3 (três) meses
+      encerrados em março, junho e setembro de cada ano; e
+
+(c) adicionalmente, a Devedora obriga-se a enviar à Securitizadora, caso
+      solicitado, na data do envio das demonstrações financeiras,
+      prevista no item (a) acima, declaração atestando a ocorrência ou
+      não de qualquer Evento de Inadimplemento, bem como os documentos
+      necessários à sua comprovação.
+
+(ii) Manter seu sistema de contabilidade, controle de custos, sistema de
+     informações gerenciais, livros contábeis e outros registros, sempre
+     de forma correta e atualizada, a fim de que possam refletir
+     corretamente as condições financeiras da Devedora e os resultados
+     de suas operações, de acordo com os princípios contábeis geralmente
+     aceitos no Brasil, aplicados de forma sistemática;
+
+(iii) Conduzir seus negócios de forma diligente e eficiente, sempre de
+      acordo com as melhores práticas financeiras e comerciais;
+
+(iv) Permitir que a Debenturista e/ou seus representantes legais visitem
+     suas instalações, assim como que tenham acesso a seus livros e
+     registros contábeis, sempre que para tanto for solicitada, de forma
+     razoável, obrigando-se a Debenturista, desde já, a guardar a devida
+     confidencialidade;
+
+(v) Manter em adequado funcionamento órgão para atender, de forma
+    eficiente, a Debenturista;
+
+(vi) Informar a Debenturista por correio eletrônico, sobre a convocação
+     de Assembleias Gerais Ordinárias ou Extraordinárias que tenham por
+     ordem do dia a discussão de matérias que possam alterar ou
+     modificar ou de qualquer modo prejudicar o recebimento do crédito
+     decorrente das Debêntures ou de suas Garantias. A notificação aqui
+     referida deverá ser efetuada com pelo menos 15 (quinze) dias antes
+     da realização de cada Assembleia Geral Ordinária da Devedora, e 08
+     (oito) dias antes de cada Assembleia Geral Extraordinária da
+     Devedora;
+
+(vii) Prontamente notificar a Debenturista sobre qualquer proposta de
+      mudança na natureza ou no escopo dos seus negócios ou operações ou
+      a expansão e/ou modernização de suas atividades ou sobre qualquer
+      ato ou fato que possa afetar ou causar a interrupção ou suspensão
+      das atividades da Devedora;
+
+(viii) Obter e manter válidas, ou, sempre que for o caso, imediatamente
+       renovar, todas as licenças, aprovações e autorizações necessárias
+       à consecução de seus negócios e operações, e realizar e observar
+       todas as condições e restrições contidas ou impostas à Devedora
+       por quaisquer referidas licenças, aprovações ou autorizações,
+       assim como cumprir, em todos os aspectos, todas as leis, regras,
+       regulamentos e ordens aplicáveis em qualquer jurisdição na qual
+       realize negócios ou possua ativos;
+
+(ix) Realizar o pagamento tempestivo de todas as despesas decorrentes da
+     Operação, incluindo, mas não se limitando, às remunerações dos
+     prestadores de serviço, reconhecimento de firmas, aditamentos aos
+     Documentos da Operação, registros cartorários, honorários
+     advocatícios, bem como de qualquer outra despesa que a Debenturista
+     sejam obrigada a arcar relativamente à Debêntures e às Garantias;
+
+(x) Não adotar qualquer medida, mediante a alteração de seu Estatuto
+    Social ou reorganização, fusão, incorporação ou venda de ativos que
+    possa, por qualquer forma, vir a resultar em desvantagens à
+    Debenturista;
+
+(xi) Apresentar à Debenturista (i) certidão de Débitos de Tributos
+     Imobiliários, inscritos e não inscritos na Dívida Ativa, expedida
+     pela Prefeitura do local dos Imóveis Alienados Fiduciariamente
+     e (ii) comprovante de pagamento de despesas condominiais ou
+     declaração de inexistência de despesas condominiais, firmada pelo
+     síndico dos Imóveis Alienados Fiduciariamente, com firma
+     reconhecida, acompanhada de cópia autenticada da respectiva Ata de
+     Eleição, no prazo de até 30 (trinta) dias úteis contados da data em
+     que for instituído o condomínio com relação a cada um dos
+     Empreendimentos Imobiliários, prorrogável uma única vez, pelo mesmo
+     prazo, caso a Devedora demonstre à Debenturista, estar envidando
+     todos os seus melhores esforços para a obtenção da documentação
+     acima indicada;
+
+(xii) informar por escrito ao Agente Fiduciário dos CRI a ocorrência de
+      qualquer Eventos de Inadimplemento bem como quaisquer eventos ou
+      situações que sejam de seu conhecimento e que possam afetar
+      negativamente a habilidade da Devedora de efetuar o pontual
+      cumprimento das obrigações, no todo ou em parte, assumidas perante
+      os titulares das Debêntures, em até 1 (um) Dia Útil de sua
+      ocorrência;
+
+(xiii) cumprir todas as determinações emanadas da CVM e da B3, conforme
+       aplicável, inclusive mediante envio de documentos, prestando,
+       ainda, as informações que lhe forem solicitadas;
+
+(xiv) não realizar operações fora do seu objeto social, observadas as
+      disposições estatutárias, legais e regulamentares em vigor,
+      ressalvadas aquelas que não resultem na alteração das respectivas
+      atividades principais;
+
+(xv) cumprir todas as leis, regras, regulamentos e ordens aplicáveis em
+     qualquer jurisdição na qual realize negócios ou possua ativos;
+
+(xvi) efetuar recolhimento de quaisquer tributos ou contribuições que
+      incidam ou venham a incidir sobre a Emissão e que sejam de
+      responsabilidade da Devedora, entregando ao Agente Fiduciário os
+      comprovantes, quando solicitado;
+
+(xvii) efetuar o pagamento de todas as despesas comprovadas pelo Agente
+       Fiduciário dos CRI previamente aprovadas pela Devedora, sempre
+       que possível, que venham a ser necessárias para proteger os
+       direitos e interesses da Debenturista ou para realizar seus
+       créditos, inclusive honorários advocatícios e outras despesas e
+       custos incorridos em virtude da cobrança de qualquer quantia
+       devida à Debenturista nos termos desta Escritura;
+
+(xviii) cumprir integralmente as leis, regulamentos e demais normas
+        ambientais e trabalhistas em vigor, relativa à saúde e segurança
+        ocupacional, inclusive no que se refere à inexistência de
+        trabalho infantil e análogo a de escravo, assim como não adotar
+        ações que incentivem a prostituição, em especial com relação aos
+        seus projetos e atividades de qualquer forma beneficiados pela
+        Emissão, mantendo, ainda, todas as licenças ambientais válidas
+        e/ou dispensas e/ou protocolo junto às autoridades públicas,
+        observados os prazos previstos no artigo 18, §4º, da Resolução
+        do Conselho Nacional do Meio Ambiente – CONAMA nº 237, de 19 de
+        dezembro de 1997 e/ou os prazos definidos pelos órgãos
+        ambientais das jurisdições em que a Devedora atue;
+
+(xix) proceder a todas as diligências exigidas para suas respectivas
+      atividades econômicas, preservando o meio ambiente e atendendo às
+      determinações dos órgãos municipais, estaduais e federais que,
+      subsidiariamente, venham a legislar ou regulamentar as normas
+      ambientais em vigor;
+
+(xx) observar e cumprir e fazer com que seus respectivos controladores,
+     controladas, coligadas, sociedades sob controle comum e seus
+     acionistas (“Afiliadas”) e seus diretores, funcionários e membros
+     de conselho de administração, se existentes, observem e cumpram as
+     Leis Anticorrupção (conforme abaixo definido), devendo (i) manter
+     políticas e procedimentos internos que assegurem o integral
+     cumprimento das Leis Anticorrupção; (ii) dar pleno conhecimento das
+     Leis Anticorrupção a todos os profissionais que venham a se
+     relacionar, previamente ao início de sua atuação no âmbito deste
+     documento; (iii) abster-se de praticar atos de corrupção e de agir
+     de forma lesiva à administração pública, nacional e estrangeira, no
+     seu interesse ou para seu benefício, exclusivo ou não, conforme o
+     caso, ou de suas respectivas Afiliadas; e (iv) caso tenha
+     conhecimento de qualquer ato ou fato relacionado a aludidas normas,
+     comunicar em até 2 (dois) Dias Úteis contados do conhecimento de
+     tal ato ou fato, ao Agente Fiduciário dos CRI;
+
+(xxi) manter os bens necessários para a condução de suas atividades
+      principais adequadamente segurados, conforme práticas correntes em
+      seu setor de atuação, conforme do Decreto nº 61.867, de 11 de
+      dezembro de 1967;
+
+(xxii) não divulgar ao público informações referentes à Devedora, à
+       Emissão, às Debêntures e/ou aos CRI, em desacordo com o disposto
+       na regulamentação aplicável, incluindo, mas não se limitando, ao
+       disposto na Instrução n.º 476 e no artigo 48 da Instrução da CVM
+       400;
+
+(xxiii) Dar aos recursos captados por meio das Debêntures, a destinação
+        indicada na Cláusula 3.5.1, obrigando-se a Devedora a comprovar
+        ao Agente Fiduciário dos CRI e à Debenturista, em até 10 (dez)
+        dia úteis contados da respectiva solicitação ou no prazo
+        indicado por qualquer órgão ou entidade, a comprovação da
+        Destinação dos Recursos. É facultado à Devedora, observada a
+        Destinação dos Recursos, ajustar o percentual ou montante de
+        investimentos e/ou despesas a serem efetuados em Imóveis Alvo,
+        hipótese em que o Anexo II desta Escritura, deverá ser
+        devidamente ajustado, às suas expensas, mediante aditamento a
+        esta Escritura, que deverá ser levado a registro na JUCESP, na
+        forma da legislação aplicável; e
+
+(xxiv) Até o 5º (quinto) Dia Útil de cada mês, enviar toda a
+       documentação necessária para a preparação do Relatório Mensal do
+       Servicer ou que venha a ser solicitada pelo Servicer.
+
+8.  DECLARAÇÕES E GARANTIAS DA Devedora
+
+    1.  A Devedora declara e garante que:
+
+(i) está devidamente autorizada e obteve todas as licenças e
+    autorizações necessárias, inclusive societárias e regulatórias para
+    celebrar esta Escritura e a cumprir todas as obrigações aqui
+    previstas, tendo sido satisfeitos todos os requisitos legais e
+    estatutários necessários para tanto;
+
+(ii) a celebração desta Escritura e o cumprimento das obrigações aqui
+     previstas não infringem qualquer obrigação anteriormente assumida
+     pela Devedora;
+
+(iii) os representantes legais da Devedora, que firmam a presente
+      Escritura, encontram-se investidos de poderes bastantes para
+      tanto;
+
+(iv) os termos desta Escritura não contrariam qualquer ordem, decisão ou
+     sentença administrativa ou judicial que afete a Devedora, suas
+     controladoras, controladas ou coligadas, diretas ou indiretas, ou
+     quaisquer de seus bens e propriedades;
+
+(v) esta Escritura constitui uma obrigação de pagamento e cumprimento
+    das obrigações aqui estabelecidas de forma legal, válida e perfeita
+    da Devedora, vinculando a si e seus sucessores, a qualquer título,
+    bem como sendo desde logo exequível, de acordo com os seus termos e
+    condições, independentemente das formalidades de registro a que se
+    submeterá;
+
+(vi) a celebração da presente Escritura e a emissão das Debêntures não
+     infringe nenhuma disposição legal, contrato ou instrumento do qual
+     a Devedora, controladores, controladas e/ou coligadas sejam partes
+     ou ao qual seus bens e propriedades estejam vinculados, nem
+     resultará em: (a) vencimento antecipado de qualquer obrigação
+     estabelecida em qualquer desses contratos ou instrumentos, (b)
+     criação de qualquer ônus sobre qualquer ativo ou bem da Devedora,
+     controladores, controladas e/ou coligadas ou (c) rescisão de
+     qualquer desses contratos ou instrumentos;
+
+(vii) as demonstrações financeiras da Devedora refletem, de forma
+      adequada, fiel e completa, a posição financeira da Devedora,
+      controladas e/ou coligadas em tais datas, assim como seus ativos,
+      passivos e contingências, de forma consolidada, e foram
+      devidamente elaboradas em conformidade com os princípios contábeis
+      geralmente aceitos no Brasil;
+
+(viii) a Devedora encontra-se em dia com todas as suas respectivas
+       obrigações e deveres, previstos nas leis, regulamentos, normas
+       administrativas e determinações dos órgãos governamentais,
+       autarquias ou tribunais, aplicáveis à condução de seus negócios;
+
+(ix) não há qualquer ação judicial, procedimento administrativo ou
+     arbitral, inquérito ou outro tipo de investigação governamental que
+     possa vir a causar impacto adverso relevante à Devedora,
+     controladas ou coligadas, em suas condições financeiras ou em suas
+     atividades, ou que possam afetar a capacidade da Devedora de
+     cumprir as obrigações previstas nesta Escritura;
+
+(x) assegurar que os recursos líquidos obtidos com a Emissão não sejam
+    empregados em (a) qualquer oferta, promessa ou entrega de pagamento
+    ou outra espécie de vantagem indevida a funcionário, empregado ou
+    agente público, partidos políticos, políticos ou candidatos
+    políticos, em âmbito nacional ou internacional, ou a terceiras
+    pessoas relacionadas; (b) pagamentos que possam ser considerados
+    como propina, abatimento ilícito, remuneração ilícita, suborno,
+    tráfico de influência ou atos de corrupção em geral em relação a
+    autoridades públicas nacionais e estrangeiras; e (c) quaisquer
+    normas relativas a atos de corrupção em geral e atos lesivos à
+    administração pública, nacionais e estrangeiras, incluindo, mas não
+    se limitando às previstas Lei nº 12.529, de 30 de novembro de 2011,
+    conforme alterada, na Lei nº 9.613, de 3 de março de 1998, conforme
+    alterada, no Decreto-Lei n.º 2.848, de 7 de dezembro de 1940, na Lei
+    n.º 12.846, de 1º de agosto de 2013, conforme alterada, no UK
+    Bribery Act de 2010 e na U.S. Foreign Corrupt Practices Act of 1977
+    e as normas aplicáveis que versam sobre atos de prevenção à lavagem
+    de dinheiro e financiamento ao terrorismo (“Leis Anticorrupção”);
+
+(xi) cumprir (a) toda a legislação ambiental e trabalhista vigente,
+     incluindo a legislação pertinente à Política Nacional do Meio
+     Ambiente e Resoluções do CONAMA – Conselho Nacional do Meio
+     Ambiente, conforme aplicável, (b) a legislação relativa a não
+     utilização de mão de obra infantil e/ou em condições análogas às de
+     escravo e/ou ainda que caracterizem assédio moral ou sexual, e (c)
+     a legislação relativa à saúde e segurança ocupacional (“Leis
+     Ambientais e Trabalhistas”), procedendo todas as diligências
+     exigidas por lei para suas atividades econômicas, preservando o
+     meio ambiente e atendendo às determinações dos Órgãos Municipais,
+     Estaduais e Federais que, subsidiariamente, venham a legislar ou
+     regulamentar as normas ambientais (exceto por aquelas determinações
+     questionadas de boa-fé nas esferas judiciais e/ou administrativas),
+     bem como adotando as medidas e ações preventivas ou reparatórias,
+     destinadas a evitar e corrigir eventuais danos ao meio ambiente e a
+     seus trabalhadores decorrentes das atividades descritas em seu
+     objeto social.
+
+(xii) até a presente data, preparou e entregou todas as declarações de
+      tributos, relatórios e outras informações que, de seu conhecimento
+      devem ser apresentadas, ou recebeu dilação dos prazos para
+      apresentação destas declarações, sendo certo que todas as taxas,
+      impostos e demais tributos e encargos governamentais por ela
+      devidos de qualquer forma, ou, ainda, impostas a ela ou a
+      quaisquer de seus bens, direitos, propriedades ou ativos, ou
+      relativo aos seus negócios, resultados e lucros foram
+      integralmente pagos quando devidos, exceto em relação àquelas
+      matérias que estejam sendo, de boa-fé, discutidas judicial ou
+      administrativamente;
+
+(xiii) esta Escritura e as obrigações aqui previstas constituem
+       obrigações lícitas, válidas, vinculantes e eficazes da Devedora
+       (conforme aplicável), exequíveis de acordo com os seus termos e
+       condições;
+
+(xiv) as informações prestadas pela Devedora são verdadeiras,
+      consistentes, corretas, completas e suficientes, permitindo aos
+      investidores uma tomada de decisão fundamentada a respeito das
+      Debêntures;
+
+(xv) nenhum registro, consentimento, autorização, aprovação, licença,
+     ordem de, ou qualificação perante qualquer autoridade governamental
+     ou órgão regulatório, é exigido para o cumprimento integral, pela
+     Devedora, de todas as suas obrigações nos termos desta Escritura ou
+     para a realização da Emissão, exceto (i) pelo arquivamento na
+     JUCESP, da AGE da Devedora; (ii) pela inscrição desta Escritura, e
+     seus eventuais aditamentos, na JUCESP e no Cartório de Títulos e
+     Documentos da Comarca da Capital do estado de São Paulo (iii) pelo
+     registro dos Contratos de Garantias junto aos competentes cartórios
+     de registro de títulos e documentos e cartório de registro de
+     imóveis competentes;
+
+(xvi) não omitiu qualquer fato, de qualquer natureza, que seja de seu
+      conhecimento e que possa resultar em alteração substancial na
+      situação econômico-financeira ou jurídica da Devedora em prejuízo
+      da Debenturista;
+
+(xvii) a Devedora observa e cumpre e fazem com que suas respectivas
+       Afiliadas e seus diretores, funcionários e membros de conselho de
+       administração, se existentes, observem e cumpram as Leis
+       Anticorrupção, bem como se abstém de praticar quaisquer atos de
+       corrupção e de agir de forma lesiva à administração pública,
+       nacional e estrangeira, no seu interesse ou para seu benefício,
+       exclusivo ou não;
+
+(xviii) inexiste contra si, e suas respectivas Afiliadas, investigação,
+          inquérito ou procedimento administrativo ou judicial
+          relacionado a práticas contrárias às Leis Anticorrupção; e
+
+(xix) A Devedora declara que é acionista ou sócio controlador, direta ou
+        indiretamente, ou é sociedade controlada pelos sócios cuja
+        destinação será realizada com os recursos da emissão, conforme
+        definição constante do artigo 116 das Sociedades por Ações, e
+        assume a obrigação de manter o controle acima até que
+        comprovada, pela Devedora, a integral utilização da parcela dos
+        recursos destinados à respectiva sociedade no respectivo
+        Empreendimento Imobiliário.
+
+      1.  O Fiador declara e garante que:
+
+(i) o Fiador é pessoa natural e maior, tendo plena capacidade de
+    contrair validamente todas as obrigações por ele assumidas por meio
+    dos Documentos da Operação, conforme aplicável;
+
+(ii) a celebração desta Escritura e o cumprimento das Obrigações
+     Garantidas não infringem qualquer obrigação anteriormente assumida
+     pelo Fiador;
+
+(iii) os termos desta Escritura não contrariam qualquer ordem, decisão
+      ou sentença administrativa ou judicial que afete o Fiador ou
+      quaisquer de seus bens e propriedades;
+
+(iv) esta Escritura constitui uma obrigação legal, válida e perfeita do
+     Fiador, vinculando a si e seus sucessores, a qualquer título, bem
+     como sendo exequível, de acordo com os seus termos e condições,
+     independentemente das formalidades de registro a que se submeterá;
+
+(v) a celebração da presente Escritura não infringe nenhuma disposição
+    legal, contrato ou instrumento do qual o Fiador seja parte ou ao
+    qual seus bens e propriedades estejam vinculados, nem resultará
+    em: (a) vencimento antecipado de qualquer obrigação estabelecida em
+    qualquer desses contratos ou instrumentos, (b) criação de qualquer
+    ônus sobre qualquer ativo ou bem do Fiador ou (c) rescisão de
+    qualquer desses contratos ou instrumentos;
+
+(vi) o Fiador encontra-se em dia com todas as suas respectivas
+     obrigações e deveres, previstos nas leis, regulamentos, normas
+     administrativas e determinações dos órgãos governamentais,
+     autarquias ou tribunais;
+
+(vii) não há qualquer ação judicial, procedimento administrativo ou
+      arbitral, inquérito ou outro tipo de investigação governamental
+      que possa vir a causar impacto adverso relevante ao Fiador, em sua
+      condição financeira, ou que possam afetar a capacidade do Fiador
+      de cumprir as Obrigações Garantidas;
+
+(viii) cumpre as Leis Anticorrupção e se abstém de praticar atos de
+       corrupção e de agir de forma lesiva à administração pública,
+       nacional ou estrangeira, conforme aplicável, no interesse ou para
+       benefício próprio, exclusivo ou não;
+
+(ix) inexiste contra si investigação, inquérito ou procedimento
+     administrativo ou judicial relacionado a práticas contrárias às
+     Leis Anticorrupção.
+
+(x) as informações prestadas pelo Fiador são verdadeiras, consistentes,
+    corretas, completas e suficientes, permitindo aos investidores uma
+    tomada de decisão fundamentada a respeito das Debêntures; e
+
+(xi) não omitiu qualquer fato, de qualquer natureza, que seja de seu
+     conhecimento e que possa resultar em alteração substancial na
+     situação econômico-financeira ou jurídica do Fiador em prejuízo da
+     Debenturista.
+
+     1.  Sem prejuízo de quaisquer direitos da Debenturista, nos termos
+         desta Escritura e da lei, a Devedora compromete-se a notificar
+         imediatamente a Debenturista, caso quaisquer das declarações
+         aqui prestadas tornem-se, total ou parcialmente, inverídicas,
+         incompletas ou incorretas.
+
+     2.  A Devedora e o Fiador obrigam-se a indenizar e a isentar a
+         Debenturista, por si e na qualidade de titular do Patrimônio
+         Separado (conforme definido no Termo de Securitização),
+         administrado sob regime fiduciário em benefício dos Titulares
+         dos CRI, de qualquer prejuízo e/ou perdas e danos diretos que
+         venha a comprovadamente sofrer em decorrência do descumprimento
+         de suas respectivas obrigações oriundas desta Escritura, bem
+         como em razão da falsidade e/ou incorreção de qualquer das
+         declarações prestadas, consoante decisão judicial transitada em
+         julgado que decidir sobre a indenização.
+
+     3.  O pagamento da indenização a que se refere a Cláusula acima
+         será realizado pela Devedora e/ou pelo Fiador no prazo de até 5
+         (cinco) Dias Úteis contados da data de recebimento de
+         comunicação escrita enviada pela Debenturista neste sentido.
+
+     4.  Se qualquer ação, reclamação, investigação ou outro processo
+         for instituído contra a Debenturista em relação a ato, omissão
+         ou fato atribuível à Devedora e/ou ao Fiador, a Debenturista
+         deverá notificar a Devedora e/ou o Fiador, conforme o caso, em
+         até 01 (um) Dia Útil de sua ciência, mas em qualquer caso,
+         antes de expirado o prazo de apresentação de defesa, para que a
+         Devedora e/ou o Fiador possam assumir a defesa tempestivamente.
+         Nessa hipótese, a Debenturista deverá cooperar com a Devedora
+         e/ou Fiador e fornecer todas as informações e outros subsídios
+         necessários para tanto com a razoabilidade necessária. Caso a
+         Devedora e/ou Fiador não assuma a defesa, a mesma reembolsará
+         ou pagará o montante total devido pela Debenturista como
+         resultado de qualquer perda, ação, dano e responsabilidade
+         relacionada, devendo pagar inclusive as custas processuais e
+         honorários advocatícios sucumbenciais, conforme arbitrado
+         judicialmente, mediante apresentação de guias, boletos de
+         pagamento ou qualquer outro documento que comprove as despesas
+         nos respectivos prazos de vencimento.
+
+     5.  O pagamento previsto na Cláusula acima abrange inclusive: (i)
+         honorários advocatícios que venham a ser incorridos pela
+         Debenturista ou seus sucessores na representação do Patrimônio
+         Separado (conforme definido no Termo de Securitização), na
+         defesa ou exercício dos direitos decorrentes desta Escritura,
+         inclusive medidas extrajudiciais, desde que sejam razoáveis e
+         mediante apresentação de documento que comprove tal despesa;
+         e (ii) quaisquer perdas decorrentes de eventual submissão da
+         Escritura a regime jurídico diverso do regime atualmente
+         aplicável, que implique qualquer ônus adicional a Debenturista
+         e/ou seus sucessores na representação do Patrimônio Separado
+         (conforme definido no Termo de Securitização.
+
+     6.  Em caso de pagamento de quaisquer valores a título de
+         indenização em virtude de ordem judicial posteriormente
+         revertida ou alterada, de forma definitiva, e a Debenturista
+         tiver tais valores restituídos, a Debenturista obriga-se a, no
+         mesmo sentido, devolver à Devedora e/ou ao Fiador, os montantes
+         restituídos.
+
+     7.  As estipulações de indenização previstas nesta Cláusula deverão
+         sobreviver à resolução, término (antecipado ou não) ou rescisão
+         da presente Escritura.
+
+9.  DAS COMUNICAÇÕES
+
+    1.  As comunicações a serem enviadas por qualquer das Partes nos
+        termos desta Escritura deverão ser encaminhadas para os
+        seguintes endereços:
+
+Para a Devedora:
+
+VITACON PARTICIPAÇÕES S.A
+
+Rua Haddock Lobo, 347 – 2º andar, Jardins
+
+São Paulo -SP
+
+At.: André Frankel
+
+Telefone: (11)3588-4700
+
+E-mail: andre.frankel@vitacon.com.br; jessicaknoblich@vitacon.com.br
+
+Para a Debenturista:
+
+VIRGO COMPANHIA DE SECURITIZAÇÃO
+
+Rua Tabapuã nº 1.123, Andar 21, conjunto 215, Itaim Bibi.
+
+CEP 04.533-004, São Paulo/SP
+
+At.: Dep. Gestão / Dep. Jurídico
+
+Telefone: (11) 3320-7474
+
+E-mail: gestao@virgo.inc; juridico@virgo.inc
+
+Para o Fiador:
+
+ALEXANDRE LAFER FRANKEL
+
+Rua Haddock Lobo, 347 – 2º andar, Jardins
+
+São Paulo -SP
+
+Telefone: (11)3588-4700
+
+E-mail: juridicoimobiliario@vitacon.com.br; ceo@vitacon.com.br
+
+Para as SPEs:
+
+TANZANITA DESENVOLVIMENTO IMOBILIÁRIO LTDA. ou
+
+PEDRA NEGRA DESENVOLVIMENTO IMOBILIÁRIO SPE LTDA.
+
+Rua Haddock Lobo, 347 – 2º andar, Jardins
+
+São Paulo -SP
+
+At.: André Frankel
+
+Telefone: (11)3588-4700
+
+E-mail: andre.frankel@vitacon.com.br; jessicaknoblich@vitacon.com.br
+
+2.  As comunicações serão consideradas entregues quando recebidas sob
+    protocolo ou com aviso de recebimento expedido pelo correio ou ainda
+    por telegrama enviado aos endereços acima.
+
+3.  As comunicações feitas por correio eletrônico serão consideradas
+    recebidas na data de seu envio, desde que seu recebimento seja
+    confirmado através de indicativo (recibo emitido pela máquina
+    utilizada pelo remetente).
+
+4.  A mudança de qualquer dos endereços acima deverá ser comunicada à
+    outra parte.
+
+DAS DISPOSIÇÕES GERAIS
+
+1.  Não se presume a renúncia a qualquer dos direitos decorrentes da
+    presente Escritura. Desta forma, nenhum atraso, omissão ou
+    liberalidade no exercício de qualquer direito ou faculdade que caiba
+    à Debenturista em razão de qualquer inadimplemento da Devedora
+    prejudicará o exercício de tal direito ou faculdade, ou será
+    interpretado como renúncia ao mesmo, nem constituirá novação ou
+    precedente no tocante a qualquer outro inadimplemento ou atraso.
+
+2.  A presente Escritura é firmada em caráter irrevogável e
+    irretratável, obrigando a Devedora por si e seus sucessores,
+    independentemente de serem ultimados os registros necessários,
+    gerando desde logo direito de crédito à Debenturista, tão logo
+    firmado o respectivo boletim de subscrição das Debêntures.
+
+3.  Caso qualquer das disposições desta Escritura venha a ser julgada
+    ilegal, inválida ou ineficaz, prevalecerão todas as demais
+    disposições não afetadas por tal julgamento, comprometendo-se a
+    Devedora e o Fiador, de boa-fé, a substituir as disposições afetadas
+    por outra que, na medida do possível, produza o mesmo efeito.
+
+4.  A Devedora será responsável por efetuar o pagamento de todos os
+    impostos, taxas, emolumentos e outras obrigações tributárias, e
+    despesas presentes e futuras, devidas em virtude da lavratura e
+    registro desta Escritura ou incidentes sobre as Debêntures.
+
+5.  A Debenturista será responsável pela guarda de uma via original
+    (física ou digital, conforme aplicável) devidamente registrada nos
+    órgãos competentes, conforme aplicável, de todos os Documentos da
+    Operação.
+
+6.  A presente Escritura e os demais Documentos da Operação poderão ser
+    alterados independentemente de qualquer aprovação da Debenturista
+    sempre que tal alteração decorrer exclusivamente da (i) necessidade
+    de atendimento a exigências formuladas pelos órgãos de
+    registro; (ii) quando verificado erro de digitação, desde que tais
+    modificações não representem prejuízo à Debenturista; e (iii) em
+    virtude da atualização dos dados cadastrais da Devedora, tais como
+    alteração na razão social, endereço e telefone, entre outros.
+    Eventuais aditamentos aos Contratos de Garantia passarão a integrar
+    a presente Escritura, independentemente da celebração de qualquer
+    aditamento, no momento em que forem devidamente formalizados.
+
+11. FORO
+
+    1.  Fica eleito o Foro da Comarca de São Paulo, Estado de São Paulo,
+        para dirimir quaisquer dúvidas ou controvérsias oriundas desta
+        Escritura, com renúncia a qualquer outro, por mais privilegiado
+        que seja.
+
+    2.  As Partes reconhecem que as declarações de vontade das Partes
+        contratantes mediante assinatura digital presumem-se verdadeiras
+        em relação aos signatários quando é utilizado o processo de
+        certificação disponibilizado pela Infraestrutura de Chaves
+        Públicas Brasileira – ICP-Brasil, conforme admitido pelo art. 10
+        e seus parágrafos da Medida Provisória nº 2.200, de 24 de agosto
+        de 2001, em vigor no Brasil, reconhecendo essa forma de
+        contratação em meio eletrônico, digital e informático como
+        válida e plenamente eficaz, constituindo título executivo
+        extrajudicial para todos os fins de direito. Na forma acima
+        prevista, a presente Escritura, assim como os demais documentos
+        relacionados à Emissão e às Debêntures, podem ser assinados
+        digitalmente por meio eletrônico conforme disposto nesta
+        Cláusula.
+
+E, observados os termos acima, a Devedora firma a presente Escritura, na
+presença de 2 (duas) testemunhas.
+
+São Paulo, 06 de junho de 2022
+
+(Restante da Página Intencionalmente Deixado em Branco. Segue página de
+assinaturas)
+
+(Página 1/4 de assinaturas do Instrumento Particular de Escritura da
+Oitava Emissão de Debêntures não conversíveis em Ações, em Duas Séries,
+da Espécie com Garantia Real, com Garantia Adicional Fidejussória, para
+Colocação Privada, da Vitacon Participações S.A.)
+
+VITACON PARTICIPAÇÕES S.A.
+
++-----------------------------------------------------------------------+
+| ___________________________________                                   |
+|                                                                       |
+| Nome: Alexandre Lafer Frankel                                         |
+|                                                                       |
+| Cargo: Diretor Presidente                                             |
++=======================================================================+
++-----------------------------------------------------------------------+
+
+_________________________________
+
+ALEXANDRE LAFER FRANKEL
+
+(Página 2/4 de assinaturas do Instrumento Particular de Escritura da
+Oitava Emissão de Debêntures não conversíveis em Ações, em Duas Séries,
+da Espécie com Garantia Real, com Garantia Adicional Fidejussória, para
+Colocação Privada, da Vitacon Participações S.A.)
+
+VIRGO COMPANHIA DE SECURITIZAÇÃO
+
++-----------------------------------+----------------------------------+
+| _______________________________   | _______________________________  |
+|                                   |                                  |
+| Nome: Pedro Paulo Oliveira de     | Nome: Luisa Herkenhoff Mis       |
+| Moraes                            |                                  |
+|                                   | Cargo: Procuradora               |
+| Cargo: Diretor de Operações       |                                  |
++===================================+==================================+
++-----------------------------------+----------------------------------+
+
+(Página 3/4 de assinaturas do Instrumento Particular de Escritura da
+Oitava Emissão de Debêntures não conversíveis em Ações, em Duas Séries,
+da Espécie com Garantia Real, com Garantia Adicional Fidejussória, para
+Colocação Privada, da Vitacon Participações S.A.)
+
+TANZANITA DESENVOLVIMENTO IMOBILIÁRIO LTDA.
+
++-----------------------------------------------------------------------+
+| ___________________________________                                   |
+|                                                                       |
+| Nome: Alexandre Lafer Frankel                                         |
+|                                                                       |
+| Cargo: Diretor Presidente                                             |
++=======================================================================+
++-----------------------------------------------------------------------+
+
+PEDRA NEGRA DESENVOLVIMENTO IMOBILIÁRIO SPE LTDA.
+
++-----------------------------------------------------------------------+
+| ___________________________________                                   |
+|                                                                       |
+| Nome: Alexandre Lafer Frankel                                         |
+|                                                                       |
+| Cargo: Diretor Presidente                                             |
++=======================================================================+
++-----------------------------------------------------------------------+
+
+(Página 4/4 de assinaturas do Instrumento Particular de Escritura da
+Oitava Emissão de Debêntures não conversíveis em Ações, em Duas Séries,
+da Espécie com Garantia Real, com Garantia Adicional Fidejussória, para
+Colocação Privada, da Vitacon Participações S.A.)
+
+Testemunhas
+
++-----------------------------------+----------------------------------+
+| 1. _____________________________  | 2. _____________________________ |
+|                                   |                                  |
+| Nome: Vinicius Aguiar Machado     | Nome: André Frankel              |
+|                                   |                                  |
+| CPF: 438.330.998-44               | CPF: 214.805.538-08              |
+|                                   |                                  |
+| E-mail:                           | E-mail:                          |
+| vinicius.machado@virgo.inc        | andre.frankel@vitacon.com.br     |
++===================================+==================================+
++-----------------------------------+----------------------------------+
+
+ANEXO I
+
+EMPREENDIMENTOS IMOBILIÁRIOS
+
++--------------------------+-------+---+------+------+------+--------+
+|   Imóvel Lastro          | Pr    | P | V    | Pe   | Mont | Em     |
+|                          | oprie | o | alor | rcen | ante | preend |
+|   (RGI/Endereço)         | tário | s | Esti | tual | de   | imento |
+|                          |       | s | mado | do   | Recu | Objeto |
+|                          |       | u | de   | V    | rsos | de     |
+|                          |       | i | Recu | alor | De   | Dest   |
+|                          |       | H | rsos | Esti | stin | inação |
+|                          |       | a | da   | mado | ados | de     |
+|                          |       | b | Emi  | de   | ao   | Re     |
+|                          |       | i | ssão | Recu | Em   | cursos |
+|                          |       | t | a    | rsos | pree | de     |
+|                          |       | e | S    | da   | ndim | Outra  |
+|                          |       | - | erem | Emi  | ento | E      |
+|                          |       | S | Aloc | ssão | Dec  | missão |
+|                          |       | e | ados | Para | orre | de     |
+|                          |       | ? | no   | o    | ntes | Certif |
+|                          |       |   | Im   | Im   | DE   | icados |
+|                          |       |   | óvel | óvel | Ou   | de     |
+|                          |       |   | La   | La   | tras | Rece   |
+|                          |       |   | stro | stro | Fo   | bíveis |
+|                          |       |   | (R$) |      | ntes | I      |
+|                          |       |   |      |      | de   | mobili |
+|                          |       |   |      |      | Recu | ários? |
+|                          |       |   |      |      | rsos |        |
++==========================+=======+===+======+======+======+========+
+| Condominio On            | Tanz  | N | 7    | 57%  | N/A  | Não    |
+| Maracatins, situado na   | anita | ã | 1.84 |      |      |        |
+| Alameda dos Maracatins   | Desen | o | 5.65 |      |      |        |
+| nº 1.424, 1.428. 1.430,  | volvi |   | 8,08 |      |      |        |
+| 1.436 e 1.468,           | mento |   |      |      |      |        |
+| Indianópolis, em         | I     |   |      |      |      |        |
+| desenvolvimento no       | mobil |   |      |      |      |        |
+| imóvel atualmente objeto | iário |   |      |      |      |        |
+| da matrícula nº 236.379  | Ltda. |   |      |      |      |        |
+| do 14º Oficial de        |       |   |      |      |      |        |
+| Registro de Imóveis da   |       |   |      |      |      |        |
+| Comarca de São Paulo –   |       |   |      |      |      |        |
+| Capital                  |       |   |      |      |      |        |
++--------------------------+-------+---+------+------+------+--------+
+| Condomínio On Vila       | Pedra | N | 5    | 43%  | N/A  | Não    |
+| Olímpia, situado na Rua  | Negra | ã | 3.15 |      |      |        |
+| Cabo Verde nº 382, 372,  | Desen | o | 4.34 |      |      |        |
+| 370, 366, 358, 354 e     | volvi |   | 1,92 |      |      |        |
+| 350, em desenvolvimento  | mento |   |      |      |      |        |
+| no imóvel atualmente     | I     |   |      |      |      |        |
+| objeto da matrícula nº   | mobil |   |      |      |      |        |
+| 199.372 do 4º Oficial de | iário |   |      |      |      |        |
+| Registro de Imóveis da   | SPE   |   |      |      |      |        |
+| Comarca de São Paulo –   | Ltda. |   |      |      |      |        |
+| Capital                  |       |   |      |      |      |        |
++--------------------------+-------+---+------+------+------+--------+
+| -                        | TOTAL |   | R$   | 10   | N/A  | Não    |
+|                          |       |   | 12   | 0,0% |      |        |
+|                          |       |   | 5.00 |      |      |        |
+|                          |       |   | 0.00 |      |      |        |
+|                          |       |   | 0,00 |      |      |        |
++--------------------------+-------+---+------+------+------+--------+
+
+ANEXO II
+
+CRONOGRAMA INDICATIVO DE DESTINAÇÃO DOS RECURSOS
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  CRONOGRAMA                                                                                                                                               
+  INDICATIVO                                                                                                                                               
+  DA APLICAÇÃO                                                                                                                                             
+  DOS RECURSOS                                                                                                                                             
+  (em                                                                                                                                                      
+  milhares)                                                                                                                                                
+  ------------ ---------------- --------------- -------------- --------------- --------------- --------------- ---------- ---------- ---------- ---------- ----------
+  Imóvel       Valor estimado   1º semestre     2º semestre    1º semestre     2º semestre     1º semestre     2º         1º         2º         1º         2º
+  Lastro       de recursos da   fiscal          fiscal         fiscal          fiscal          fiscal          semestre   semestre   semestre   semestre   semestre
+               Emissão a serem                                                                                 fiscal     fiscal     fiscal     fiscal     fiscal
+               alocados no                                                                                                                                 
+               Imóvel Lastro                                                                                                                               
+               (R$)                                                                                                                                        
+
+                                S               S              S               S               S               S          S          S          S          S
+
+                                2022            2022           2023            2023            2024            2024       2025       2025       2026       2026
+
+                                R$              R$             R$              R$              R$              R$         R$         R$         R$         R$
+
+  ON           71.845.658,08    30.841.502,50   4.157.821,38   10.345.348,45   13.929.111,65   12.571.874,10   -          -          -          -          -
+  Maracatins                                                                                                                                               
+
+  ON Vila      53.154.341,92    24.284.983,91   3.501.853,13   7.794.726,66    11.264.823,50   6.307.954,73    -          -          -          -          -
+  Olímpia                                                                                                                                                  
+
+               125.000.000,00   55.126.486,41   7.659.674,50   18.140.075,12   25.193.935,15   18.879.828,83   -          -          -          -          -
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Este cronograma é indicativo e não vinculante, sendo que, caso
+necessário, considerando a dinâmica comercial do setor no qual atua, a
+Devedora poderá destinar os recursos provenientes da integralização das
+Debêntures em datas diversas das previstas neste Cronograma Indicativo,
+observada a obrigação desta de realizar a integral Destinação de
+Recursos até a Data de Vencimento dos CRI ou até que a Devedora comprove
+a aplicação da totalidade dos recursos obtidos com a Emissão, o que
+ocorrer primeiro.
+
+O Cronograma Indicativo é meramente tentativo e indicativo e, portanto,
+se, por qualquer motivo, ocorrer qualquer atraso ou antecipação do
+cronograma tentativo tal fato não implicará em um Evento de
+Inadimplemento. Adicionalmente, a verificação da observância ao
+Cronograma Indicativo deverá ser realizada de maneira agregada, de modo
+que a destinação de um montante diferente daquele previsto no Cronograma
+Indicativo para um determinado semestre poderá ser compensada nos
+semestres seguintes.
+
+O Cronograma Indicativo da destinação dos recursos pela Devedora é feito
+com base na sua capacidade de aplicação de recursos dado (i) o histórico
+de recursos por ela aplicados nas atividades, no âmbito da aquisição,
+desenvolvimento e construção de empreendimentos imobiliários em geral; e
+(ii) a projeção dos recursos a serem investidos em tais atividades foi
+feita conforme tabela a seguir:
+
+  -----------------------------------------------------------------------
+  Histórico de aquisição,           
+  desenvolvimento e construção de   
+  empreendimentos imobiliários em   
+  geral                             
+  --------------------------------- -------------------------------------
+  Junho de 22                       R$ 55.126.486,41
+
+  2º semestre fiscal de 2022        R$ 7.659.674,50
+
+  1º semestre fiscal de 2023        R$ 18.140.075,12
+
+  2º semestre fiscal de 2023        R$ 25.193.935,15
+
+  1º semestre fiscal de 2024        R$ 18.879.828,83
+
+  Total                             R$ 125.000.000,00
+  -----------------------------------------------------------------------
+
+ANEXO III
+
+MODELO DE RELATÓRIO DE DESTINAÇÃO DOS RECURSOS
+
+[CIDADE], [DATA]
+
+À
+
+Oliveira Trust Distribuidora de Títulos e Valores Mobiliários S.A.
+
+Período: [•].[•].[•] até [•].[•].[•]
+
+A [•], neste ato representada na forma de seu Estatuto Social, nos
+termos da Cláusula 3.5.6 do “Instrumento Particular de Escritura da
+Oitava Emissão de Debêntures, não Conversíveis em Ações, em Duas Séries,
+da Espécie com Garantia Real com Garantia Adicional Fidejussória, para
+Colocação Privada, da Vitacon Participações S.A.”, conforme aditado de
+tempos em tempos (“Escritura” e “Emissão”), vem, pelo presente, atestar
+que o volume total de recursos obtidos mediante a Emissão foram
+utilizados durante o período acima, corresponde a R$ [•] ([•] reais) e
+foram para utilizados nos termos previstos na Escritura, conforme
+abaixo:
+
+  -------------------------------------------------------------------------------------------------------------------------------------
+  Denominação do   Proprietário   Matrícula / Endereço   Status   Destinação dos   Documento   Comprovante de   Percentual   Valor
+  Empreendimento                  Cartório               da Obra  recursos/etapa   (Nº da Nota pagamento:       do recurso   gasto no
+  Imobiliário                                            (%)      do projeto:      Fiscal      recibo [x] / TED utilizado no semestre
+                                                                  (aquisição,      (NF-e) /DOC [x] / boleto     semestre     
+                                                                  construção ou    [x] / e     (autenticação) e              
+                                                                  reforma)         outros      outros                        
+  ---------------- -------------- ----------- ---------- -------- ---------------- ----------- ---------------- ------------ ----------
+  [●]              [●]            [●]         [●]        [●]      [●]              [●]         [●]              [●]          [●]
+
+  Total destinado                                                                                                            R$ [●]
+  no semestre                                                                                                                
+
+  Valor total                                                                                                                R$ [●]
+  desembolsado à                                                                                                             
+  Devedora                                                                                                                   
+
+  Saldo a destinar                                                                                                           R$ [●]
+
+  Valor Total da                                                                                                             R$ [●]
+  Oferta                                                                                                                     
+  -------------------------------------------------------------------------------------------------------------------------------------
+
+Declara, ainda, que é titular do controle societário das sociedades por
+ela investidas acima, conforme definição constante do artigo 116 da Lei
+das Sociedades por Ações, e assume a obrigação de manter o controle
+societário sobre as sociedades investidas acima até que seja comprovada,
+pela Devedora, a integral destinação dos recursos. Acompanha a presente
+declaração os documentos necessários à comprovação do controle acima
+previsto.
+
+Atenciosamente,
+
+VITACON PARTICIPAÇÕES S.A.
+
++----------------------------------+-----------------------------------+
+| _                                | ___________________________       |
+| ________________________________ |                                   |
++==================================+===================================+
+| Nome:                            | Nome:                             |
+|                                  |                                   |
+| Cargo:                           | Cargo:                            |
++----------------------------------+-----------------------------------+
+
+ANEXO IV
+
+CRONOGRAMA DE PAGAMENTOS E TABELA DE AMORTIZAÇÃO
+
+  --------------------------------------------------------------------------------
+  Cronograma                                               
+  de                                                       
+  Pagamentos                                               
+  Debêntures                                               
+  Sênior                                                   
+  ------------ --------------------------- --------------- -----------------------
+  N            Data de Pagamento           Tai             Incorpora Juros?
+
+  1            23/6/2022                   0,0000%         NÃO
+
+  2            21/7/2022                   0,0000%         NÃO
+
+  3            23/8/2022                   0,0000%         NÃO
+
+  4            22/9/2022                   0,0000%         NÃO
+
+  5            21/10/2022                  0,0000%         NÃO
+
+  6            23/11/2022                  0,0000%         NÃO
+
+  7            22/12/2022                  0,0000%         NÃO
+
+  8            23/1/2023                   0,0000%         NÃO
+
+  9            23/2/2023                   0,0000%         NÃO
+
+  10           23/3/2023                   0,0000%         NÃO
+
+  11           20/4/2023                   0,0000%         NÃO
+
+  12           23/5/2023                   0,0000%         NÃO
+
+  13           22/6/2023                   0,0000%         NÃO
+
+  14           21/7/2023                   0,0000%         NÃO
+
+  15           23/8/2023                   0,0000%         NÃO
+
+  16           21/9/2023                   0,0000%         NÃO
+
+  17           23/10/2023                  0,0000%         NÃO
+
+  18           23/11/2023                  0,0000%         NÃO
+
+  19           21/12/2023                  0,0000%         NÃO
+
+  20           23/1/2024                   0,0000%         NÃO
+
+  21           22/2/2024                   0,0000%         NÃO
+
+  22           21/3/2024                   0,0000%         NÃO
+
+  23           23/4/2024                   0,0000%         NÃO
+
+  24           23/5/2024                   0,0000%         NÃO
+
+  25           21/6/2024                   0,0000%         NÃO
+
+  26           23/7/2024                   0,0000%         NÃO
+
+  27           22/8/2024                   0,0000%         NÃO
+
+  28           23/9/2024                   0,0000%         NÃO
+
+  29           23/10/2024                  0,0000%         NÃO
+
+  30           21/11/2024                  0,0000%         NÃO
+
+  31           23/12/2024                  0,0000%         NÃO
+
+  32           23/1/2025                   0,0000%         NÃO
+
+  33           21/2/2025                   0,0000%         NÃO
+
+  34           21/3/2025                   0,0000%         NÃO
+
+  35           23/4/2025                   0,0000%         NÃO
+
+  36           22/5/2025                   0,0000%         NÃO
+
+  37           23/6/2025                   0,0000%         NÃO
+
+  38           23/7/2025                   0,0000%         NÃO
+
+  39           21/8/2025                   0,0000%         NÃO
+
+  40           23/9/2025                   0,0000%         NÃO
+
+  41           23/10/2025                  0,0000%         NÃO
+
+  42           21/11/2025                  0,0000%         NÃO
+
+  43           23/12/2025                  0,0000%         NÃO
+
+  44           22/1/2026                   0,0000%         NÃO
+
+  45           23/2/2026                   0,0000%         NÃO
+
+  46           23/3/2026                   0,0000%         NÃO
+
+  47           23/4/2026                   0,0000%         NÃO
+
+  48           21/5/2026                   100,0000%       NÃO
+  --------------------------------------------------------------------------------
+
+  ----------------------------------------------------------------------------------
+  Cronograma de                                              
+  Pagamentos                                                 
+  Debêntures                                                 
+  Subordinadas                                               
+  -------------- --------------------------- --------------- -----------------------
+  N              Data de Pagamento           Tai             Incorpora Juros?
+
+  1              23/6/2022                   0,0000%         SIM
+
+  2              21/7/2022                   0,0000%         SIM
+
+  3              23/8/2022                   0,0000%         SIM
+
+  4              22/9/2022                   0,0000%         SIM
+
+  5              21/10/2022                  0,0000%         SIM
+
+  6              23/11/2022                  0,0000%         SIM
+
+  7              22/12/2022                  0,0000%         SIM
+
+  8              23/1/2023                   0,0000%         SIM
+
+  9              23/2/2023                   0,0000%         SIM
+
+  10             23/3/2023                   0,0000%         SIM
+
+  11             20/4/2023                   0,0000%         SIM
+
+  12             23/5/2023                   0,0000%         SIM
+
+  13             22/6/2023                   0,0000%         SIM
+
+  14             21/7/2023                   0,0000%         SIM
+
+  15             23/8/2023                   0,0000%         SIM
+
+  16             21/9/2023                   0,0000%         SIM
+
+  17             23/10/2023                  0,0000%         SIM
+
+  18             23/11/2023                  0,0000%         SIM
+
+  19             21/12/2023                  0,0000%         SIM
+
+  20             23/1/2024                   0,0000%         SIM
+
+  21             22/2/2024                   0,0000%         SIM
+
+  22             21/3/2024                   0,0000%         SIM
+
+  23             23/4/2024                   0,0000%         SIM
+
+  24             23/5/2024                   0,0000%         SIM
+
+  25             21/6/2024                   0,0000%         SIM
+
+  26             23/7/2024                   0,0000%         SIM
+
+  27             22/8/2024                   0,0000%         SIM
+
+  28             23/9/2024                   0,0000%         SIM
+
+  29             23/10/2024                  0,0000%         SIM
+
+  30             21/11/2024                  0,0000%         SIM
+
+  31             23/12/2024                  0,0000%         SIM
+
+  32             23/1/2025                   0,0000%         SIM
+
+  33             21/2/2025                   0,0000%         SIM
+
+  34             21/3/2025                   0,0000%         SIM
+
+  35             23/4/2025                   0,0000%         SIM
+
+  36             22/5/2025                   0,0000%         SIM
+
+  37             23/6/2025                   0,0000%         SIM
+
+  38             23/7/2025                   0,0000%         SIM
+
+  39             21/8/2025                   0,0000%         SIM
+
+  40             23/9/2025                   0,0000%         SIM
+
+  41             23/10/2025                  0,0000%         SIM
+
+  42             21/11/2025                  0,0000%         SIM
+
+  43             23/12/2025                  0,0000%         SIM
+
+  44             22/1/2026                   0,0000%         SIM
+
+  45             23/2/2026                   0,0000%         SIM
+
+  46             23/3/2026                   0,0000%         SIM
+
+  47             23/4/2026                   0,0000%         SIM
+
+  48             21/5/2026                   0,0000%         SIM
+
+  49             23/6/2026                   0,0000%         SIM
+
+  50             23/7/2026                   0,0000%         SIM
+
+  51             21/8/2026                   0,0000%         SIM
+
+  52             23/9/2026                   0,0000%         SIM
+
+  53             22/10/2026                  0,0000%         SIM
+
+  54             23/11/2026                  0,0000%         SIM
+
+  55             23/12/2026                  0,0000%         SIM
+
+  56             21/1/2027                   0,0000%         SIM
+
+  57             23/2/2027                   0,0000%         SIM
+
+  58             23/3/2027                   0,0000%         SIM
+
+  59             22/4/2027                   0,0000%         SIM
+
+  60             21/5/2027                   100,0000%       SIM
+  ----------------------------------------------------------------------------------
+
+ANEXO V
+
+MODELO DE BOLETIM DE SUBSCRIÇÃO
+
+VITACON PARTICIPAÇÕES S.A.
+
+Companhia Fechada
+
+Rua Haddock Lobo, 347 – 2º andar, Jardins
+
+CEP 01414-001
+
+CNPJ nº 11.144.772/0001-13 – NIRE nº 35.300.456.688
+
+8ª Emissão de Debêntures Simples, Não Conversíveis em Ações, da Espécie
+Com Garantia Real, Com Garantia Adicional Fidejussória, em Duas Séries,
+para Colocação Privada, da Vitacon Participações S.A.
+
+Boletim de Subscrição
+
+Características das Debêntures
+
++-----------------------------------------------------------------------+
+| Boletim de subscrição (“Boletim de Subscrição”) relativo à Oitava     |
+| Emissão de Debêntures Simples, Não Conversíveis em Ações, da Espécie  |
+| Com Garantia Real, Com Garantia Adicional Fidejussória, em Duas       |
+| Séries, para Colocação Privada, da Vitacon Participações S.A., de     |
+| 125.000 (cento e vinte e cinco mil) debêntures, em duas séries, sendo |
+| (i) 100.000 (cem mil) debêntures da primeira série (“Série Sênior” ou |
+| “Debêntures Sênior”), e (ii) 25.000 (vinte e cinco mil) Debêntures da |
+| segunda série (“Série Subordinada” ou “Debêntures Subordinadas”), com |
+| valor nominal unitário de R$1.000,00 (mil reais) (“Valor Nominal      |
+| Unitário”), totalizando o montante de R$ 125.000.000,00 (cento e      |
+| vinte e cinco milhões de reais) (“Debêntures” e “Emissão”,            |
+| respectivamente), de emissão da Vitacon Participações S.A.            |
+| (“Devedora”).                                                         |
+|                                                                       |
+| A Emissão foi realizada com base nas deliberações tomadas em          |
+| Assembleia Geral Extraordinária da Devedora, realizada em 2 de        |
+| fevereiro de 2022, nos termos do Estatuto Social da Devedora e do     |
+| artigo 59 da Lei nº 6.404, de 15 de dezembro de 1976, conforme        |
+| alterada (“Lei das Sociedades por Ações”).                            |
+|                                                                       |
+| As características da Emissão estão descritas no “Instrumento         |
+| Particular de Escritura da Oitava Emissão de Debêntures, não          |
+| Conversíveis em Ações, em Duas Séries, da Espécie com Garantia Real   |
+| com Garantia Adicional Fidejussória, para Colocação Privada, da       |
+| Vitacon Participações S.A.” (“Escritura”), celebrado em 06 de junho   |
+| de 2022, entre a Devedora, a VIRGO COMPANHIA DE SECURITIZAÇÃO, na     |
+| qualidade de debenturista e ALEXANDRE LAFER FRANKEL, na qualidade de  |
+| fiador, com a interveniência e anuência da TANZANITA DESENVOLVIMENTO  |
+| IMOBILIÁRIO LTDA. e da PEDRA NEGRA DESENVOLVIMENTO IMOBILIÁRIO SPE    |
+| LTDA.                                                                 |
+|                                                                       |
+| Termos iniciados por letra maiúscula utilizados neste Boletim de      |
+| Subscrição que não estiverem aqui definidos têm o significado que     |
+| lhes foi atribuído na Escritura.                                      |
+|                                                                       |
+| As Debêntures serão emitidas sob a forma nominativa e escritural, sem |
+| a emissão de cautelas ou certificados representativos das Debêntures. |
+| Para todos os fins de direito, a titularidade das Debêntures será     |
+| comprovada pelo seu registro, em nome da Debenturista, no Livro de    |
+| Registro de Debêntures Nominativas.                                   |
++-----------------------------------------------------------------------+
+| Informações do Subscritor                                             |
+|                                                                       |
+| +----------------------------------+------------------------------+   |
+| | Nome Completo/Denominação        | Virgo Companhia de           |   |
+| | Social:                          | Securitização                |   |
+| +==================================+==============================+   |
+| | CPF/CNPJ:                        | 08.769.451/0001-08           |   |
+| +----------------------------------+------------------------------+   |
+| | Endereço/Cidade/Estado/CEP:      | Rua Tabapuã nº 1.123, Andar  |   |
+| |                                  | 21, conjunto 215, São Paulo, |   |
+| |                                  | SP                           |   |
+| |                                  |                              |   |
+| |                                  | CEP 04506-000                |   |
+| +----------------------------------+------------------------------+   |
+|                                                                       |
+| Debêntures Subscritas                                                 |
+|                                                                       |
+|   ------------------------------------------------------------------  |
+|   Quantidade:           [=] ([=])                                     |
+|   --------------------- --------------------------------------------  |
+|   Preço Total Unitário  R$ [=] ([=])                                  |
+|                                                                       |
+|   Valor Total           R$ [=] ([=])                                  |
+|   ------------------------------------------------------------------  |
++-----------------------------------------------------------------------+
+|                                                                       |
++-----------------------------------------------------------------------+
+
+Forma de Pagamento
+
++--------------------------+-------------------------------------------+
+| Forma de Pagamento       | (X) Transferência Eletrônica Disponível   |
+| (à vista em moeda        | (TED);                                    |
+| corrente nacional):      |                                           |
+|                          | ( ) Documento de Ordem de Crédito (DOC);  |
+|                          | e                                         |
+|                          |                                           |
+|                          | ( ) Débito em conta corrente.             |
+|                          |                                           |
+|                          | Conta Corrente                            |
+|                          |                                           |
+|                          | nº [=]                                    |
+|                          |                                           |
+|                          | Agência nº [=]                            |
+|                          |                                           |
+|                          | Banco Itaú ou                             |
+|                          |                                           |
+|                          | ( ) Débito em conta investimento          |
+|                          |                                           |
+|                          | Conta Investimento                        |
+|                          |                                           |
+|                          | nº ______________________________         |
+|                          |                                           |
+|                          | Agência                                   |
+|                          |                                           |
+|                          | nº                                        |
+|                          | ________________________________________  |
+|                          |                                           |
+|                          | Banco ____________________________        |
++==========================+===========================================+
++--------------------------+-------------------------------------------+
+
++-----------------------------------------------------------------------+
+| Declaro, para todos os fins, que:                                     |
+|                                                                       |
+| 1.  estou de acordo com as condições expressas no presente Boletim de |
+|       Subscrição, bem como declaro estar de acordo com os termos e    |
+|       condições da Escritura;                                         |
+|                                                                       |
+| 2.  a integralização das Debêntures será realizada à vista, no ato de |
+|       subscrição, em moeda corrente nacional, da data de emissão das  |
+|       Debêntures conforme indicada na Escritura.                      |
+|                                                                       |
+| 3.  este Boletim de Subscrição é celebrado em caráter irrevogável e   |
+|       irretratável, obrigando as partes por si e por seus sucessores  |
+|       a qualquer título;                                              |
+|                                                                       |
+| 4.  estou de acordo com as condições expressas no presente Boletim de |
+|       Subscrição; tenho conhecimento e experiência em finanças e      |
+|       negócios suficientes para avaliar os riscos e o conteúdo da     |
+|       Emissão e sou capaz de assumir tais riscos;                     |
+|                                                                       |
+| 5.  sou capaz de suportar os riscos econômicos e eventual perda de    |
+|       todo ou parte de meu investimento nas Debêntures;               |
+|                                                                       |
+| 6.  de acordo com meus atos societários, regulamentos e com a         |
+|       regulamentação aplicável, a aquisição das Debêntures é válida e |
+|       legal e não infringe qualquer lei, regulamento ou política de   |
+|       regulação aplicável;                                            |
+|                                                                       |
+| 7.  tenho ciência que a Emissão ser dará mediante colocação privada   |
+|       e, portanto, não será registrada na Comissão de Valores         |
+|       Mobiliários, em quaisquer outros órgãos reguladores ou na       |
+|       Associação Brasileira das Entidades dos Mercados Financeiros e  |
+|       de Capitais – ANBIMA;                                           |
+|                                                                       |
+| 8.  tenho ciência que as Debêntures não serão (i) depositadas para    |
+|       distribuição pública no mercado primário na B3 S.A. – Brasil,   |
+|       Bolsa e Balcão – Segmento CETIP UTVM (“B3”); ou (ii) admitidas  |
+|       para negociação junto a B3;                                     |
+|                                                                       |
+| 9.  a aquisição das Debêntures e a celebração e entrega deste Boletim |
+|       de Subscrição foram devidamente autorizadas por meus            |
+|       representantes legais; e                                        |
+|                                                                       |
+| 10. reconheço que a Devedora confiará na veracidade e precisão dos    |
+|       compromissos, afirmações, declarações e acordos anteriormente   |
+|       citados e, sendo assim, desde já comprometo-me a imediatamente  |
+|       notificar a Devedora e a quem mais interessar caso qualquer     |
+|       desses compromissos, afirmações, declarações e acordos          |
+|       tornem-se falsos ou imprecisos.                                 |
+|                                                                       |
+| Fica eleito o foro da Comarca da Cidade de São Paulo, Estado de São   |
+| Paulo, com exclusão de qualquer outro, por mais privilegiado que      |
+| seja, para dirimir as questões porventura oriundas deste Boletim de   |
+| Subscrição.                                                           |
+|                                                                       |
+| São Paulo, [=] de [=] de [=].                                         |
+|                                                                       |
+| ________________________________________                              |
+|                                                                       |
+| VIRGO COMPANHIA DE SECURITIZAÇÃO                                      |
+|                                                                       |
+| +-------------------------------+---------------------------------+   |
+| | Nome: [=]                     | Nome: [=]                       |   |
+| |                               |                                 |   |
+| | Cargo: [=]                    | Cargo: [=]                      |   |
+| |                               |                                 |   |
+| | CPF/ME: [=]                   | CPF/ME: [=]                     |   |
+| |                               |                                 |   |
+| | E-mail: [=]                   | E-mail: [=]                     |   |
+| +===============================+=================================+   |
+| +-------------------------------+---------------------------------+   |
++-----------------------------------------------------------------------+
+
+RECIBO
+
++-------------------+--------------------------------------------------+
+| Recebemos do      | ________________________________                 |
+| subscritor a      |                                                  |
+| importância de R$ | VITACON PARTICIPAÇÕES S.A.                       |
+|                   |                                                  |
+|                   | +-------------------------------+------------+   |
+|                   | | Nome: [=]                     | Nome: [=]  |   |
+|                   | |                               |            |   |
+|                   | | Cargo: [=]                    | Cargo: [=] |   |
+|                   | |                               |            |   |
+|                   | | CPF: [=]                      | CPF: [=]   |   |
+|                   | |                               |            |   |
+|                   | | E-mail: [=]                   | E-mail:    |   |
+|                   | |                               | [=]        |   |
+|                   | +-------------------------------+------------+   |
++-------------------+--------------------------------------------------+
+
+TESTEMUNHAS:
+
++------------------------------------+---------------------------------+
+| _____________________________      | __________________________      |
++====================================+=================================+
+| Nome: [=]                          | Nome: [=]                       |
+| CPF/ME: [=]                        | CPF/ME: [=]                     |
+|                                    |                                 |
+| E-mail: [=]                        | E-mail: [=]                     |
++------------------------------------+---------------------------------+
+
+ANEXO VI
+
+VALOR DAS DESPESAS DA EMISSÃO
+
+[Nota MMSO: A ser incluído oportunamente.]
+
+ANEXO VII
+
+RELATÓRIO DE OBRAS
+
+[SEGUE NA PRÓXIMA PÁGINA]

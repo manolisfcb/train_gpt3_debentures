@@ -1,0 +1,759 @@
+[]
+
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE ESCRITURAÇÃO
+
+Pelo presente Contrato de Escrituração de Nota Comercial, as Partes
+(doravante denominadas simplesmente “Partes” ou, isoladamente, “Parte”):
+
+  ----------------------------------- --------------- -------------------- -----------
+  AGENTE ESCRITURADOR                                 CNPJ                 
+
+  OLIVEIRA TRUST DTVM S.A. (“Oliveira                 36.113.876/0001-91   
+  Trust”)                                                                  
+
+  ENDEREÇO                            CIDADE          ESTADO               CEP
+
+  Avenida das Américas, nº 3434,      Rio de Janeiro  RJ                   22640-102
+  Bloco 07, Sala 201                                                       
+  ----------------------------------- --------------- -------------------- -----------
+
+  ----------------------------------- --------------- -------------------- ------------
+  EMISSORA                                            CNPJ                 
+
+  CREDLAR EMPREENDIMENTOS                             07.095.113/0001-67   
+  IMOBILIÁRIOS LTDA                                                        
+
+  ENDEREÇO                            CIDADE          ESTADO               CEP
+
+  Rua Rio de Janeiro, nº 33,          Praia Grande    SP                   11.700-200
+  Boqueirão, Praia Grande/SP, CEP nº                                       
+  11.700-050                                                               
+  ----------------------------------- --------------- -------------------- ------------
+
+e
+
+  ----------------------------------- --------------- -------------------- -----------
+  INTERVENIENTE ANUENTE                               CNPJ                 
+
+  COMPANHIA PROVÍNCIA DE                              04.200.649/0001-07   
+  SECURITIZAÇÃO                                                            
+
+  ENDEREÇO                            CIDADE          ESTADO               CEP
+
+  Avenida Engenheiro Luiz Carlos      São Paulo       SP                   04571-925
+  Berrini, 550, 4º andar, Cidade                                           
+  Monções                                                                  
+  ----------------------------------- --------------- -------------------- -----------
+
+CONSIDERANDO QUE:
+
+I. A Oliveira Trust está autorizada pela Comissão de Valores Mobiliários
+(“CVM”) a prestar serviços de escrituração de valores mobiliários;
+
+II. A Emissora tem interesse em contratar a Oliveira Trust para prestar
+esses serviços de escrituração de valores mobiliários, podendo, para
+tanto, praticar todos os atos previstos na legislação vigente para os
+fins previstos neste Contrato, conforme disposto na Resolução da CVM nº
+33 (“Resolução CVM 33”), de 19 de maio de 2021.
+
+III. As Partes acima nomeadas e qualificadas têm entre si certo e
+ajustado o presente Contrato de Prestação de Serviços de Escrituração
+(“Contrato”), nos termos das cláusulas e condições seguintes:
+
+CLÁUSULA 1ª
+
+DO OBJETO
+
+1.1. A Oliveira Trust prestará à Emissora, de forma exclusiva, serviços
+de escrituração dos valores mobiliários da 1ª Emissão, Série Única,
+conforme “Instrumento Particular da 1ª (Primeira) Emissão de Nota
+Comercial, em Série Única, para Colocação Privada, com Garantia Real e
+Fidejussória, da Credlar Empreendimentos Imobiliários Ltda” (“Escritura
+de Emissão”), nos termos da Resolução CVM 33, incluindo o controle da
+titularidade dos valores mobiliários em nome dos respectivos
+investidores, registrados em contas de depósito mantidas junto à
+Oliveira Trust, na qualidade de Escriturador, ou nos depositários
+centrais (“Depositário Central”), constituídos e organizados nos termos
+da legislação aplicável, hipótese em que deverá ser observado ainda o
+disposto nos manuais operacionais e normas da respectiva instituição.
+
+1.2. Nos termos do Inciso I do Artigo 11 da Resolução CVM 33, somente a
+Oliveira Trust poderá praticar os atos de escrituração dos valores
+mobiliários.
+
+1.3. A Oliveira Trust deverá efetuar a escrituração dos valores
+mobiliários, observado o constante nos documentos e informações
+recebidos, seja do Depositário Central ou da Emissora, sempre de acordo
+com a legislação, normas e procedimentos aplicáveis.
+
+CLÁUSULA 2ª
+
+DISCRIMINAÇÃO DOS SERVIÇOS DE ESCRITURAÇÃO
+
+2.1. IMPLANTAÇÃO DOS DADOS
+
+2.1.1. Na distribuição primária, a Oliveira Trust implantará em seu
+sistema de escrituração, com a finalidade de formar o banco de dados dos
+titulares da totalidade dos valores mobiliários, os dados da Emissão,
+contendo:
+
+-   Identificação dos titulares dos valores mobiliários
+    (“investidores”);
+
+-   Descrição dos valores mobiliários, inclusive a quantidade e espécie;
+
+-   Valores correspondentes a eventos em espécie já distribuídos pelos
+    investidores; e
+
+-   Registro de qualquer ônus que recaia sobre os valores mobiliários,
+    inclusive usufruto, penhor e alienação fiduciária em garantia.
+
+2.1.2. A Emissora se obriga a prestar todas as informações necessárias
+para a identificação do previsto no item 2.1.1. acima, encaminhando por
+escrito à Oliveira Trust os referidos dados, por e-mail ou via física,
+bem como a Escritura de Emissão, Boletim de Subscrição e Ficha Cadastral
+dos investidores escriturais, conforme aplicável.
+
+2.1.3. Adicionalmente ao previsto acima, quando ocorrer negociação junto
+ao Depositário Central, as informações necessárias para a identificação,
+na forma do item 2.1.1, serão disponibilizadas pelo Depositário Central,
+devendo o banco de dados dos valores mobiliários, previsto no item 2.1.1
+supra, ser atualizado de acordo com as referidas informações.
+
+2.2. INFORMAÇÃO AOS INVESTIDORES
+
+2.2.1. A Oliveira Trust será responsável pelo recebimento e acatamento
+das instruções de movimentação dos valores mobiliários, bem como pela
+prestação de informações sobre os mesmos, desde que as instruções e
+comunicações sejam enviadas pelos investidores, devidamente
+identificados, ou por pessoas legitimadas por contrato ou mandato, com
+poderes específicos.
+
+2.3. REGISTRO EM CONTAS DE DEPÓSITO
+
+2.3.1. A Oliveira Trust irá escriturar nas contas de depósito relativas
+à titularidade dos valores mobiliários, as informações recebidas sobre
+os mesmos, seja da Emissora, Depositária Central ou dos investidores dos
+valores mobiliários conforme o caso, incluindo, sem limitação, os
+registros de atualização de dados cadastrais, transferências e gravames,
+desde que cumpridas as exigências legais e da documentação pertinente à
+cada processo.
+
+2.4. DELIBERAÇÕES DE EVENTOS
+
+2.4.1. A Oliveira Trust dará cumprimento às deliberações da Emissora que
+sejam de sua competência, assim como procederá com o registro: (i) de
+emissão dos valores mobiliários, (ii) dos direitos gerados, (iii) de
+outras alterações nas contas de depósito em nome dos investidores
+decorrente de atos de responsabilidade da Emissora, bem como, outros
+eventos que possam ser deliberados, devendo serem observados os itens
+2.4.2 e 2.4.3.
+
+2.4.2. A Emissora deverá cientificar a Oliveira Trust (por e-mail), no
+mesmo dia em que for realizada assembleia, reunião ou qualquer outro
+evento que venha a impactar os valores mobiliários, de forma que a
+Oliveira Trust tenha tempo hábil para tomar as providências cabíveis ao
+seu cumprimento.
+
+2.4.3. Os eventos deliberados deverão estar em conformidade com a
+legislação vigente à época em que ocorrerem.
+
+2.4.4. O não cumprimento, por parte da Emissora, das obrigações
+previstas nos itens 2.4.2. e 2.4.3., desobrigará a Oliveira Trust de
+eventuais responsabilidades com os valores mobiliários, imputadas pelo
+não cumprimento das deliberações previamente acordadas.
+
+CLÁUSULA 3ª
+
+DAS PESSOAS AUTORIZADAS, PESSOAS DE CONTATO E DA TRANSMISSÃO DE
+INFORMAÇÕES.
+
+3.1. A Oliveira Trust somente prestará informações e acatará ordens da
+Emissora, desde que sejam respeitadas as regras e procedimentos
+definidos neste Contrato e que não haja contravenções a regulamentação e
+aos normativos aplicáveis.
+
+3.2. As solicitações da Emissora deverão ser enviadas por meio
+eletrônico (via internet, e-mail ou fac-símile) pelos representantes
+legais ou Pessoas Autorizadas, dispostas no Anexo II deste Contrato.
+
+3.3. A Emissora obriga-se a comunicar à Oliveira Trust todas as
+alterações, inclusões ou exclusões de quaisquer Pessoas Autorizadas ou
+dos demais dados informados, promovendo o ajuste do Anexo II.
+
+3.4. A Oliveira Trust não acatará as instruções recebidas de forma
+incompleta e com ambiguidade, devendo então, na mesma data em que
+receber tais instruções, solicitar por escrito (por correspondência ou
+por meio eletrônico) esclarecimentos adicionais da Emissora e/ou
+daqueles que forneceram as instruções. A Oliveira Trust somente acatará
+as ordens recebidas após o completo esclarecimento das dúvidas.
+
+3.5. A Oliveira Trust cumprirá as instruções que acreditar terem sido
+dadas com boa-fé pelos representantes legais ou Pessoas Autorizadas da
+Emissora, sem que isso implique na assunção de responsabilidade por
+parte da Oliveira Trust por tais instruções e seus efeitos e desde que
+sejam implementadas exatamente na forma instruída pela Emissora.
+
+3.6. A Oliveira Trust poderá se pautar em quaisquer avisos, instruções
+ou solicitações por escrito que lhe sejam enviadas pela Emissora nos
+termos do presente Contrato, não sendo responsável pelos atos ou
+omissões amparadas em tais documentos, salvo em caso de descumprimento
+de suas próprias obrigações.
+
+CLÁUSULA 4ª
+
+DAS RESPONSABILIDADES E OBRIGAÇÕES DA OLIVEIRA TRUST
+
+4.1. A Oliveira Trust obriga-se a prestar todos os serviços objeto deste
+Contrato, observando a regulamentação e legislação aplicável.
+
+4.2. A Oliveira Trust não assumirá a responsabilidade pelo conteúdo,
+exatidão, veracidade ou legitimidade dos valores mobiliários emitidos
+pela Emissora, objeto da prestação dos serviços ora contratados, bem
+como por qualquer outro prejuízo causado aos investidores e a terceiros
+nestas hipóteses.
+
+4.3. Fica certa e definida para ambas as Partes que celebram este
+Contrato a inexistência de qualquer responsabilidade ou garantia por
+parte da Oliveira Trust pelo pagamento aos investidores de qualquer
+evento objeto deste Contrato, cabendo a ela apenas e tão somente a
+responsabilidade pela execução dos atos e procedimentos previstos neste
+documento, em conformidade com as ordens dadas pela Emissora e com a
+legislação vigente, incluindo:
+
+I. remeter ou disponibilizar a Emissora, mensalmente, o extrato de
+posição dos investidores até o 5º dia útil do mês;
+
+II. utilizar um sistema que efetue o registro e a manutenção do cadastro
+dos investidores dos valores mobiliários, com base em informações
+fornecidas pela Emissora;
+
+III. conciliar as posições provenientes das movimentações financeiras
+dos investidores com a conta corrente, mediante a identificação da
+Emissora; e
+
+IV. averbar os gravames incidentes sobre os valores mobiliários.
+
+CLÁUSULA 5ª
+
+DAS OBRIGAÇÕES E RESPONSABILIDADES DA EMISSORA
+
+5.1. A Emissora é a única responsável pela emissão dos valores
+mobiliários objeto deste Contrato e a única titular dos direitos e
+obrigações decorrentes de tal condição, portanto, a Emissora e seus atos
+devem estar enquadrados e em conformidade com toda a legislação e
+regulamentação pertinente.
+
+5.2. A Emissora deverá informar a Oliveira Trust, no dia em que houver,
+qualquer integralização realizada pelos investidores.
+
+5.3. Caso seja deliberado pela Emissora o pagamento de proventos, bem
+como eventual alteração, resgate ou amortização dos valores mobiliários,
+a Oliveira Trust deverá ser comunicada na mesma data da deliberação.
+
+5.4. Constatada eventual irregularidade de escrituração ou de execução
+das instruções dadas pela Emissora, a Oliveira Trust deverá corrigi-la
+no prazo de até 3 (três) dias úteis, a contar do envio da notificação
+pela Emissora.
+
+CLÁUSULA 6ª
+
+DA REMUNERAÇÃO
+
+6.1. Pelos serviços ora contratados, a Emissora pagará a Oliveira Trust
+a importância constante no Anexo I, observando as considerações ali
+previstas.
+
+CLÁUSULA 7ª
+
+DO PRAZO DE VIGÊNCIA E DA RESCISÃO
+
+7.1. O presente Contrato entrará em vigor a partir da data de sua
+assinatura e irá vigorar por até 1 (um) mês após o vencimento dos
+valores mobiliários ou, a depender do caso, até 1 (um) mês após o
+resgate integral dos valores mobiliários.
+
+7.2. Este Contrato pode ser resilido a qualquer momento, por qualquer
+uma das Partes, sem direito a compensações ou indenizações, mediante
+notificação da Parte interessada para a outra Parte, por escrito, com no
+mínimo 30 (trinta) dias de antecedência, contados do recebimento do
+comunicado pela outra Parte, período em que as Partes deverão cumprir
+regularmente com as obrigações ora assumidas.
+
+7.3. Além das situações previstas neste Contrato e na legislação, este
+Contrato será rescindido de imediato, nas seguintes hipóteses:
+
+I. na superveniência de qualquer normativo ou instrução das autoridades
+competentes, notadamente do BACEN, que impeça a contratação objeto deste
+Contrato;
+
+II. se qualquer das Partes tiver sua falência, intervenção, recuperação
+judicial, extrajudicial ou liquidação decretada;
+
+III. se for constatada a ocorrência de práticas irregulares por qualquer
+uma das Partes; e
+
+IV. se qualquer das Partes tiver cassada sua autorização para execução
+dos serviços ora contratados.
+
+7.4. Na hipótese de inadimplemento por parte da Emissora, da remuneração
+devida à Oliveira Trust, nos termos do Anexo I deste Contrato e se não
+sanada em até 5 (cinco) dias úteis, o presente Contrato será rescindo de
+pleno direito, sem prejuízo às penalidades previstas no item 10.1.
+
+CLÁUSULA 8ª
+
+DA CONFIDENCIALIDADE
+
+8.1. As Partes, por si, seus empregados e prepostos, sob as penas da
+lei, manterão, inclusive após a rescisão deste Contrato, o mais completo
+e absoluto sigilo sobre quaisquer dados, materiais, documentos,
+especificações técnicas e comerciais de produtos e de informações das
+demais Partes, ou de terceiros, de que venham a ter conhecimento, acesso
+ou que lhes venham a ser confiadas, sejam relacionadas ou não com a
+prestação/execução dos serviços objeto deste Contrato. A inobservância
+do disposto nesta cláusula acarretará em sanções legais respondendo a
+infratora e quem mais tiver dado causa à violação, no âmbito civil e
+criminal, salvo quando a divulgação for imposta por lei, por ordem
+judicial, por autoridade fiscalizadora ou ainda se fizer necessário para
+a elaboração de algum relatório ou processo diretamente relativo ao
+escopo dos serviços prestados.
+
+8.2. Excluem-se deste Contrato as informações: (i) de domínio público e,
+(ii) que já eram do conhecimento da Parte receptora anteriormente à
+celebração do presente Contrato.
+
+8.3. As obrigações de confidencialidade previstas nesta Cláusula 9ª
+permanecerão válidas pelo prazo de 1 (um) ano a contar da rescisão do
+presente Contrato.
+
+CLÁUSULA 9ª
+
+DAS PENALIDADES
+
+9.1. O inadimplemento, por parte da Emissora, de quaisquer das
+obrigações de pagamento previstas neste Contrato, caracterizará, de
+pleno direito, independentemente de qualquer aviso ou notificação, a
+mora da mesma, sujeitando-a ao pagamento dos seguintes encargos pelo
+atraso: (i) juros de mora de 12% (doze por cento) ao ano, calculados pro
+rata temporis desde a data em que o pagamento era devido até o seu
+integral recebimento pela Parte credora; (ii) multa convencional, não
+compensatória, de 2% (dois  por cento), calculada sobre o respectivo
+valor devido.
+
+9.2. O descumprimento de qualquer condição prevista neste Contrato, por
+qualquer uma das Partes, que não se enquadre no Item 10.1 acima e, desde
+que devidamente comprovado, obrigará a Parte inadimplente a responder
+por eventuais perdas e/ou danos resultantes de dolo, fraude e/ou culpa,
+responsabilizando-a pelas multas, atualizações monetárias e juros daí
+decorrentes, apurados na forma prevista da legislação em vigor.
+
+9.3. Não serão penalizáveis quaisquer atrasos que decorram de falhas de
+sistema e/ou de comunicação entre as Partes, as quais, não obstante,
+deverão diligenciar para a imediata correção de tais falhas.
+
+CLÁUSULA 10
+
+DAS DISPOSIÇÕES GERAIS E DAS DECLARAÇÕES
+
+10.1. A omissão ou tolerância das Partes, em exigir o estrito
+cumprimento dos termos e condições deste Contrato, não constituirá
+novação ou renúncia, nem afetará os seus direitos que poderão ser
+exercidos a qualquer momento.
+
+10.2. Todas as correspondências de via física enviadas pelas Partes
+deverão ser encaminhadas para os endereços indicados no preâmbulo deste
+Contrato.
+
+10.3. Eventuais inclusões, exclusões ou alterações das cláusulas
+existentes neste Contrato, após a assinatura do mesmo, serão consignadas
+em um Aditamento de Contrato, que deverá ser assinado por ambas as
+Partes e passará a ser parte integrante deste Contrato.
+
+10.4. Nenhuma Parte poderá ceder, transferir para terceiros, total ou
+parcialmente, os direitos e obrigações decorrentes deste Contrato, sem o
+prévio e expresso consentimento, por escrito, da outra Parte.
+
+10.5. As Partes são consideradas independentes e nada do presente
+Contrato criará qualquer outro vínculo entre elas, seja pelo aspecto
+empregatício ou quaisquer outros aspectos, tais como agente comercial,
+sociedade subsidiária, representação legal ou associação de negócios.
+
+10.6. Ambas as Partes deverão adotar os procedimentos descritos na
+legislação sobre prevenção e combate ao crime de lavagem de dinheiro,
+observando os dispostos na Lei nº 9.613/98. A Oliveira Trust, por sua
+vez, compromete-se também a adotar os procedimentos descritos na
+Resolução nº 4.753/19 do Conselho Monetário Nacional, na Circular nº
+3.978/2020 do Banco Central do Brasil e na Resolução nº 301/2021 da
+Comissão de Valores Mobiliários. Dessa forma, as Partes afirmam e
+declaram que adotam os procedimentos de prevenção relacionados à
+captação de clientes, incluindo a verificação da sua capacidade
+financeira e patrimonial, o monitoramento das transações realizadas e a
+manutenção da documentação cadastral atualizada, se responsabilizando
+ainda por quaisquer atos de seus clientes que tenham sido realizados em
+virtude do descumprimento pelo Emissor das normas sobre prevenção e
+combate ao crime de lavagem de dinheiro, sejam eles interpretados pelas
+autoridades competentes como infração do Emissor à legislação
+supracitada.
+
+10.7. Os tributos que forem devidos em decorrência direta ou indireta do
+presente Contrato, ou de sua execução, constituem ônus de
+responsabilidade do contribuinte, conforme definido na legislação
+tributária.
+
+10.8. A Emissora reconhece, neste ato, que o serviço ora contratado está
+sujeito a leis, normas, costumes, procedimentos e práticas que podem vir
+a ser alterados. Na hipótese de ocorrer uma alteração na legislação que,
+no todo ou em parte, limite a prestação do serviço ora contratado, a
+Oliveira Trust deverá solicitar à Emissora novas instruções quanto aos
+procedimentos a serem tomados para o cumprimento das obrigações
+contraídas por meio deste Contrato, que sejam de comum acordo entre as
+Partes.
+
+10.9. A Oliveira Trust em hipótese alguma será responsabilizada por
+quaisquer atos e atividades descritos no presente Contrato que tenham
+sido praticadas por terceiros anteriormente contratados pela Emissora.
+
+10.10. Caso a Oliveira Trust seja contratada para substituir outro
+prestador de serviços, a Emissora deverá enviar até a data de corte
+todos os documentos devidamente regularizados, os quais serão
+necessários para a devida implantação dos valores mobiliários.
+
+10.11. Com exceção das obrigações imputadas a cada uma das Partes neste
+Contrato e do disposto no Código Civil Brasileiro em vigor, a Parte
+deverá ser mantida indene de qualquer outra responsabilidade decorrente
+de atos ou fatos praticados pela outra Parte, por seus administradores,
+representantes e empregados, a não ser no caso de culpa manifesta
+relacionada às responsabilidades da Parte previstas neste Contrato, seu
+dolo ou má-fé devidamente comprovados.
+
+10.12. Este Contrato obriga as Partes e seus sucessores a qualquer
+título.
+
+10.13. Exceto para os fins exigidos pela regulamentação da CVM no que se
+refere à divulgação de informações necessárias para implementação da
+distribuição dos valores mobiliários, fica expressamente vedado às
+Partes a utilização dos termos deste Contrato em divulgação ou
+publicidade, bem como, o uso do nome, marca e logomarca uma da
+outra,  para qualquer finalidade e em qualquer meio de
+comunicação,  quer seja na mídia impressa, escrita, falada ou
+eletrônica, incluindo-se, porém, sem se limitar, a publicação
+em portfólio de produtos e serviços, links, etc. A sua infração poderá
+ensejar a rescisão automática do presente Contrato, além de sujeitar a
+Parte infratora ao pagamento das perdas e danos que forem apurados.
+
+10.14. Assume a Emissora, de maneira irrevogável e irretratável, total e
+integral responsabilidade por quaisquer danos diretos que venham a ser
+sofridos pela Oliveira Trust em razão da prestação do serviço ora
+avençado, que decorram de culpa ou dolo do Emissor, seus empregados e
+prepostos.
+
+10.15. As Partes declaram, conjunta e expressamente, que o presente
+Contrato foi celebrado respeitando-se os princípios da probidade e da
+boa-fé, por livre, consciente e firme manifestação de vontade, em
+perfeita relação de equidade.
+
+10.16. Se em decorrência de qualquer decisão judicial irrecorrível,
+qualquer disposição ou termo deste Contrato for declarada nula ou
+anulada, tal nulidade ou anulabilidade não prejudicará a vigência das
+demais Cláusulas deste Contrato que não foram atingidas pela declaração
+de nulidade ou pela anulação.
+
+10.17. Durante o prazo de aviso prévio da denúncia contratual, as Partes
+continuarão a cumprir suas respectivas obrigações, facultando a
+Emissora, se for a Parte denunciante, dispensar a Oliveira Trust do
+cumprimento de qualquer obrigação.
+
+10.18. Ocorrendo a extinção do presente Contrato, por qualquer motivo ou
+hipótese, a Oliveira Trust compromete-se a garantir a transmissão,
+especialmente por via eletrônica, à Emissora e/ou pessoas por ela
+indicadas, de todas as informações relativas aos investidores que
+estejam em sua base de dados por conta do objeto deste Contrato, até a
+data da resilição do mesmo, sem qualquer custo adicional a Emissora.
+
+CLÁUSULA 11
+
+DOS DOCUMENTOS INTEGRANTES
+
+11.1. O Anexo I, Anexo II e Anexo III, devidamente rubricados pelas
+Partes, integram este Contrato para todos os fins e efeitos de direito,
+como se nele estivessem transcritos.
+
+CLÁUSULA 12
+
+DO FORO
+
+12.1. Fica eleito pelas Partes o Foro da Cidade do Rio de Janeiro,
+Estado do Rio de Janeiro, para dirimir quaisquer dúvidas ou questões
+decorrentes deste Contrato.
+
+CLÁUSULA 13
+
+DA ASSINATURA
+
+13.1. As Partes, além de renunciarem ao direito de impugnação de que
+trata o Artigo 225 do Código Civil, reconhecem que as declarações de
+vontade da Parte contratante, mediante assinatura digital dos
+signatários, presumem-se verdadeiras quando é utilizado: (i) o processo
+de certificação disponibilizado pela Infraestrutura de Chaves Públicas
+Brasileira - ICP-Brasil ou (ii) outro meio de comprovação da autoria e
+integridade do documento em forma eletrônica, desde que admitido como
+válido pelas Partes ou aceito pela pessoa a quem for oposto o documento,
+conforme admitido pelo Artigo 10 e seus parágrafos da Medida Provisória
+nº 2.200, de 24 agosto de 2001, em vigor no Brasil, que reconhece essa
+forma de contratação por meio eletrônico, digital e informático como
+válida e plenamente eficaz, constituindo título executivo extrajudicial
+para todos os fins de direito. Portanto, na forma acima prevista, o
+presente Contrato de Prestação de Serviços de Escrituração, pode ser
+assinado digitalmente por meio eletrônico conforme disposto nesta
+cláusula.
+
+13.1.1. As Partes reconhecem e concordam que, independentemente da data
+de conclusão das assinaturas eletrônicas, os efeitos do presente
+instrumento retroagem à data abaixo descrita.
+
+E por estarem de acordo, assinam o presente Contrato juntamente com as 2
+(duas) testemunhas abaixo.
+
+SÃO PAULO, 28 DE ABRIL DE 2022.
+
+SIGNATÁRIOS:
+
+________________________________________________________________
+
+OLIVEIRA TRUST DTVM S.A.
+
+  -----------------------------------------------------------------------
+  Nome: Nilson Raposo Leite           Nome: Bianca Galdino Batistela
+  ----------------------------------- -----------------------------------
+  Cargo: Procurador                   Cargo: Procuradora
+
+  CPF: 011.155.984-73                 CPF: 090.766.477-63
+  -----------------------------------------------------------------------
+
+________________________________________________________________
+
+CREDLAR EMPREENDIMENTOS IMOBILIÁRIOS LTDA
+
+  -----------------------------------------------------------------------
+  Nome: Sérgio Fernandes Leal
+  -----------------------------------------------------------------------
+  Cargo: Sócio Administrador
+
+  CPF nº: 104.304.888-07
+  -----------------------------------------------------------------------
+
+TESTEMUNHAS:
+
+1.............................................
+2............................................
+
+NOME: Bárbara Fender Faustinoni NOME: Priscila da Rocha Ferreira
+
+RG: 34.695.878-7 SSP/SP RG: 41.905.309-8 SSP/SP
+
+CPF/MF: 365.125.158-62 CPF/MF: 327.350.158-82
+
+ANEXO I – REMUNERAÇÃO
+
+________________________________________________________________
+
+1. Prestação de Serviços de Escrituração dos Valores Mobiliários
+
+Pela prestação dos serviços de escrituração dos valores mobiliários,
+será cobrado da Interveniente Anuente, as expensas da Emissora, parcelas
+anuais de R$ 9.000,00 (nove mil reais), por série, sendo a primeira em
+até 5 dias úteis após a assinatura do presente Contrato e as demais até
+o efetivo encerramento da operação.
+
+2. Custos Adicionais
+
+A remuneração não inclui os custos adicionais abaixo, portanto:
+
+I. será cobrado o custo individual equivalente a R$ 0,50 acrescidos dos
+custos do correio para o envio dos extratos e informes periódicos;
+
+II. será cobrado o custo unitário de R$ 5,00 para cadastro dos titulares
+escriturais dos valores mobiliários no sistema de escrituração da
+Oliveira Trust;
+
+III. todos os outros custos que a Oliveira Trust venha a incorrer para a
+manutenção da emissão deverão ser reembolsados.
+
+3. Atualização dos Valores de Prestação de Serviços
+
+Os impostos incidentes sobre a remuneração serão acrescidos às parcelas
+anuais mencionadas acima nas datas de pagamento. Além disso, todos os
+valores citados acima serão atualizados pela variação positiva do IGPM,
+sempre na menor periodicidade permitida em lei, com base nos últimos 12
+meses anteriores a data de aniversário, a partir da data de assinatura
+do presente Contrato.
+
+4. Impostos
+
+Os impostos incidentes sobre a remuneração serão acrescidos aos valores
+devidos pela Emissora (ISS, PIS, COFINS, CSLL e IRFF).
+
+ANEXO II - RELAÇÃO DE PESSOAS AUTORIZADAS PARA ENVIO DE INSTRUÇÕES
+
+________________________________________________________________
+
+Prezados senhores, vimos pela presente, nomear as seguintes pessoas como
+autorizadas, as quais poderão, em conjunto ou isoladamente, assinar e
+enviar instruções relativas ao referido Contrato, observados todos os
+seus termos e condições:
+
++------+--------------------------------------------+------------------+
+| PE   |                                            |                  |
+| SSOA |                                            |                  |
+| AU   |                                            |                  |
+| TORI |                                            |                  |
+| ZADA |                                            |                  |
+| 1    |                                            |                  |
++======+============================================+==================+
+| NOME | Companhia Província de Securitização       | (x) ISOLADAMENTE |
+|      |                                            |                  |
+|      |                                            | ( ) EM CONJUNTO  |
+|      |                                            |                  |
+|      |                                            | ( ) E-MAIL       |
++------+--------------------------------------------+------------------+
+| CNPJ | 04.200.649/0001-07                         |                  |
++------+--------------------------------------------+------------------+
+| E-   | e                                          |                  |
+| MAIL | struturadas@provinciasecuritizadora.com.br |                  |
++------+--------------------------------------------+------------------+
+| TEL  | 11 5504-1980                               |                  |
++------+--------------------------------------------+------------------+
+
++-------+-------------------------------------------+------------------+
+| P     |                                           |                  |
+| ESSOA |                                           |                  |
+| AUTOR |                                           |                  |
+| IZADA |                                           |                  |
+| 2     |                                           |                  |
++=======+===========================================+==================+
+| NOME  |                                           | ( ) ISOLADAMENTE |
+|       |                                           |                  |
+|       |                                           | ( ) EM CONJUNTO  |
+|       |                                           |                  |
+|       |                                           | ( ) E-MAIL       |
++-------+-------------------------------------------+------------------+
+| CPF   |                                           |                  |
++-------+-------------------------------------------+------------------+
+| E     |                                           |                  |
+| -MAIL |                                           |                  |
++-------+-------------------------------------------+------------------+
+| TEL   |                                           |                  |
++-------+-------------------------------------------+------------------+
+
++-------+-------------------------------------------+------------------+
+| P     |                                           |                  |
+| ESSOA |                                           |                  |
+| AUTOR |                                           |                  |
+| IZADA |                                           |                  |
+| 3     |                                           |                  |
++=======+===========================================+==================+
+| NOME  |                                           | ( ) ISOLADAMENTE |
+|       |                                           |                  |
+|       |                                           | ( ) EM CONJUNTO  |
+|       |                                           |                  |
+|       |                                           | ( ) E-MAIL       |
++-------+-------------------------------------------+------------------+
+| CPF   |                                           |                  |
++-------+-------------------------------------------+------------------+
+| E     |                                           |                  |
+| -MAIL |                                           |                  |
++-------+-------------------------------------------+------------------+
+| TEL   |                                           |                  |
++-------+-------------------------------------------+------------------+
+
++-------+-------------------------------------------+------------------+
+| P     |                                           |                  |
+| ESSOA |                                           |                  |
+| AUTOR |                                           |                  |
+| IZADA |                                           |                  |
+| 4     |                                           |                  |
++=======+===========================================+==================+
+| NOME  |                                           | ( ) ISOLADAMENTE |
+|       |                                           |                  |
+|       |                                           | ( ) EM CONJUNTO  |
+|       |                                           |                  |
+|       |                                           | ( ) E-MAIL       |
++-------+-------------------------------------------+------------------+
+| CPF   |                                           |                  |
++-------+-------------------------------------------+------------------+
+| E     |                                           |                  |
+| -MAIL |                                           |                  |
++-------+-------------------------------------------+------------------+
+| TEL   |                                           |                  |
++-------+-------------------------------------------+------------------+
+
++------+--------------------------------------------+------------------+
+| PE   |                                            |                  |
+| SSOA |                                            |                  |
+| AU   |                                            |                  |
+| TORI |                                            |                  |
+| ZADA |                                            |                  |
+| 5    |                                            |                  |
++======+============================================+==================+
+| NOME |                                            | ( ) ISOLADAMENTE |
+|      |                                            |                  |
+|      |                                            | ( ) EM CONJUNTO  |
+|      |                                            |                  |
+|      |                                            | ( ) E-MAIL       |
++------+--------------------------------------------+------------------+
+| CPF  |                                            |                  |
++------+--------------------------------------------+------------------+
+| E-   |                                            |                  |
+| MAIL |                                            |                  |
++------+--------------------------------------------+------------------+
+| TEL  |                                            |                  |
++------+--------------------------------------------+------------------+
+
+ANEXO III – AO CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE ESCRITURAÇÃO DE
+VALORES MOBILIÁRIOS
+
+________________________________________________________________
+
+HORÁRIOS DE OPERACIONALIZAÇÃO DAS OPERAÇÕES
+
+Para o cumprimento dos serviços estabelecidos no presente Contrato, o
+Contratante ou investidor, conforme o caso deverá enviar as Instruções a
+Oliveira Trust, obedecendo aos seguintes prazos:
+
+  ------------------------------------------------------------------------
+  ATIVIDADE                          PRAZO     OBSERVAÇÃO
+  ---------------------------------- --------- ---------------------------
+  Ordem de Transferência de Ativos   D-2       
+  (depósito e retirada) e negociação           
+  no escritural                                
+
+  Geração, envelopamento e envio de  D-5       
+  correspondências aos investidores            
+
+  Registro e liberação de gravames   D-5       No caso de gravames
+  sob os valores mobiliários                   decorrentes de decisão
+                                               judicial, o movimento será
+                                               realizado em D-0.
+  ------------------------------------------------------------------------
+
+OBSERVAÇÕES:
+
+I. Para todas as operações o horário limite a ser considerado é 12:00
+horas do dia da respectiva instrução;
+
+II. Para todas as operações deverão ser enviados os documentos
+necessários para a realização dos procedimentos;
+
+III. Os Prazos para efetivação das operações só começarão a contar a
+partir do recebimento e da validação de todos os documentos necessários;
+
+IV. A Oliveira Trust reserva-se ao direito de alterar os horários a
+qualquer momento, mediante contato prévio por escrito, desde que tais
+alterações sejam aceitas pela Emissora e não prejudiquem o funcionamento
+da operação, de acordo com os parâmetros e praxes do mercado;
+
+V. Quaisquer instruções recebidas fora do horário estabelecido no Anexo
+III não deverão ser cumpridas pela Oliveira Trust, entretanto, ficará a
+critério desta Parte, a prática dos seus melhores esforços para realizar
+tais operações, sob a sua responsabilidade integral.
